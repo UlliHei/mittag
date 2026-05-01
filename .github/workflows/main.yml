@@ -1,13 +1,21 @@
-name: Test Blockhouse Parsing
+name: Update Blockhouse JSON
 
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
       - name: Block-House-Seite abrufen
         run: |
           curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
@@ -113,3 +121,11 @@ jobs:
 
           print("blockhouse.json erstellt")
           PY
+
+      - name: Datei committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add blockhouse.json
+          git commit -m "update blockhouse.json" || echo "nichts zu committen"
+          git push
