@@ -1,0 +1,176 @@
+{
+  "source": "dpa Kantine",
+  "week": "04.05.2026 - 08.05.2026",
+  "days": {
+    "Montag": {
+      "Tagessuppe": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Salate": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Hauptgericht": {
+        "name": "Geschmortes Rindfleisch in Sojasauce \"Yunnan\" mit Ingwer, Maiskölbchen und Paprika",
+        "price": "7,50 €"
+      },
+      "2. Hauptgericht": {
+        "name": "Bunte Reispfanne mit Frühlingsgemüse, Mangold und Nüssen",
+        "price": "4,90 €"
+      },
+      "Vegetarisches Hauptgericht": {
+        "name": "Kartoffel-Broccoli-Auflauf mit Haferflocken in Käsecreme",
+        "price": "5,50 €"
+      },
+      "Gemüse": {
+        "name": "Prinzessböhnchen mit Zwiebeln",
+        "price": "1,20 €"
+      },
+      "Beilage": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      },
+      "Dessert": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      }
+    },
+    "Dienstag": {
+      "Tagessuppe": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Salate": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Hauptgericht": {
+        "name": "Spaghetti Bolognese \"mal anders\" mit Oregano, Schmand und Parmesansplittern",
+        "price": "7,50 €"
+      },
+      "2. Hauptgericht": {
+        "name": "Spargel-Kartoffel-Gratin mit Emmentaler Käse",
+        "price": "4,90 €"
+      },
+      "Vegetarisches Hauptgericht": {
+        "name": "Mediterranes Gemüseragout mit Veggie-Bällchen",
+        "price": "5,50 €"
+      },
+      "Gemüse": {
+        "name": "Glacierte Karotten",
+        "price": "1,20 €"
+      },
+      "Beilage": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      },
+      "Dessert": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      }
+    },
+    "Mittwoch": {
+      "Tagessuppe": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Salate": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Hauptgericht": {
+        "name": "Stangenspargel in Rahm mit Schnittlauch und einer Hähnchenfrikadelle",
+        "price": "7,50 €"
+      },
+      "2. Hauptgericht": {
+        "name": "Hausgemachtes Kartoffelpüree mit Süßkartoffeln, Zwiebeln und Kräuterbutter",
+        "price": "4,90 €"
+      },
+      "Vegetarisches Hauptgericht": {
+        "name": "Omelette mit einer Tomaten-Fetakäse-Creme an Coleslaw-Salat",
+        "price": "5,50 €"
+      },
+      "Gemüse": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      },
+      "Beilage": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      },
+      "Dessert": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      }
+    },
+    "Donnerstag": {
+      "Tagessuppe": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Salate": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Hauptgericht": {
+        "name": "Gebackenes Schnitzel mit Camembert, Preiselbeeren und Zitrone",
+        "price": "7,50 €"
+      },
+      "2. Hauptgericht": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Vegetarisches Hauptgericht": {
+        "name": "Auberginenauflauf \"Parmigian di Melanzane\" in Tomatensauce gebacken",
+        "price": "5,50 €"
+      },
+      "Gemüse": {
+        "name": "Mediterranes Grillgemüse",
+        "price": "1,20 €"
+      },
+      "Beilage": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      },
+      "Dessert": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      }
+    },
+    "Freitag": {
+      "Tagessuppe": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Salate": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Hauptgericht": {
+        "name": "Cremiger Matjestopf in Kräuterschmand mit Apfel und Zwiebel, Bratkartoffeln mit Kümmel, Speck und Zwiebeln",
+        "price": "7,50 €"
+      },
+      "2. Hauptgericht": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Vegetarisches Hauptgericht": {
+        "name": "Tagesangebot",
+        "price": ""
+      },
+      "Gemüse": {
+        "name": "Mediterranes Grillgemüse",
+        "price": "1,20 €"
+      },
+      "Beilage": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      },
+      "Dessert": {
+        "name": "Tagesangebot",
+        "price": "1,20 €"
+      }
+    }
+  }
+}
