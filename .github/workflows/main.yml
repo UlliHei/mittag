@@ -12,7 +12,7 @@ jobs:
         run: |
           curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
 
-      - name: Tagesgerichte strukturieren
+      - name: Tagesgerichte + Wochen-Highlights
         run: |
           python3 - <<'PY'
           from html.parser import HTMLParser
@@ -59,17 +59,20 @@ jobs:
           weekday_pattern = re.compile(r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag)\s*\|\s*(\d{2}\.\d{2}\.\d{4})$")
 
           items = []
+          i = 0
 
-          for i, line in enumerate(lunch_lines):
+          while i < len(lunch_lines):
+              line = lunch_lines[i]
+
+              # Tagesgerichte
               match = weekday_pattern.match(line)
-
               if match:
                   weekday = match.group(1)
                   date = match.group(2)
 
-                  name = lunch_lines[i + 1] if i + 1 < len(lunch_lines) else ""
-                  description = lunch_lines[i + 2] if i + 2 < len(lunch_lines) else ""
-                  price = lunch_lines[i + 3] if i + 3 < len(lunch_lines) else ""
+                  name = lunch_lines[i + 1]
+                  description = lunch_lines[i + 2]
+                  price = lunch_lines[i + 3]
 
                   if "€" in price:
                       items.append({
@@ -79,6 +82,33 @@ jobs:
                           "description": description,
                           "price": price
                       })
+                  i += 4
+                  continue
+
+              # Wochen-Highlights
+              if line == "Wochen-Highlights":
+                  i += 1
+                  continue
+
+              if line.startswith("Vom "):
+                  date = line.replace("Vom ", "")
+
+                  name = lunch_lines[i + 1]
+                  description = lunch_lines[i + 2]
+                  price = lunch_lines[i + 3]
+
+                  if "€" in price:
+                      items.append({
+                          "category": "Wochen-Highlight",
+                          "date": date,
+                          "name": name,
+                          "description": description,
+                          "price": price
+                      })
+                  i += 4
+                  continue
+
+              i += 1
 
           print(json.dumps(items, ensure_ascii=False, indent=2))
           PY
