@@ -12,7 +12,7 @@ jobs:
         run: |
           curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
 
-      - name: Erste Inhalte anzeigen
+      - name: Gerichte extrahieren (einfacher Versuch)
         run: |
           python3 - <<'PY'
           from html.parser import HTMLParser
@@ -33,7 +33,10 @@ jobs:
           parser = TextParser()
           parser.feed(html)
 
-          for line in parser.text:
-              if "Lunch" in line or "€" in line or "Wochen" in line:
-                  print(line)
+          lines = parser.text
+
+          for i, line in enumerate(lines):
+              if "€" in line:
+                  name = lines[i-1] if i > 0 else ""
+                  print(f"{name} -> {line}")
           PY
