@@ -12,7 +12,7 @@ jobs:
         run: |
           curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
 
-      - name: Tagesgerichte + Wochen-Highlights
+      - name: JSON erzeugen
         run: |
           python3 - <<'PY'
           from html.parser import HTMLParser
@@ -64,7 +64,6 @@ jobs:
           while i < len(lunch_lines):
               line = lunch_lines[i]
 
-              # Tagesgerichte
               match = weekday_pattern.match(line)
               if match:
                   weekday = match.group(1)
@@ -85,7 +84,6 @@ jobs:
                   i += 4
                   continue
 
-              # Wochen-Highlights
               if line == "Wochen-Highlights":
                   i += 1
                   continue
@@ -110,5 +108,8 @@ jobs:
 
               i += 1
 
-          print(json.dumps(items, ensure_ascii=False, indent=2))
+          with open("blockhouse.json", "w", encoding="utf-8") as f:
+              json.dump({"items": items}, f, ensure_ascii=False, indent=2)
+
+          print("blockhouse.json erstellt")
           PY
