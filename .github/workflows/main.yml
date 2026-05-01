@@ -1,12 +1,28 @@
-name: Test Action
+name: Update Blockhouse JSON
 
 on:
   workflow_dispatch:
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Hallo Welt
-        run: echo "Action läuft erfolgreich"
+      - name: Repository auschecken
+        uses: actions/checkout@v3
+
+      - name: blockhouse.json erstellen
+        run: |
+          echo '{
+            "items": [
+              { "category": "Heute", "name": "Testgericht", "price": "10,00 €" }
+            ]
+          }' > blockhouse.json
+
+      - name: Datei committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add blockhouse.json
+          git commit -m "update blockhouse.json" || echo "nichts zu committen"
+          git push
