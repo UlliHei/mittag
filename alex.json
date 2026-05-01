@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "name": "Matjetsfilets",
+      "description": "leckere Matjetsfilets mit Bratkartoffeln",
+      "price": "10,90"
+    },
+    {
+      "name": "Veggie-Flammkuchen",
+      "description": "knuspriger Flammkuchen mit Mozzarella, Tomaten und Rucola",
+      "price": "9,90"
+    },
+    {
+      "name": "Fusilli mit Hähnchen",
+      "description": "Fusilli in einer Sahne-Paprika-Tomatensoße mit gegrilltem Hähnchen",
+      "price": "11,90"
+    }
+  ]
+}
