@@ -12,7 +12,7 @@ jobs:
         run: |
           curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
 
-      - name: Gerichte extrahieren (einfacher Versuch)
+      - name: Relevanten Lunch-Time-Bereich anzeigen
         run: |
           python3 - <<'PY'
           from html.parser import HTMLParser
@@ -35,8 +35,25 @@ jobs:
 
           lines = parser.text
 
+          start = None
+          end = None
+
           for i, line in enumerate(lines):
-              if "€" in line:
-                  name = lines[i-1] if i > 0 else ""
-                  print(f"{name} -> {line}")
+              if "Aktuelle Lunch Time Gerichte" in line:
+                  start = i
+              if "JETZT TISCH RESERVIEREN" in line:
+                  end = i
+                  break
+
+          if start is None:
+              print("Start nicht gefunden")
+              exit(1)
+
+          if end is None:
+              end = len(lines)
+
+          lunch_lines = lines[start:end]
+
+          for line in lunch_lines:
+              print(line)
           PY
