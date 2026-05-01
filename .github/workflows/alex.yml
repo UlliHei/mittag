@@ -1,0 +1,22 @@
+name: Test Alex Download
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v3
+
+      - name: Alex-Seite abrufen
+        run: |
+          curl -L "https://www.dein-alex.de/hamburg-am-rothenbaum/wochenkarte" -o alex.html
+
+      - name: Prüfen ob Mittagstisch im HTML steht
+        run: |
+          grep -i "mittagstisch" alex.html || true
+          grep -i "Matjes" alex.html || true
+          grep -i "Flammkuchen" alex.html || true
