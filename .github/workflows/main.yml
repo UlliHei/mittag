@@ -1,31 +1,14 @@
-name: Update Blockhouse JSON
+name: Test Blockhouse Download
 
 on:
   workflow_dispatch:
 
-permissions:
-    contents: write
-
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Repository auschecken
-        uses: actions/checkout@v3
-
-      - name: blockhouse.json erstellen
+      - name: Block-House-Seite abrufen
         run: |
-          echo '{
-            "items": [
-              { "category": "Heute", "name": "Testgericht", "price": "10,00 €" }
-            ]
-          }' > blockhouse.json
-
-      - name: Datei committen
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add blockhouse.json
-          git commit -m "update blockhouse.json" || echo "nichts zu committen"
-          git push
+          curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
+          grep -i "Aktuelle Lunch Time Gerichte" blockhouse.html
