@@ -20,3 +20,7 @@ jobs:
           grep -i "mittagstisch" alex.html || true
           grep -i "Matjes" alex.html || true
           grep -i "Flammkuchen" alex.html || true
+
+      - name: Erste 200 Zeilen anzeigen
+        run: |
+          head -n 200 alex.html
