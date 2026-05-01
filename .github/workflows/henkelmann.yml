@@ -1,0 +1,22 @@
+name: Test Henkelmann Download
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v3
+
+      - name: Henkelmann-Seite abrufen
+        run: |
+          curl -L "https://harbecks-henkelmann.de/speiseplan/" -o henkelmann.html
+
+      - name: Relevante Henkelmann-Zeilen anzeigen
+        run: |
+          grep -n -i -A 10 -B 5 "Täglich wechselnd" henkelmann.html || true
+          grep -n -i -A 10 -B 5 "Montag" henkelmann.html || true
+          grep -n -i -A 10 -B 5 "Dienstag" henkelmann.html || true
