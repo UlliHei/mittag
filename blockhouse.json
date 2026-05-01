@@ -1,5 +1,53 @@
 {
   "items": [
-    { "category": "Heute", "name": "Testgericht", "price": "10,00 €" }
+    {
+      "category": "Montag",
+      "date": "04.05.2026",
+      "name": "Rindergeschnetzeltes „Stroganoff“",
+      "description": "in Rahmsauce mit Gurkenstreifen und Champignons, dazu Gemüsereis",
+      "price": "13,90 €"
+    },
+    {
+      "category": "Dienstag",
+      "date": "05.05.2026",
+      "name": "Ochsenbackenragout",
+      "description": "zart und aromatisch, dazu Süßkartoffelpüree",
+      "price": "13,90 €"
+    },
+    {
+      "category": "Mittwoch",
+      "date": "06.05.2026",
+      "name": "Steakteller",
+      "description": "kleine Rindersteaks, saftig gegrillt, dazu knusprige Pommes frites und würzige Teriyaki-Pfefferrahm-Sauce",
+      "price": "14,90 €"
+    },
+    {
+      "category": "Donnerstag",
+      "date": "07.05.2026",
+      "name": "Hühnerfrikassee",
+      "description": "mit Spargel, Champignons und Erbsen in milder Sauce6, dazu Langkorn-Wildreis",
+      "price": "13,90 €"
+    },
+    {
+      "category": "Freitag",
+      "date": "08.05.2026",
+      "name": "Gebratenes Seelachsfilet",
+      "description": "mit feinem Linsengemüse und Kartoffelpüree",
+      "price": "13,90 €"
+    },
+    {
+      "category": "Wochen-Highlight",
+      "date": "04.05. bis 08.05.2026",
+      "name": "Huftmedaillons",
+      "description": "saftig gegrillt, dazu Baked Potato mit Sour Cream und BLOCK HOUSE Brot",
+      "price": "14,90 €"
+    },
+    {
+      "category": "Wochen-Highlight",
+      "date": "04.05. bis 08.05.2026",
+      "name": "Rindfleischstreifen",
+      "description": "kross gebraten, mit feinen Pilzen in Rahm und Pommes frites",
+      "price": "14,90 €"
+    }
   ]
 }
