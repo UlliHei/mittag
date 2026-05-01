@@ -1,28 +1,109 @@
-name: Test Alex Download
+name: Update Alex JSON
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "10 6 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Repository auschecken
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Alex-Seite abrufen
         run: |
           curl -L "https://www.dein-alex.de/hamburg-am-rothenbaum/wochenkarte" -o alex.html
 
-      - name: Prüfen ob Mittagstisch im HTML steht
+      - name: Alex JSON erzeugen
         run: |
-          grep -i "mittagstisch" alex.html || true
-          grep -i "Matjes" alex.html || true
-          grep -i "Flammkuchen" alex.html || true
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          import json
 
-      - name: Relevante Alex-Zeilen anzeigen
+          class AlexParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.items = []
+                  self.current = None
+                  self.capture = None
+                  self.buffer = []
+
+              def handle_starttag(self, tag, attrs):
+                  attrs = dict(attrs)
+                  class_name = attrs.get("class", "")
+
+                  # Neuer Menüeintrag beginnt
+                  if tag == "h3" and "fad-menu-item-title-text" in class_name:
+                      self.current = {
+                          "name": "",
+                          "description": "",
+                          "price": ""
+                      }
+                      self.capture = "name"
+                      self.buffer = []
+
+                  # Beschreibung
+                  elif tag == "p" and "fad-menu-item-text" in class_name:
+                      self.capture = "description"
+                      self.buffer = []
+
+                  # Preis
+                  elif tag == "span" and "fad-menu-item-price" in class_name:
+                      self.capture = "price"
+                      self.buffer = []
+
+              def handle_data(self, data):
+                  if self.capture:
+                      text = data.strip()
+                      if text:
+                          self.buffer.append(text)
+
+              def handle_endtag(self, tag):
+                  if self.capture == "name" and tag == "h3":
+                      self.current["name"] = " ".join(self.buffer).strip()
+                      self.capture = None
+                      self.buffer = []
+
+                  elif self.capture == "description" and tag == "p":
+                      self.current["description"] = " ".join(self.buffer).strip()
+                      self.capture = None
+                      self.buffer = []
+
+                  elif self.capture == "price" and tag == "span":
+                      self.current["price"] = " ".join(self.buffer).strip()
+
+                      if self.current["name"] and self.current["price"]:
+                          self.items.append(self.current)
+
+                      self.current = None
+                      self.capture = None
+                      self.buffer = []
+
+          with open("alex.html", "r", encoding="utf-8") as f:
+              html = f.read()
+
+          parser = AlexParser()
+          parser.feed(html)
+
+          with open("alex.json", "w", encoding="utf-8") as f:
+              json.dump({"items": parser.items}, f, ensure_ascii=False, indent=2)
+
+          print("alex.json erstellt")
+          print(json.dumps({"items": parser.items}, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Datei committen
         run: |
-          grep -n -i -A 8 -B 3 "Veggie-Flammkuchen" alex.html || true
-          grep -n -i -A 8 -B 3 "Matjes" alex.html || true
-          grep -n -i -A 8 -B 3 "Fusilli" alex.html || true
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add alex.json
+          git commit -m "update alex.json" || echo "nichts zu committen"
+          git push
