@@ -41,7 +41,7 @@ jobs:
           for i, line in enumerate(lines):
               if "Aktuelle Lunch Time Gerichte" in line:
                   start = i
-              if "JETZT TISCH RESERVIEREN" in line:
+              if "jetzt tisch reservieren" in line.lower():
                   end = i
                   break
 
