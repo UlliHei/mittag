@@ -1,4 +1,4 @@
-name: Test Blockhouse Download
+name: Test Blockhouse Parsing
 
 on:
   workflow_dispatch:
@@ -11,4 +11,29 @@ jobs:
       - name: Block-House-Seite abrufen
         run: |
           curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
-          grep -i "Aktuelle Lunch Time Gerichte" blockhouse.html
+
+      - name: Erste Inhalte anzeigen
+        run: |
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+
+          class TextParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.text = []
+
+              def handle_data(self, data):
+                  data = data.strip()
+                  if data:
+                      self.text.append(data)
+
+          with open("blockhouse.html", "r", encoding="utf-8") as f:
+              html = f.read()
+
+          parser = TextParser()
+          parser.feed(html)
+
+          for line in parser.text:
+              if "Lunch" in line or "€" in line or "Wochen" in line:
+                  print(line)
+          PY
