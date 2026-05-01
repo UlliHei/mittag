@@ -21,6 +21,8 @@ jobs:
           grep -i "Matjes" alex.html || true
           grep -i "Flammkuchen" alex.html || true
 
-      - name: Erste 200 Zeilen anzeigen
+      - name: Relevante Alex-Zeilen anzeigen
         run: |
-          head -n 200 alex.html
+          grep -n -i -A 8 -B 3 "Veggie-Flammkuchen" alex.html || true
+          grep -n -i -A 8 -B 3 "Matjes" alex.html || true
+          grep -n -i -A 8 -B 3 "Fusilli" alex.html || true
