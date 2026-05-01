@@ -1,22 +1,134 @@
-name: Test Henkelmann Download
+name: Update Henkelmann JSON
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "20 6 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  test:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Repository auschecken
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Henkelmann-Seite abrufen
         run: |
           curl -L "https://harbecks-henkelmann.de/speiseplan/" -o henkelmann.html
 
-      - name: Relevante Henkelmann-Zeilen anzeigen
+      - name: Henkelmann JSON erzeugen
         run: |
-          grep -n -i -A 10 -B 5 "Täglich wechselnd" henkelmann.html || true
-          grep -n -i -A 10 -B 5 "Montag" henkelmann.html || true
-          grep -n -i -A 10 -B 5 "Dienstag" henkelmann.html || true
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          import json
+          import re
+
+          class HenkelmannParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.items = []
+                  self.specials = ""
+                  self.week = ""
+                  self.current = None
+                  self.capture = None
+                  self.buffer = []
+
+              def handle_starttag(self, tag, attrs):
+                  attrs = dict(attrs)
+                  class_name = attrs.get("class", "")
+
+                  # Wochenüberschrift
+                  if tag == "h3" and "fromto" in class_name:
+                      self.capture = "week"
+                      self.buffer = []
+
+                  # Wochentag
+                  elif tag == "h3" and "entry-title" in class_name:
+                      self.current = {
+                          "category": "",
+                          "name": "",
+                          "description": "",
+                          "price": ""
+                      }
+                      self.capture = "category"
+                      self.buffer = []
+
+                  # Gerichtbeschreibung
+                  elif tag == "p" and "description" in class_name:
+                      self.capture = "description"
+                      self.buffer = []
+
+              def handle_data(self, data):
+                  text = data.strip()
+                  if not text:
+                      return
+
+                  if "Täglich wechselnd:" in text:
+                      self.specials = text.strip()
+
+                  if self.capture:
+                      self.buffer.append(text)
+
+              def handle_endtag(self, tag):
+                  if self.capture == "week" and tag == "h3":
+                      self.week = " ".join(self.buffer).strip()
+                      self.capture = None
+                      self.buffer = []
+
+                  elif self.capture == "category" and tag == "h3":
+                      self.current["category"] = " ".join(self.buffer).strip()
+                      self.capture = None
+                      self.buffer = []
+
+                  elif self.capture == "description" and tag == "p":
+                      text = " ".join(self.buffer).strip()
+                      text = re.sub(r"\s+", " ", text)
+
+                      # Preis am Ende erkennen, falls vorhanden
+                      price_match = re.search(r"(\d{1,2},\d{2})\s*Euro\s*$", text)
+                      if price_match:
+                          self.current["price"] = price_match.group(1)
+                          text = re.sub(r"\s*[…\.]*\s*\d{1,2},\d{2}\s*Euro\s*$", "", text).strip()
+
+                      self.current["name"] = text
+                      self.current["description"] = text
+
+                      self.items.append(self.current)
+
+                      self.current = None
+                      self.capture = None
+                      self.buffer = []
+
+          with open("henkelmann.html", "r", encoding="utf-8") as f:
+              html = f.read()
+
+          parser = HenkelmannParser()
+          parser.feed(html)
+
+          result = {
+              "week": parser.week,
+              "specials": parser.specials,
+              "items": parser.items,
+              "url": "https://harbecks-henkelmann.de/speiseplan/"
+          }
+
+          with open("henkelmann.json", "w", encoding="utf-8") as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+
+          print("henkelmann.json erstellt")
+          print(json.dumps(result, ensure_ascii=False, indent=2))
+          PY
+
+      - name: Datei committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add henkelmann.json
+          git commit -m "update henkelmann.json" || echo "nichts zu committen"
+          git push
