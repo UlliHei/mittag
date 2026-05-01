@@ -12,10 +12,12 @@ jobs:
         run: |
           curl -L "https://www.block-house.de/speisekarte/lunch-time/" -o blockhouse.html
 
-      - name: Relevanten Lunch-Time-Bereich anzeigen
+      - name: Tagesgerichte strukturieren
         run: |
           python3 - <<'PY'
           from html.parser import HTMLParser
+          import re
+          import json
 
           class TextParser(HTMLParser):
               def __init__(self):
@@ -54,6 +56,29 @@ jobs:
 
           lunch_lines = lines[start:end]
 
-          for line in lunch_lines:
-              print(line)
+          weekday_pattern = re.compile(r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag)\s*\|\s*(\d{2}\.\d{2}\.\d{4})$")
+
+          items = []
+
+          for i, line in enumerate(lunch_lines):
+              match = weekday_pattern.match(line)
+
+              if match:
+                  weekday = match.group(1)
+                  date = match.group(2)
+
+                  name = lunch_lines[i + 1] if i + 1 < len(lunch_lines) else ""
+                  description = lunch_lines[i + 2] if i + 2 < len(lunch_lines) else ""
+                  price = lunch_lines[i + 3] if i + 3 < len(lunch_lines) else ""
+
+                  if "€" in price:
+                      items.append({
+                          "category": weekday,
+                          "date": date,
+                          "name": name,
+                          "description": description,
+                          "price": price
+                      })
+
+          print(json.dumps(items, ensure_ascii=False, indent=2))
           PY
