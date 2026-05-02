@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 27. — 01. Mai 2026",
+  "week": "KARTE VOM 04. — 08. Mai 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Grünes Hackbällchencurry (Rind) in Kokosmilch, Duftreis, Chiligurken",
-      "description": "Grünes Hackbällchencurry (Rind) in Kokosmilch, Duftreis, Chiligurken",
+      "name": "Rindersteak, Trüffelsauce, Spaghetti, Parmesan, Cherrytomaten",
+      "description": "Rindersteak, Trüffelsauce, Spaghetti, Parmesan, Cherrytomaten",
       "price": ""
     },
     {
       "category": "Dienstag",
-      "name": "Putenrollbraten mit Ricotta-Bärlauchfüllung, Zitronenrisotto, Salat",
-      "description": "Putenrollbraten mit Ricotta-Bärlauchfüllung, Zitronenrisotto, Salat",
+      "name": "Hähnchenbrustfilet in spanischer Mandel-Safransauce, Reis, süße Möhren, Salat",
+      "description": "Hähnchenbrustfilet in spanischer Mandel-Safransauce, Reis, süße Möhren, Salat",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Knuspriger Schweinebraten, Malzbiersauce, Kartoffelknödel, Preiselbeeren",
-      "description": "Knuspriger Schweinebraten, Malzbiersauce, Kartoffelknödel, Preiselbeeren",
-      "price": "15,90"
+      "name": "Kohlrabi-Rahmgemüse mit Rinderfrikadellchen & Kartoffelpüree",
+      "description": "Kohlrabi-Rahmgemüse mit Rinderfrikadellchen & Kartoffelpüree",
+      "price": "14,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Kartoffelpuffer, Rote Beeteragout, Fetacreme",
-      "description": "Kartoffelpuffer, Rote Beeteragout, Fetacreme",
+      "name": "Hausgemachte Piroggi mit Kraut-Pilzfüllung & 3erlei Salaten: Gurke, Rote Beete, Möhre",
+      "description": "Hausgemachte Piroggi mit Kraut-Pilzfüllung & 3erlei Salaten: Gurke, Rote Beete, Möhre",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Tag der Arbeit - geschlossen",
-      "description": "Tag der Arbeit - geschlossen",
-      "price": ""
+      "name": "Lachs in Sesampanade, grüner Spargel, Duftreis, Rettich",
+      "description": "Lachs in Sesampanade, grüner Spargel, Duftreis, Rettich",
+      "price": "16,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
