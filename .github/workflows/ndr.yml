@@ -24,149 +24,33 @@ jobs:
         run: |
           curl -L "https://www.ndr.de/speiseplan" -o ndr.html
 
-      # HTML auslesen und ndr.json erzeugen
-      - name: NDR JSON erzeugen
+      # NDR HTML prüfen
+      - name: NDR HTML Debug
         run: |
           python3 - <<'PY'
           from html.parser import HTMLParser
-          import json
-          import re
 
-          # Parser für die NDR-Tabellenstruktur
-          class NdrParser(HTMLParser):
+          class DebugParser(HTMLParser):
               def __init__(self):
                   super().__init__()
-
-                  self.days = {}
-                  self.current_day = None
-                  self.current_date = ""
-
-                  self.in_heading = False
-                  self.heading_buffer = []
-
-                  self.in_row = False
-                  self.in_cell = False
-                  self.current_row = []
-                  self.cell_buffer = []
-
-              def handle_starttag(self, tag, attrs):
-                  # Tagesüberschrift erkennen
-                  if tag in ("h2", "h3"):
-                      self.in_heading = True
-                      self.heading_buffer = []
-
-                  # Tabellenzeile beginnt
-                  if tag == "tr":
-                      self.in_row = True
-                      self.current_row = []
-
-                  # Tabellenzelle beginnt
-                  if tag in ("td", "th") and self.in_row:
-                      self.in_cell = True
-                      self.cell_buffer = []
+                  self.text = []
 
               def handle_data(self, data):
                   text = data.strip()
-                  if not text:
-                      return
+                  if text:
+                      self.text.append(text)
 
-                  if self.in_heading:
-                      self.heading_buffer.append(text)
-
-                  if self.in_cell:
-                      self.cell_buffer.append(text)
-
-              def handle_endtag(self, tag):
-                  # Tagesüberschrift abschließen
-                  if tag in ("h2", "h3") and self.in_heading:
-                      heading = " ".join(self.heading_buffer).strip()
-
-                      match = re.match(
-                          r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag),\s*(\d{2}\.\d{2}\.\d{4})$",
-                          heading
-                      )
-
-                      if match:
-                          self.current_day = match.group(1)
-                          self.current_date = match.group(2)
-
-                          self.days[self.current_day] = {
-                              "date": self.current_date,
-                              "items": []
-                          }
-
-                      self.in_heading = False
-                      self.heading_buffer = []
-
-                  # Tabellenzelle abschließen
-                  if tag in ("td", "th") and self.in_cell:
-                      cell_text = " ".join(self.cell_buffer).strip()
-                      cell_text = re.sub(r"\s+", " ", cell_text)
-
-                      self.current_row.append(cell_text)
-
-                      self.in_cell = False
-                      self.cell_buffer = []
-
-                  # Tabellenzeile abschließen
-                  if tag == "tr" and self.in_row:
-                      self.process_row()
-
-                      self.in_row = False
-                      self.current_row = []
-
-              def process_row(self):
-                  # Ohne passenden Tag nichts speichern
-                  if not self.current_day:
-                      return
-
-                  # Tabellenkopf überspringen
-                  if "Kategorie" in self.current_row:
-                      return
-
-                  # Erwartete Spalten:
-                  # Kategorie | Zusatzinfo | Speise | Preis NDR | Preis Extern
-                  if len(self.current_row) < 5:
-                      return
-
-                  category = self.current_row[0]
-                  info = self.current_row[1]
-                  name = self.current_row[2]
-                  price_ndr = self.current_row[3]
-                  price_external = self.current_row[4]
-
-                  # Leere oder kaputte Zeilen überspringen
-                  if not category or not name:
-                      return
-
-                  self.days[self.current_day]["items"].append({
-                      "category": category,
-                      "info": info,
-                      "name": name,
-                      "price_ndr": price_ndr,
-                      "price_external": price_external
-                  })
-
-
-          # HTML-Datei laden
           with open("ndr.html", "r", encoding="utf-8") as f:
               html = f.read()
 
-          parser = NdrParser()
+          parser = DebugParser()
           parser.feed(html)
 
-          result = {
-              "source": "NDR Kasino Hamburg-Rothenbaum",
-              "url": "https://www.ndr.de/speiseplan",
-              "days": parser.days
-          }
+          print("Gefundene Textzeilen:")
+          print("---------------------")
 
-          # JSON speichern
-          with open("ndr.json", "w", encoding="utf-8") as f:
-              json.dump(result, f, ensure_ascii=False, indent=2)
-
-          print("ndr.json erstellt")
-          print(json.dumps(result, ensure_ascii=False, indent=2))
+          for i, line in enumerate(parser.text[:300]):
+              print(i, repr(line))
           PY
 
       # JSON-Datei ins Repository schreiben
