@@ -24,13 +24,16 @@ jobs:
         run: |
           curl -L "https://www.ndr.de/speiseplan" -o ndr.html
 
-      # NDR HTML prüfen
-      - name: NDR HTML Debug
+      # HTML auslesen und ndr.json erzeugen
+      - name: NDR JSON erzeugen
         run: |
           python3 - <<'PY'
           from html.parser import HTMLParser
+          import json
+          import re
 
-          class DebugParser(HTMLParser):
+          # Text aus der NDR-Seite sammeln
+          class TextParser(HTMLParser):
               def __init__(self):
                   super().__init__()
                   self.text = []
@@ -40,17 +43,147 @@ jobs:
                   if text:
                       self.text.append(text)
 
+          # Prüft, ob eine Zeile ein Preis ist, z. B. 5,90
+          def is_price(text):
+              return re.match(r"^\d{1,2},\d{2}$", text) is not None
+
+          # Prüft bekannte Kategorien im NDR-Speiseplan
+          def is_category(text):
+              return text in {
+                  "Vorspann",
+                  "Studio 1",
+                  "Studio 2",
+                  "Studio 3",
+                  '"Nordamerika"',
+                  "Sondersendung",
+                  "Abspann"
+              }
+
+          # Kleine Fußnoten/Zusatzstoffnummern entfernen wir aus dem Gerichttext
+          def is_note_number(text):
+              return re.match(r"^[0-9]+[0-9a-zA-Z,]*$", text) is not None
+
+          # Eine Gerichtzeile aus gesammelten Bestandteilen erzeugen
+          def build_item(category, parts, price_ndr, price_external):
+              info = ""
+
+              # Zusatzinfo steht meistens direkt nach der Kategorie
+              if parts and parts[0] in {"vegan", "vegetarisch"}:
+                  info = parts[0]
+                  parts = parts[1:]
+
+              clean_parts = []
+
+              for part in parts:
+                  if is_note_number(part):
+                      continue
+
+                  clean_parts.append(part)
+
+              name = " ".join(clean_parts).strip()
+              name = re.sub(r"\s+", " ", name)
+
+              return {
+                  "category": category,
+                  "info": info,
+                  "name": name,
+                  "price_ndr": price_ndr,
+                  "price_external": price_external
+              }
+
+          # HTML-Datei laden
           with open("ndr.html", "r", encoding="utf-8") as f:
               html = f.read()
 
-          parser = DebugParser()
+          parser = TextParser()
           parser.feed(html)
 
-          print("Gefundene Textzeilen:")
-          print("---------------------")
+          lines = parser.text
 
-          for i, line in enumerate(parser.text[:300]):
-              print(i, repr(line))
+          result = {
+              "source": "NDR Kasino Hamburg-Rothenbaum",
+              "url": "https://www.ndr.de/speiseplan",
+              "days": {}
+          }
+
+          day_pattern = re.compile(r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag),\s*(\d{2}\.\d{2}\.\d{4})$")
+
+          current_day = None
+          current_date = ""
+          current_category = None
+          current_parts = []
+
+          i = 0
+          while i < len(lines):
+              line = lines[i]
+
+              # Neuen Tag erkennen
+              day_match = day_pattern.match(line)
+              if day_match:
+                  current_day = day_match.group(1)
+                  current_date = day_match.group(2)
+
+                  result["days"][current_day] = {
+                      "date": current_date,
+                      "items": []
+                  }
+
+                  current_category = None
+                  current_parts = []
+                  i += 1
+                  continue
+
+              # Ende des Speiseplans erkennen
+              if line.startswith("Spät- oder Wochenenddienst"):
+                  break
+
+              # Tabellenköpfe überspringen
+              if line in {"Kategorie", "Zusatzinfo", "Speise", "Preis", "NDR", "Extern"}:
+                  i += 1
+                  continue
+
+              # Kategorie erkennen
+              if current_day and is_category(line):
+                  current_category = line
+                  current_parts = []
+                  i += 1
+                  continue
+
+              # Preis-Paar erkennen: Preis NDR + Preis Extern
+              if (
+                  current_day
+                  and current_category
+                  and is_price(line)
+                  and i + 1 < len(lines)
+                  and is_price(lines[i + 1])
+              ):
+                  item = build_item(
+                      current_category,
+                      current_parts,
+                      line,
+                      lines[i + 1]
+                  )
+
+                  if item["name"]:
+                      result["days"][current_day]["items"].append(item)
+
+                  current_parts = []
+                  current_category = None
+                  i += 2
+                  continue
+
+              # Alles zwischen Kategorie und Preis gehört zum Gericht
+              if current_day and current_category:
+                  current_parts.append(line)
+
+              i += 1
+
+          # JSON speichern
+          with open("ndr.json", "w", encoding="utf-8") as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+
+          print("ndr.json erstellt")
+          print(json.dumps(result, ensure_ascii=False, indent=2))
           PY
 
       # JSON-Datei ins Repository schreiben
