@@ -1,5 +1,159 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Dienstag": {
+      "date": "05.05.2026",
+      "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegan",
+          "name": "Provencialische Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomatensauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gefüllte Paprikaschote gefüllt mit Rinderhack , dazu Tomatensaue(Knobi) und Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Nordamerika\"",
+          "info": "",
+          "name": "Hot Spareribs vom Schwein(160g) mit scharfer Marinade, Connoisseur Fries und Cole Slaw",
+          "price_ndr": "8,90",
+          "price_external": "10,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Hausgemachter Milchreis mit Mangosauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Pilz-Paprikagemüse auf Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Kirschquark",
+          "price_ndr": "1,26",
+          "price_external": "1,35"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "06.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Mit Meersalz gebackene Kartoffeln dazu Kräuter-Joghurtdip und buntem Blattsalat mit Dressing nach Wahl",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gemüsecurry von Zucchini, Paprika, Weißkohl und Spinat in einer Kokossauce mit Langkornreis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Putengeschnetzeltes mit getrockneten Tomaten und Oliven auf Pasta",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Nordamerika\"",
+          "info": "vegan",
+          "name": "'Mashed sweet potatoe' Süßkartoffelpüree mit einem bunten Bohnenragout von roten Kidneys, schwarzen Bohnen, dicke Bohnen, Tomaten und frischer Petersilie",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "07.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomatensauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Rotkohl-Kartoffel-Bratling mit Schnittlauchquark und buntem Salat mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Schinkenwurst (100g) mit Rahmsauce , grüne Bohnen und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Nordamerika\"",
+          "info": "",
+          "name": "Salmon Poke Bowl mit Lachs, Avocados, Algensalat und Sushi-Reis, dazu Cranbeery-Creme",
+          "price_ndr": "7,50",
+          "price_external": "9,50"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "08.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Blumenkohlgemüse mit Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "3,65"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gemüselasagne von Spinat, Blumenkohl und Karotten in Tomatensauce mit Käse überbacken",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Zwei Fischfrikadellen mit Mayonnaisen-Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Nordamerika\"",
+          "info": "",
+          "name": "Hähnchen-Wrap mit Rucola, Tomaten, Gurken und Frischkäse-Curry-Creme , dazu Baby Leaf Salat mit Himbeer-Dressing und Walnüssen",
+          "price_ndr": "6,40",
+          "price_external": "8,40"
+        }
+      ]
+    }
+  }
 }
