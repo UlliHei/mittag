@@ -82,6 +82,10 @@ jobs:
 
               name = " ".join(clean_parts).strip()
               name = re.sub(r"\s+", " ", name)
+              
+              # Leerzeichenfehler
+              name = name.replace(" ,", ",")
+              name = name.replace("(Knobi)", " (Knobi)")
 
               return {
                   "category": category,
