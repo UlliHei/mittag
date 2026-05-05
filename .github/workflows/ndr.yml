@@ -1,0 +1,160 @@
+name: Update NDR JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 5 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Repository laden
+      - name: Repository auschecken
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      # NDR-Speiseplan abrufen
+      - name: NDR-Seite abrufen
+        run: |
+          curl -L "https://www.ndr.de/speiseplan" -o ndr.html
+
+      # HTML auslesen und ndr.json erzeugen
+      - name: NDR JSON erzeugen
+        run: |
+          python3 - <<'PY'
+          from html.parser import HTMLParser
+          import json
+          import re
+
+          # Einfacher Textsammler für die NDR-Seite
+          class TextParser(HTMLParser):
+              def __init__(self):
+                  super().__init__()
+                  self.text = []
+
+              def handle_data(self, data):
+                  text = data.strip()
+                  if text:
+                      self.text.append(text)
+
+          # HTML-Datei laden
+          with open("ndr.html", "r", encoding="utf-8") as f:
+              html = f.read()
+
+          parser = TextParser()
+          parser.feed(html)
+
+          lines = parser.text
+
+          # Muster für Wochentage und Preise
+          day_pattern = re.compile(r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag),\s*(\d{2}\.\d{2}\.\d{4})$")
+          price_pattern = re.compile(r"^\d{1,2},\d{2}$")
+
+          # Wörter, die aus Tabellenköpfen kommen und ignoriert werden
+          ignore_lines = {
+              "Kategorie",
+              "ZusatzInfo",
+              "Speise",
+              "Preis NDR",
+              "Preis Extern"
+          }
+
+          result = {
+              "source": "NDR Kasino Hamburg-Rothenbaum",
+              "url": "https://www.ndr.de/speiseplan",
+              "days": {}
+          }
+
+          current_day = None
+          current_date = ""
+          buffer = []
+
+          def process_buffer(day, date, buffer_lines):
+              # Aus dem Textblock eines Tages einzelne Gerichte bauen
+              items = []
+              chunk = []
+
+              i = 0
+              while i < len(buffer_lines):
+                  line = buffer_lines[i]
+
+                  # Preis-Paar erkennen: Preis NDR + Preis Extern
+                  if (
+                      price_pattern.match(line)
+                      and i + 1 < len(buffer_lines)
+                      and price_pattern.match(buffer_lines[i + 1])
+                  ):
+                      price_ndr = line
+                      price_external = buffer_lines[i + 1]
+
+                      # Alles davor gehört zur aktuellen Tabellenzeile
+                      parts = [x for x in chunk if x not in ignore_lines]
+
+                      if len(parts) >= 2:
+                          category = parts[0]
+                          name = parts[-1]
+                          info = " ".join(parts[1:-1]).strip()
+
+                          items.append({
+                              "category": category,
+                              "info": info,
+                              "name": name,
+                              "price_ndr": price_ndr,
+                              "price_external": price_external
+                          })
+
+                      chunk = []
+                      i += 2
+                      continue
+
+                  chunk.append(line)
+                  i += 1
+
+              result["days"][day] = {
+                  "date": date,
+                  "items": items
+              }
+
+          # Seite zeilenweise durchgehen
+          for line in lines:
+              day_match = day_pattern.match(line)
+
+              if day_match:
+                  # Vorherigen Tag abschließen
+                  if current_day:
+                      process_buffer(current_day, current_date, buffer)
+
+                  current_day = day_match.group(1)
+                  current_date = day_match.group(2)
+                  buffer = []
+                  continue
+
+              if current_day:
+                  buffer.append(line)
+
+          # Letzten Tag abschließen
+          if current_day:
+              process_buffer(current_day, current_date, buffer)
+
+          # JSON speichern
+          with open("ndr.json", "w", encoding="utf-8") as f:
+              json.dump(result, f, ensure_ascii=False, indent=2)
+
+          print("ndr.json erstellt")
+          print(json.dumps(result, ensure_ascii=False, indent=2))
+          PY
+
+      # JSON-Datei ins Repository schreiben
+      - name: Datei committen
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add ndr.json
+          git commit -m "update ndr.json" || echo "nichts zu committen"
+          git push
