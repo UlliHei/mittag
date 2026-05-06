@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Geschmortes Rindfleisch in Sojasauce \"Yunnan\" mit Ingwer, Maiskölbchen und Paprika",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Spaghetti Bolognese \"mal anders\" mit Oregano, Schmand und Parmesansplittern",
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Stangenspargel in Rahm mit Schnittlauch und einer Hähnchenfrikadelle",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Gebackenes Schnitzel mit Camembert, Preiselbeeren und Zitrone",
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Auberginenauflauf \"Parmigiani di Melanzane\" in Tomatensauce gebacken",
+        "name": "Auberginenauflauf \"Parmigian di Melanzane\" in Tomatensauce gebacken",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Cremiger Matjestopf in Kräuterschmand mit Apfel und Zwiebel, Bratkartoffeln mit Kümmel, Speck und Zwiebeln",
