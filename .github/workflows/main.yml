@@ -3,8 +3,8 @@ name: Update Blockhouse JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * *"
-
+    - cron: "30 6 * * *"
+    - cron: "30 5 * * *"
 permissions:
   contents: write
 
