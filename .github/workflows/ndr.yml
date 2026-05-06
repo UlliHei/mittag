@@ -3,7 +3,11 @@ name: Update NDR JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "7 * * * *"
+    - cron: "45 5 * * *"
+    - cron: "45 6 * * *"
+    - cron: "45 7 * * *"
+    - cron: "45 8 * * *"
+    - cron: "45 9 * * *"
 
 permissions:
   contents: write
