@@ -104,6 +104,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+
+          rm -f alex.html
+
           git add alex.json
           git commit -m "update alex.json" || echo "nichts zu committen"
+
+          git pull --rebase
           git push
