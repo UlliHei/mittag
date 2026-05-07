@@ -2,74 +2,34 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "06.05.2026",
+    "Donnerstag": {
+      "date": "07.05.2026",
       "items": [
         {
           "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Kürbiscremesuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "info": "vegan",
+          "name": "Gemüse-Currysuppe (Knobi) |Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Mit Meersalz gebackene Kartoffeln dazu Kräuter-Joghurtdip und buntem Blattsalat mit Dressing nach Wahl",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomatensauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gemüsecurry von Zucchini, Paprika, Weißkohl und Spinat in einer Kokossauce (Knobi) mit Langkornreis",
+          "name": "Zwei Rotkohl-Kartoffel-Bratlinge(200g) mit Schnittlauchquark und buntem Salat mit Dressing nach Wahl",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Putengeschnetzeltes mit getrockneten Tomaten und Oliven auf Pasta",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "\"Nordamerika\"",
-          "info": "vegan",
-          "name": "'Mashed sweet potatoe' Süßkartoffelpüree mit einem bunten Bohnenragout(Knobi) von roten Kidneys, schwarzen Bohnen, dicke Bohnen, Tomaten und frischer Petersilie",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegan",
-          "name": "Veganer Apfelpudding mit Karamellsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Donnerstag": {
-      "date": "07.05.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomatensauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Rotkohl-Kartoffel-Bratling mit Schnittlauchquark und buntem Salat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Schinkenwurst (100g) mit Rahmsauce, grüne Bohnen und Salzkartoffeln",
+          "name": "Schinkenwurst (100g) mit Bratensauce, grüne Bohnen und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
@@ -79,6 +39,27 @@
           "name": "Salmon Poke Bowl mit Lachs, Avocados, Algensalat und Sushi-Reis, dazu Cranbeery-Creme",
           "price_ndr": "7,50",
           "price_external": "9,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Drei Semmelknödel mit Spinat und Gouda gefüllt an Rahmsauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Putengeschnetzeltes mit getrockneten Tomaten und Oliven auf Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegan",
+          "name": "Veganes Schoko-Haferdessert \"glutenfrei\" mit veganer Vanillesauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
