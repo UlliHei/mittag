@@ -43,16 +43,16 @@
         {
           "category": "Sondersendung",
           "info": "vegetarisch",
-          "name": "Drei Semmelknödel mit Spinat und Gouda gefüllt an Rahmsauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
+          "name": "Hausgemachter Milchreis mit Rhabarbersauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
         },
         {
           "category": "Sondersendung",
-          "info": "",
-          "name": "Putengeschnetzeltes mit getrockneten Tomaten und Oliven auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
+          "info": "vegetarisch",
+          "name": "Drei Semmelknödel mit Spinat und Gouda gefüllt an Rahmsauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
           "category": "Abspann",
