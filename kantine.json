@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Geschmortes Rindfleisch in Sojasauce \"Yunnan\" mit Ingwer, Maiskölbchen und Paprika",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Spaghetti Bolognese \"mal anders\" mit Oregano, Schmand und Parmesansplittern",
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Stangenspargel in Rahm mit Schnittlauch und einer Hähnchenfrikadelle",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Gebackenes Schnitzel mit Camembert, Preiselbeeren und Zitrone",
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Cremiger Matjestopf in Kräuterschmand mit Apfel und Zwiebel, Bratkartoffeln mit Kümmel, Speck und Zwiebeln",
