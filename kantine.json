@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "04.05.2026 - 08.05.2026",
+  "week": "11.05.2026 - 15.05.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,19 +12,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Geschmortes Rindfleisch in Sojasauce \"Yunnan\" mit Ingwer, Maiskölbchen und Paprika",
+        "name": "Gebratenes Hühnerfilet in einer cremigen Kokos-Erdnuss-Sauce mit Bambus und Paprika",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Bunte Reispfanne mit Frühlingsgemüse, Mangold und Nüssen",
+        "name": "Gemüse-Reis-Pfanne mit Linsen und Knobi Dip",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Kartoffel-Broccoli-Auflauf mit Haferflocken in Käsecreme",
+        "name": "Spargel in Pasta geschichtet in Petersiliensauce mit Porree und Käse gebacken",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Prinzessböhnchen mit Zwiebeln",
+        "name": "Brokkoli mit Mandeln",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Spaghetti Bolognese \"mal anders\" mit Oregano, Schmand und Parmesansplittern",
+        "name": "Lasagne \"al forno\" mit Rindfleisch und Gemüse in cremiger Sauce gebacken",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Spargel-Kartoffel-Gratin mit Emmentaler Käse",
+        "name": "Tortelloni Pfanne mit einer Gemüsefüllung und Spinat auf einer Käsecreme",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Mediterranes Gemüseragout mit Veggie-Bällchen",
+        "name": "Spinat-Lauch-Strudel auf cremigem Gemüse",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Glacierte Karotten",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Stangenspargel in Rahm mit Schnittlauch und einer Hähnchenfrikadelle",
+        "name": "Roastbeef (kalt) mit hausgemachter Remoulade und Salat",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Hausgemachtes Kartoffelpüree mit Süßkartoffeln, Zwiebeln und Kräuterbutter",
+        "name": "Bratkartoffeln mit Zwiebeln, Kümmel, Sour Cream und Salat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Omelette mit einer Tomaten-Fetakäse-Creme an Coleslaw-Salat",
+        "name": "Gebackene Fetaschnitte mit Tomaten und cremigem Gurkensalat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,19 +114,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Gebackenes Schnitzel mit Camembert, Preiselbeeren und Zitrone",
-        "price": "7,50 €"
+        "name": "",
+        "price": ""
       },
       "2. Hauptgericht": {
-        "name": "Tagesangebot",
+        "name": "",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Auberginenauflauf \"Parmigian di Melanzane\" in Tomatensauce gebacken",
-        "price": "5,50 €"
+        "name": "",
+        "price": ""
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -148,19 +148,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Cremiger Matjestopf in Kräuterschmand mit Apfel und Zwiebel, Bratkartoffeln mit Kümmel, Speck und Zwiebeln",
-        "price": "7,50 €"
+        "name": "",
+        "price": ""
       },
       "2. Hauptgericht": {
-        "name": "Tagesangebot",
+        "name": "",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tagesangebot",
+        "name": "",
         "price": ""
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
