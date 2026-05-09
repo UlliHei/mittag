@@ -2,51 +2,37 @@
   "items": [
     {
       "category": "Montag",
-      "date": "04.05.2026",
-      "name": "Rindergeschnetzeltes „Stroganoff“",
-      "description": "in Rahmsauce mit Gurkenstreifen und Champignons, dazu Gemüsereis",
+      "date": "11.05.2026",
+      "name": "Würzige Beef Ribs",
+      "description": "mit knusprigen Pommes frites und Coleslaw Garnitur",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "05.05.2026",
-      "name": "Ochsenbackenragout",
-      "description": "zart und aromatisch, dazu Süßkartoffelpüree",
+      "date": "12.05.2026",
+      "name": "Chili con Carne",
+      "description": "mexikanischer Bohneneintopf mit Rindfleisch, Chili und etwas Knoblauch, dazu Sour Cream und BLOCK HOUSE Brot",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "06.05.2026",
-      "name": "Steakteller",
-      "description": "kleine Rindersteaks, saftig gegrillt, dazu knusprige Pommes frites und würzige Teriyaki-Pfefferrahm-Sauce",
+      "date": "13.05.2026",
+      "name": "Saftig gegrilltes Huftsteak",
+      "description": "mit Gemüsepfanne „Südamerikanische Art“ und knusprigen Pommes frites",
       "price": "14,90 €"
     },
     {
-      "category": "Donnerstag",
-      "date": "07.05.2026",
-      "name": "Hühnerfrikassee",
-      "description": "mit Spargel, Champignons und Erbsen in milder Sauce6, dazu Langkorn-Wildreis",
-      "price": "13,90 €"
-    },
-    {
-      "category": "Freitag",
-      "date": "08.05.2026",
-      "name": "Gebratenes Seelachsfilet",
-      "description": "mit feinem Linsengemüse und Kartoffelpüree",
-      "price": "13,90 €"
-    },
-    {
       "category": "Wochen-Highlight",
-      "date": "04.05. bis 08.05.2026",
+      "date": "11.05. bis 15.05.2026",
       "name": "Huftmedaillons",
-      "description": "saftig gegrillt, dazu Baked Potato mit Sour Cream und BLOCK HOUSE Brot",
+      "description": "mit knackigem Pfannengemüse und BLOCK HOUSE Brot",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "04.05. bis 08.05.2026",
-      "name": "Rindfleischstreifen",
-      "description": "kross gebraten, mit feinen Pilzen in Rahm und Pommes frites",
+      "date": "11.05. bis 15.05.2026",
+      "name": "Putenmedaillons",
+      "description": "zart gegrillt, mit feinwürzigem Blattspinat und Baked Potato mit Sour Cream",
       "price": "14,90 €"
     }
   ]
