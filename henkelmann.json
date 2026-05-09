@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 04. — 08. Mai 2026",
+  "week": "KARTE VOM 11. — 15. Mai 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Rindersteak, Trüffelsauce, Spaghetti, Parmesan, Cherrytomaten",
-      "description": "Rindersteak, Trüffelsauce, Spaghetti, Parmesan, Cherrytomaten",
+      "name": "Roastbeef, hausgemachte Remoulade, Röstkartoffeln",
+      "description": "Roastbeef, hausgemachte Remoulade, Röstkartoffeln",
       "price": ""
     },
     {
       "category": "Dienstag",
-      "name": "Hähnchenbrustfilet in spanischer Mandel-Safransauce, Reis, süße Möhren, Salat",
-      "description": "Hähnchenbrustfilet in spanischer Mandel-Safransauce, Reis, süße Möhren, Salat",
-      "price": "15,90"
+      "name": "Putengeschnetzeltes in Curryrahmsauce mit Ananas, Reis, gebackener Banane",
+      "description": "Putengeschnetzeltes in Curryrahmsauce mit Ananas, Reis, gebackener Banane",
+      "price": "14,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Kohlrabi-Rahmgemüse mit Rinderfrikadellchen & Kartoffelpüree",
-      "description": "Kohlrabi-Rahmgemüse mit Rinderfrikadellchen & Kartoffelpüree",
-      "price": "14,90"
+      "name": "Spargel-Poreegratin mit Parmesan gebacken, Kartoffeln, kleines Kalbsschnitzel",
+      "description": "Spargel-Poreegratin mit Parmesan gebacken, Kartoffeln, kleines Kalbsschnitzel",
+      "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Hausgemachte Piroggi mit Kraut-Pilzfüllung & 3erlei Salaten: Gurke, Rote Beete, Möhre",
-      "description": "Hausgemachte Piroggi mit Kraut-Pilzfüllung & 3erlei Salaten: Gurke, Rote Beete, Möhre",
-      "price": "14,90"
+      "name": "Himmelfahrt - geschlossen",
+      "description": "Himmelfahrt - geschlossen",
+      "price": ""
     },
     {
       "category": "Freitag",
-      "name": "Lachs in Sesampanade, grüner Spargel, Duftreis, Rettich",
-      "description": "Lachs in Sesampanade, grüner Spargel, Duftreis, Rettich",
-      "price": "16,90"
+      "name": "Lasagne von Rinderhack mit Salat",
+      "description": "Lasagne von Rinderhack mit Salat",
+      "price": "14,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
