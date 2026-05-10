@@ -106,15 +106,15 @@
     },
     "Donnerstag": {
       "Tagessuppe": {
-        "name": "Feiertag - geschlossen",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Salate": {
-        "name": "",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "",
+        "name": "Feiertag - geschlossen",
         "price": ""
       },
       "2. Hauptgericht": {
@@ -140,15 +140,15 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Geschlossen",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Salate": {
-        "name": "",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "",
+        "name": "Geschlossen",
         "price": ""
       },
       "2. Hauptgericht": {
