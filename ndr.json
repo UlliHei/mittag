@@ -1,5 +1,117 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "11.05.2026",
+      "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Blumenkohlcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Pepperonata mit Paprika-Tomaten-Chilisauce(Knobi) und Petersilie",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frische Gemüsepfanne von Karotten, Zucchini Champignons mit Couscous, dazu Kräuter-Dip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Chinesisches Geschnetzeltes vom Schwein, mit Gemüse von Weißkohl, Chinakohl, Mungo Sprossen, Paprika und Karotten (Knobi) in süß-saurer Sauce an Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Karamellpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "12.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Kleine Ofenkartoffel mit buntem Eisbergsalat und Kräuterquark",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Protein-Bowl mit Linsensalat, Paprika, Tomaten, Gurken, Karottenstreifen, veganer Senfmayonaise und gerösteten Cashewkernen",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Pasta Bolognese mit Rinderhackfleisch und geriebenem Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "13.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Pasta mit Brokkoli-Frischkäsesauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zwei Mais-Chili Puffer (200g) mit buntem Salat von Tomate, Paprika und Gurke und Schnittlauch-Dip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Drei Nürnberger Rostbratwürstchen (100g) mit Bratensauce, Sauerkraut und hausgemachtem Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "6,80"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "15.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta-Pesto mit hausgemachtem Tomaten Pesto (Knobi) und Rucola",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet in Eihülle gebraten (160g) mit buntem Mayonnaise oder Essig-Öl-Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
