@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Hähnchenbrust mit Rahmsauce",
-      "description": "dazu Kartoffelpüree und Gemüse",
+      "name": "Schweineschnitzel",
+      "description": "knuspriges Schweineschnitzel mit Champignonsoße und Pommes frites",
       "price": "11,90"
     },
     {
-      "name": "Pasta Bolognese",
-      "description": "mit Rinderhackfleisch in Tomatensoße",
-      "price": "10,90"
+      "name": "Crispy Chickenburger",
+      "description": "saftiges Knusperhähnchenschnitzel im Burger Bun mit Tomaten, grünem Salat, Gurken und würziger Sauce, dazu Pommes frites",
+      "price": "11,90"
     },
     {
-      "name": "Vegetarisches Gemüsecurry",
-      "description": "mit Reis",
-      "price": "10,90"
+      "name": "Sommersalat mit Falafal",
+      "description": "frischer Sommersalat mit Tomaten, Gurken, knackigem grünem Salat und leichtem Dressing",
+      "price": "9,90"
     }
   ]
 }
