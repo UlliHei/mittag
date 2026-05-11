@@ -20,11 +20,11 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frische Gemüsepfanne von Karotten, Zucchini Champignons mit Couscous, dazu Kräuter-Dip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Bohnen-Tomatengemüse mit Zwiebeln und Knoblauch, dazu Salzkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
         },
         {
           "category": "Studio 3",
