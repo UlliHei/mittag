@@ -41,20 +41,6 @@
           "price_external": "9,90"
         },
         {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Rhabarbersauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Buntes Spitzkohlgemüse mit Blumenkohl und Karotten, dazu hausgemachtem Kartoffelpüree",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Abspann",
           "info": "vegan",
           "name": "Veganer Schokopudding von glutenfreier Hafermilch! mit veganer Vanillesauce",
