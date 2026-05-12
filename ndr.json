@@ -41,6 +41,13 @@
           "price_external": "2,45"
         },
         {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Buntes Spitzkohlgemüse mit Blumenkohl und Karotten, dazu hausgemachtem Kartoffelpüree",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
           "category": "Abspann",
           "info": "vegan",
           "name": "Veganer Schokopudding von glutenfreier Hafermilch! mit veganer Vanillesauce",
