@@ -2,46 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "13.05.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegan",
-          "name": "Karotten-Orangensuppe | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Pasta mit Brokkoli-Frischkäsesauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zwei Mais-Chili Puffer (200g) mit buntem Salat von Tomate, Paprika, Gurke und Tomaten-Dip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Paniertes Susländer Schweineschnitzel (160g) mit buntem Mayonnaisen-Kartoffelsalat und Zitrone",
-          "price_ndr": "7,90",
-          "price_external": "9,90"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Kirschquark",
-          "price_ndr": "1,26",
-          "price_external": "1,35"
-        }
-      ]
-    },
     "Freitag": {
       "date": "15.05.2026",
       "items": [
