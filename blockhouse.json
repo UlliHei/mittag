@@ -2,37 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "11.05.2026",
-      "name": "Würzige Beef Ribs",
-      "description": "mit knusprigen Pommes frites und Coleslaw Garnitur",
+      "date": "18.05.2026",
+      "name": "Sugo di Peposo",
+      "description": "geschmortes Rindfleisch in kräftiger Rotwein-Pfeffer-Sauce, dazu Pasta Orecchiette",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "12.05.2026",
-      "name": "Chili con Carne",
-      "description": "mexikanischer Bohneneintopf mit Rindfleisch, Chili und etwas Knoblauch, dazu Sour Cream und BLOCK HOUSE Brot",
+      "date": "19.05.2026",
+      "name": "Würzige Barbecue Spareribs",
+      "description": "dazu knusprige Pommes frites",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "13.05.2026",
+      "date": "20.05.2026",
       "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit Gemüsepfanne „Südamerikanische Art“ und knusprigen Pommes frites",
+      "description": "mit feinwürzigem Blattspinat und Kartoffelgratin",
+      "price": "14,90 €"
+    },
+    {
+      "category": "Donnerstag",
+      "date": "21.05.2026",
+      "name": "Herzhafte Rinderroulade",
+      "description": "in milder Rotweinsauce, dazu grüne Bohnen und Kartoffelpüree",
+      "price": "13,90 €"
+    },
+    {
+      "category": "Freitag",
+      "date": "22.05.2026",
+      "name": "Gebratenes Lachsfilet",
+      "description": "dazu knusprige Bratkartoffeln mit Beef-Baconwürfeln, Remouladen-Dip und Zitrone",
+      "price": "13,90 €"
+    },
+    {
+      "category": "Wochen-Highlight",
+      "date": "18.05. bis 22.05.2026",
+      "name": "Block Burger",
+      "description": "dazu Baked Potato mit Sour Cream und BLOCK HOUSE Brot",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "11.05. bis 15.05.2026",
-      "name": "Huftmedaillons",
-      "description": "mit knackigem Pfannengemüse und BLOCK HOUSE Brot",
-      "price": "14,90 €"
-    },
-    {
-      "category": "Wochen-Highlight",
-      "date": "11.05. bis 15.05.2026",
+      "date": "18.05. bis 22.05.2026",
       "name": "Putenmedaillons",
-      "description": "zart gegrillt, mit feinwürzigem Blattspinat und Baked Potato mit Sour Cream",
+      "description": "zart gegrillt, mit frischem Saisongemüse und Pommes frites",
       "price": "14,90 €"
     }
   ]
