@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "11.05.2026 - 15.05.2026",
+  "week": "18.05.2026 - 22.05.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,23 +12,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Gebratenes Hühnerfilet in einer cremigen Kokos-Erdnuss-Sauce mit Bambus und Paprika",
-        "price": "7,50 €"
+        "name": "Rinderhacksteak auf heller Spargel-Rahm",
+        "price": "6,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Gemüse-Reis-Pfanne mit Linsen und Knobi Dip",
+        "name": "Pita mit grünem Spargel, Tomate, Feta und einem Salatbouquet",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Spargel in Pasta geschichtet in Petersiliensauce mit Porree und Käse gebacken",
+        "name": "Gegrillter Blumenkohl mit Kartoffelwürfeln, Pariser Karotten, Salatbouquet und Sour Cream",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Brokkoli mit Mandeln",
+        "name": "Erbsen",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Tagesangebot",
+        "name": "Kartoffeln",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -46,23 +46,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lasagne \"al forno\" mit Rindfleisch und Gemüse in cremiger Sauce gebacken",
-        "price": "7,50 €"
+        "name": "Spaghetti Bolognese, tomatenlastig mit Parmesan",
+        "price": "6,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Tortelloni Pfanne mit einer Gemüsefüllung und Spinat auf einer Käsecreme",
+        "name": "Bratreis-Pfanne mit Mangold, mini Maiskölbchen und Yakisoba Sauce",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Spinat-Lauch-Strudel auf cremigem Gemüse",
+        "name": "Tortellini Ricotta & Spinaci mit Spinat-Creme-Sauce und Parmesan",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Kaisergemüse",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Tagesangebot",
+        "name": "Kroketten",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -80,23 +80,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Roastbeef (kalt) mit hausgemachter Remoulade und Salat",
-        "price": "7,50 €"
+        "name": "Feiner Kräuterbraten vom Schwein in Bratenjus mit frischer Petersilie",
+        "price": "6,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Bratkartoffeln mit Zwiebeln, Kümmel, Sour Cream und Salat",
+        "name": "Fusilli Nudeln mit veganer Spargel-Carbonara",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gebackene Fetaschnitte mit Tomaten und cremigem Gurkensalat",
+        "name": "Vegane Köttbullar-Kartoffel-Pfanne mit Feldsalat und einer veganen Kräuterremoulade",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gegrilltes Ofengemüse",
+        "name": "Prinzessbohnen",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Tagesangebot",
+        "name": "Makkaroni Nudeln",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -114,23 +114,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Feiertag - geschlossen",
-        "price": ""
+        "name": "dpa Hähnchen-Döner-Fleisch mit Weiß- und Rotkraut und Tzatziki",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "Gegrillte Pellkartoffel-Pfanne mit grünem Spargel, Tomaten und Quark",
+        "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "Großer Frühlingssalat mit Vitalgemüse, Sprossen, Gemüse Pommes und Trüffelcreme",
+        "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Grill-Champignons",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Tagesangebot",
+        "name": "Crunch-Pommes",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -148,15 +148,15 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Geschlossen",
-        "price": ""
+        "name": "Tomaten-Kassler-Eintopf mit Suppengrün und Kartoffelwürfeln",
+        "price": "6,50 €"
       },
       "2. Hauptgericht": {
-        "name": "",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Gemüse": {
