@@ -1,5 +1,178 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "18.05.2026",
+      "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Buntes Gemüse von Blumenkohl, Kohlrabi und Karotten mit Kerbelsauce und Salzkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegetarisch",
+          "name": "Gefüllte Pizzatasche mit Spinat, Tomate, Rucola und Mozzarella, dazu ein bunter Salat mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gyros von der Putenoberkeule mit Tzatziki, Krautsalat und Tomatenreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Pasta Bolognese mit Rinderhackfleisch(Knobi) und geriebenem Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Grießpudding mit Rhabarbersauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "19.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Spaghetti mit hausgemachter Gemüsebolognese",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frühlingsbowl mit Couscous, bunter Kresse, Tomaten, Mairübchen, körnigem Frischkäse und Sonnenblumenkerne",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Backfisch (160g) vom Seelachs, mit Erbsen und hausgemachtem Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "\"Cordon bleu\" vom Susländer Schwein mit Bratensauce, buntem Gemüse und Salzkartoffeln",
+          "price_ndr": "8,80",
+          "price_external": "10,90"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "20.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Grünes Gemüsecurry mit Erbsen, Bohnen, Frühlingszwiebeln, Brokkoli auf Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zwei Hirsepuffer (200g) mit Gemüse von Zucchini, Karotte, gelben Rüben und Schnittlauchquark",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Frikadelle (160g) aus gemischtem Hackfleisch(Rind&Schwein), mit Bratensauce, Bohnengemüse und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "vegan",
+          "name": "Veggi Burger vegetarisches Beyond-Patty im Sesambrötchen, mit Guacamole, Tomate und Gouda, dazu Pommes",
+          "price_ndr": "9,65",
+          "price_external": "12,10"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "21.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "",
+          "name": "Pasta mit Porree-Zitronensauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Pfannkuchen gefüllt mit Hirtenkäse, Spinat und Tomaten, dazu Eisbergsalat und Frischkäsedip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratene Hähnchenbrust(160g) mit Mango-Currysauce, Chinakohl-Sprossengemüse und Mie-Nudeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Ungarisches Rindergulasch von der dt. Färse, mit Paprika und Zwiebeln auf Pasta",
+          "price_ndr": "8,90",
+          "price_external": "10,90"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "22.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Kartoffelgratin mit Tomate und Mozzarella überbacken",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegan",
+          "name": "In Olivenöl gebratenes Gemüse von Zucchini, Auberginen, Paprika und Karotten mit Polenta-Püree",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Seelachsfilet mit Rahmspinat und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
