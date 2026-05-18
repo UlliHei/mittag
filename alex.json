@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Schweineschnitzel",
-      "description": "knuspriges Schweineschnitzel mit Champignonsoße und Pommes frites",
-      "price": "11,90"
+      "name": "Bandnudeln mit Pilzrahmsoße",
+      "description": "Bandnudeln mit gemischten Pilzen, Sahnesoße, frischer Petersilie und geriebenem Hartkäse",
+      "price": "10,90"
     },
     {
-      "name": "Crispy Chickenburger",
-      "description": "saftiges Knusperhähnchenschnitzel im Burger Bun mit Tomaten, grünem Salat, Gurken und würziger Sauce, dazu Pommes frites",
-      "price": "11,90"
+      "name": "Gebackener Hirtenkäse",
+      "description": "mit schwarzen Oliven und roten Zwiebeln in Kräutermarinade, dazu knusprige Baguettescheiben",
+      "price": "10,90"
     },
     {
-      "name": "Sommersalat mit Falafal",
-      "description": "frischer Sommersalat mit Tomaten, Gurken, knackigem grünem Salat und leichtem Dressing",
-      "price": "9,90"
+      "name": "Zartes Hähnchengeschnetzelles mit Reis",
+      "description": "Hähnchen in cremiger Soße mit Zwiebeln und Knoblauch, dazu wird lockerer Duftreis serviert",
+      "price": "11,90"
     }
   ]
 }
