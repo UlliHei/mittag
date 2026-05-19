@@ -5,7 +5,7 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": "1,20 €"
       },
       "Salate": {
         "name": "Tagesangebot",
@@ -39,7 +39,7 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": "1,20 €"
       },
       "Salate": {
         "name": "Tagesangebot",
@@ -73,7 +73,7 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": "1,20 €"
       },
       "Salate": {
         "name": "Tagesangebot",
@@ -107,7 +107,7 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": "1,20 €"
       },
       "Salate": {
         "name": "Tagesangebot",
@@ -118,7 +118,7 @@
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Gegrillte Pellkartoffel-Pfanne mit mit grünem Spargel, Tomaten und Quark",
+        "name": "Gegrillte Pellkartoffel-Pfanne mit grünem Spargel, Tomaten und Quark",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
@@ -141,7 +141,7 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": "1,20 €"
       },
       "Salate": {
         "name": "Tagesangebot",
