@@ -2,81 +2,27 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "19.05.2026",
+    "Mittwoch": {
+      "date": "20.05.2026",
       "items": [
         {
           "category": "Vorspann",
           "info": "vegan",
-          "name": "Gemüsecremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "Spaghetti mit hausgemachter Gemüsebolognese (Knobi)",
+          "name": "Buntes Gemüsecurry mit Erbsen, Bohnen, Frühlingszwiebeln, Brokkoli(Knobi) auf Reis",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Frühlingsbowl mit Couscous, bunter Kresse, Tomaten, Mairübchen, körnigem Frischkäse und Sonnenblumenkerne",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Backfisch (160g) vom Seelachs, mit Erbsen-Wurzelgemüse und hausgemachtem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "\"Cordon bleu\" vom Susländer Schwein mit Bratensauce, buntem Gemüse und Salzkartoffeln",
-          "price_ndr": "8,80",
-          "price_external": "10,90"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegan",
-          "name": "Aus dem Wok: Frisches Gemüse von Karotte, Brokkoli, Weißkohl und Sojasprossen mit Sojasauce (Knobi) auf Basmatireis",
-          "price_ndr": "6,90",
-          "price_external": "8,90"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Aprikosen-Mango Joghurt",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Kirschpudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "20.05.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Grünes Gemüsecurry mit Erbsen, Bohnen, Frühlingszwiebeln, Brokkoli auf Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zwei Hirsepuffer (200g) mit Gemüse von Zucchini, Karotte, gelben Rüben und Schnittlauchquark",
+          "name": "Zwei Hirsepuffer (200g) mit Gemüse von Zucchini, Karotte, Sellerie, Schnittlauchquark und bunter Salat mit Dressing nach Wahl",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -90,9 +36,16 @@
         {
           "category": "Live Sendung",
           "info": "vegan",
-          "name": "Veggi Burger vegetarisches Beyond-Patty im Sesambrötchen, mit Guacamole, Tomate und Gouda, dazu Pommes",
+          "name": "Veggi Burger veganes Beyond-Patty im Sesambrötchen, mit Guacamole, Tomate und veganem Gouda, dazu Pommes",
           "price_ndr": "9,65",
           "price_external": "12,10"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Stracciatellacreme .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
