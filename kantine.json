@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Rinderhacksteak auf heller Spargel-Rahm",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Spaghetti Bolognese, tomatenlastig mit Parmesan",
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Feiner Kräuterbraten vom Schwein in Bratenjus mit frischer Petersilie",
@@ -107,18 +107,18 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "dpa Hähnchen-Döner-Fleisch mit Weiß- und Rotkraut und Tzatziki",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Gegrillte Pellkartoffel-Pfanne mit grünem Spargel, Tomaten und Quark",
+        "name": "Gegrillte Pellkartoffel-Pfanne mit mit grünem Spargel, Tomaten und Quark",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Tomaten-Kassler-Eintopf mit Suppengrün und Kartoffelwürfeln",
