@@ -20,13 +20,6 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zwei Pfannkuchen gefüllt mit Hirtenkäse, Spinat, Tomaten und Frischkäse, dazu Eisbergsalat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Studio 3",
           "info": "",
           "name": "Gebratene Hähnchenbrust(160g) mit Mango-Currysauce (Knobi), Chinakohl-Sprossengemüse und Mie-Nudeln",
@@ -39,13 +32,6 @@
           "name": "Ungarisches Rindergulasch von der dt. Färse, mit Paprika und Zwiebeln(Knobi) an hausgemachtem Kartoffelpüree",
           "price_ndr": "8,90",
           "price_external": "10,90"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegan",
-          "name": "Pasta mit hausgemachter Gemüsebolognese (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
         },
         {
           "category": "Abspann",
