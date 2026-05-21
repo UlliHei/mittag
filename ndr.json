@@ -2,56 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "20.05.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Buntes Gemüsecurry mit Erbsen, Bohnen, Frühlingszwiebeln, Brokkoli(Knobi) auf Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zwei Hirsepuffer (200g) mit Gemüse von Zucchini, Karotte, Sellerie, Schnittlauchquark und bunter Salat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Frikadelle (160g) aus gemischtem Hackfleisch(Rind&Schwein), mit Bratensauce, Bohnengemüse und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "vegan",
-          "name": "Veggi Burger veganes Beyond-Patty im Sesambrötchen, mit Guacamole, Tomate und veganem Gouda, dazu Pommes",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Stracciatellacreme .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "21.05.2026",
       "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegan",
+          "name": "Zwiebelrahmsuppe / Teller NDR 3,25 € / Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
         {
           "category": "Studio 1",
           "info": "",
@@ -62,23 +22,37 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Pfannkuchen gefüllt mit Hirtenkäse, Spinat und Tomaten, dazu Eisbergsalat und Frischkäsedip",
+          "name": "Zwei Pfannkuchen gefüllt mit Hirtenkäse, Spinat, Tomaten und Frischkäse, dazu Eisbergsalat mit Dressing nach Wahl",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Gebratene Hähnchenbrust(160g) mit Mango-Currysauce, Chinakohl-Sprossengemüse und Mie-Nudeln",
+          "name": "Gebratene Hähnchenbrust(160g) mit Mango-Currysauce (Knobi), Chinakohl-Sprossengemüse und Mie-Nudeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Live Sendung",
           "info": "",
-          "name": "Ungarisches Rindergulasch von der dt. Färse, mit Paprika und Zwiebeln auf Pasta",
+          "name": "Ungarisches Rindergulasch von der dt. Färse, mit Paprika und Zwiebeln(Knobi) an hausgemachtem Kartoffelpüree",
           "price_ndr": "8,90",
           "price_external": "10,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegan",
+          "name": "Pasta mit hausgemachter Gemüsebolognese (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Schokopudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
