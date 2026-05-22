@@ -2,49 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "21.05.2026",
+    "Freitag": {
+      "date": "22.05.2026",
       "items": [
         {
           "category": "Vorspann",
           "info": "vegan",
-          "name": "Zwiebelrahmsuppe / Teller NDR 3,25 € / Gäste 3,80 €",
+          "name": "Currysuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
-        {
-          "category": "Studio 1",
-          "info": "",
-          "name": "Pasta mit Porree-Zitronensauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Gebratene Hähnchenbrust(160g) mit Mango-Currysauce (Knobi), Chinakohl-Sprossengemüse und Mie-Nudeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Ungarisches Rindergulasch von der dt. Färse, mit Paprika und Zwiebeln(Knobi) an hausgemachtem Kartoffelpüree",
-          "price_ndr": "8,90",
-          "price_external": "10,90"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Schokopudding mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Freitag": {
-      "date": "22.05.2026",
-      "items": [
         {
           "category": "Studio 1",
           "info": "vegetarisch",
@@ -55,16 +22,51 @@
         {
           "category": "Studio 2",
           "info": "vegan",
-          "name": "In Olivenöl gebratenes Gemüse von Zucchini, Auberginen, Paprika und Karotten mit Polenta-Püree",
+          "name": "In Olivenöl gebratenes Gemüse von Zucchini, Auberginen, Paprika und Karotten (Knobi) mit Polenta-Püree",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Gebratenes Seelachsfilet mit Rahmspinat und Salzkartoffeln",
+          "name": "Seelachsfilet (160g) in Eihülle gebraten, mit Rahmspinat und hausgemachtem Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet (160g) in Eihülle gebraten, mit Rahmspinat und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln(Knobi) auf Pasta",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegan",
+          "name": "Bratnudeln mit Gemüse von Chinakohl, Sprossen und süß-saurer Sauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Aprikosen-Mango Joghurt",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Stracciatellacreme .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
