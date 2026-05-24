@@ -12,11 +12,11 @@
         "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Feiertag - geschlossen",
+        "name": "",
         "price": ""
       },
       "2. Hauptgericht": {
-        "name": "",
+        "name": "Feiertag - geschlossen",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
