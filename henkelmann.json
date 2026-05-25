@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 18. — 22. Mai 2026",
+  "week": "KARTE VOM 25. — 28. Mai 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Feine Bratwurst, Kohlrabi-Rahmgemüse, Salzkartoffeln",
-      "description": "Feine Bratwurst, Kohlrabi-Rahmgemüse, Salzkartoffeln",
+      "name": "Pfingstmontag - geschlossen",
+      "description": "Pfingstmontag - geschlossen",
       "price": ""
     },
     {
       "category": "Dienstag",
-      "name": "Lachs in Sesampanade, Teriyakisauce, grüner Spargel, Duftreis, marinierter Rettich",
-      "description": "Lachs in Sesampanade, Teriyakisauce, grüner Spargel, Duftreis, marinierter Rettich",
-      "price": "16,90"
-    },
-    {
-      "category": "Mittwoch",
-      "name": "Königsberger Klopse in Kapernsauce nach Frühlingsart mit Frankfurter Kräutern, Püree, Erbsen",
-      "description": "Königsberger Klopse in Kapernsauce nach Frühlingsart mit Frankfurter Kräutern, Püree, Erbsen",
+      "name": "„Sommerbolognese“ – Rinderhack, Tomatensalat, Spaghetti, Parmesanhobel",
+      "description": "„Sommerbolognese“ – Rinderhack, Tomatensalat, Spaghetti, Parmesanhobel",
       "price": "15,90"
     },
     {
+      "category": "Mittwoch",
+      "name": "Zürcher Geschnetzeltes vom Kalb mit Kartoffelrösti & Gurkensalat",
+      "description": "Zürcher Geschnetzeltes vom Kalb mit Kartoffelrösti & Gurkensalat",
+      "price": "16,90"
+    },
+    {
       "category": "Donnerstag",
-      "name": "Gratiniertes Frühlingsgemüseragout, gebackenes Hefebrioche mit Käsekern, Kopfsalat",
-      "description": "Gratiniertes Frühlingsgemüseragout, gebackenes Hefebrioche mit Käsekern, Kopfsalat",
+      "name": "Mit Parmesan gratinierter Kohlrabi, Dinkelfüllung, Möhrensauce, Mohn",
+      "description": "Mit Parmesan gratinierter Kohlrabi, Dinkelfüllung, Möhrensauce, Mohn",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Klassisches Bauernfrühstück mit Dithmarscher Katenschinken & Gewürzgurkenhäckerle",
-      "description": "Klassisches Bauernfrühstück mit Dithmarscher Katenschinken & Gewürzgurkenhäckerle",
-      "price": "14,90"
+      "name": "Gebratene Merguezwürstchen, warmer Hummus, Gemüsebulgur, Salat, Joghurt",
+      "description": "Gebratene Merguezwürstchen, warmer Hummus, Gemüsebulgur, Salat, Joghurt",
+      "price": "15,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
