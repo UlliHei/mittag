@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Bandnudeln mit Pilzrahmsoße",
-      "description": "Bandnudeln mit gemischten Pilzen, Sahnesoße, frischer Petersilie und geriebenem Hartkäse",
+      "name": "Gnocchi mit Spinat & Parmesan",
+      "description": "Gnocchi mit Spinat & Parmesan -  Kartoffelgnocchi mit Spinat in einer sahnigen Soße, dazu Spinat und Käse",
       "price": "10,90"
     },
     {
-      "name": "Gebackener Hirtenkäse",
-      "description": "mit schwarzen Oliven und roten Zwiebeln in Kräutermarinade, dazu knusprige Baguettescheiben",
-      "price": "10,90"
-    },
-    {
-      "name": "Zartes Hähnchengeschnetzelles mit Reis",
-      "description": "Hähnchen in cremiger Soße mit Zwiebeln und Knoblauch, dazu wird lockerer Duftreis serviert",
+      "name": "Hähnchenschnitzel mit Asia-Gemüse",
+      "description": "gebratenes Hähnchenschnitzel wird knackigem Asia -Gemüse, Karotten und Paprika, gewürzt mit Asia-Sauce",
       "price": "11,90"
+    },
+    {
+      "name": "Mediterraner Bauernsalat mit knusprigem Ciabatta",
+      "description": "Tomaten, Gurken, Paprika, Oliven und Feta, gewürzt mit Olivenöl und Kräutern",
+      "price": "9,90"
     }
   ]
 }
