@@ -1,5 +1,117 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Dienstag": {
+      "date": "26.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Frühlingssuppentopf mit viel Gemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Drei Kartoffeltaschen mit Frischkäsefüllung dazu Quark und bunter Salat mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gegrillte Hähnchenkeule mit Paprikagemüse, BBQ-Dip und Wedges",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "27.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta mit Bärlauchsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Reis-Bowl mit Reissalat, Kurkuma-Blumenkohl, Blattsalat, Tomaten, Hirtenkäse und kandierten Sonnenblumenkerne",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hausgemachter Hackbraten aus gemischtem Hackfleisch (Rind&Schwein), mit Rahmkohlrabi und Petersilienkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Gekochtes Rindfleisch (200g) von der deutsche Färse, mit Meerrettichsauce, Wurzelgemüse und hausgemachtem Kartoffelpüree",
+          "price_ndr": "8,90",
+          "price_external": "10,90"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "28.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Nasi Goreng\" Indonesischer Bratreis mit Sprossen, Weißkohl, Lauch und Erbsen, dazu Chilisauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zucchinibratling mit buntem Gemüserisotto und Kressedip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Putenbraten aus der Keule mit Geflügelsauce, Pastinaken-Karottengemüse und Kartoffelgratin",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "29.05.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta mit Gemüsestreifen und Basilikumsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frischer Blumenkohl \"Polnische Art\" mit Semmelbröseln und Butter an Salzkartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Seelachsfilet (160g) mit Limonensauce und warmen Gemüse-Taboulé",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
