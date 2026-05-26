@@ -8,7 +8,7 @@
         {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "Frühlingssuppentopf mit viel Gemüse",
+          "name": "Frühlingssuppentopf mit viel Gemüse und Nudeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -22,9 +22,23 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Gegrillte Hähnchenkeule mit Paprikagemüse, BBQ-Dip und Wedges",
+          "name": "Gegrillte Hähnchenkeule mit Paprika-BBQ-Letscho (Knobi)und Wedges",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegan",
+          "name": "In Olivenöl gebratenes Gemüse von Zucchini, Auberginen, Paprika und Karotten (Knobi) auf Pasta",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Karamellpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
