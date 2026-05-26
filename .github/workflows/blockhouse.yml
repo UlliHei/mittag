@@ -5,6 +5,7 @@ on:
   schedule:
     - cron: "30 6 * * *"
     - cron: "30 5 * * *"
+
 permissions:
   contents: write
 
@@ -66,7 +67,12 @@ jobs:
 
           lunch_lines = lines[start:end]
 
-          weekday_pattern = re.compile(r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag)\s*\|\s*(\d{2}\.\d{2}\.\d{4})$")
+          weekday_pattern = re.compile(
+              r"^(Montag|Dienstag|Mittwoch|Donnerstag|Freitag)\s*\|\s*(\d{2}\.\d{2}\.\d{4})$"
+          )
+
+          def is_price(text):
+              return "€" in text
 
           items = []
           i = 0
@@ -75,15 +81,41 @@ jobs:
               line = lunch_lines[i]
 
               match = weekday_pattern.match(line)
+
               if match:
                   weekday = match.group(1)
                   date = match.group(2)
 
-                  name = lunch_lines[i + 1]
-                  description = lunch_lines[i + 2]
-                  price = lunch_lines[i + 3]
+                  j = i + 1
+                  block = []
 
-                  if "€" in price:
+                  while j < len(lunch_lines):
+                      next_line = lunch_lines[j]
+
+                      if weekday_pattern.match(next_line):
+                          break
+
+                      if next_line == "Wochen-Highlights":
+                          break
+
+                      if next_line.startswith("Vom "):
+                          break
+
+                      block.append(next_line)
+                      j += 1
+
+                  price_index = None
+
+                  for k, value in enumerate(block):
+                      if is_price(value):
+                          price_index = k
+                          break
+
+                  if price_index is not None and price_index >= 1:
+                      name = block[0]
+                      description = " ".join(block[1:price_index]).strip()
+                      price = block[price_index]
+
                       items.append({
                           "category": weekday,
                           "date": date,
@@ -91,7 +123,8 @@ jobs:
                           "description": description,
                           "price": price
                       })
-                  i += 4
+
+                  i = j
                   continue
 
               if line == "Wochen-Highlights":
@@ -101,11 +134,33 @@ jobs:
               if line.startswith("Vom "):
                   date = line.replace("Vom ", "")
 
-                  name = lunch_lines[i + 1]
-                  description = lunch_lines[i + 2]
-                  price = lunch_lines[i + 3]
+                  j = i + 1
+                  block = []
 
-                  if "€" in price:
+                  while j < len(lunch_lines):
+                      next_line = lunch_lines[j]
+
+                      if weekday_pattern.match(next_line):
+                          break
+
+                      if next_line.startswith("Vom "):
+                          break
+
+                      block.append(next_line)
+                      j += 1
+
+                  price_index = None
+
+                  for k, value in enumerate(block):
+                      if is_price(value):
+                          price_index = k
+                          break
+
+                  if price_index is not None and price_index >= 1:
+                      name = block[0]
+                      description = " ".join(block[1:price_index]).strip()
+                      price = block[price_index]
+
                       items.append({
                           "category": "Wochen-Highlight",
                           "date": date,
@@ -113,7 +168,8 @@ jobs:
                           "description": description,
                           "price": price
                       })
-                  i += 4
+
+                  i = j
                   continue
 
               i += 1
@@ -122,6 +178,7 @@ jobs:
               json.dump({"items": items}, f, ensure_ascii=False, indent=2)
 
           print("blockhouse.json erstellt")
+          print(json.dumps({"items": items}, ensure_ascii=False, indent=2))
           PY
 
       - name: Datei committen
