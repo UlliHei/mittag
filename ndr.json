@@ -8,30 +8,23 @@
         {
           "category": "Studio 1",
           "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomatensauce (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegan",
           "name": "Frühlingssuppentopf mit viel Gemüse und Nudeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Drei Kartoffeltaschen mit Frischkäsefüllung dazu Quark und bunter Salat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Studio 3",
           "info": "",
-          "name": "Gegrillte Hähnchenkeule mit Paprika-BBQ-Letscho (Knobi)und Wedges",
+          "name": "Hausgemachte Frikadelle (Knobi) aus gem. Hackfleisch(Rind&Scwein) mit Kräuter-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegan",
-          "name": "In Olivenöl gebratenes Gemüse von Zucchini, Auberginen, Paprika und Karotten (Knobi) auf Pasta",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
         },
         {
           "category": "Abspann",
