@@ -1,6 +1,13 @@
 {
   "items": [
     {
+      "category": "Dienstag",
+      "date": "26.05.2026",
+      "name": "Paniertes Putenschnitzel",
+      "description": "dazu knusprige Pommes frites",
+      "price": "13,90 €"
+    },
+    {
       "category": "Mittwoch",
       "date": "27.05.2026",
       "name": "Saftig gegrilltes Huftsteak",
