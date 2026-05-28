@@ -35,13 +35,6 @@
         },
         {
           "category": "Sondersendung",
-          "info": "",
-          "name": "Paniertes Schnitzel vom Schwein \"Wiener Art\" (160g) mit buntem Mayonnaisen-Kartoffelsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
           "info": "vegetarisch",
           "name": "Frisches Gemüse von Kohlrabi, Karotten, Porree und Sellerie mit einer Béchamelsauce und hausgemachtem Kartoffelpüree",
           "price_ndr": "5,40",
@@ -50,16 +43,9 @@
         {
           "category": "Abspann",
           "info": "vegetarisch",
-          "name": "Crème Brûlée \"hausgemacht\"",
+          "name": "Hausgemachtes Schokomousse .",
           "price_ndr": "1,45",
           "price_external": "1,65"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Schokopudding mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
         }
       ]
     },
