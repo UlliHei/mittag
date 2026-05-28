@@ -5,18 +5,18 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Feiertag - geschlossen",
+        "name": "",
         "price": ""
       },
       "2. Hauptgericht": {
-        "name": "",
+        "name": "Feiertag - geschlossen",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
@@ -80,7 +80,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Pulled-Hähnchen-Lasagne mit Tomaten und Bechamel",
+        "name": "Pulled-Hähnchen-Lasagne mit Tomaten und Béchamel",
         "price": "6,50 €"
       },
       "2. Hauptgericht": {
@@ -141,7 +141,7 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
