@@ -2,90 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "27.05.2026",
+    "Donnerstag": {
+      "date": "28.05.2026",
       "items": [
         {
           "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Tomatencremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "info": "vegan",
+          "name": "Mexikanische Bohnensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "Pasta mit Petersilien Gremolata (Knobi)",
+          "name": "\"Nasi Goreng\" Indonesischer Bratreis mit Sprossen, Weißkohl, Lauch und Erbsen,(Knobi) dazu Chilisauce",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Reis-Bowl mit Reissalat, Kurkuma-Blumenkohl, Blattsalat, Tomaten, Hirtenkäse und kandierten Sonnenblumenkerne",
+          "name": "Zwei Zucchini-Karottenbratlinge(200g) mit Röstkartoffeln und Kressedip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Hausgemachter Hackbraten aus gemischtem Hackfleisch (Rind&Schwein), mit Rahmkohlrabi und Petersilienkartoffeln",
+          "name": "Putengeschnetzeltes in Rahmsauce mit Waldpilzen auf Pasta",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Sondersendung",
           "info": "",
-          "name": "Gekochtes Rindfleisch (200g) von der deutschen Färse, mit Meerrettichsauce, Wurzelgemüse und hausgemachtem Kartoffelpüree",
-          "price_ndr": "8,90",
-          "price_external": "10,90"
+          "name": "Paniertes Schnitzel vom Schwein \"Wiener Art\" (160g) mit buntem Mayonnaisen-Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
         },
         {
           "category": "Sondersendung",
           "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Himbeersauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Kibbelinge (180g) vom Seelachsfilet, mit buntem Mayonnaisen-Kartoffelsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
+          "name": "Frisches Gemüse von Kohlrabi, Karotten, Porree und Sellerie mit einer Béchamelsauce und hausgemachtem Kartoffelpüree",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
           "category": "Abspann",
           "info": "vegetarisch",
-          "name": "Latte-Macchiato-Pudding",
+          "name": "Crème Brûlée \"hausgemacht\"",
           "price_ndr": "1,45",
           "price_external": "1,65"
-        }
-      ]
-    },
-    "Donnerstag": {
-      "date": "28.05.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "\"Nasi Goreng\" Indonesischer Bratreis mit Sprossen, Weißkohl, Lauch und Erbsen, dazu Chilisauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zucchinibratling mit buntem Gemüserisotto und Kressedip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Putenbraten aus der Keule mit Geflügelsauce, Pastinaken-Karottengemüse und Kartoffelgratin",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Schokopudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
