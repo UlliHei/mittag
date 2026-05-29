@@ -2,67 +2,27 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "28.05.2026",
+    "Freitag": {
+      "date": "29.05.2026",
       "items": [
         {
           "category": "Vorspann",
-          "info": "vegan",
-          "name": "Mexikanische Bohnensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "info": "vegetarisch",
+          "name": "Kohlrabicremesuppe | Teller NDR 3,25€ | Gäste 3,80€",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "\"Nasi Goreng\" Indonesischer Bratreis mit Sprossen, Weißkohl, Lauch und Erbsen,(Knobi) dazu Chilisauce",
+          "name": "Pasta mit Spinatsauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Zwei Hirse-Gemüsebratlinge (200g) von Lauch, Sellerie, Karotte, mit Wedges und Kressedip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Putengeschnetzeltes in Rahmsauce mit Waldpilzen auf Pasta",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Frisches Gemüse von Kohlrabi, Karotten, Porree und Sellerie mit einer Béchamelsauce und hausgemachtem Kartoffelpüree",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Hausgemachtes Schokomousse .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Freitag": {
-      "date": "29.05.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Pasta mit Gemüsestreifen und Basilikumsauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frischer Blumenkohl \"Polnische Art\" mit Semmelbröseln und Butter an Salzkartoffeln",
+          "name": "Frischer Blumenkohl \"Polnische Art\" mit Semmelbröseln, Ei und Butter an Salzkartoffeln",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -72,6 +32,27 @@
           "name": "Gebratenes Seelachsfilet (160g) mit Limonensauce und warmen Gemüse-Taboulé",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Hamburger Pannfisch\" Bratkartoffelpfanne mit Seelachs, Kräutern, Ei, Zwiebeln, Senfsauce und Gurkensalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hausgemachter Hackbraten aus gemischtem Hackfleisch (Rind&Schwein), mit Bratensauce, Blumenkohl-Kohlrabi-Brokkoligemüse und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Latte-Macchiato-Pudding",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
