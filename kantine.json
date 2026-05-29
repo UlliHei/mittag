@@ -5,18 +5,18 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "",
+        "name": "Feiertag - geschlossen",
         "price": ""
       },
       "2. Hauptgericht": {
-        "name": "Feiertag - geschlossen",
+        "name": "",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
@@ -39,14 +39,14 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Asia Rindfleisch mit viel Wokgemüse in Zitronengrassauce",
+        "name": "Asia Rindfleisch mit viel Wokgemüse in Zitronengrasssauce",
         "price": "6,50 €"
       },
       "2. Hauptgericht": {
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Pulled-Hähnchen-Lasagne mit Tomaten und Béchamel",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "dpa-Currywurst mit fruchtiger Currysauce, Röstzwiebeln und Alibi-Salat",
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Rindergulasch mit Schmand und Kräuterbrot",
