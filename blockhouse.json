@@ -1,45 +1,52 @@
 {
   "items": [
     {
-      "category": "Dienstag",
-      "date": "26.05.2026",
-      "name": "Paniertes Putenschnitzel",
+      "category": "Montag",
+      "date": "01.06.2026",
+      "name": "„Cordon bleu“ vom Schwein",
       "description": "dazu knusprige Pommes frites",
       "price": "13,90 €"
     },
     {
+      "category": "Dienstag",
+      "date": "02.06.2026",
+      "name": "Hackbällchen",
+      "description": "in mediterraner Tomatensauce mit Fusilloni",
+      "price": "13,90 €"
+    },
+    {
       "category": "Mittwoch",
-      "date": "27.05.2026",
-      "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit Chilibohnen-Gemüse und Baked Potato mit Sour Cream",
+      "date": "03.06.2026",
+      "name": "Steakteller",
+      "description": "kleine Rindersteaks, saftig gegrillt, dazu knusprige Pommes frites und würzige Teriyaki-Pfefferrahm-Sauce",
       "price": "14,90 €"
     },
     {
       "category": "Donnerstag",
-      "date": "28.05.2026",
-      "name": "Lammgulasch",
-      "description": "in kräftiger Rosmarin-Thymian-Sauce, dazu Kartoffelgratin",
+      "date": "04.06.2026",
+      "name": "Schweinemedaillons",
+      "description": "in Orangensauce mit rosa Pfeffer, dazu Süßkartoffelpüree",
       "price": "13,90 €"
     },
     {
       "category": "Freitag",
-      "date": "29.05.2026",
-      "name": "Backfisch",
-      "description": "dazu Kartoffelsalat und Remouladen-Dip",
+      "date": "05.06.2026",
+      "name": "Lachsfilet",
+      "description": "in Dill-Weißwein-Sauce, dazu Langkorn-Wildreis",
       "price": "13,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "25.05. bis 29.05.2026",
-      "name": "Rindfleischstreifen",
-      "description": "kross gebraten, dazu Pfefferrahm-Sauce und Pommes frites",
+      "date": "01.06. bis 05.06.2026",
+      "name": "Block Burger",
+      "description": "mit feinwürzigem Blattspinat und BLOCK HOUSE Brot",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "25.05. bis 29.05.2026",
-      "name": "Großer Salat",
-      "description": "mit Putenmedaillons, American Dressing und BLOCK HOUSE Brot, vorweg eine Bruschetta",
+      "date": "01.06. bis 05.06.2026",
+      "name": "Vier kleine Rindersteaks",
+      "description": "saftig gegrillt, mit knackigem Pfannengemüse und Baked Potato mit Sour Cream",
       "price": "14,90 €"
     }
   ]
