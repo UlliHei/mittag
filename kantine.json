@@ -1,30 +1,30 @@
 {
   "source": "dpa Kantine",
-  "week": "25.05.2026 - 29.05.2026",
+  "week": "01.06.2026 - 05.06.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Feiertag - geschlossen",
-        "price": ""
+        "name": "Herzhafter Gulaschtopf vom Rind mit roten Zwiebeln, Paprika und Kräuterschmand",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "Spätzle mit Schmorzwiebeln, Lauch und buntem Salat",
+        "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "Kartoffel-Gemüse-Taler mit Haferflocken, Gemüse und Sour Cream",
+        "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Prinzessböhnchen",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -39,30 +39,30 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Asia Rindfleisch mit viel Wokgemüse in Zitronengrasssauce",
-        "price": "6,50 €"
+        "name": "Truthahn-Involtini mit Spinat in Basilikum-Tomaten-Sauce",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Rigatoni Pasta mit Kirschtomaten, Parmesan und hausgemachtem Rauke Pesto",
+        "name": "Penne mit Bohnen und Ruccola, Grana Padano und Pinienkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Ofenkartoffel mit Champignons, Lauch, Salat und Kräuterquark",
+        "name": "Spinat-Fetakäse-Quiche mit Tomaten und Nüssen",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Erbsen",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Reis",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -73,30 +73,30 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Pulled-Hähnchen-Lasagne mit Tomaten und Béchamel",
-        "price": "6,50 €"
+        "name": "Lachslasagne mit Spinat und Mozzarella in cremiger Sauce gebacken",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Couscous-Pfanne mit Bohnen, Karotten, gelber Paprika, Salatbouquet und Kräuterquark",
-        "price": "4,90 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Veganes Spargel-Kartoffel-Gratin mit Lauch und Salatbeilage",
+        "name": "Asia-Bratnudel-Pfanne mit Wok-Gemüse, Erdnüssen und Kokos-Sud",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Flandern Gemüse",
+        "name": "Blattspinat",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Pasta",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -107,30 +107,30 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit fruchtiger Currysauce, Röstzwiebeln und Alibi-Salat",
-        "price": "6,50 €"
+        "name": "dpa-Currywurst mit Alibi-Salat, Röstzwiebeln und Pommes frites",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Großer Frühlingssalat mit Vitalgemüse, Sprossen, Mozarella-Sticks und GuacaMayo",
-        "price": "4,90 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Linsenburger im Blätterteig-Bun mit Baby Leaf Salat und Rote Beete-Sesam-Vinaigrette",
+        "name": "Papardelle mit einem Linsen-Sojahackragout, Tomaten und Käse",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Vitalgemüse",
+        "name": "mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Pommes",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -141,15 +141,15 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Rindergulasch mit Schmand und Kräuterbrot",
-        "price": "6,50 €"
+        "name": "Cremige Spargelcremesuppe mit Fleischbällchen, Blattpetersilie und Baguette",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
