@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Gnocchi mit Spinat & Parmesan",
-      "description": "Gnocchi mit Spinat & Parmesan -  Kartoffelgnocchi mit Spinat in einer sahnigen Soße, dazu Spinat und Käse",
-      "price": "10,90"
+      "name": "Leckere Spargelcremesuppe mit Kräuterciabatta",
+      "description": "Feine Suppe aus frischem Spargel, verfeinert mit Sahne und Butter, dazu Kräuterciabatta",
+      "price": "7,90"
     },
     {
-      "name": "Hähnchenschnitzel mit Asia-Gemüse",
-      "description": "gebratenes Hähnchenschnitzel wird knackigem Asia -Gemüse, Karotten und Paprika, gewürzt mit Asia-Sauce",
+      "name": "Knuspiger Hähnchenstreifen auf Reis mit Pilzrahmesoße",
+      "description": "Goldbraun panierte Hähnchenstreifen, knusprig gebraten - serviert mit lockerem Reis, dazu eine cremige Pilzsoße",
       "price": "11,90"
     },
     {
-      "name": "Mediterraner Bauernsalat mit knusprigem Ciabatta",
-      "description": "Tomaten, Gurken, Paprika, Oliven und Feta, gewürzt mit Olivenöl und Kräutern",
-      "price": "9,90"
+      "name": "Thunfischsalat mit Ciabatta",
+      "description": "frischer gemischter Salat mit saftigem Thunfisch, Gurken, Tomaten, Paprika, Zwiebeln und gekochten Ei, serviert mit einem leichtem Dressing",
+      "price": "10,90"
     }
   ]
 }
