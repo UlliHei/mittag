@@ -3,8 +3,10 @@ name: Update Alex JSON
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 6 * * *"
-    - cron: "00 5 * * *"
+    - cron: "05 4 * * *"
+    - cron: "05 5 * * *"
+    - cron: "05 6 * * *"
+    - cron: "05 7 * * *"
 
 permissions:
   contents: write
