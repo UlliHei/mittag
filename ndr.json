@@ -2,48 +2,29 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "01.06.2026",
-      "items": [
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Zwei Lammhacksteaks (160g) mit Pommes Frites, Zaziki und Krautsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "02.06.2026",
       "items": [
         {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Italienischer Tomaten-Gemüseeintopf mit Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frisches Gemüse von Kohlrabi, Frühlingszwiebeln, Karotten und Zucchini mit Rösti und Schnittlauchcreme",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Studio 3",
           "info": "",
-          "name": "Paprikagulasch vom Schwein, mit Zwiebeln und Spätzle",
+          "name": "Paprikagulasch vom Schwein, mit Zwiebeln (Knobi) auf Spätzle",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Live Sendung",
           "info": "vegetarisch",
-          "name": "Canneloni ripieni fünf Stück mit Spinat und Ricotta gefüllt, in Tomatensauce und mit Käse überbacken",
+          "name": "Canneloni ripieni sechs Stück mit Spinat und Ricotta gefüllt, in Tomatensauce (Knobi) und mit Käse überbacken",
           "price_ndr": "5,80",
           "price_external": "7,80"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Gekochtes Rindfleisch (200g) von der deutschen Färse, mit Meerrettichsauce, Karotten und Salzkartoffeln",
+          "price_ndr": "8,90",
+          "price_external": "10,90"
         }
       ]
     },
