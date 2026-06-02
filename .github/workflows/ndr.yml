@@ -3,16 +3,16 @@ name: Update NDR JSON
 on:
   workflow_dispatch:
   schedule:
-  - cron: "17 3 * * 1-6"
-  - cron: "37 3 * * 1-6"
-  - cron: "17 4 * * 1-6"
-  - cron: "37 4 * * 1-6"
-  - cron: "17 5 * * 1-6"
-  - cron: "37 5 * * 1-6"
-  - cron: "17 6 * * 1-6"
-  - cron: "17 7 * * 1-6"
-  - cron: "17 8 * * 1-6"
-  - cron: "17 9 * * 1-6"
+    - cron: "17 3 * * 1-6"
+    - cron: "37 3 * * 1-6"
+    - cron: "17 4 * * 1-6"
+    - cron: "37 4 * * 1-6"
+    - cron: "17 5 * * 1-6"
+    - cron: "37 5 * * 1-6"
+    - cron: "17 6 * * 1-6"
+    - cron: "17 7 * * 1-6"
+    - cron: "17 8 * * 1-6"
+    - cron: "17 9 * * 1-6"
 
 permissions:
   contents: write
@@ -22,18 +22,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Repository laden
       - name: Repository auschecken
         uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      # NDR-Speiseplan abrufen
       - name: NDR-Seite abrufen
         run: |
           curl -L "https://www.ndr.de/speiseplan" -o ndr.html
 
-      # HTML auslesen und ndr.json erzeugen
       - name: NDR JSON erzeugen
         run: |
           python3 - <<'PY'
@@ -41,7 +38,6 @@ jobs:
           import json
           import re
 
-          # Text aus der NDR-Seite sammeln
           class TextParser(HTMLParser):
               def __init__(self):
                   super().__init__()
@@ -52,50 +48,57 @@ jobs:
                   if text:
                       self.text.append(text)
 
-          # Prüft, ob eine Zeile ein Preis ist, z. B. 5,90
           def is_price(text):
               return re.match(r"^\d{1,2},\d{2}$", text) is not None
 
-          # Prüft bekannte Kategorien im NDR-Speiseplan
-          def is_category(text):
-              return text in {
-                  "Vorspann",
-                  "Studio 1",
-                  "Studio 2",
-                  "Studio 3",
-                  '"Nordamerika"',
-                  "Live Sendung",
-                  "Sondersendung",
-                  "Abspann"
-              }
-
-          # Kleine Fußnoten/Zusatzstoffnummern entfernen wir aus dem Gerichttext
           def is_note_number(text):
               return re.match(r"^[0-9]+[0-9a-zA-Z,]*$", text) is not None
 
-          # Eine Gerichtzeile aus gesammelten Bestandteilen erzeugen
-          def build_item(category, parts, price_ndr, price_external):
+          def looks_like_info(text):
+              lower = text.lower()
+              return any(word in lower for word in [
+                  "vegan",
+                  "vegetarisch",
+                  "gluten",
+                  "lactose",
+                  "laktose"
+              ])
+
+          def clean_text(text):
+              text = text.strip()
+              text = re.sub(r"\s+", " ", text)
+              text = text.replace(" ,", ",")
+              return text
+
+          def build_item_from_row(row_parts, price_ndr, price_external):
+              if not row_parts:
+                  return None
+
+              category = clean_text(row_parts[0])
+              rest = row_parts[1:]
+
               info = ""
+              if rest and looks_like_info(rest[0]):
+                  info = clean_text(rest[0])
+                  rest = rest[1:]
 
-              # Zusatzinfo steht meistens direkt nach der Kategorie
-              if parts and parts[0] in {"vegan", "vegetarisch"}:
-                  info = parts[0]
-                  parts = parts[1:]
+              name_parts = []
 
-              clean_parts = []
+              for part in rest:
+                  part = clean_text(part)
 
-              for part in parts:
+                  if not part:
+                      continue
+
                   if is_note_number(part):
                       continue
 
-                  clean_parts.append(part)
+                  name_parts.append(part)
 
-              name = " ".join(clean_parts).strip()
-              name = re.sub(r"\s+", " ", name)
-              
-              # Kleine Leerzeichenfehler nach entfernten Fußnoten glätten
-              name = name.replace(" ,", ",")
-              name = name.replace("  ", " ")
+              name = clean_text(" ".join(name_parts))
+
+              if not category or not name:
+                  return None
 
               return {
                   "category": category,
@@ -105,7 +108,6 @@ jobs:
                   "price_external": price_external
               }
 
-          # HTML-Datei laden
           with open("ndr.html", "r", encoding="utf-8") as f:
               html = f.read()
 
@@ -124,14 +126,12 @@ jobs:
 
           current_day = None
           current_date = ""
-          current_category = None
-          current_parts = []
+          current_row = []
 
           i = 0
           while i < len(lines):
-              line = lines[i]
+              line = clean_text(lines[i])
 
-              # Neuen Tag erkennen
               day_match = day_pattern.match(line)
               if day_match:
                   current_day = day_match.group(1)
@@ -142,57 +142,41 @@ jobs:
                       "items": []
                   }
 
-                  current_category = None
-                  current_parts = []
+                  current_row = []
                   i += 1
                   continue
 
-              # Ende des Speiseplans erkennen
               if line.startswith("Spät- oder Wochenenddienst"):
                   break
 
-              # Tabellenköpfe überspringen
               if line in {"Kategorie", "Zusatzinfo", "Speise", "Preis", "NDR", "Extern"}:
                   i += 1
                   continue
 
-              # Kategorie erkennen
-              if current_day and is_category(line):
-                  current_category = line
-                  current_parts = []
-                  i += 1
-                  continue
-
-              # Preis-Paar erkennen: Preis NDR + Preis Extern
               if (
                   current_day
-                  and current_category
                   and is_price(line)
                   and i + 1 < len(lines)
-                  and is_price(lines[i + 1])
+                  and is_price(clean_text(lines[i + 1]))
               ):
-                  item = build_item(
-                      current_category,
-                      current_parts,
+                  item = build_item_from_row(
+                      current_row,
                       line,
-                      lines[i + 1]
+                      clean_text(lines[i + 1])
                   )
 
-                  if item["name"]:
+                  if item:
                       result["days"][current_day]["items"].append(item)
 
-                  current_parts = []
-                  current_category = None
+                  current_row = []
                   i += 2
                   continue
 
-              # Alles zwischen Kategorie und Preis gehört zum Gericht
-              if current_day and current_category:
-                  current_parts.append(line)
+              if current_day:
+                  current_row.append(line)
 
               i += 1
 
-          # JSON speichern
           with open("ndr.json", "w", encoding="utf-8") as f:
               json.dump(result, f, ensure_ascii=False, indent=2)
 
@@ -200,7 +184,6 @@ jobs:
           print(json.dumps(result, ensure_ascii=False, indent=2))
           PY
 
-      # JSON-Datei ins Repository schreiben
       - name: Datei committen
         run: |
           git config user.name "github-actions"
