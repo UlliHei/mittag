@@ -2,67 +2,20 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "02.06.2026",
-      "items": [
-        {
-          "category": "Vorspann \"lactosefrei\"",
-          "info": "vegan",
-          "name": "Asiatische Gemüsesuppe mit Mie Nudeln (Knobi)| Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1\"gluten und lactosefrei\"",
-          "info": "vegan",
-          "name": "Tomaten-Gemüseeintopf mit Reis(Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2\"glutenfrei\"",
-          "info": "",
-          "name": "Frisches Gemüse von Kohlrabi, Frühlingszwiebeln, Karotten und Zucchini mit einem Rösti und Schnittlauchcreme",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Paprikagulasch vom Schwein, mit Zwiebeln (Knobi) auf Spätzle",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Maultaschen in Ei gebraten mit gemischtem Hackfleisch gefüllt, dazu fruchtiger Tomatensauce (Knobi)",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"gluten und lactosefrei\"",
-          "info": "vegan",
-          "name": "Aus dem Wok: Frisches Gemüse von Karotte, Weißkohl, Chinakohl und Zucchini mit süß saurer Sauce (Knobi) auf Basmatireis",
-          "price_ndr": "6,90",
-          "price_external": "8,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillepudding mit Schokosauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "03.06.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
           "info": "vegan",
-          "name": "Scharfe Makkaroni mit Tomaten und grüner Paprikasauce",
+          "name": "Tomaten-Gemüsesuppe mit Reis (Knobi) | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Scharfe Makkaroni mit grüner Paprikasauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -76,9 +29,30 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Zitronen-Hähnchenkeule (250g) mit BBQ-Sauce, Zucchinigemüse und Röstkartoffeln",
+          "name": "Hähnchenkeule (250g) mit BBQ-Sauce mariniert, Zucchinigemüse, Röstkartoffeln und Zitronenjoghurt-Dip",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"lactose und glutenfrei\"",
+          "info": "",
+          "name": "Asia-Bowl mit Sushi Reis, Wakame Algen, Bohnen, Tomaten, Kimchi-Salat, Cashewnüsse und Chili-Mayonnaise",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Bauernfrühstück mit Ei, Speck und Zwiebeln, dazu Rahmsauce und Gewürzgurke",
+          "price_ndr": "9,29",
+          "price_external": "6,80"
+        },
+        {
+          "category": "8,75",
+          "info": "",
+          "name": "Abspann vegetarisch Grießpudding mit Himbeersauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
