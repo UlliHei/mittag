@@ -2,65 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "03.06.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Tomaten-Gemüsesuppe mit Reis (Knobi) | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Scharfe Makkaroni mit grüner Paprikasauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frisches Spargelragout mit Petersilie und neuen Kartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hähnchenkeule (250g) mit BBQ-Sauce mariniert, Zucchinigemüse, Röstkartoffeln und Zitronenjoghurt-Dip",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"lactose und glutenfrei\"",
-          "info": "",
-          "name": "Asia-Bowl mit Sushi Reis, Wakame Algen, Bohnen, Tomaten, Kimchi-Salat, Cashewnüsse und Chili-Mayonnaise",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Bauernfrühstück mit Ei, Speck und Zwiebeln, dazu Rahmsauce und Gewürzgurke",
-          "price_ndr": "9,29",
-          "price_external": "6,80"
-        },
-        {
-          "category": "8,75",
-          "info": "",
-          "name": "Abspann vegetarisch Grießpudding mit Himbeersauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "04.06.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Zucchinicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Mit Meersalz gebackene Kartoffeln dazu Kräuter-Joghurtdip und buntem Blattsalat mit Dressing nach Wahl",
           "price_ndr": "3,65",
@@ -69,7 +22,7 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Blumenkohlpizza mit Gemüse und Käse überbacken, dazu Tomaten-Chili-Salsa",
+          "name": "Blumenkohlpizza mit Tomaten-Chili-Salsa, Mais, Bohnen, Paprika(Knobi) und Käse überbacken",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -83,9 +36,30 @@
         {
           "category": "Live Sendung",
           "info": "vegetarisch",
-          "name": "\"Feta Psiti\" - gebackener Schafskäse auf Ofengemüse von Tomaten, Paprika, Auberginen und roten Zwiebeln, dazu geröstetes Pitabrot",
+          "name": "Gebackener Hirtenkäse auf Ofengemüse von Tomaten, Paprika, Auberginen und roten Zwiebeln, dazu geröstetes Pitabrot",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Leichte Unterhaltung",
+          "info": "",
+          "name": "Bunter Salatteller mit Calamari-Ringe (10 Stück), Aioli und Dressing nach Wahl",
+          "price_ndr": "7,35",
+          "price_external": "9,70"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Karamellpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        },
+        {
+          "category": "1,65",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Vanillepudding mit Schokosauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
