@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "01.06.2026",
-      "name": "„Cordon bleu“ vom Schwein",
-      "description": "dazu knusprige Pommes frites",
+      "date": "08.06.2026",
+      "name": "Schnitzel „Wiener Art“",
+      "description": "mit Champignons in Rahmsauce und knusprigen Pommes frites",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "02.06.2026",
-      "name": "Hackbällchen",
-      "description": "in mediterraner Tomatensauce mit Fusilloni",
+      "date": "09.06.2026",
+      "name": "Veganes Ragout",
+      "description": "nach Boeuf Bourguignon-Art mit Langkorn-Wildreis",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "03.06.2026",
-      "name": "Steakteller",
-      "description": "kleine Rindersteaks, saftig gegrillt, dazu knusprige Pommes frites und würzige Teriyaki-Pfefferrahm-Sauce",
+      "date": "10.06.2026",
+      "name": "Saftig gegrilltes Huftsteak",
+      "description": "dazu feine Pilze in Kräuterrahm und Kartoffelgratin",
       "price": "14,90 €"
     },
     {
       "category": "Donnerstag",
-      "date": "04.06.2026",
-      "name": "Schweinemedaillons",
-      "description": "in Orangensauce mit rosa Pfeffer, dazu Süßkartoffelpüree",
+      "date": "11.06.2026",
+      "name": "Zarte Hähnchenstreifen",
+      "description": "in Curry-Ingwersoubise klassisch mit Zwiebeln angemacht, dazu Erbsenreis",
       "price": "13,90 €"
     },
     {
       "category": "Freitag",
-      "date": "05.06.2026",
-      "name": "Lachsfilet",
-      "description": "in Dill-Weißwein-Sauce, dazu Langkorn-Wildreis",
+      "date": "12.06.2026",
+      "name": "Gebratenes Seelachsfilet",
+      "description": "mit feinem Linsengemüse und Kartoffelpüree",
       "price": "13,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "01.06. bis 05.06.2026",
-      "name": "Block Burger",
-      "description": "mit feinwürzigem Blattspinat und BLOCK HOUSE Brot",
+      "date": "08.06. bis 12.06.2026",
+      "name": "Huftmedaillons",
+      "description": "saftig gegrillt, mit sahnigem Kartoffelgratin und BLOCK HOUSE Brot",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "01.06. bis 05.06.2026",
-      "name": "Vier kleine Rindersteaks",
-      "description": "saftig gegrillt, mit knackigem Pfannengemüse und Baked Potato mit Sour Cream",
+      "date": "08.06. bis 12.06.2026",
+      "name": "Beef Potato",
+      "description": "zarte Rindfleischstreifen gebraten, dazu Baked Potato mit Sour Cream und BLOCK HOUSE Brot",
       "price": "14,90 €"
     }
   ]
