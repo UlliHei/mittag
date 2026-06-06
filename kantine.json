@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "01.06.2026 - 05.06.2026",
+  "week": "08.06.2026 - 12.06.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,19 +12,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhafter Gulaschtopf vom Rind mit roten Zwiebeln, Paprika und Kräuterschmand",
+        "name": "Poularde in Tomaten-Kokos-Sud mit Edamame Bohnen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Spätzle mit Schmorzwiebeln, Lauch und buntem Salat",
+        "name": "Kritharaki Reisnudel-Pfanne mit Gemüse und Fetakäse",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Kartoffel-Gemüse-Taler mit Haferflocken, Gemüse und Sour Cream",
+        "name": "Spinat-Ricotta-Bällchen auf Kräuter-Pfifferlingen in Creme",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Prinzessböhnchen",
+        "name": "Brokkoli mit Buttermandeln",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Truthahn-Involtini mit Spinat in Basilikum-Tomaten-Sauce",
+        "name": "Toskana Rindfleisch-Bällchen in fruchtiger Tomatensauce mit mediterranem Gemüse",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Penne mit Bohnen und Ruccola, Grana Padano und Pinienkernen",
+        "name": "Spaghetti mit Käsesplittern und einem Basilikum-Walnuss-Pesto",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Spinat-Fetakäse-Quiche mit Tomaten und Nüssen",
+        "name": "Überbackener Linsen-Gemüse-Bratling auf Couscous Salat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Glacierte Pastinaken mit Honig",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lachslasagne mit Spinat und Mozzarella in cremiger Sauce gebacken",
+        "name": "Ragout vom Stangenspargel in Petersiliensauce mit einem kleinen Schnitzel",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Hausgemachtes Kartoffelpüree mit Süßkartoffeln und Kräuterbutter",
+        "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Asia-Bratnudel-Pfanne mit Wok-Gemüse, Erdnüssen und Kokos-Sud",
+        "name": "Sommergemüse-Kuchen mit Tomaten, Bergkäse und Blattsalat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Blattspinat",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi-Salat, Röstzwiebeln und Pommes frites",
+        "name": "Pikanter Schaschlik-Topf mit Speck, Paprika, Krautsalat und Kräuterquark",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Papardelle mit einem Linsen-Sojahackragout, Tomaten und Käse",
+        "name": "Fetakäse in Leinsamen und Haferflocken gebacken auf Gurkensalat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "mediterranes Ofengemüse",
+        "name": "Gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -148,8 +148,8 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Cremige Spargelcremesuppe mit Fleischbällchen, Blattpetersilie und Baguette",
-        "price": "7,50 €"
+        "name": "Scholle im ganzen gebraten mit Speck und einem hausgemachten Kartoffelsalat",
+        "price": "8,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "mediterranes Ofengemüse",
+        "name": "Gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
