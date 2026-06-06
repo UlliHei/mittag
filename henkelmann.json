@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 01. — 05. Juni 2026",
+  "week": "KARTE VOM 08. — 12. Juni 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Falscher Hase“ (Rinderhackbraten) mit Frühlingsgemüse & Kartoffelpüree",
-      "description": "„Falscher Hase“ (Rinderhackbraten) mit Frühlingsgemüse & Kartoffelpüree",
+      "name": "Bayerischer Leberkäse, Krautsalat, Spiegelei & Kartoffelpüree",
+      "description": "Bayerischer Leberkäse, Krautsalat, Spiegelei & Kartoffelpüree",
       "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "Hühnchenbrustfilet mit Erdbeersalsa & cremiger Polenta",
-      "description": "Hühnchenbrustfilet mit Erdbeersalsa & cremiger Polenta",
+      "name": "Marinierter Hühnchenschenkel, Mangosalat mit Erdnuß & Chili, Duftreis",
+      "description": "Marinierter Hühnchenschenkel, Mangosalat mit Erdnuß & Chili, Duftreis",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Roastbeef warm, Cafe Paris Sauce, Kartoffelgratin, Salat",
-      "description": "Roastbeef warm, Cafe Paris Sauce, Kartoffelgratin, Salat",
+      "name": "Kalbsfrikassee mit Spargel, Pilzen, Erbsen, Bandnudeln",
+      "description": "Kalbsfrikassee mit Spargel, Pilzen, Erbsen, Bandnudeln",
       "price": "16,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Safranrisotto, gratinierter Ziegenkäse, Himbeeren, Salat",
-      "description": "Safranrisotto, gratinierter Ziegenkäse, Himbeeren, Salat",
+      "name": "Eier in Senfsauce, Blattspinat, Salzkartoffeln",
+      "description": "Eier in Senfsauce, Blattspinat, Salzkartoffeln",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Schwäbische Küche: hausgemachte Spätzle, Linsen, Wienerle",
-      "description": "Schwäbische Küche: hausgemachte Spätzle, Linsen, Wienerle",
-      "price": "14,90"
+      "name": "„Empanadas“ Pasteten mit Rinderhackfüllung, schwarze Bohnensalat, Avocadodip",
+      "description": "„Empanadas“ Pasteten mit Rinderhackfüllung, schwarze Bohnensalat, Avocadodip",
+      "price": "15,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
