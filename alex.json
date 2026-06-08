@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Leckere Spargelcremesuppe mit Kräuterciabatta",
-      "description": "Feine Suppe aus frischem Spargel, verfeinert mit Sahne und Butter, dazu Kräuterciabatta",
-      "price": "7,90"
+      "name": "Flammkuchen mit Lachs",
+      "description": "knuspriger Flammkuchen mit Crème fraîche, Räucherlachs, Tomaten und Rucola",
+      "price": "9,90"
     },
     {
-      "name": "Knuspiger Hähnchenstreifen auf Reis mit Pilzrahmesoße",
-      "description": "Goldbraun panierte Hähnchenstreifen, knusprig gebraten - serviert mit lockerem Reis, dazu eine cremige Pilzsoße",
+      "name": "Bandnudeln mit Tomaten-Paprika-Sahne-Soße, Hähnchen und Parmesan",
+      "description": "Bandnudeln mit saftigem Hähnchen, fruchtiger Tomaten-Paprika-Sahne-Soße und frisch geriebenem Parmesan",
       "price": "11,90"
     },
     {
-      "name": "Thunfischsalat mit Ciabatta",
-      "description": "frischer gemischter Salat mit saftigem Thunfisch, Gurken, Tomaten, Paprika, Zwiebeln und gekochten Ei, serviert mit einem leichtem Dressing",
-      "price": "10,90"
+      "name": "Kartoffelgratin mit Brokkoli",
+      "description": "cremiges Kartoffelgratin mit zarten Kartoffeln, frischem Brokkoli und goldbraun überbackenem Käse, dazu ein kleiner Beilagensalat",
+      "price": "9,90"
     }
   ]
 }
