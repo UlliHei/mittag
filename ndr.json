@@ -1,5 +1,185 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "08.06.2026",
+      "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Spinatcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Bunte Kartoffelpfanne mit dicken Bohnen, Kohlrabi und Petersilie an grüner Sauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegetarisch",
+          "name": "Lauchquiche mit Tomaten und buntem Salat mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"laktose- und glutenfrei\"",
+          "info": "",
+          "name": "Scharfe Hähnchenbrust(160g) mit Chakalaka und Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Chicken-Wrap gefüllt mit marinierten Hähnchenbruststreifen, Gurke, Mais, Eisbergsalat und Tomate, dazu Chili-Dip",
+          "price_ndr": "6,90",
+          "price_external": "8,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Hausgemachter Milchreis mit Waldbeerensauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Stracciatellacreme .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "09.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Hausgemachte Gemüsebolognese auf Spaghetti",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Griechische- Bowl mit Hirtenkäse, Gurke, Tomate, Oliven und Quark-Joghurt-Gurkendip, dazu Brot",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Rindfleisch(120g) in würziger Gemüsesauce und Mie-Nudeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "vegetarisch",
+          "name": "Aus dem Wok: Asiagemüse von Chinakohl, Pak Choi, Möhren und Sojasprossen an leicht scharfer Sauce mit Basmatireis",
+          "price_ndr": "5,90",
+          "price_external": "7,90"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "10.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Rahmspinat mit zwei Spiegeleiern und Salzkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frische Paprikaschote gefüllt mit Linsen, Karotten und Sellerie an Tomatensauce und Reis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Bayerischer Wurst-Käsesalat mit Radieschen, Lauchzwiebeln und Bratkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Camembertburger Rinderhacksteak(125g) von der dt. Färse, Preiselbeeren, Gewürzgurke und Baby Leaf Salat, dazu Pommes frites",
+          "price_ndr": "9,65",
+          "price_external": "13,10"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "11.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Knoblauch und Kapern",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Aus dem Ofen: gebackene Zucchini mit Tomaten und Hirtenkäse überbacken auf Reis und Paprikasalsa",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Putenbraten aus der Keule mit Geflügelsauce, grünen Bohnen und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "1 Pfund frischer Stangenspargel mit neuen Kartoffeln und Sauce Hollandaise oder zerlassener Butter",
+          "price_ndr": "10,10",
+          "price_external": "13,00"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "12.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Kartoffelgratin mit Tomate-Mozzarella überbacken und Basilikumcreme",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "\"Spinat-Quinoasotto\" Risotto aus Quinoa mit Schalotten, Knoblauch, Thymian, Spinat und Champignons, dazu Sesam-Soja-Dip und grünen Salat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Seelachsfilet (160g) mit Pesto-Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
