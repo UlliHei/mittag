@@ -13,18 +13,11 @@
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Rahmspinat mit zwei Spiegeleiern und hausgemachter Kartoffelpüree",
+          "category": "Studio 1 \"lakstose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomatensauce",
           "price_ndr": "3,65",
           "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "Frische Paprikaschote gefüllt mit Linsen, Karotten und Sellerie an Tomatensauce und Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
         },
         {
           "category": "Studio 3 \"glutenfrei\"",
@@ -50,7 +43,14 @@
         {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Stracciatellacreme .",
+          "name": "Vanillequark mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Milchreis mit Fruchtsauce",
           "price_ndr": "1,45",
           "price_external": "1,65"
         }
