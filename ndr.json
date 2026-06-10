@@ -2,104 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "09.06.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Hausgemachte Gemüsebolognese auf Spaghetti (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"ohne Brot glutenfrei\"",
-          "info": "",
-          "name": "Griechische- Bowl mit Hirtenkäse, Gurke, Tomate, Oliven (Knobi) und Quark-Joghurt-Gurkendip, dazu Brot",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Schweinefleisch(120g) in würziger Gemüsesauce (Knobi) mit Mie-Nudeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Camembertburger Rinderhacksteak(125g) von der dt. Färse, Burgersauce, Preiselbeeren, Gewürzgurke und Baby Leaf Salat, dazu Pommes frites",
-          "price_ndr": "9,65",
-          "price_external": "13,10"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "vegetarisch",
-          "name": "Veggi Burger vegetarisches Beyond-Patty im Briochbrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Kleine Ofenkartoffel mit buntem Salat und Kräuterquark",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Crème Brûlée \"hausgemacht\"",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillequark mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "10.06.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Rahmspinat mit zwei Spiegeleiern und Salzkartoffeln",
+          "name": "Zwiebelrahmsuppe / Teller NDR 3,25 € / Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Rahmspinat mit zwei Spiegeleiern und hausgemachter Kartoffelpüree",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktose- und glutenfrei\"",
           "info": "",
           "name": "Frische Paprikaschote gefüllt mit Linsen, Karotten und Sellerie an Tomatensauce und Reis",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "Bayerischer Wurst-Käsesalat mit Radieschen, Lauchzwiebeln und Bratkartoffeln",
+          "name": "Bayerischer Wurst-Käsesalat mit Rettich, Lauchzwiebeln, Gurke und Bratkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Camembertburger Rinderhacksteak(125g) von der dt. Färse, Burgersauce, Preiselbeeren, Gewürzgurke und Baby Leaf Salat, dazu Pommes frites",
+          "price_ndr": "9,65",
+          "price_external": "13,10"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hähnchengeschnetzeltes mit Pilzen in Rahmsauce mit Serviettenknödel",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktose\"",
+          "info": "vegan",
+          "name": "Bratnudeln mit Gemüse von Chinakohl, Sprossen und süß-saurer Sauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Aus dem Wok: Asiagemüse von Chinakohl, Pak Choi, Möhren und Sojasprossen an leicht scharfer Sauce mit Basmatireis",
-          "price_ndr": "5,90",
-          "price_external": "7,90"
+          "name": "Stracciatellacreme .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
