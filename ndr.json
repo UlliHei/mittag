@@ -2,90 +2,43 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "10.06.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Zwiebelrahmsuppe / Teller NDR 3,25 € / Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"lakstosefrei\"",
-          "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomatensauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 3 \"glutenfrei\"",
-          "info": "",
-          "name": "Bayerischer Wurst-Käsesalat mit Rettich, Lauchzwiebeln, Gurke und Bratkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hähnchengeschnetzeltes mit Pilzen in Rahmsauce mit Serviettenknödel",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktose\"",
-          "info": "vegan",
-          "name": "Bratnudeln mit Gemüse von Chinakohl, Sprossen und süß-saurer Sauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillequark mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Milchreis mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "11.06.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann\"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Knoblauch und Kapern",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
-          "name": "Aus dem Ofen: gebackene Zucchini mit Tomaten und Hirtenkäse überbacken auf Reis und Paprikasalsa",
+          "name": "Aus dem Ofen: gebackene Zucchini mit Tomaten und Hirtenkäse überbacken auf Reis, dazu ein bunter Quark-Dip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Putenbraten aus der Keule mit Geflügelsauce, grünen Bohnen und Salzkartoffeln",
+          "name": "Putenbraten aus der Keule(160g) mit Geflügelsauce, grünen Bohnen und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "1 Pfund frischer Stangenspargel mit neuen Kartoffeln und Sauce Hollandaise oder zerlassener Butter",
-          "price_ndr": "10,10",
-          "price_external": "13,00"
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Heidelbeerquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
