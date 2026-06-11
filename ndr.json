@@ -46,13 +46,6 @@
       "date": "12.06.2026",
       "items": [
         {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Kartoffelgratin mit Tomate-Mozzarella überbacken und Basilikumcreme",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
           "category": "Studio 2",
           "info": "",
           "name": "\"Spinat-Quinoasotto\" Risotto aus Quinoa mit Schalotten, Knoblauch, Thymian, Spinat und Champignons, dazu Sesam-Soja-Dip und grünen Salat",
