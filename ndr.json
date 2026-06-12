@@ -2,62 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "11.06.2026",
-      "items": [
-        {
-          "category": "Vorspann\"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Knoblauch und Kapern",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Aus dem Ofen: gebackene Zucchini mit Tomaten und Hirtenkäse überbacken auf Reis, dazu ein bunter Quark-Dip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Putenbraten aus der Keule(160g) mit Geflügelsauce, grünen Bohnen und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Heidelbeerquark",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Freitag": {
       "date": "12.06.2026",
       "items": [
         {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Klare Gemüsebrühe |Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Buntes Gemüse von Kohlrabi, Karotte und Brokkoli mit Emmentaler überbacken, dazu hausgemachter Kartoffelpüree",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
           "category": "Studio 2",
           "info": "",
-          "name": "\"Spinat-Quinoasotto\" Risotto aus Quinoa mit Schalotten, Knoblauch, Thymian, Spinat und Champignons, dazu Sesam-Soja-Dip und grünen Salat",
+          "name": "\"Spinat-Quinoasotto\" Risotto aus Quinoa mit Schalotten, Knoblauch, Thymian, Spinat und Champignons, dazu Sesam-Dip und grünen Salat",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Gebratenes Seelachsfilet (160g) mit Pesto-Kartoffelsalat",
+          "name": "In Ei gebratenes Seelachsfilet (160g) mit Pesto-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "\"Ravioli Piselli\" gefüllt mit Erbsen und Minze, in Spargelsauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Mandarinenquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     }
