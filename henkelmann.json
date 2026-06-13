@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 08. — 12. Juni 2026",
+  "week": "KARTE VOM 15. — 19. Juni 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Bayerischer Leberkäse, Krautsalat, Spiegelei & Kartoffelpüree",
-      "description": "Bayerischer Leberkäse, Krautsalat, Spiegelei & Kartoffelpüree",
-      "price": "14,90"
+      "name": "Geschmorte Paprikaschoten mit Rinderhackfüllung, Tomatensauce, Reis",
+      "description": "Geschmorte Paprikaschoten mit Rinderhackfüllung, Tomatensauce, Reis",
+      "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "Marinierter Hühnchenschenkel, Mangosalat mit Erdnuß & Chili, Duftreis",
-      "description": "Marinierter Hühnchenschenkel, Mangosalat mit Erdnuß & Chili, Duftreis",
+      "name": "„Korean fried chicken“, Duftreis, Chiligurken",
+      "description": "„Korean fried chicken“, Duftreis, Chiligurken",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Kalbsfrikassee mit Spargel, Pilzen, Erbsen, Bandnudeln",
-      "description": "Kalbsfrikassee mit Spargel, Pilzen, Erbsen, Bandnudeln",
-      "price": "16,90"
+      "name": "Neuer Matjes nach Hausfrauenart mit Pellkartoffeln",
+      "description": "Neuer Matjes nach Hausfrauenart mit Pellkartoffeln",
+      "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Eier in Senfsauce, Blattspinat, Salzkartoffeln",
-      "description": "Eier in Senfsauce, Blattspinat, Salzkartoffeln",
+      "name": "Basilkumblinis, buntes Tomatenkompott, gratinierter Ziegenkäse",
+      "description": "Basilkumblinis, buntes Tomatenkompott, gratinierter Ziegenkäse",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "„Empanadas“ Pasteten mit Rinderhackfüllung, schwarze Bohnensalat, Avocadodip",
-      "description": "„Empanadas“ Pasteten mit Rinderhackfüllung, schwarze Bohnensalat, Avocadodip",
+      "name": "Pulled pork, Brombeersauce, Kartoffelpuffer",
+      "description": "Pulled pork, Brombeersauce, Kartoffelpuffer",
       "price": "15,90"
     }
   ],
