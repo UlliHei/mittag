@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Tex-Mex-Lasagne mit Rindfleisch, Kidneybohnen, Mais und Cheddar-Käse",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Lachsschnitte mit Gemüse auf einer Zitronen-Kräutersauce",
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Hähnchen-geschnetzeltes mit Waldpilzen und roten Zwiebeln in Schnittlauchcreme",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "dpa-Currywurst mit Alibi-Salat, Röstzwiebeln und Pommes frites",
@@ -140,12 +140,12 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Tagesangebot",
-        "price": "1,20 €"
+        "name": "heute geschlossen",
+        "price": ""
       },
       "Salate": {
-        "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "name": "heute geschlossen",
+        "price": ""
       },
       "Hauptgericht": {
         "name": "heute geschlossen",
