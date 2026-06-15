@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Flammkuchen mit Lachs",
-      "description": "knuspriger Flammkuchen mit Crème fraîche, Räucherlachs, Tomaten und Rucola",
+      "name": "Falafel-Wrap",
+      "description": "knusprig gebackene Falafel im Brötchen, gefüllt mit frischem Salat, Tomaten und Caesar-Dressing, serviert mit goldenen Pommes frites und einem Dip nach Wahl",
       "price": "9,90"
     },
     {
-      "name": "Bandnudeln mit Tomaten-Paprika-Sahne-Soße, Hähnchen und Parmesan",
-      "description": "Bandnudeln mit saftigem Hähnchen, fruchtiger Tomaten-Paprika-Sahne-Soße und frisch geriebenem Parmesan",
+      "name": "Linguinie Mediterraneo mit Hähnchen",
+      "description": "al dente gekochte Linguine mit saftig gegrilltem Hähnchenfilet, Cherrytomaten, Knoblauch und mediterranen Kräutern, verfeinert mit Olivenöl, frischem Basilikum und Parmesan",
       "price": "11,90"
     },
     {
-      "name": "Kartoffelgratin mit Brokkoli",
-      "description": "cremiges Kartoffelgratin mit zarten Kartoffeln, frischem Brokkoli und goldbraun überbackenem Käse, dazu ein kleiner Beilagensalat",
-      "price": "9,90"
+      "name": "Gebratener Kabeljau mit mediterranem Gemüse",
+      "description": "saftig gebratener Kabeljau auf mediterranem Gemüse aus Tomaten, Zucchini und Paprika, verfeinert mit Olivenöl, frischen Kräutern und einer Zitronennote",
+      "price": "11,90"
     }
   ]
 }
