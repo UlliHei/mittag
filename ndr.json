@@ -1,5 +1,185 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "15.06.2026",
+      "items": [
+        {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Pasta mit Brokkoli-Zwiebel-Tomaten-Salsa (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
+          "name": "Protein-Bowl von Linsen, Karotten, Erbsen und kleinen Kartoffeln mit Orangen-Dip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Schweinesteak (160g) mit Kräuterbutter (Knobi), Wedges und buntem Salat mit Dressing nach Wahl",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hausgemachter Hackbraten aus gemischtem Hackfleisch (Rind&Schwein), mit Emmentaler und veganer Hollandaise überbackenem Gemüse und hausgemachten Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Frische Paprikaschote gefüllt mit Linsen, Karotten und Sellerie an Tomatensauce und Reis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Buttermilchdessert mit Gartenfrüchten",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "16.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Paprika-Kartoffelgulasch mit Zwiebeln und Paprika in Schmandsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Bunter Spargelsalat mit Rauke, Eisberg und Tomaten, dazu ein Kartoffelrösti und Frischkäsecreme",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Putenschnitzel(160g)\"Mailänder Art\" in Eihülle gebraten, mit Oreganosauce und Spaghetti",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Roastbeef \"kalt\" (120g) von der deutschen Färse, mit Remoladensauce und Bratkartoffeln",
+          "price_ndr": "10,50",
+          "price_external": "13,40"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "17.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Fusilli e fagioli\" mit weißen Bohnen, Tomaten und Knoblauch",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gemüseauswahl von Weißkohl, Aubergine und Karotte mit Frühlingszwiebelsauce und Grünkern",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Drei Nürnberger Rostbratwürstchen (120g) mit gestovten Bohnen und hausgemachtem Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Großer Salatteller mit gebratenen Filets vom FairMast Huhn und Frenchdressing",
+          "price_ndr": "9,90",
+          "price_external": "12,90"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "18.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Zwei gekochte Eier mit körniger Senfsauce, hausgemachtem Kartoffelpüree und Rote Bete",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Asiatische Bowl mit Nudeln, Sweet-Chili-Tofu, Paprika, Karotten und veganer Zitronen-Mayonnaise",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Pasta Bolognese von Rinderhackfleisch und Gemüse mit geriebenem Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "vegetarisch",
+          "name": "Gnocchi mit Spitzpaprika, Austernpilze und Rucola in Petersilienpesto geschwenkt",
+          "price_ndr": "6,90",
+          "price_external": "8,90"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "19.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Allgäuer Käsespätzle mit Schnittlauchsauce und Röstzwiebeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Schupfnudelpfanne mit buntem Gemüse von Zucchini, Mais und Brokkoli an Pilzsauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Fischfilet Bordelaise mit Erbsen, Salzkartoffeln und zerlassener Butter",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
