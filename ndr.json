@@ -20,11 +20,11 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Bunter Spargelsalat mit Rauke, Eisberg und Tomaten, dazu ein Kartoffelrösti und Frischkäsecreme",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
+          "category": "Studio 1 \"lakstosefrei\"",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomaten-Oreganosauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
         },
         {
           "category": "Studio 3 \"laktosefrei\"",
@@ -32,20 +32,6 @@
           "name": "Putenschnitzel(160g)\"Mailänder Art\" in Eihülle gebraten, mit Oreganosauce(Knobi) und Spaghetti",
           "price_ndr": "6,80",
           "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"glutenfrei\"",
-          "info": "",
-          "name": "Roastbeef \"kalt\" (120g) von der deutschen Färse, mit Remoladensauce und Bratkartoffeln",
-          "price_ndr": "10,50",
-          "price_external": "13,40"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\", \"ohne Sauce gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Zwei Quinoa-Linsen-Pilzbratlinge(200g) mit Kräutersauce an Gemüse von Kohlrabi, Blumenkohl und Pastinaken",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
         },
         {
           "category": "Abspann \"glutenfrei\"",
