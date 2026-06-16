@@ -2,90 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "15.06.2026",
+    "Dienstag": {
+      "date": "16.06.2026",
       "items": [
         {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "category": "Vorspann",
+          "info": "vegan",
+          "name": "Mais-Chili-Kokossuppe / Teller NDR 3,25 € / Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
-          "name": "Pasta mit Brokkoli-Zwiebel-Tomaten-Salsa (Knobi)",
+          "name": "Paprika-Kartoffelgulasch mit Zwiebeln und Paprika in Schmandsauce",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2 \"glutenfrei\"",
           "info": "",
-          "name": "Protein-Bowl von Linsen, Karotten, Erbsen und kleinen Kartoffeln mit Orangen-Dip",
+          "name": "Bunter Spargelsalat mit Rauke, Eisberg und Tomaten, dazu ein Kartoffelrösti und Frischkäsecreme",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
-          "name": "Schweinesteak (160g) mit Kräuterbutter (Knobi), Wedges und buntem Salat mit Dressing nach Wahl",
+          "name": "Putenschnitzel(160g)\"Mailänder Art\" in Eihülle gebraten, mit Oreganosauce(Knobi) und Spaghetti",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung",
+          "category": "Live Sendung \"glutenfrei\"",
           "info": "",
-          "name": "Hausgemachter Hackbraten aus gemischtem Hackfleisch (Rind&Schwein), mit Emmentaler und veganer Hollandaise überbackenem Gemüse und hausgemachten Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
+          "name": "Roastbeef \"kalt\" (120g) von der deutschen Färse, mit Remoladensauce und Bratkartoffeln",
+          "price_ndr": "10,50",
+          "price_external": "13,40"
         },
         {
-          "category": "Sondersendung \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Frische Paprikaschote gefüllt mit Linsen, Karotten und Sellerie an Tomatensauce und Reis",
+          "category": "Sondersendung \"laktosefrei\", \"ohne Sauce gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Zwei Quinoa-Linsen-Pilzbratlinge(200g) mit Kräutersauce an Gemüse von Kohlrabi, Blumenkohl und Pastinaken",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Buttermilchdessert mit Gartenfrüchten",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Dienstag": {
-      "date": "16.06.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Paprika-Kartoffelgulasch mit Zwiebeln und Paprika in Schmandsauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Bunter Spargelsalat mit Rauke, Eisberg und Tomaten, dazu ein Kartoffelrösti und Frischkäsecreme",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Putenschnitzel(160g)\"Mailänder Art\" in Eihülle gebraten, mit Oreganosauce und Spaghetti",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Roastbeef \"kalt\" (120g) von der deutschen Färse, mit Remoladensauce und Bratkartoffeln",
-          "price_ndr": "10,50",
-          "price_external": "13,40"
+          "name": "Kirschpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
