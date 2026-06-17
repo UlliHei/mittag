@@ -29,6 +29,13 @@
         {
           "category": "Studio 3",
           "info": "",
+          "name": "Schinkenbratwurst (100g) mit gestovten Bohnen und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
           "name": "Fünf Nürnberger Rostbratwürstchen (120g) mit gestovten Bohnen und hausgemachtem Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
@@ -39,13 +46,6 @@
           "name": "Großer Salatteller mit gebackenen Oberkeule(160g) vom FairMast Huhn und Frenchdressing",
           "price_ndr": "9,90",
           "price_external": "12,90"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Schinkenbratwurst (100g) mit gestovten Bohnen und hausgemachtem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
         },
         {
           "category": "Abspann \"glutenfrei\"",
