@@ -2,51 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "16.06.2026",
+    "Mittwoch": {
+      "date": "17.06.2026",
       "items": [
         {
           "category": "Vorspann",
-          "info": "vegan",
-          "name": "Mais-Chili-Kokossuppe / Teller NDR 3,25 € / Gäste 3,80 €",
+          "info": "vegetarisch",
+          "name": "Blumenkohlcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Paprika-Kartoffelgulasch mit Zwiebeln und Paprika in Schmandsauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 1 \"lakstosefrei\"",
-          "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomaten-Oreganosauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Putenschnitzel(160g)\"Mailänder Art\" in Eihülle gebraten, mit Oreganosauce(Knobi) und Spaghetti",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Kirschpudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "17.06.2026",
-      "items": [
-        {
-          "category": "Studio 1",
           "info": "vegan",
           "name": "\"Fusilli e fagioli\" mit weißen Bohnen, Tomaten und Knoblauch",
           "price_ndr": "3,65",
@@ -55,23 +22,37 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gemüseauswahl von Weißkohl, Aubergine und Karotte mit Frühlingszwiebelsauce und Grünkern",
+          "name": "Frisches Gemüse von Weißkohl, Aubergine und Karotte mit Grünkern an Frühlingszwiebelsauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Drei Nürnberger Rostbratwürstchen (120g) mit gestovten Bohnen und hausgemachtem Kartoffelpüree",
+          "name": "Fünf Nürnberger Rostbratwürstchen (120g) mit gestovten Bohnen und hausgemachtem Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"laktosefrei\"",
           "info": "",
-          "name": "Großer Salatteller mit gebratenen Filets vom FairMast Huhn und Frenchdressing",
+          "name": "Großer Salatteller mit gebackenen Chicken-Crossies(160g) vom FairMast Huhn und Frenchdressing",
           "price_ndr": "9,90",
           "price_external": "12,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Schinkenbratwurst (100g) mit gestovten Bohnen und hausgemachtem Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillequark mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
