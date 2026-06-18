@@ -2,90 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "17.06.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Blumenkohlcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "\"Fusilli e fagioli\" mit weißen Bohnen, Tomaten und Knoblauch",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frisches Gemüse von Weißkohl, Aubergine und Karotte mit Grünkern an Frühlingszwiebelsauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Schinkenbratwurst (100g) mit gestovten Bohnen und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Fünf Nürnberger Rostbratwürstchen (120g) mit gestovten Bohnen und hausgemachtem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "",
-          "name": "Großer Salatteller mit gebackenen Oberkeule(160g) vom FairMast Huhn und Frenchdressing",
-          "price_ndr": "9,90",
-          "price_external": "12,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillequark mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "18.06.2026",
       "items": [
         {
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegetarisch",
-          "name": "Zwei gekochte Eier mit körniger Senfsauce, hausgemachtem Kartoffelpüree und Rote Bete",
+          "name": "Allgäuer Käsespätzle mit Schnittlauchsauce und Röstzwiebeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Asiatische Bowl mit Nudeln, Sweet-Chili-Tofu, Paprika, Karotten und veganer Zitronen-Mayonnaise",
+          "name": "Asiatische Bowl mit Nudeln, Sweet-Chili-Tofu (Knobi), Paprika, Karotten und veganer Zitronen-Mayonnaise",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"ohne Käse laktosefrei\"",
           "info": "",
-          "name": "Pasta Bolognese von Rinderhackfleisch und Gemüse mit geriebenem Hartkäse",
+          "name": "Pasta Bolognese von Rinderhackfleisch und Gemüse (Knobi) mit geriebenem Hartkäse",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Sondersendung \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Gnocchi mit Spitzpaprika, Austernpilze und Rucola in Petersilienpesto geschwenkt",
-          "price_ndr": "6,90",
-          "price_external": "8,90"
+          "name": "Gemüsepfanne von Blumenkohl, Karotte und Zucchini mit hausgemachtem Kartoffelpüree",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Putenbraten aus der Keule(160g) mit Geflügelsauce, buntes Gemüse und hausgemachtem Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Hausgemachtes Schokomousse .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
@@ -95,7 +62,7 @@
         {
           "category": "Studio 1",
           "info": "vegetarisch",
-          "name": "Allgäuer Käsespätzle mit Schnittlauchsauce und Röstzwiebeln",
+          "name": "Zwei gekochte Eier mit körniger Senfsauce, hausgemachtem Kartoffelpüree und Rote Bete",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
