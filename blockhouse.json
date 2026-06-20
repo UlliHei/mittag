@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "15.06.2026",
-      "name": "Rindergeschnetzeltes „Stroganoff“",
-      "description": "in Rahmsauce mit Gurkenstreifen und Champignons, dazu Gemüsereis",
+      "date": "22.06.2026",
+      "name": "Würzige Beef Ribs",
+      "description": "mit knusprigen Pommes frites und Coleslaw Garnitur",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "16.06.2026",
-      "name": "Piccata Milanese",
-      "description": "Hähnchenbrust in Käse-Eihülle gebraten, mit Spaghetti und fruchtiger Tomatensauce",
+      "date": "23.06.2026",
+      "name": "Chili con Carne",
+      "description": "mexikanischer Bohneneintopf mit Rindfleisch, Chili und etwas Knoblauch, dazu Sour Cream und BLOCK HOUSE Brot",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "17.06.2026",
+      "date": "24.06.2026",
       "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit süß-pikantem Mais-Chiligemüse und knusprigen Pommes frites",
+      "description": "mit Gemüsepfanne „Südamerikanische Art“ und Baked Potato mit Sour Cream",
       "price": "14,90 €"
     },
     {
       "category": "Donnerstag",
-      "date": "18.06.2026",
-      "name": "Hühnerfrikassee",
-      "description": "mit Spargel, Champignons und Erbsen in milder Sauce, dazu Langkorn-Wildreis",
+      "date": "25.06.2026",
+      "name": "Ragout „Szechuan Art“",
+      "description": "aromatisches Ragout mit asiatischen Gewürzen und Szechuanpfeffer, dazu Udon Nudeln",
       "price": "13,90 €"
     },
     {
       "category": "Freitag",
-      "date": "19.06.2026",
+      "date": "26.06.2026",
       "name": "Lachsfilet",
       "description": "in Limetten-Butter-Sauce, dazu Kartoffelpüree",
       "price": "13,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "15.06. bis 19.06.2026",
-      "name": "Putenmedaillons",
-      "description": "zart gegrillt, mit feinwürzigem Blattspinat und BLOCK HOUSE Brot",
+      "date": "22.06. bis 26.06.2026",
+      "name": "Großer Salat",
+      "description": "mit Rindergeschnetzeltem, American Dressing und BLOCK HOUSE Brot, vorweg eine Bruschetta",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "15.06. bis 19.06.2026",
-      "name": "Block Burger",
-      "description": "mit frisch gebratenem Champignon-Zwiebelgemüse und BLOCK HOUSE Brot",
+      "date": "22.06. bis 26.06.2026",
+      "name": "Vier kleine Rindersteaks",
+      "description": "mit feinwürzigem Blattspinat und Baked Potato mit Sour Cream",
       "price": "14,90 €"
     }
   ]
