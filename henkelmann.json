@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 15. — 19. Juni 2026",
+  "week": "KARTE VOM 22. — 26. Juni 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Geschmorte Paprikaschoten mit Rinderhackfüllung, Tomatensauce, Reis",
-      "description": "Geschmorte Paprikaschoten mit Rinderhackfüllung, Tomatensauce, Reis",
-      "price": "15,90"
+      "name": "„Ceasars salad“ – Römersalat, Hühnchen, Käsedressing, Parmesanhobel, Croutons",
+      "description": "„Ceasars salad“ – Römersalat, Hühnchen, Käsedressing, Parmesanhobel, Croutons",
+      "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "„Korean fried chicken“, Duftreis, Chiligurken",
-      "description": "„Korean fried chicken“, Duftreis, Chiligurken",
+      "name": "Kartoffelpuffer, Räucherlachs, Dillschmand, Rote Beetesalat",
+      "description": "Kartoffelpuffer, Räucherlachs, Dillschmand, Rote Beetesalat",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Neuer Matjes nach Hausfrauenart mit Pellkartoffeln",
-      "description": "Neuer Matjes nach Hausfrauenart mit Pellkartoffeln",
+      "name": "„Köfte“ – Rinderhackbällchen, Bauernsalat, Joghurt, Bulgur",
+      "description": "„Köfte“ – Rinderhackbällchen, Bauernsalat, Joghurt, Bulgur",
       "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Basilkumblinis, buntes Tomatenkompott, gratinierter Ziegenkäse",
-      "description": "Basilkumblinis, buntes Tomatenkompott, gratinierter Ziegenkäse",
+      "name": "Geschmorte Paprikaschoten mit Fetafüllung, Tomatensauce, Reis",
+      "description": "Geschmorte Paprikaschoten mit Fetafüllung, Tomatensauce, Reis",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Pulled pork, Brombeersauce, Kartoffelpuffer",
-      "description": "Pulled pork, Brombeersauce, Kartoffelpuffer",
+      "name": "Rindergulasch mit Kartoffelpüree & grünen Butterbohnen",
+      "description": "Rindergulasch mit Kartoffelpüree & grünen Butterbohnen",
       "price": "15,90"
     }
   ],
