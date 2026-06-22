@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Falafel-Wrap",
-      "description": "knusprig gebackene Falafel im Brötchen, gefüllt mit frischem Salat, Tomaten und Caesar-Dressing, serviert mit goldenen Pommes frites und einem Dip nach Wahl",
+      "name": "Überbackene Hähnchenbrust",
+      "description": "saftige Hähnchenbrustfilets mit frischen Tomaten und cremigem Mozzarella überbacken, serviert mit aromatischem Tomatenreis",
+      "price": "10,90"
+    },
+    {
+      "name": "Kabeljaufilet mit Rosmarinkartoffeln",
+      "description": "zartes Kabeljaufilet, goldbraun gebraten, mit knusprigen Rosmarinkartoffeln und einer cremigen Senfsoße mit feinen Kräutern",
+      "price": "11,90"
+    },
+    {
+      "name": "Linguine al Limone",
+      "description": "Linguine in cremiger Zitronensoße, geschwenkt mit frischem Rucola und getoppt mit gehobeltem Parmesan",
       "price": "9,90"
-    },
-    {
-      "name": "Linguinie Mediterraneo mit Hähnchen",
-      "description": "al dente gekochte Linguine mit saftig gegrilltem Hähnchenfilet, Cherrytomaten, Knoblauch und mediterranen Kräutern, verfeinert mit Olivenöl, frischem Basilikum und Parmesan",
-      "price": "11,90"
-    },
-    {
-      "name": "Gebratener Kabeljau mit mediterranem Gemüse",
-      "description": "saftig gebratener Kabeljau auf mediterranem Gemüse aus Tomaten, Zucchini und Paprika, verfeinert mit Olivenöl, frischen Kräutern und einer Zitronennote",
-      "price": "11,90"
     }
   ]
 }
