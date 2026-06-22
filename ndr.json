@@ -1,5 +1,185 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "22.06.2026",
+      "items": [
+        {
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Karotten-Orangen-Kokossuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Veganes Dal Makhani - pikantes Bohnencurry mit Red Kidneys weißen Bohnen und Zwiebeln in Kokosmilch mit Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zucchini-Auberginen-Lasagne mit Käse überbacken in fruchtiger Tomatensauce (Knobi)",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 2 PLUS \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "\"Sommerflirt\" \"laktosefrei\"",
+          "info": "",
+          "name": "Fruchtiger Sommersalat mit Römer- Salatherzen, gebackenem Maishähnchen, Sprossen, Granatapfel, frischer Ananas und Kräuterbaguette",
+          "price_ndr": "8,90",
+          "price_external": "11,80"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Heidelbeerquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "23.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Penne mit veganer Tomaten- Rucolasauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Kartoffeltaschen mit Frischkäsefüllung auf Champignonsauce und Karotten- Apfelrohkost",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Kräuter-Putenbraten (160g) aus dem Ofen, mit Estragonsauce, Blumenkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Sommerflirt\"",
+          "info": "",
+          "name": "Kräuter- Zitronen- Lachsfilet auf gegrilltem Gemüse von Zucchini, Spitzpaprika und Tomate, eingelegte Oliven und Risotto",
+          "price_ndr": "9,90",
+          "price_external": "13,50"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "24.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Gebackene Rosmarinkartoffeln mit Schnittlauchquark und buntem Salat mit Dressing nach Wahl",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Mit Haferschmand gratiniertes Gemüse von Spinat, Brokkoli und Karotte an Rote Bete- Sauce und Ebly",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Spaghetti Carbonara mit Speck, Schinken, Ei und Bechamelsauce, dazu Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Sommerflirt\"",
+          "info": "",
+          "name": "Melonen- Gurken- Bowl mit Chinakohl in Zitronenrahm, würziger Quinoa, Falafelbällchen und Curry- Frischkäsedip",
+          "price_ndr": "26,29",
+          "price_external": "6,50"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "25.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "",
+          "name": "Linguine \"al Pesto\" mit Rucola",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Tofucurry mit Limonen Blätter, Chinakohl und gelben Rüben in roter Currysauce auf Reis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Cordon bleu\" vom Hähnchen mit Majoransauce, Kohlrabigemüse und Kroketten",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Sommerflirt\"",
+          "info": "",
+          "name": "Orangen- Schweinefilet mit einer leichten Limonensauce an Süßkartoffel- Joghurt- Püree und Rucolasalat mit Mangowürfeln",
+          "price_ndr": "8,50",
+          "price_external": "10,90"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "26.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Kolumbianische Kartoffelsuppe mit Mais, Paprika und Knoblauch",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Erdnuss- Bowl mit Pak Choi, Paprika, Sprossen, gelben Reis und Erdnuss-Chilisauce",
+          "price_ndr": "1,24",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Studio 3 Matjessalat \"Hausfrauen Art\" mit Zwiebeln, Äpfeln und Gewürzgurken in Sahnesauce mit Bratkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "\"Sommerflirt\"",
+          "info": "",
+          "name": "Gefüllter Pfannkuchen mit mariniertem, gebackenem Hirtenkäse, Tomaten- Petersiliensalat und Kräuter- Joghurtcreme",
+          "price_ndr": "8,50",
+          "price_external": "10,90"
+        }
+      ]
+    }
+  }
 }
