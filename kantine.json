@@ -1,30 +1,30 @@
 {
   "source": "dpa Kantine",
-  "week": "15.06.2026 - 19.06.2026",
+  "week": "22.06.2026 - 26.06.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Tex-Mex-Lasagne mit Rindfleisch, Kidneybohnen, Mais und Cheddar-Käse",
+        "name": "Geschmortes Rindfleisch in Sauerrahm mit Cornichons und Pilzen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Tortellipfanne mit Spinat und Broccoli",
+        "name": "Spätzlepfanne mit Erbsen, Zwiebeln und Frühlingsquark",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Türkische Zucchini-Puffer mit Lauchzwiebeln und Joghurtcreme",
+        "name": "Lasagne mit einer Linsen-Gemüse-Füllung in cremiger Sauce gebacken",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "glacierte Karotten mit Zwiebeln",
+        "name": "Spitzkohl mit Kümmel",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -39,26 +39,26 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Lachsschnitte mit Gemüse auf einer Zitronen-Kräutersauce",
+        "name": "Indisches Butter-Chicken in Kokos-Tomaten-Joghurtsauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Grillkartoffeln mit Coleslaw-Salat und Frühlingsquark",
+        "name": "Linsen-Bulgur-Pfanne mit Kichererbsen, Pekannüssen und Dip",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Herzhaftes Käseomelette mit Tomate überbacken auf Salat",
+        "name": "Blumenkohl in Kräutercreme mit Käse gebacken",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "gegrillter Mais",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -73,26 +73,26 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Hähnchen-geschnetzeltes mit Waldpilzen und roten Zwiebeln in Schnittlauchcreme",
+        "name": "Gebackene Maispoularde mit Remoulade und Gurkensalat",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Mediterrane Reispfanne mit Zucchini, Feta und Basilikum",
+        "name": "Hausgemachtes Kartoffelpüree mit Süßkartoffeln, Kräuterbutter und Schmorzwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gemüsefrikassee mit Pak-Choi in Kokos-Joghurt-Curry mit Tomate",
+        "name": "Senfeier auf hausgemachtem Kartoffelpüree mit roter Bete",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -107,14 +107,14 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi-Salat, Röstzwiebeln und Pommes frites",
+        "name": "Halbes Grillhähnchen mit cremigem Krautsalat und Zitrone",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Vollkornspaghetti in Hummus-Sauce mit Tomaten und Lauchzwiebeln",
+        "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -140,27 +140,27 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "heute geschlossen",
-        "price": ""
+        "name": "Tagesangebot",
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
-        "name": "heute geschlossen",
-        "price": ""
+        "name": "Tagesangebot",
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "heute geschlossen",
-        "price": ""
+        "name": "Gebackener Rotbarsch auf Kartoffelsalat mit Essig und Öl, dazu Remoulade",
+        "price": "8,50 €"
       },
       "2. Hauptgericht": {
-        "name": "heute geschlossen",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "heute geschlossen",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
