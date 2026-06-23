@@ -2,60 +2,20 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "22.06.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Karotten-Orangen-Kokossuppe | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Veganes Dal Makhani - pikantes Bohnencurry mit Red Kidneys weißen Bohnen und Zwiebeln in Kokosmilch mit Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zucchini-Auberginen-Lasagne mit Käse überbacken in fruchtiger Tomatensauce (Knobi)",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 2 PLUS \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "\"Sommerflirt\" \"laktosefrei\"",
-          "info": "",
-          "name": "Fruchtiger Sommersalat mit Römer- Salatherzen, gebackenem Maishähnchen, Sprossen, Granatapfel, frischer Ananas und Kräuterbaguette",
-          "price_ndr": "8,90",
-          "price_external": "11,80"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Heidelbeerquark",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "23.06.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
-          "name": "Penne mit veganer Tomaten- Rucolasauce",
+          "name": "Pasta Napoli mit fruchtiger Tomaten- Basilikumsauce(Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -69,16 +29,30 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Kräuter-Putenbraten (160g) aus dem Ofen, mit Estragonsauce, Blumenkohl und Salzkartoffeln",
+          "name": "Hähnchenbrust(160g) mit Estragonsauce (Knobi), Blumenkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Kräuter-Putenschnitzel (160g) mit Estragonsauce (Knobi), Blumenkohl und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "\"Sommerflirt\"",
           "info": "",
-          "name": "Kräuter- Zitronen- Lachsfilet auf gegrilltem Gemüse von Zucchini, Spitzpaprika und Tomate, eingelegte Oliven und Risotto",
+          "name": "Kräuter-Zitronen-Lachsfilet(160g) auf gegrilltem Gemüse von Zucchini, Paprika und Tomate, eingelegte Oliven (Knobi und Risotto",
           "price_ndr": "9,90",
           "price_external": "13,50"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Grießpudding mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
