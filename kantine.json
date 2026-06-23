@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Geschmortes Rindfleisch in Sauerrahm mit Cornichons und Pilzen",
@@ -39,14 +39,14 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Indisches Butter-Chicken in Kokos-Tomaten-Joghurtsauce",
+        "name": "Indisches Butter-Chicken in Kokos-Tomaten-Joghurt­sauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Gebackene Maispoularde mit Remoulade und Gurkensalat",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Halbes Grillhähnchen mit cremigem Krautsalat und Zitrone",
@@ -140,23 +140,23 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "name": "Heute geschlossen",
+        "price": ""
       },
       "Salate": {
-        "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "name": "Heute geschlossen",
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Gebackener Rotbarsch auf Kartoffelsalat mit Essig und Öl, dazu Remoulade",
-        "price": "8,50 €"
+        "name": "Heute geschlossen",
+        "price": ""
       },
       "2. Hauptgericht": {
-        "name": "Tagesangebot",
+        "name": "Heute geschlossen",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tagesangebot",
+        "name": "Heute geschlossen",
         "price": ""
       },
       "Gemüse": {
