@@ -2,83 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "24.06.2026",
+    "Donnerstag": {
+      "date": "25.06.2026",
       "items": [
         {
           "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Tomatensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "info": "",
+          "name": "Kalte Gurken-Schmandsuppe (Gelatine) / Teller NDR 3,25 € / Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Gebackene Rosmarinkartoffeln mit Schnittlauchquark und buntem Salat",
+          "category": "Studio 1",
+          "info": "",
+          "name": "Linguine \"al Pesto\" mit Knoblauch, geriebenem Hartkäse und Rucolatopping",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Mit Haferschmand gratiniertes Gemüse von Spinat, Brokkoli und Karotte an Rote Bete- Sauce und Gerste",
+          "name": "Tofu-Curry mit Limonenblätter, Chinakohl, Knoblauch und gelben Rüben in roter Currysauce auf Reis",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Spaghetti Carbonara mit Speck, Schinken, Ei und Bechamelsauce, dazu Hartkäse",
+          "name": "\"Cordon bleu\" vom Hähnchen mit Majoransauce, Gemüse und Kroketten",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "\"Sommerflirt\" -glutenfrei-",
           "info": "",
-          "name": "Melonen-Gurken-Bowl mit Chinakohl in Zitronenrahm, würziger Quinoa, Falafelbällchen und Curry- Frischkäsedip",
-          "price_ndr": "26,29",
-          "price_external": "6,50"
-        },
-        {
-          "category": "8,50",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Stracciatellacreme .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Donnerstag": {
-      "date": "25.06.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "",
-          "name": "Linguine \"al Pesto\" mit Rucola",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Tofucurry mit Limonen Blätter, Chinakohl und gelben Rüben in roter Currysauce auf Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "\"Cordon bleu\" vom Hähnchen mit Majoransauce, Kohlrabigemüse und Kroketten",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "\"Sommerflirt\"",
-          "info": "",
           "name": "Orangen- Schweinefilet mit einer leichten Limonensauce an Süßkartoffel- Joghurt- Püree und Rucolasalat mit Mangowürfeln",
           "price_ndr": "8,50",
           "price_external": "10,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Kalter Milchreis mit Fruchtsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Latte Macchiatopodding .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
@@ -86,16 +60,16 @@
       "date": "26.06.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Kolumbianische Kartoffelsuppe mit Mais, Paprika und Knoblauch",
+          "name": "Pikantes Bohnencurry mit Red Kidneys, weißen Bohnen und Zwiebeln in Kokosmilch mit Reis",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Erdnuss- Bowl mit Pak Choi, Paprika, Sprossen, gelben Reis und Erdnuss-Chilisauce",
+          "name": "Erdnuss-Bowl mit Pak Choi, Paprika, Sprossen, gelben Reis und Erdnuss-Chilisauce",
           "price_ndr": "1,24",
           "price_external": "5,40"
         },
