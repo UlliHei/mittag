@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 22. — 26. Juni 2026",
+  "week": "KARTE VOM 29. — 03. Juli 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Ceasars salad“ – Römersalat, Hühnchen, Käsedressing, Parmesanhobel, Croutons",
-      "description": "„Ceasars salad“ – Römersalat, Hühnchen, Käsedressing, Parmesanhobel, Croutons",
+      "name": "Gelbes Chickencurry mit Linsen, Spinat, Reis, Papadum",
+      "description": "Gelbes Chickencurry mit Linsen, Spinat, Reis, Papadum",
       "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "Kartoffelpuffer, Räucherlachs, Dillschmand, Rote Beetesalat",
-      "description": "Kartoffelpuffer, Räucherlachs, Dillschmand, Rote Beetesalat",
+      "name": "Rindergulasch ungarischer Art mit Spirellinudeln & grünen Bohnen",
+      "description": "Rindergulasch ungarischer Art mit Spirellinudeln & grünen Bohnen",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "„Köfte“ – Rinderhackbällchen, Bauernsalat, Joghurt, Bulgur",
-      "description": "„Köfte“ – Rinderhackbällchen, Bauernsalat, Joghurt, Bulgur",
-      "price": "15,90"
+      "name": "Schmorgurken mit Rinderhack, Salzkartoffeln & Dillschmand",
+      "description": "Schmorgurken mit Rinderhack, Salzkartoffeln & Dillschmand",
+      "price": "14,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Geschmorte Paprikaschoten mit Fetafüllung, Tomatensauce, Reis",
-      "description": "Geschmorte Paprikaschoten mit Fetafüllung, Tomatensauce, Reis",
+      "name": "Griechischer Zucchinikuchen, gebratene Auberginen, Minzjoghurt",
+      "description": "Griechischer Zucchinikuchen, gebratene Auberginen, Minzjoghurt",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Heute Hitzefrei",
-      "description": "Heute Hitzefrei",
-      "price": ""
+      "name": "Kalbsfrikadellen, Kohlrabigemüse in Rahm, Kartoffelpüree",
+      "description": "Kalbsfrikadellen, Kohlrabigemüse in Rahm, Kartoffelpüree",
+      "price": "15,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
