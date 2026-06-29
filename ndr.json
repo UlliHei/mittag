@@ -1,5 +1,178 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "29.06.2026",
+      "items": [
+        {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Tomatensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Pasta crema die porri Nudeln mit Lauchsauce und geriebenem Hartkäse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
+          "name": "Frisches Ofengemüse mit Paprika, Blumenkohl, Knoblauch und Lauchzwiebeln, Café de Paris-Sauce und provenzalische Kartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Schwedische Köttbullar\" Acht Rindfleischbällchen mit Pilzsauce, hausgemachtem Kartoffelpüree und Preiselbeeren",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Matjessalat \"Hausfrauen Art\" mit Zwiebeln, Äpfeln und Gewürzgurken in Sahnesauce mit Bratkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillepudding .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "30.06.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Backkartoffel mit Mojo Verde und Eisberg-Gurkenrohkost",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frische Pilz-Gemüse-Pfanne von Champignons, Spitzkohl und Karotten mit Schnittlauchsauce und Semmelknödel",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebackener Leberkäse (120g) mit einem Spiegelei, Möhrengemüse und hausgemachtem Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "\"FairMast\" Hähnchenbrust(160g) mit Zitronengras- Kokossauce, asiatischem Gemüse und Mie- Nudeln",
+          "price_ndr": "10,50",
+          "price_external": "12,90"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "01.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomatensauce (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gebratenes Sommergemüse von Zucchini, Brokkoli und gelben Rüben mit Kräuterdip und Bulgur",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Moussaka\" griechischer Rinderhackauflauf mit Aubergine und Kartoffeln mit Feta überbacken, dazu Joghurtdip",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Kalter Bratenteller vom Schweinerücken, Rinderbraten und Putenbrust mit Remoulade und Bratkartoffeln",
+          "price_ndr": "7,90",
+          "price_external": "9,90"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "02.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Kartoffelauflauf mit Gemüse und Mozzarella überbacken",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gemüse-Bowl mit gebratenem Kohlrabi, Kichererbsen, Tomaten, Gurken, grünem Spargel und Cashewkernen, dazu Naan-Brot und Soja-Sesamdip",
+          "price_ndr": "25,30",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Studio 3 Nasi Goreng indonesisches Reisgericht mit Geflügelfleisch, Gemüse und würziger Sauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Rindfleisch-Crêpes gefüllt mit Salat Lauchzwiebeln, Paprika,, frischen Kräutern und marinierten Rindfleischstreifen (120g)",
+          "price_ndr": "9,00",
+          "price_external": "11,70"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "03.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Pasta Peperonata\" mit Paprika, Chili und frischer Petersilie",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegetarisch",
+          "name": "Zwei Rote Bete-Bratlinge(200g) mit Möhren-Fenchelgemüse, Kartoffelwedges und Kerbelquark",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet(160g) in Eihülle gebraten, mit Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
