@@ -2,67 +2,27 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "29.06.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Tomatensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Pasta crema die porri Nudeln mit Lauchsauce und geriebenem Hartkäse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Frisches Ofengemüse mit Paprika, Blumenkohl, Knoblauch und Lauchzwiebeln, Café de Paris-Sauce und provenzalische Kartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "\"Schwedische Köttbullar\" Acht Rindfleischbällchen mit Pilzsauce, hausgemachtem Kartoffelpüree und Preiselbeeren",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Matjessalat \"Hausfrauen Art\" mit Zwiebeln, Äpfeln und Gewürzgurken in Sahnesauce mit Bratkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillepudding .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "30.06.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"glutenfrei\"",
           "info": "vegan",
-          "name": "Backkartoffel mit Mojo Verde und Eisberg-Gurkenrohkost",
+          "name": "Gemüsecremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Kleine Backkartoffeln mit Mojo Verde (Knoblauch) und Eisberg-Gurkenrohkost",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Frische Pilz-Gemüse-Pfanne von Champignons, Spitzkohl und Karotten mit Schnittlauchsauce und Semmelknödel",
+          "name": "Frische Pilz-Gemüse-Pfanne mit Schnittlauchsauce und Serviettenknödel",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -76,9 +36,23 @@
         {
           "category": "Live Sendung",
           "info": "",
-          "name": "\"FairMast\" Hähnchenbrust(160g) mit Zitronengras- Kokossauce, asiatischem Gemüse und Mie- Nudeln",
+          "name": "\"FairMast\" Hähnchenbrust(160g) mit frischem Gemüse in Zitronengras-Kokossauce, (Knoblauch) dazu Mie-Nudeln",
           "price_ndr": "10,50",
           "price_external": "12,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Kleiner Pfannkuchen gefüllt mit Apfelkompott, dazu Vanillesauce",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Latte Macchiatopudding .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
