@@ -2,65 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "30.06.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Gemüsecremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Kleine Backkartoffeln mit Mojo Verde (Knoblauch) und Eisberg-Gurkenrohkost",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frische Pilz-Gemüse-Pfanne mit Schnittlauchsauce und Serviettenknödel",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"gutenfrei\"",
-          "info": "",
-          "name": "Gebackener Leberkäse (120g) mit einem Spiegelei, Möhrengemüse und hausgemachtem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "\"FairMast\" Hähnchenbrust(160g) mit frischem Gemüse in Zitronengras-Kokossauce, (Knoblauch) dazu Mie-Nudeln",
-          "price_ndr": "10,50",
-          "price_external": "12,90"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Kleiner Pfannkuchen gefüllt mit Apfelkompott, dazu Vanillesauce",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Latte Macchiatopudding .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "01.07.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Karotten-Orangensuppe mit Chili | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "Pasta Napoli mit fruchtiger Tomatensauce (Knobi)",
           "price_ndr": "3,65",
@@ -69,23 +22,37 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gebratenes Sommergemüse von Zucchini, Brokkoli und gelben Rüben mit Kräuterdip und Bulgur",
+          "name": "Gebratenes Sommergemüse von Zucchini, Brokkoli, gelben Rüben und Bulgur, dazu Kräuterdip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "\"Moussaka\" griechischer Rinderhackauflauf mit Aubergine und Kartoffeln mit Feta überbacken, dazu Joghurtdip",
+          "name": "\"Moussaka\" Griechischer Rinderhackauflauf mit Aubergine, Kartoffeln und Hirtenkäse",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"glutenfrei\"",
           "info": "",
           "name": "Kalter Bratenteller vom Schweinerücken, Rinderbraten und Putenbrust mit Remoulade und Bratkartoffeln",
           "price_ndr": "7,90",
           "price_external": "9,90"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Asiagemüse in Zitronengras-Kokossauce (Knoblauch) mit Mie-Nudeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "",
+          "name": "Panna Cotta (Gelatine) mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
