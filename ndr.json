@@ -2,90 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "01.07.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Karotten-Orangensuppe mit Chili | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomatensauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gebratenes Sommergemüse von Zucchini, Brokkoli, gelben Rüben und Bulgur, dazu Kräuterdip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"glutenfrei\"",
-          "info": "",
-          "name": "\"Moussaka\" Griechischer Rinderhackauflauf mit Aubergine, Kartoffeln und Hirtenkäse",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"glutenfrei\"",
-          "info": "",
-          "name": "Kalter Bratenteller vom Schweinerücken, Rinderbraten und Putenbrust mit Remoulade und Bratkartoffeln",
-          "price_ndr": "7,90",
-          "price_external": "9,90"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Asiagemüse in Zitronengras-Kokossauce (Knoblauch) mit Mie-Nudeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "",
-          "name": "Panna Cotta (Gelatine) mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "02.07.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Kartoffelauflauf mit Gemüse und Mozzarella überbacken",
+          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Kartoffelauflauf mit Gemüse, Knoblauch und Mozzarella überbacken",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gemüse-Bowl mit gebratenem Kohlrabi, Kichererbsen, Tomaten, Gurken, grünem Spargel und Cashewkernen, dazu Naan-Brot und Soja-Sesamdip",
-          "price_ndr": "25,30",
-          "price_external": "5,40"
+          "name": "Gemüse-Bowl mit gebratenem Kohlrabi, Kichererbsen, Tomaten, Gurken und Cashewkernen, dazu Naan-Brot und Sesamdip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
-          "category": "7,50",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
-          "name": "Studio 3 Nasi Goreng indonesisches Reisgericht mit Geflügelfleisch, Gemüse und würziger Sauce",
+          "name": "Nasi Goreng Indonesisches Reisgericht mit Geflügelfleisch, Gemüse, Knoblauch und würziger Sauce",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Sondersendung",
           "info": "",
-          "name": "Rindfleisch-Crêpes gefüllt mit Salat Lauchzwiebeln, Paprika,, frischen Kräutern und marinierten Rindfleischstreifen (120g)",
-          "price_ndr": "9,00",
-          "price_external": "11,70"
+          "name": "Geschnetzeltes vom Schweinefilet mit frischen Champignons in Rahm, dazu Spätzle",
+          "price_ndr": "8,90",
+          "price_external": "10,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Milchgrieß mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
