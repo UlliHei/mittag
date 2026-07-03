@@ -2,76 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "02.07.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Kartoffelauflauf mit Gemüse, Knoblauch und Mozzarella überbacken",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gemüse-Bowl mit gebratenem Kohlrabi, Kichererbsen, Tomaten, Gurken und Cashewkernen, dazu Naan-Brot und Sesamdip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Nasi Goreng Indonesisches Reisgericht mit Geflügelfleisch, Gemüse, Knoblauch und würziger Sauce",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Geschnetzeltes vom Schweinefilet mit frischen Champignons in Rahm, dazu Spätzle",
-          "price_ndr": "8,90",
-          "price_external": "10,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Milchgrieß mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "03.07.2026",
       "items": [
         {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "\"Pasta Peperonata\" mit Paprika, Chili und frischer Petersilie",
+          "name": "\"Pasta Peperonata\" mit Paprika, Chili und Knoblauch, dazu frische Kräuter",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "vegetarisch",
-          "name": "Zwei Rote Bete-Bratlinge(200g) mit Möhren-Fenchelgemüse, Kartoffelwedges und Kerbelquark",
+          "name": "Zwei Rote Bete-Bratlinge mit Möhren-Fenchelgemüse, Kartoffelwedges und Kerbelquark",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Seelachsfilet(160g) in Eihülle gebraten, mit Kartoffelsalat",
+          "name": "Seelachsfilet in Eihülle (160g) mit Mayo-Kartoffelsalat und Kräuter-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "",
+          "name": "Gebackener Leberkäse (120g) mit Mayo-Kartoffelsalat und Kräuter-Kartoffelsalat, dazu süßer Senf",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Buttermilchdessert Rhabarber-Vanille",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
