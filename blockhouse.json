@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "29.06.2026",
-      "name": "Sugo di Peposo",
-      "description": "geschmortes Rindfleisch in kräftiger RotweinPfeffer-Sauce, dazu Pasta Orecchiette",
+      "date": "06.07.2026",
+      "name": "Paniertes Putenschnitzel",
+      "description": "dazu knusprige Pommes frites",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "30.06.2026",
-      "name": "Würzige Barbecue Spareribs",
-      "description": "dazu knusprige Pommes frites und Barbecue-Steak-Sauce",
+      "date": "07.07.2026",
+      "name": "Königsberger Klopse",
+      "description": "in Kapernsauce, mit Basmatireis und Roter Bete",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "01.07.2026",
-      "name": "Steakteller",
-      "description": "kleine Rindersteaks, saftig gegrillt, dazu Baked Potato mit Sour Cream und würzige Teriyaki-Pfefferrahm-Sauce",
+      "date": "08.07.2026",
+      "name": "Saftig gegrilltes Huftsteak",
+      "description": "mit Chilibohnen-Gemüse und Baked Potato mit Sour Cream",
       "price": "14,90 €"
     },
     {
       "category": "Donnerstag",
-      "date": "02.07.2026",
-      "name": "Lammgulasch",
-      "description": "in kräftiger Rosmarin-Thymian-Sauce, dazu Kartoffelgratin",
+      "date": "09.07.2026",
+      "name": "Hackbällchen",
+      "description": "in mediterraner Tomatensauce, dazu Fusilloni",
       "price": "13,90 €"
     },
     {
       "category": "Freitag",
-      "date": "03.07.2026",
-      "name": "Gebratenes Lachsfilet",
-      "description": "dazu knusprige Bratkartoffeln mit Beef-Baconwürfeln, Remouladen-Dip und Zitrone",
+      "date": "10.07.2026",
+      "name": "Backfisch",
+      "description": "dazu Kartoffelsalat und Remouladen-Dip",
       "price": "13,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "29.06. bis 03.07.2026",
-      "name": "Huftmedaillons",
-      "description": "mit knackigem Pfannengemüse und BLOCK HOUSE Brot",
+      "date": "06.07. bis 10.07.2026",
+      "name": "Block Burger",
+      "description": "mit herzhaftem Käse überbacken, Pommes frites und Coleslaw Garnitur",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "29.06. bis 03.07.2026",
-      "name": "Putenmedaillons",
-      "description": "zart gegrillt, mit feinwürzigem Blattspinat und Baked Potato mit Sour Cream",
+      "date": "06.07. bis 10.07.2026",
+      "name": "Beef Potato",
+      "description": "zarte Rindfleischstreifen gebraten, dazu Baked Potato mit Sour Cream und BLOCK HOUSE Brot",
       "price": "14,90 €"
     }
   ]
