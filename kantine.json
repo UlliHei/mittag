@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "30.06.2026 - 03.07.2026",
+  "week": "06.07.2026 - 10.07.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,28 +12,28 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Heute geschlossen",
-        "price": ""
+        "name": "Hähnchenfilet in Dattel-Curry-Creme mit Kichererbsen",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Heute geschlossen",
-        "price": ""
+        "name": "Orientalische Pasta-Pfanne mit Quinoa auf Salat",
+        "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Heute geschlossen",
-        "price": ""
+        "name": "Hirtenkäse Quiche mit Spinat, Tomate und Joghurtcreme",
+        "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "",
-        "price": ""
+        "name": "Glacierte Karotten mit Kräuterzwiebeln",
+        "price": "1,20 €"
       },
       "Beilage": {
-        "name": "",
-        "price": ""
+        "name": "Tagesangebot",
+        "price": "1,20 €"
       },
       "Dessert": {
-        "name": "",
-        "price": ""
+        "name": "Tagesangebot",
+        "price": "1,20 €"
       }
     },
     "Dienstag": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Mit Hackfleisch gefüllte Paprika in Tomaten-Basilikum-Sud",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Gemüse-Reis-Pfanne mit Kürbiskernen",
+        "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Herzhafte Semmelknödel mit Kräuterpfifferlingen in Rahm",
+        "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Prinzessböhnchen",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Linguine-Pasta \"al ragu\" mit Rindfleisch, Gemüse und Grana Padano",
+        "name": "Mailänder Schnitzel vom Truthahn mit einer Tomaten-Mozarella-Haube",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kartoffel-Fetakäse-Gratin mit Lauch und Zwiebel",
+        "name": "Linguine Pasta mit einem Rucola Pesto, Walnüssen und Käse",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gemüse-Kartoffel-Frikadelle mit Haferflocken, Kräuterquark und Salat",
+        "name": "Pita Brot gefüllt mit Camembert und Preiselbeeren auf Feldsalat und Kräutermix",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Broccoli mit Mandeln",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi-Salat, Röstzwiebeln und Pommes frites",
+        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gebackener Camembert mit Preiselbeeren, Baguette und Blattsalaten",
+        "name": "Tortellini mit Spinat-Füllung auf einer Ratatouille-Tomatensauce",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "gegrilltes Ofengemüse",
+        "name": "Gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -148,7 +148,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Zwei Wiener Würstchen oder Krakauer Batwurst auf hausgemachtem Kartoffelsalat",
+        "name": "Ungarischer Gulasch-Suppentopf mit Paprika, Zwiebeln, Schmand und Brötchen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "gegrilltes Ofengemüse",
+        "name": "Gegrilltes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
