@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 29. — 03. Juli 2026",
+  "week": "KARTE VOM 06. — 10. Juli 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Gelbes Chickencurry mit Linsen, Spinat, Reis, Papadum",
-      "description": "Gelbes Chickencurry mit Linsen, Spinat, Reis, Papadum",
+      "name": "Knuspriges Hühnerbein, Gemüsekartoffelpüree, Salat",
+      "description": "Knuspriges Hühnerbein, Gemüsekartoffelpüree, Salat",
       "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "Rindergulasch ungarischer Art mit Spirellinudeln & grünen Bohnen",
-      "description": "Rindergulasch ungarischer Art mit Spirellinudeln & grünen Bohnen",
+      "name": "Aubergine mit Rinderhackfüllung, Joghurtdip, gelbem Gewürzreis",
+      "description": "Aubergine mit Rinderhackfüllung, Joghurtdip, gelbem Gewürzreis",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Schmorgurken mit Rinderhack, Salzkartoffeln & Dillschmand",
-      "description": "Schmorgurken mit Rinderhack, Salzkartoffeln & Dillschmand",
-      "price": "14,90"
+      "name": "Schmorgurke mit Lachsfüllung, Senfsauce, Butterreis",
+      "description": "Schmorgurke mit Lachsfüllung, Senfsauce, Butterreis",
+      "price": "16,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Griechischer Zucchinikuchen, gebratene Auberginen, Minzjoghurt",
-      "description": "Griechischer Zucchinikuchen, gebratene Auberginen, Minzjoghurt",
+      "name": "Geschmorte Paprika mit indischer Kartoffelfüllung, cremige schwarze Linsen",
+      "description": "Geschmorte Paprika mit indischer Kartoffelfüllung, cremige schwarze Linsen",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Kalbsfrikadellen, Kohlrabigemüse in Rahm, Kartoffelpüree",
-      "description": "Kalbsfrikadellen, Kohlrabigemüse in Rahm, Kartoffelpüree",
-      "price": "15,90"
+      "name": "Clubsandwich mit Huhn, Speck, Tomate, Waldorfsalat",
+      "description": "Clubsandwich mit Huhn, Speck, Tomate, Waldorfsalat",
+      "price": "14,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
