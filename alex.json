@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Gourmet-Ciabatta-Sandwich mit Hähnchen",
-      "description": "Ciabatta belegt mit würzigem Hähnchen, frischen Tomaten, Rucola, Kräuteröl und geschmolzenem Mozzarella, dazu eine Salatgarnitur und ein Dip nach Wahl",
+      "name": "Bunter Sommersalat mit gebackenen Calamari",
+      "description": "knackige Blattsalate mit Gurken, Tomaten und gebackenen Calamari, verfeinert mit einem leichten Dressing, dazu frisch gebackenes Ciabatta",
       "price": "9,90"
     },
     {
-      "name": "Kabeljau mit Kartoffelpüree und Zitronen-Butter-Soße",
-      "description": "zart gebratener Kabeljau, serviert mit cremigem Kartoffelpüree und einer feinen Zitronen-Butter-Soße",
+      "name": "Penne nach mediterraner Art",
+      "description": "Penne mit Cherrytomaten, Zucchini, Paprika, Oliven und mediterranen Kräutern",
+      "price": "9,90"
+    },
+    {
+      "name": "Kabeljau mit Dillsoße",
+      "description": "zart gebratener Kabeljau, serviert mit Dillsoße und duftendem Reis",
       "price": "11,90"
-    },
-    {
-      "name": "Mediterraner Flammkuchen",
-      "description": "knuspriger Flammkuchen mit Crème fraîche, mediterranem Grillgemüse, Schafskäse, Zucchini, Paprika und roten Zwiebeln, verfeinert mit frischen Kräutern und Rucola",
-      "price": "9,90"
     }
   ]
 }
