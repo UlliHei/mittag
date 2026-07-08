@@ -2,90 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "07.07.2026",
+    "Mittwoch": {
+      "date": "08.07.2026",
       "items": [
         {
-          "category": "Vorspann \"laktosefrei\"",
+          "category": "Vorspann \"glutenfrei\"",
           "info": "vegan",
-          "name": "Asiasuppe mit Gemüse / Teller NDR 3,05 € / Gäste 3,40 €",
-          "price_ndr": "1,50",
-          "price_external": "2,00"
+          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
         },
         {
-          "category": "Studio 1 \"laktosefrei\"",
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegan",
-          "name": "\"Pasta Salsa piccante di Lenticcie\" mit scharfer Linsensauce (Knoblauch)",
+          "name": "Kartoffel-Gemüsecurry mit Lauch, Knoblauch und Zucchini in Kokos-Currysauce",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2 \"glutenfrei\"",
           "info": "",
-          "name": "Großer Kartoffelrösti mit Gemüse (Brokkoli, Karotte, Kohlrabi) und Käse überbacken, dazu Kräuterquark",
+          "name": "Italienisches Pfannengemüse von Tomaten, Paprika und Staudensellerie mit Oliven und Polentapüree",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3 \"glutenfrei\"",
+          "category": "Studio 3",
           "info": "",
-          "name": "Putensteak \"griechischer Art\" mit Tzatziki (Knoblauch), Tomatenreis und Krautsalat",
+          "name": "Schweinegeschnetzeltes in Pilzrahmsauce mit Spätzle",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung \"glutenfrei\"",
+          "category": "Sondersendung",
           "info": "",
-          "name": "Susländer Bratwurst (120g) mit Sauerkraut und Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "6,50"
+          "name": "Zwei Fischfrikadellen(150g) mit Remoulade und Kartoffel-Gurkensalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
         },
         {
-          "category": "8,90",
-          "info": "Sondersendung \"glutenfrei\"",
-          "name": "vegetarisch Hausgemachter Milchreis mit Waldbeersauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
+          "category": "Abspann",
           "info": "vegetarisch",
-          "name": "Aprikosen-Mango-Joghurt",
-          "price_ndr": "10,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "08.07.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Kartoffel-Gemüsecurry mit Lauch und Zucchini in Kokos-Currysauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Italienisches Pfannengemüse von Tomaten, Paprika und Staudensellerie mit Oliven und Polenta",
-          "price_ndr": "25,28",
-          "price_external": "5,40"
-        },
-        {
-          "category": "7,50",
-          "info": "",
-          "name": "Studio 3 Schweinegeschnetzeltes in Pilzrahmsauce mit Spätzle",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Minutensteak (160g) von der dt. Färse, mit Kräuterbutter und einer Backkartoffel mit Sour Creame",
-          "price_ndr": "9,99",
-          "price_external": "9,99"
+          "name": "Apfel-Crumble mit Vanillesauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
