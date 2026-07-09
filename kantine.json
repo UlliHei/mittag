@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Hähnchenfilet in Dattel-Curry-Creme mit Kichererbsen",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Mit Hackfleisch gefüllte Paprika in Tomaten-Basilikum-Sud",
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Mailänder Schnitzel vom Truthahn mit einer Tomaten-Mozarella-Haube",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Ungarischer Gulasch-Suppentopf mit Paprika, Zwiebeln, Schmand und Brötchen",
