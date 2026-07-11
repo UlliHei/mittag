@@ -1,30 +1,30 @@
 {
   "source": "dpa Kantine",
-  "week": "06.07.2026 - 10.07.2026",
+  "week": "13.07.2026 - 17.07.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Hähnchenfilet in Dattel-Curry-Creme mit Kichererbsen",
+        "name": "Hähnchen-Piccata-Milanese in Parmesanhülle auf Ricotta-Tomatensauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Orientalische Pasta-Pfanne mit Quinoa auf Salat",
+        "name": "Kleine Grill-Kartoffeln in Kräuterbutter mit Sour Cream und Blattsalat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Hirtenkäse Quiche mit Spinat, Tomate und Joghurtcreme",
+        "name": "Pilzgulasch mit Lauchzwiebeln und Cornichons in Senfcreme",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Glacierte Karotten mit Kräuterzwiebeln",
+        "name": "Gedämpfter Brokkoli",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -39,26 +39,26 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Mit Hackfleisch gefüllte Paprika in Tomaten-Basilikum-Sud",
+        "name": "Lachsfilet mit Gemüsestroh auf Pommery-Senfsauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Gemüse-Reis-Pfanne mit Kürbiskernen",
+        "name": "Pasta tricolore mit Basilikum, getrockneten Tomaten und Pinienkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Herzhafte Semmelknödel mit Kräuterpfifferlingen in Rahm",
+        "name": "Mediterranes Gemüseragout mit Veggie-Bällchen und Nüssen",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Prinzessböhnchen",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -73,26 +73,26 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Mailänder Schnitzel vom Truthahn mit einer Tomaten-Mozarella-Haube",
+        "name": "Kalbsfleischbällchen mit grünem Spargel und Kerbel",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Linguine Pasta mit einem Rucola Pesto, Walnüssen und Käse",
+        "name": "Safran-Kräuter-Reispfanne mit Grillgemüse und Feldsalat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Pita Brot gefüllt mit Camembert und Preiselbeeren auf Feldsalat und Kräutermix",
+        "name": "Mit Spinat gefüllte Cannelloni in Tomatencreme und Mozarella",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Gerösteter Blumenkohl",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -107,14 +107,14 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
+        "name": "Gebackenes Schnitzel \"Cordon bleu Art\" mit Orangen-Hollandaise",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tortellini mit Spinat-Füllung auf einer Ratatouille-Tomatensauce",
+        "name": "Griechischer Fetakäse-Kuchen mit Bohnen, Tomaten und Kräuterquark",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gegrilltes Ofengemüse",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -141,14 +141,14 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Ungarischer Gulasch-Suppentopf mit Paprika, Zwiebeln, Schmand und Brötchen",
+        "name": "Lauch-Creme-Suppe mit Kartoffelwürfeln und kleinen Party Frikadellen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Gegrilltes Ofengemüse",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
