@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "10.07.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Karotten-Orangen-Kokossuppe | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Türkischer Nudelsalat mit Kritharaki, Tomaten, Gurken, Zwiebeln, Knoblauch, Paprika, Peperoni, Petersilie und Römersalat mit Dill und pflanzlichem Joghurtdip",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Zucchinigratin mit Käse überbacken an hausgemachtem Sellerie-Kartoffelpüree",
-          "price_ndr": "26,28",
-          "price_external": "5,40"
-        },
-        {
-          "category": "7,50",
-          "info": "Studio 3 \"glutenfrei\"",
-          "name": "Schwedischer Matjessalat mit Kartoffeln, Ei, Radieschen und Eisbergsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Susländer Bratwurst (120g) mit Sauce, Gemüse und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Aprikosen-Mango-Joghurt",
-          "price_ndr": "10,26",
-          "price_external": "1,45"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
