@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 06. — 10. Juli 2026",
+  "week": "KARTE VOM 11. — 17. Juli 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Knuspriges Hühnerbein, Gemüsekartoffelpüree, Salat",
-      "description": "Knuspriges Hühnerbein, Gemüsekartoffelpüree, Salat",
-      "price": "14,90"
-    },
-    {
-      "category": "Dienstag",
-      "name": "Aubergine mit Rinderhackfüllung, Joghurtdip, gelbem Gewürzreis",
-      "description": "Aubergine mit Rinderhackfüllung, Joghurtdip, gelbem Gewürzreis",
+      "name": "Rindersteak, Trüffelsauce, Kartoffelgratin, Tomaten, Salat",
+      "description": "Rindersteak, Trüffelsauce, Kartoffelgratin, Tomaten, Salat",
       "price": "15,90"
     },
     {
+      "category": "Dienstag",
+      "name": "Persisches Huhn mit Pflaumen & gelbem Safranreis",
+      "description": "Persisches Huhn mit Pflaumen & gelbem Safranreis",
+      "price": "14,90"
+    },
+    {
       "category": "Mittwoch",
-      "name": "Schmorgurke mit Lachsfüllung, Senfsauce, Butterreis",
-      "description": "Schmorgurke mit Lachsfüllung, Senfsauce, Butterreis",
-      "price": "16,90"
+      "name": "„Polpette“ – Rinderhackbällchen in Tomatensugo, Parmesan, Spaghetti",
+      "description": "„Polpette“ – Rinderhackbällchen in Tomatensugo, Parmesan, Spaghetti",
+      "price": "14,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Geschmorte Paprika mit indischer Kartoffelfüllung, cremige schwarze Linsen",
-      "description": "Geschmorte Paprika mit indischer Kartoffelfüllung, cremige schwarze Linsen",
-      "price": "14,90"
+      "name": "geschlossen",
+      "description": "geschlossen",
+      "price": ""
     },
     {
       "category": "Freitag",
-      "name": "Clubsandwich mit Huhn, Speck, Tomate, Waldorfsalat",
-      "description": "Clubsandwich mit Huhn, Speck, Tomate, Waldorfsalat",
-      "price": "14,90"
+      "name": "geschlossen",
+      "description": "geschlossen",
+      "price": ""
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
