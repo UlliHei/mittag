@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Bunter Sommersalat mit gebackenen Calamari",
-      "description": "knackige Blattsalate mit Gurken, Tomaten und gebackenen Calamari, verfeinert mit einem leichten Dressing, dazu frisch gebackenes Ciabatta",
-      "price": "9,90"
-    },
-    {
-      "name": "Penne nach mediterraner Art",
-      "description": "Penne mit Cherrytomaten, Zucchini, Paprika, Oliven und mediterranen Kräutern",
-      "price": "9,90"
-    },
-    {
-      "name": "Kabeljau mit Dillsoße",
-      "description": "zart gebratener Kabeljau, serviert mit Dillsoße und duftendem Reis",
+      "name": "Rindergulasch",
+      "description": "zart geschmortes Rindfleisch in würziger Soße mit Zwiebeln und Paprika, dazu lockerer Reis und ein kleiner frischer Salat",
       "price": "11,90"
+    },
+    {
+      "name": "Flammkuchen mit Ziegenkäse & Honig",
+      "description": "knuspriger Flammkuchen mit Crème fraîche, Ziegenkäse, Honig, Walnüssen und frischem Rucola",
+      "price": "9,90"
+    },
+    {
+      "name": "Penne al Salmone",
+      "description": "Penne in cremiger Sahnesoße mit saftigem Lachs, verfeinert mit frischen Kräutern, Cherrytomaten und einer feinen Zitronennote",
+      "price": "10,90"
     }
   ]
 }
