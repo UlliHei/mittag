@@ -1,5 +1,185 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "13.07.2026",
+      "items": [
+        {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Auberginen-Tomatensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Italienische Caponata von roten Paprika, Tomaten, Oliven, Kapern und Auberginen(Knobi) mit Baguette",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Bulgur-Hirtenkäse-Bowl mit grünem Bulgur, Spinat, Erbsen, Rotkrautsalat, Aprikosen und Joghurt-Zitronen Dressing",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Souvlaki von der Pute(160g) zwei Spieße, mit Aioli (Knobi), Tomatenreis und Krautsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Kleine Ofenkartoffel mit buntem Salat und Tomatenquark",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Indisches Hähnchencurry vom FairMast Huhn mit Kurkuma, Mango, Erbsen und Minze auf Reis",
+          "price_ndr": "8,90",
+          "price_external": "10,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillepudding mit Schokosauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "14.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta mit Kichererbsen, Aubergine und Rucola in Olivenöl gebraten",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zwei Zucchini-Karottenpuffer(200g) mit Kräuter-Dip und buntem Salat mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet im Backteig mit buntem Kartoffelsalat und Zitrone",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Wiener Hähnchenkeule (250g) vom \"FairMast Huhn\" mit Zitrone, Pommes frites und gemischtem Salat mit Dressing nach Wahl",
+          "price_ndr": "7,30",
+          "price_external": "9,30"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "15.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Dal Bhat tibetanisches Linsengericht mit Kreuzkümmel, Chili, Lauch, Karotten, Knoblauch und Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 PLUS",
+          "info": "",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Mariniertes Gemüse von Champignons, Kirschtomaten und Karotten auf Tagliatelle mit Basilikumsauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Großer Salatteller von buntem Salat, Tomaten, Gurken, Paprika und Sprossen mit drei Riesengarnelen Kräuterdressing und Knoblauchbaguette",
+          "price_ndr": "8,90",
+          "price_external": "11,90"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "16.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta mit Gartenkräutern in heller Sauce und Rucola",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gefüllte Paprikaschote mit Khritaraki, Gemüse und Hirtenkäsefüllung dazu Tzatziki und Salat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Mettbällchen von gemischtem Hackfleisch(Rind&Schwein) in feuriger Gemüse-Tomatensauce mit Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Gegrilltes Schweinerückensteak vom Susländer Schwein mit Kräuterbutter, Pommes frites und gemischtem Salat mit Dressing nach Wahl",
+          "price_ndr": "7,90",
+          "price_external": "9,90"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "17.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "2 Spiegeleier auf Rahmspinat mit hausgemachtem Kartoffelpüree",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Spanische Gemüsepfanne von Auberginen, Karotten, Bohnen, Knoblauch und Oliven mit Mojo Verde und mallorquinische Kartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Seelachsfilet(160g) mit Zitronensauce, Zucchinigemüse und Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
