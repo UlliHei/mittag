@@ -6,32 +6,32 @@
       "date": "15.07.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"laktose- & glutenfrei\"",
           "info": "vegan",
           "name": "Dal Bhat tibetanisches Linsengericht mit Kreuzkümmel, Chili, Lauch, Karotten, Knoblauch und Reis",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2 PLUS",
+          "category": "Studio 2 PLUS \"laktose- & glutenfrei\"",
           "info": "",
           "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktose\"",
           "info": "",
-          "name": "Mariniertes Gemüse von Champignons, Kirschtomaten und Karotten auf Tagliatelle mit Basilikumsauce",
+          "name": "Mariniertes Gemüse von Champignons, Kirschtomaten und Karotten auf Pasta mit Basilikumsauce(Knobi)",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Live Sendung",
+          "category": "Sondersendung",
           "info": "",
-          "name": "Großer Salatteller von buntem Salat, Tomaten, Gurken, Paprika und Sprossen mit drei Riesengarnelen Kräuterdressing und Knoblauchbaguette",
-          "price_ndr": "8,90",
-          "price_external": "11,90"
+          "name": "Spaghetti Bolognese von Rinderhackfleisch und Gemüse (Knobi), dazu geriebener Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
         }
       ]
     },
