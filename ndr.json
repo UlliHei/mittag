@@ -6,7 +6,7 @@
       "date": "16.07.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "Pasta mit Gartenkräutern in heller Sauce und Rucola",
           "price_ndr": "3,65",
@@ -15,7 +15,7 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gefüllte Paprikaschote mit Khritaraki, Gemüse und Hirtenkäsefüllung dazu Tzatziki und Salat",
+          "name": "Gefüllte Paprikaschote mit Khritaraki, Gemüse und Hirtenkäsefüllung dazu Gurkenquark und Salat mit Dressing nach Wahl",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -25,13 +25,6 @@
           "name": "Mettbällchen von gemischtem Hackfleisch(Rind&Schwein) in feuriger Gemüse-Tomatensauce mit Reis",
           "price_ndr": "6,80",
           "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Gegrilltes Schweinerückensteak vom Susländer Schwein mit Kräuterbutter, Pommes frites und gemischtem Salat mit Dressing nach Wahl",
-          "price_ndr": "7,90",
-          "price_external": "9,90"
         }
       ]
     },
