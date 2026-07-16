@@ -41,13 +41,6 @@
           "price_external": "5,90"
         },
         {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Chicken-Wrap gefüllt mit Hähnchenbruststreifen, Gurke, Mais, Eisbergsalat, Avocado, Tomate und Frischkäse",
-          "price_ndr": "6,90",
-          "price_external": "8,90"
-        },
-        {
           "category": "Abspann \"laktose- und glutenfrei\"",
           "info": "vegan",
           "name": "Veganer Apfelpudding mit Karamellsauce",
