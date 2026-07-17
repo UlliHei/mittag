@@ -6,6 +6,13 @@
       "date": "17.07.2026",
       "items": [
         {
+          "category": "Vorspann \"laktose- & glutenfrei\"",
+          "info": "vegan",
+          "name": "Kalte französische Kartoffel-Lauchsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1 \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "2 Spiegeleier auf Rahmspinat (Knobi) mit hausgemachtem Kartoffelpüree",
@@ -25,6 +32,20 @@
           "name": "Gebratenes Seelachsfilet(160g) mit Zitronensauce, Zucchinigemüse und Reis",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Zwei Hackbällchen von gemischtem Hackfleisch(Rind&Schwein) in feuriger Gemüse-Tomatensauce(Knobi) mit Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Apfel-Crumble mit Vanillesauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
