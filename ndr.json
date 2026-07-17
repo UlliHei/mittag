@@ -6,21 +6,21 @@
       "date": "17.07.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "2 Spiegeleier auf Rahmspinat mit hausgemachtem Kartoffelpüree",
+          "name": "2 Spiegeleier auf Rahmspinat (Knobi) mit hausgemachtem Kartoffelpüree",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"gluten- und laktosefrei\"",
           "info": "",
           "name": "Spanische Gemüsepfanne von Auberginen, Karotten, Bohnen, Knoblauch und Oliven mit Mojo Verde und mallorquinische Kartoffeln",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
           "name": "Gebratenes Seelachsfilet(160g) mit Zitronensauce, Zucchinigemüse und Reis",
           "price_ndr": "6,80",
