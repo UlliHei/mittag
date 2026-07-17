@@ -2,53 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "16.07.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Asiatische Gemüsesuppe (Knobi)| Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta mit Gartenkräutern in heller Sauce und Rucola",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gefüllte Paprikaschote mit Khritaraki, Gemüse und Hirtenkäsefüllung dazu Gurkenquark und Salat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Zwei Hackbällchen von gemischtem Hackfleisch(Rind&Schwein) in feuriger Gemüse-Tomatensauce(Knobi) mit Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Dal Bhat tibetanisches Linsengericht mit Kreuzkümmel, Chili, Lauch, Karotten, Knoblauch und Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Veganer Apfelpudding mit Karamellsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "17.07.2026",
       "items": [
