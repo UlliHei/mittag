@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "13.07.2026 - 17.07.2026",
+  "week": "20.07.2026 - 24.07.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,19 +12,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Hähnchen-Piccata-Milanese in Parmesanhülle auf Ricotta-Tomatensauce",
+        "name": "Orangen-Hähnchen mit roten Zwiebeln und Kirschtomaten",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kleine Grill-Kartoffeln in Kräuterbutter mit Sour Cream und Blattsalat",
+        "name": "Orientalische Couscous-Pfanne mit Brokkoli und Currydip",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Pilzgulasch mit Lauchzwiebeln und Cornichons in Senfcreme",
+        "name": "Gemüse-Kartoffel-Taler mit Getreide, Leinsamen und Quarkcreme",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gedämpfter Brokkoli",
+        "name": "Brokkoli mit Meersalz im Ofen geröstet",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -46,15 +46,15 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lachsfilet mit Gemüsestroh auf Pommery-Senfsauce",
+        "name": "Cremiges Hühnerfrikassee mit Worcestersauce, Erbsen und Spargel",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Pasta tricolore mit Basilikum, getrockneten Tomaten und Pinienkernen",
+        "name": "Djuvec Reis mit Paprika, Tomaten und Nüssen auf Salat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Mediterranes Gemüseragout mit Veggie-Bällchen und Nüssen",
+        "name": "Cremige frische Pfifferlinge mit roten Zwiebeln auf Pappardelle Pasta",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Kalbsfleischbällchen mit grünem Spargel und Kerbel",
+        "name": "Schmorgurken-Pfanne in Dillcreme mit Rinderhackfleisch",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Safran-Kräuter-Reispfanne mit Grillgemüse und Feldsalat",
+        "name": "Hausgemachtes Kartoffelpüree mit Süßkartoffel, Kräuterbutter und Schmorzwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Mit Spinat gefüllte Cannelloni in Tomatencreme und Mozarella",
+        "name": "Gebackener Feta auf Wassermelone mit Kräuterquark und Krautsalat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gerösteter Blumenkohl",
+        "name": "Glacierte Karotten mit Zwiebeln",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Gebackenes Schnitzel \"Cordon bleu Art\" mit Orangen-Hollandaise",
+        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Griechischer Fetakäse-Kuchen mit Bohnen, Tomaten und Kräuterquark",
+        "name": "Sommergemüse-Kuchen mit Bergkäse und griechischem Joghurt",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "Mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -148,8 +148,8 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lauch-Cremesuppe mit Kartoffelwürfeln und kleinen Party Frikadellen",
-        "price": "7,50 €"
+        "name": "Rotbarschfilet in Kräuterhülle mit Kartoffelsalat in Essig und Öl und Remoulade",
+        "price": "8,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "Mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
