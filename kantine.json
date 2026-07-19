@@ -29,11 +29,11 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       }
     },
     "Dienstag": {
@@ -59,15 +59,15 @@
       },
       "Gemüse": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       }
     },
     "Mittwoch": {
@@ -97,11 +97,11 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       }
     },
     "Donnerstag": {
@@ -131,11 +131,11 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       }
     },
     "Freitag": {
@@ -165,11 +165,11 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       }
     }
   }
