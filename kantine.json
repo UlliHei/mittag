@@ -33,7 +33,7 @@
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       }
     },
     "Dienstag": {
@@ -59,15 +59,15 @@
       },
       "Gemüse": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       }
     },
     "Mittwoch": {
@@ -84,7 +84,7 @@
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Hausgemachtes Kartoffelpüree mit Süßkartoffel, Kräuterbutter und Schmorzwiebeln",
+        "name": "Hausgemachtes Kartoffelfüree mit Süßkartoffel, Kräuterbutter und Schmorzwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
@@ -97,11 +97,11 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       }
     },
     "Donnerstag": {
@@ -131,11 +131,11 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       }
     },
     "Freitag": {
@@ -165,11 +165,11 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       }
     }
   }
