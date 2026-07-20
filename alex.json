@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Rindergulasch",
-      "description": "zart geschmortes Rindfleisch in würziger Soße mit Zwiebeln und Paprika, dazu lockerer Reis und ein kleiner frischer Salat",
-      "price": "11,90"
-    },
-    {
-      "name": "Flammkuchen mit Ziegenkäse & Honig",
-      "description": "knuspriger Flammkuchen mit Crème fraîche, Ziegenkäse, Honig, Walnüssen und frischem Rucola",
+      "name": "Flammkuchen mit Thunfisch",
+      "description": "knuspriger Flammkuchen mit Crème fraîche, Thunfisch, roten Zwiebeln und Rucola",
       "price": "9,90"
     },
     {
-      "name": "Penne al Salmone",
-      "description": "Penne in cremiger Sahnesoße mit saftigem Lachs, verfeinert mit frischen Kräutern, Cherrytomaten und einer feinen Zitronennote",
-      "price": "10,90"
+      "name": "Gemüselasagne",
+      "description": "hausgemachte Lasagne mit frischem saisonalem Gemüse, Tomatensoße und cremiger Béchamelsoße, überbacken mit Käse",
+      "price": "9,90"
+    },
+    {
+      "name": "Fischburger mit Pommes",
+      "description": "knusprig gebratenes Fischfilet im Burger Bun mit frischem Salat, Tomaten und Burgersoße, serviert mit goldbraunen Pommes frites",
+      "price": "11,90"
     }
   ]
 }
