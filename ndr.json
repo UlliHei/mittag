@@ -2,76 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "20.07.2026",
+    "Dienstag": {
+      "date": "21.07.2026",
       "items": [
         {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Klare Gemüsebrühe |Teller NDR 3,25 € | Gäste 3,80 €",
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Gemüsecremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1 \"laktose- und glutenfrei\"",
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegan",
-          "name": "Ingwermöhren-Wirsinggemüse mit leicht scharfer Sauce und Sesamreis",
+          "name": "Pasta mit roten Linsen in Spinatsauce",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2 \"laktosefrei\"",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
-          "name": "Auberginen-Piccata mit Zucchini-Süßkartoffel-Ratatouille(Knobi)",
+          "name": "Gebratene Gnocchi mit Karotten, Kohlrabi, Zucchini und Hirtenkäse mit fruchtiger Basilikumsauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3 \"laktose- und glutenfrei\"",
           "info": "",
-          "name": "Sauerfleisch mit Remouladensauce und Bratkartoffeln",
+          "name": "Rostbratwurst (100g) mit Mayonnaisen-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hausgemachte Frikadelle (Rind&Schwein) mit Bratensauce, Karotten, Kohlrabi, Erbsengemüse und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Waldfruchtpudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Dienstag": {
-      "date": "21.07.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Pasta mit roten Linsen und Spinatsauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gebratene Gnocchi mit Karotten, Kohlrabi, Erbsen, Brokkoli und Hirtenkäse mit fruchtiger Basilikumsauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Thüringer Bratwurst (100g) mit Bratensauce, Kohlrabigemüse und hausgemachtem Kartoffelpüree",
+          "name": "Rostbratwurst (100g) mit Bratensauce, Kohlrabigemüse und hausgemachtem Kartoffelpüree",
           "price_ndr": "1,26",
           "price_external": "6,80"
+        },
+        {
+          "category": "8,75",
+          "info": "Sondersendung \"laktosefrei\"",
+          "name": "vegetarisch Hausgemachte Rote Grütze mit veganer Vanillesauce | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
+        },
+        {
+          "category": "Leichte Unterhaltung",
+          "info": "",
+          "name": "Bunter Salatteller von buntem Blattsalat, Tomate und Gurke mit zwei Back-Camembert, Preiselbeeren und Dressing nach Wahl",
+          "price_ndr": "7,35",
+          "price_external": "9,70"
+        },
+        {
+          "category": "Abspann \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Veganer Schokopudding von glutenfreier Hafermilch! mit veganer Vanillesauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
