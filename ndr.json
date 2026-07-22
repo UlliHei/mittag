@@ -34,20 +34,6 @@
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
-          "info": "vegetarisch",
-          "name": "Veggi Burger vegetarisches Beyond-Patty im Briochebrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "\"Cheeseburger\" Rindfleischpatty im Sesambrötchen mit Burgersauce, Gurke, Tomate, Salat und Cheddar dazu Pommes frites",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
           "category": "Abspann",
           "info": "vegetarisch",
           "name": "Grießpudding mit Fruchtsauce",
