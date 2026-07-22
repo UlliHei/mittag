@@ -6,6 +6,13 @@
       "date": "22.07.2026",
       "items": [
         {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Tomatensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1 \"laktose- und glutenfrei\"",
           "info": "vegetarisch",
           "name": "Kleine Ofenkartoffeln an sommerlichem Quark mit Radieschen, Kresse und Frühlingszwiebeln",
@@ -13,7 +20,7 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
           "name": "Acht Ofen-Falafel auf Römersalat mit Gurken und Tomaten, dazu veganer Joghurt-Minz-Dip und Brot",
           "price_ndr": "5,40",
@@ -28,10 +35,24 @@
         },
         {
           "category": "Live Sendung",
+          "info": "vegetarisch",
+          "name": "Veggi Burger vegetarisches Beyond-Patty im Sesambrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
+          "price_ndr": "9,65",
+          "price_external": "12,10"
+        },
+        {
+          "category": "Live Sendung",
           "info": "",
           "name": "\"Cheeseburger\" Rindfleischpatty im Sesambrötchen mit Burgersauce, Gurke, Tomate, Salat und Cheddar dazu Pommes frites",
           "price_ndr": "9,65",
           "price_external": "12,10"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Grießpudding mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
