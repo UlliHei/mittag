@@ -2,72 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "23.07.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Nudelauflauf mit buntem Gemüse (Knobi) und Käse überbacken",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "\"Sommer-Bowl\" von Zucchini, Spinat, Erbsen, und Wassermelone mit Brombeerdressing auf Sushi-Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Schweineschnitzel \"Wiener Art\" (160g) mit Ketchup-Sauce Pommes Frites und Zitrone",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Spitzkohllasagne mit Pilzen und gemischtem Hackfleisch(Rind&Schwein)(Knobi)",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "\"Cordon bleu\" vom Hähnchen, mit Bratensauce, Spitzkohl-Karotte-Blumenkohlgemüse und hausgemachter Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Leichte Unterhaltung",
-          "info": "vegetarisch",
-          "name": "Tomate-Mozzarella Tomate und Büffel-Mozzarella mit Pesto (Knobi), Balsamico Creme und Baguette",
-          "price_ndr": "7,35",
-          "price_external": "9,70"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Schokopudding mit veganer Vanillesauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "24.07.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Karotten-Ingwersuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktose- und glutenfrei\"",
           "info": "vegetarisch",
           "name": "Gemüse Pytti Panna mit einem Spiegelei und Gewürzgurke",
           "price_ndr": "9,29",
@@ -76,16 +22,37 @@
         {
           "category": "5,90",
           "info": "",
-          "name": "Studio 2 Gedünsteter Pak-Choi mit Koriander und Blumenkohl in Curry-Kokosauce auf Duftreis",
+          "name": "Studio 2 Zwei Couscous-Quinoa Bratlinge (200g) mit Pak Choi-Karottengemüse und Frühlingsquark",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Seelachsfilet à la Bordelaise mit Sauce, Erbsen und Salzkartoffeln",
+          "name": "Seelachsfilet à la Bordelaise mit Erbsen und hausgemachten Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Königsberger Klopse - zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
+          "name": "Schweineschnitzel \"Wiener Art\" (160g) mit Essig-Öl-Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Rote Grütze mit veganer Vanillesauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
