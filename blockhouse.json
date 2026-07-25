@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "20.07.2026",
-      "name": "Schnitzel „Wiener Art“",
-      "description": "mit Champignons in Rahmsauce und knusprigen Pommes frites",
+      "date": "27.07.2026",
+      "name": "Rindergeschnetzeltes „Stroganoff“",
+      "description": "in Rahmsauce mit Gurkenstreifen und Champignons, dazu Gemüsereis",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "21.07.2026",
-      "name": "Würzige Barbecue Spareribs",
-      "description": "mit Kartoffeln in Schale und Barbecue-Steak-Sauce",
+      "date": "28.07.2026",
+      "name": "Piccata Milanese",
+      "description": "Hähnchenbrust in Käse-Eihülle gebraten, mit Spaghetti und fruchtiger Tomatensauce",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "22.07.2026",
-      "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit feinwürzigem Blattspinat und Kartoffelgratin",
+      "date": "29.07.2026",
+      "name": "Steakteller",
+      "description": "kleine Rindersteaks, saftig gegrillt, dazu knusprige Pommes frites und würzige Teriyaki-Pfefferrahm-Sauce",
       "price": "14,90 €"
     },
     {
       "category": "Donnerstag",
-      "date": "23.07.2026",
+      "date": "30.07.2026",
       "name": "Großer gemischter Salat",
-      "description": "mit in Öl und Knoblauch gebratenen Garnelen, Dressing nach Wahl und BLOCK HOUSE Brot, vorweg eine Bruschetta",
+      "description": "mit Falafelbällchen, Dressing nach Wahl und BLOCK HOUSE Brot, vorweg eine Bruschetta",
       "price": "13,90 €"
     },
     {
       "category": "Freitag",
-      "date": "24.07.2026",
-      "name": "Gebratenes Seelachsfilet",
-      "description": "mit feinem Linsengemüse und Kartoffelpüree",
+      "date": "31.07.2026",
+      "name": "Lachsfilet",
+      "description": "in Limetten-Butter-Sauce, dazu Kartoffelpüree",
       "price": "13,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "20.07. bis 24.07.2026",
-      "name": "Block Burger",
-      "description": "mit frisch gebratenem Champignon-Zwiebelgemüse und BLOCK HOUSE Brot",
+      "date": "27.07. bis 31.07.2026",
+      "name": "Huftmedaillons",
+      "description": "saftig gegrillt, mit sahnigem Kartoffelgratin und BLOCK HOUSE Brot",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "20.07. bis 24.07.2026",
-      "name": "Vier kleine Rindersteaks",
-      "description": "saftig gegrillt, mit knackigem Pfannengemüse und Baked Potato mit Sour Cream",
+      "date": "27.07. bis 31.07.2026",
+      "name": "Putenmedaillons",
+      "description": "zart gegrillt, mit frischem Saisongemüse und BLOCK HOUSE Brot",
       "price": "14,90 €"
     }
   ]
