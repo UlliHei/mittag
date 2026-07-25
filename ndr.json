@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "24.07.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Süßkartoffel-Zucchinisuppe | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktose- und glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Gemüse Pytti Panna mit einem Spiegelei und Gewürzgurke",
-          "price_ndr": "9,29",
-          "price_external": "3,65"
-        },
-        {
-          "category": "5,90",
-          "info": "",
-          "name": "Studio 2 Zwei Couscous-Quinoa Bratlinge (200g) mit Pak Choi-Karottengemüse und Frühlingsquark",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Seelachsfilet à la Bordelaise mit Erbsen und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Königsberger Klopse - zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Rote Grütze mit veganer Vanillesauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
