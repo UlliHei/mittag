@@ -1,5 +1,157 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "27.07.2026",
+      "items": [
+        {
+          "category": "Vorspann \"laktose- & glutenfrei\"",
+          "info": "vegan",
+          "name": "Karottensuppe mit Ingwer | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Oliven, Kapern und Knoblauch",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gratiniertes Gemüse von Zucchini, Karotten, grünen Bohnen und Bulgur mit Hirtenkäse gratiniert in Limonensauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"glutenfrei\"",
+          "info": "",
+          "name": "Gyros von der Putenoberkeule (200g) mit Tzatziki (Knobi), Wedges und Krautsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Leichte Unterhaltung",
+          "info": "vegetarisch",
+          "name": "Tomate-Mozzarella Tomate und Büffel-Mozzarella mit Pesto (Knobi), Balsamico Creme und Baguette",
+          "price_ndr": "7,35",
+          "price_external": "9,70"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Panna Cotta mit Himbeersauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "28.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Veganes \"Nasi Goreng\" Indonesischer Bratreis mit buntem Gemüse und würziger Sauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Pilz-Gemüse-Pfanne von Champignons, Austernpilzen, Karotten und Paprika, einem Sauerrahm-Dip und Schnittlauchkartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet in Käse- Eihülle gebacken mit Estragonsauce auf Spaghetti und geriebenem Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "29.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta mit Petersilien Gremolata (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Bunte Bowl mit Couscous, Rotkraut, marinierten Rote Linsen, Gurke, Paprika, Sonnenblumenkernen und Senf-Käse-Creme",
+          "price_ndr": "26,29",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Studio 3 Rinderhackbällchen (180g) in BBQ-Sauce gebacken mit Maisgemüse und Kartoffel- Wedges",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "30.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Kleine Ofenkartoffel mit Kräuterquark und buntem Salat mit Dressing nach Wahl",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zwei Gemüsebratlinge(200g) mit Soja-Joghurt und buntem Blattsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hähnchenbrust im Knuspermantel (160g) mit Currysauce, Erbsengemüse und Langkornreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "31.07.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Mandel-Brokkoli-Penne mit Frischkäsesauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gemüse-Paella Reispfanne mit Fenchel, Bohnen, Paprika, Pfefferschoten, Oliven und frischen Kräutern",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Seelachsfilet (160g) mit Schnittlauchsauce, Blumenkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
