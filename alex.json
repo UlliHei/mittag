@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "name": "Flammkuchen mit Thunfisch",
-      "description": "knuspriger Flammkuchen mit Crème fraîche, Thunfisch, roten Zwiebeln und Rucola",
+      "name": "Penne all'arrabbiata",
+      "description": "Penne mit scharfer Tomatensoße, Knoblauch, Chili und frischer Paprika",
       "price": "9,90"
     },
     {
-      "name": "Gemüselasagne",
-      "description": "hausgemachte Lasagne mit frischem saisonalem Gemüse, Tomatensoße und cremiger Béchamelsoße, überbacken mit Käse",
+      "name": "Baguette mit Kochschinken und Dip-Auswahl",
+      "description": "frisch belegtes Baguette mit Kochschinken, Tomaten und Gurken, dazu verschiedene Dips nach Wahl",
       "price": "9,90"
     },
     {
-      "name": "Fischburger mit Pommes",
-      "description": "knusprig gebratenes Fischfilet im Burger Bun mit frischem Salat, Tomaten und Burgersoße, serviert mit goldbraunen Pommes frites",
+      "name": "Lachsfilet in Dill-Sahnesoße mit Bratkartoffeln",
+      "description": "zartes Lachsfilet in cremiger Dill-Sahnesoße, serviert mit knusprigen Bratkartoffeln",
       "price": "11,90"
     }
   ]
