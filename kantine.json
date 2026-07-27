@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Orangen-Hähnchen mit roten Zwiebeln und Kirschtomaten",
@@ -29,7 +29,7 @@
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       },
       "Dessert": {
         "name": "Tagesangebot",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Cremiges Hühnerfrikassee mit Worcestersauce, Erbsen und Spargel",
@@ -73,18 +73,18 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Schmorgurken-Pfanne in Dillcreme mit Rinderhackfleisch",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Hausgemachtes Kartoffelfrüße mit Süßkartoffel, Kräuterbutter und Schmorzwiebeln",
+        "name": "Hausgemachtes Kartoffelflëröße mit Süßkartoffel, Kräuterbutter und Schmorzwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Sommergemüse-Kuchen mit Bergkäse und griechischem Joghurt",
+        "name": "Sommergemüse-Kuchen mit Bergkäse und griechischem Joghurt",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -141,14 +141,14 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Rotbarschfilet in Kräuterhülle mit Kartoffelsalat in Essig und Öl und Remoulade",
+        "name": "Rotbarschfilet in Kräuterhülle mit Kartoffelsalat in Essig und Öl und Remoulade",
         "price": "8,50 €"
       },
       "2. Hauptgericht": {
