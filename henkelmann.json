@@ -1,24 +1,24 @@
 {
-  "week": "KARTE VOM 20. — 24. Juli 2026",
+  "week": "KARTE VOM 27. — 31. Juli 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Toskanisches Hühnerbein mit Pestofüllung, Risotto mit Tomaten, Salat",
-      "description": "Toskanisches Hühnerbein mit Pestofüllung, Risotto mit Tomaten, Salat",
+      "name": "„Moussaka“ – griech. Auberginenauflauf mit Rinderhack, dazu Tzatziki ohne Knoblauch",
+      "description": "„Moussaka“ – griech. Auberginenauflauf mit Rinderhack, dazu Tzatziki ohne Knoblauch",
       "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "Lachs mit Kräuterkruste, Gurkensalat in Rahm, Käse-Kartoffelpüree",
-      "description": "Lachs mit Kräuterkruste, Gurkensalat in Rahm, Käse-Kartoffelpüree",
-      "price": "16,90"
+      "name": "Bratwurstbällchen, Kohlrabigemüse in Rahm, Salzkartoffeln",
+      "description": "Bratwurstbällchen, Kohlrabigemüse in Rahm, Salzkartoffeln",
+      "price": "14,90"
     },
     {
       "category": "Mittwoch",
-      "name": "„Boeuf Stroganow“ – Rindfleisch mit Gurken, Pilzen, Rote Bete, saure Sahne, Reis",
-      "description": "„Boeuf Stroganow“ – Rindfleisch mit Gurken, Pilzen, Rote Bete, saure Sahne, Reis",
-      "price": "15,90"
+      "name": "Cordon bleu vom Kalb mit Putenschinken gefüllt, Blattspinat, Kartoffelgratin, Zitronenbutter",
+      "description": "Cordon bleu vom Kalb mit Putenschinken gefüllt, Blattspinat, Kartoffelgratin, Zitronenbutter",
+      "price": "16,90"
     },
     {
       "category": "Donnerstag",
