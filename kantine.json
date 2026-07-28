@@ -1,35 +1,35 @@
 {
   "source": "dpa Kantine",
-  "week": "20.07.2026 - 24.07.2026",
+  "week": "27.07.2026 - 31.07.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Orangen-Hähnchen mit roten Zwiebeln und Kirschtomaten",
+        "name": "\"Rundstück warm\": geschmorter Schweinebraten auf Brötchen in kräftiger Sauce mit Gewürzgurke",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Orientalische Couscous-Pfanne mit Brokkoli und Currydip",
+        "name": "Kleine Grillkartoffeln mit Kräuterquark und Gurkensalat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gemüse-Kartoffel-Taler mit Getreide, Leinsamen und Quarkcreme",
+        "name": "Tortellini in Tomatencremesauce mit Mozzarella und grünem Spargel",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Brokkoli mit Meersalz im Ofen geröstet",
+        "name": "Spitzkohl mit Cranberry u. Kümmel",
         "price": "1,20 €"
       },
       "Beilage": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "1,20 €"
       },
       "Dessert": {
         "name": "Tagesangebot",
@@ -39,22 +39,22 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Cremiges Hühnerfrikassee mit Worcestersauce, Erbsen und Spargel",
+        "name": "Roastbeef \"kalt\" mit hausgemachter Remoulade und Krautsalat",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Djuvec Reis mit Paprika, Tomaten und Nüssen auf Salat",
+        "name": "Bratkartoffeln mit Zwiebeln, Sourcream und Blattsalat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Cremige frische Pfifferlinge mit roten Zwiebeln auf Pappardelle Pasta",
+        "name": "Auberginenschnitte in Tomate mit Kräuter-Käsekruste gebacken auf Salat",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -73,26 +73,26 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Schmorgurken-Pfanne in Dillcreme mit Rinderhackfleisch",
+        "name": "Lasagne \"al forno\" mit Rindfleisch und Gemüse in cremiger Sauce mit Käse gebacken",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Hausgemachtes Kartoffelflëröße mit Süßkartoffel, Kräuterbutter und Schmorzwiebeln",
+        "name": "Pfannengemüse mit Duftreis und Cashewkernen gebraten mit Currycreme",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gebackener Feta auf Wassermelone mit Kräuterquark und Krautsalat",
+        "name": "Linsen-Dal in Kokosmilch mit Tomate, Ingwer und Koriander",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Glacierte Karotten mit Zwiebeln",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -107,14 +107,14 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
+        "name": "Smash-Burger mit Zwiebeln, Gewürzgurken und Cheddar-Käse",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Sommergemüse-Kuchen mit Bergkäse und griechischem Joghurt",
+        "name": "Paprika-Zucchini-Quiche mit Mozzarella-Tomate und Kräutercreme",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Mediterranes Ofengemüse",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -141,15 +141,15 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Rotbarschfilet in Kräuterhülle mit Kartoffelsalat in Essig und Öl und Remoulade",
-        "price": "8,50 €"
+        "name": "Italienischer Gemüseeintopf mit Pasta und Tomaten-Pesto",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Mediterranes Ofengemüse",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
