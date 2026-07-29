@@ -2,50 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "28.07.2026",
+    "Mittwoch": {
+      "date": "29.07.2026",
       "items": [
         {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "category": "Vorspann \"laktosefrei\"",
           "info": "vegan",
-          "name": "Klare Gemüsebrühe |Teller NDR 3,25 € | Gäste 3,80 €",
+          "name": "Asiatische Gemüsesuppe (Knobi)| Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
-          "name": "Veganes \"Nasi Goreng\" Indonesischer Bratreis(Knobi) mit buntem Gemüse und würziger Sauce",
+          "name": "Pasta mit Petersilien Gremolata (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2 \"glutenfrei\"",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Pilz-Gemüse-Pfanne von Champignons, Austernpilzen, Karotten und Paprika, einem Quark-Dip und Schnittlauchkartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
+          "name": "Bunte Bowl mit Couscous, Rotkraut, marinierten Rote Linsen, Gurke, Paprika, Sonnenblumenkernen und vegane Senf-Mayonnaise",
+          "price_ndr": "1,29",
+          "price_external": "5,40"
         },
         {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Seelachsfilet in Käse- Eihülle gebacken mit Estragonsauce auf Spaghetti und geriebenem Hartkäse",
+          "category": "7,50",
+          "info": "Studio 3 \"laktosefrei\"",
+          "name": "10 Rinderhackbällchen (180g) in BBQ-Sauce gebacken mit Maisgemüse und Kartoffel- Wedges",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung \"laktose- und glutenfrei\"",
+          "category": "Studio 3",
           "info": "",
-          "name": "Rostbratwurst (100g) mit Mayonnaisen-Kartoffelsalat",
+          "name": "Seelachsfilet in Käse- Eihülle gebacken mit Mayonnaisen-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Sondersendung \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Kalter Milchreis mit Fruchtsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
+          "name": "Gemüsepfanne von Blumenkohl, Karotte und Brokkoli mit hausgemachtem Kartoffelpüree",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Latte Macchiatopudding",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         },
         {
           "category": "Abspann \"glutenfrei\"",
@@ -53,32 +60,6 @@
           "name": "Vanillejoghurt .",
           "price_ndr": "1,45",
           "price_external": "1,65"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "29.07.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Pasta mit Petersilien Gremolata (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Bunte Bowl mit Couscous, Rotkraut, marinierten Rote Linsen, Gurke, Paprika, Sonnenblumenkernen und Senf-Käse-Creme",
-          "price_ndr": "26,29",
-          "price_external": "5,40"
-        },
-        {
-          "category": "7,50",
-          "info": "",
-          "name": "Studio 3 Rinderhackbällchen (180g) in BBQ-Sauce gebacken mit Maisgemüse und Kartoffel- Wedges",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
         }
       ]
     },
