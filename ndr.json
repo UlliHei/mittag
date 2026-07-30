@@ -2,60 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "29.07.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Asiatische Gemüsesuppe (Knobi)| Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta mit Petersilien Gremolata (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "Bunte Bowl mit Couscous, Rotkraut, marinierten Rote Linsen, Gurke, Paprika, Sonnenblumenkernen und vegane Senf-Mayonnaise",
-          "price_ndr": "1,29",
-          "price_external": "5,40"
-        },
-        {
-          "category": "7,50",
-          "info": "Studio 3 \"laktosefrei\"",
-          "name": "10 Rinderhackbällchen (180g) in BBQ-Sauce gebacken mit Maisgemüse und Kartoffel- Wedges",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Gemüsepfanne von Blumenkohl, Karotte und Brokkoli mit hausgemachtem Kartoffelpüree",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Latte Macchiatopudding",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillejoghurt .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "30.07.2026",
       "items": [
