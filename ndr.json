@@ -6,9 +6,9 @@
       "date": "30.07.2026",
       "items": [
         {
-          "category": "Vorspann \"laktose- & glutenfrei\"",
+          "category": "Vorspann \"laktosefrei\"",
           "info": "vegan",
-          "name": "Gazpacho kalte spanische Gemüsesuppe(Knobi) | Teller NDR 3,25 € | Gäste 3,80 €",
+          "name": "Gazpacho kalte spanische Gemüsesuppe(Knobi) mit Baguette | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
@@ -36,7 +36,7 @@
         {
           "category": "Sondersendung",
           "info": "vegetarisch",
-          "name": "Frische Pilz in Rahm mit Serviettenknödel",
+          "name": "Frische Pilze in Rahm mit Serviettenknödel",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
