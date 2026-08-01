@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 27. — 31. Juli 2026",
+  "week": "KARTE VOM 03. — 07. August 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Moussaka“ – griech. Auberginenauflauf mit Rinderhack, dazu Tzatziki ohne Knoblauch",
-      "description": "„Moussaka“ – griech. Auberginenauflauf mit Rinderhack, dazu Tzatziki ohne Knoblauch",
-      "price": "15,90"
+      "name": "Betriebsferien - geschlossen",
+      "description": "Betriebsferien - geschlossen",
+      "price": ""
     },
     {
       "category": "Dienstag",
-      "name": "Bratwurstbällchen, Kohlrabigemüse in Rahm, Salzkartoffeln",
-      "description": "Bratwurstbällchen, Kohlrabigemüse in Rahm, Salzkartoffeln",
-      "price": "14,90"
+      "name": "Betriebsferien - geschlossen",
+      "description": "Betriebsferien - geschlossen",
+      "price": ""
     },
     {
       "category": "Mittwoch",
-      "name": "Cordon bleu vom Kalb mit Putenschinken gefüllt, Blattspinat, Kartoffelgratin, Zitronenbutter",
-      "description": "Cordon bleu vom Kalb mit Putenschinken gefüllt, Blattspinat, Kartoffelgratin, Zitronenbutter",
-      "price": "16,90"
+      "name": "Betriebsferien - geschlossen",
+      "description": "Betriebsferien - geschlossen",
+      "price": ""
     },
     {
       "category": "Donnerstag",
-      "name": "geschlossen",
-      "description": "geschlossen",
+      "name": "Betriebsferien - geschlossen",
+      "description": "Betriebsferien - geschlossen",
       "price": ""
     },
     {
       "category": "Freitag",
-      "name": "geschlossen",
-      "description": "geschlossen",
+      "name": "Betriebsferien - geschlossen",
+      "description": "Betriebsferien - geschlossen",
       "price": ""
     }
   ],
