@@ -1,30 +1,30 @@
 {
   "source": "dpa Kantine",
-  "week": "27.07.2026 - 31.07.2026",
+  "week": "03.08.2026 - 07.08.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "\"Rundstück warm\": geschmorter Schweinebraten auf Brötchen in kräftiger Sauce mit Gewürzgurke",
+        "name": "Hähnchenfilet in Kräuterschmand mit frischen Pfifferlingen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kleine Grillkartoffeln mit Kräuterquark und Gurkensalat",
+        "name": "Spätzlepfanne mit Zwiebeln und Zucchini an Salat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tortellini in Tomatencremesauce mit Mozzarella und grünem Spargel",
+        "name": "Sizilianische Caponata aus Auberginen, Sellerie, Tomaten, Oliven und Kapern mit Röstbrot",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Spitzkohl mit Cranberry u. Kümmel",
+        "name": "Glacierte Karotten mit Zwiebeln",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -39,22 +39,22 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Roastbeef \"kalt\" mit hausgemachter Remoulade und Krautsalat",
+        "name": "Linguine mit Spinat und einer Rindfleisch-Bolognese mit Grana Padano",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Bratkartoffeln mit Zwiebeln, Sourcream und Blattsalat",
+        "name": "Gemüsekuchen mit Tomaten, Pesto und Salat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Auberginenschnitte in Tomate mit Kräuter-Käsekruste gebacken auf Salat",
+        "name": "Gemüse in Kokosmilch mit Joghurt und Kichererbsen",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -73,22 +73,22 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Lasagne \"al forno\" mit Rindfleisch und Gemüse in cremiger Sauce mit Käse gebacken",
+        "name": "Zitronenschnitzel von Truthahn mit Kapern, Rosmarin und Olivenöl",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Pfannengemüse mit Duftreis und Cashewkernen gebraten mit Currycreme",
+        "name": "Kartoffelgratin mit Lauchzwiebeln, Emmentaler Käse und Blattsalat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Linsen-Dal in Kokosmilch mit Tomate, Ingwer und Koriander",
+        "name": "Veggie Burger mit Tomate, Gurke, Cheddar Käse und cremigem Dip",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -107,14 +107,14 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Smash-Burger mit Zwiebeln, Gewürzgurken und Cheddar-Käse",
+        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Paprika-Zucchini-Quiche mit Mozzarella-Tomate und Kräutercreme",
+        "name": "Grüne Tagliatelle mit frischen Pfifferlingen und Lauchzwiebeln in Creme",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -141,14 +141,14 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Italienischer Gemüseeintopf mit Pasta und Tomaten-Pesto",
+        "name": "Italienischer Gemüse-Suppen-Topf im Tomatensud mit Pesto und Pasta",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -169,7 +169,7 @@
       },
       "Dessert": {
         "name": "Tagesangebot",
-        "price": "1,20 €"
+        "price": ""
       }
     }
   }
