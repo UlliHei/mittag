@@ -1,5 +1,171 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "03.08.2026",
+      "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Buntes Gemüsechili von Paprika, grünen Bohnen, und Tomaten(Knobi) mit Kräuter-Couscous",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"laktose- und glutenfrei\"",
+          "info": "",
+          "name": "\"Sommer-Bowl\" mit Weißen Bohnen, Tomaten, Mais, mariniertem Kohlrabi und Würzigem Reissalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Pasta Carbonara mit Speck, Schinkenstreifen und Frischkäsesauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Frikadelle von gemischtem Hackfleisch(Rind&Schwein) mit Pilzsauce, Mischgemüse und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Frikadelle von gemischtem Hackfleisch(Rind&Schwein) mit Porree in Rahm und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Waldbeerquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        },
+        {
+          "category": "1,65",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Latte Macchiatopudding",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "04.08.2026",
+      "items": [
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Süßkartoffelpüree mit geschmortem Blumenkohl, Brokkoli, Cashewkerne und Zitronen-Dip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "''Cevapcici'' (180g) Fünf Rindfleischröllchen mit Tzatziki, Krautsalat und Tomatenreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "05.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Indisches Paprika-Kartoffelcurry in Kokos-Chilisauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Tomaten-Gemüselasagne mit Karotten, Mangold und Gouda überbacken",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Pollo Tonnato\" kalter Putenbraten mit Thunfischsauce auf frischem Salat mit Baguette",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Cheese Burger Sesambrötchen, Rinderpatty(125g), Cheddarcheese Burgersauce und Salat, dazu Pommes frites",
+          "price_ndr": "9,65",
+          "price_external": "12,10"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "06.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Würzige Kichererbsen- Pasta\" Makkaroni mit Kichererbsen, Knoblauch und fruchtiger Tomaten-Pfeffersauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "\"Horiatiki\" griechischer Bauernsalat mit Gurken, Oliven, Tomaten und Hirtenkäse, dazu Brot",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Chicken à la king\" Hähnchenfleisch mit Paprika und Champignons in Sahnesauce mit Langkornreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "07.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Zwei gekochte Eier mit Senfsauce, hausgemachtem Kartoffelpüree und Rote Bete",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Tagliatelle mit frischen Kräutern, Spinat, Lauchzwiebeln, Erbsen und veganem Pesto",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Matjessalat mit Zwiebeln, Gewürzgurke und Petersilienkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
