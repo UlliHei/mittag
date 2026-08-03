@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Penne all'arrabbiata",
-      "description": "Penne mit scharfer Tomatensoße, Knoblauch, Chili und frischer Paprika",
+      "name": "Flammkuchen Caprese",
+      "description": "knuspriger Flammkuchen, belegt mit saftigen Tomaten, cremigem Mozzarella, aromatischem Pesto und frischen Basikumblättern",
       "price": "9,90"
     },
     {
-      "name": "Baguette mit Kochschinken und Dip-Auswahl",
-      "description": "frisch belegtes Baguette mit Kochschinken, Tomaten und Gurken, dazu verschiedene Dips nach Wahl",
-      "price": "9,90"
-    },
-    {
-      "name": "Lachsfilet in Dill-Sahnesoße mit Bratkartoffeln",
-      "description": "zartes Lachsfilet in cremiger Dill-Sahnesoße, serviert mit knusprigen Bratkartoffeln",
+      "name": "Bandnudeln mit Lachs",
+      "description": "Bandndeln mit zartem lachs und frischem Blattspinat in einer cremigen Sahnesoße, verfeinert mit frischen Kräutern",
       "price": "11,90"
+    },
+    {
+      "name": "Salat mit Mozzarella",
+      "description": "frischer Salat mit cremigem Mozzarella, saftigen Tomaten, knackigemBlattsalat, Gurken und Dressing nach Wahl",
+      "price": "9,90"
     }
   ]
 }
