@@ -2,60 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "03.08.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Buntes Gemüsechili von Paprika, grünen Bohnen, und Tomaten(Knobi) mit Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "\"Sommer-Bowl\" mit Weißen Bohnen, Tomaten, Mais, mariniertem Kohlrabi und Würzigem Reissalat",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Pasta Carbonara mit Speck, Schinkenstreifen und Frischkäsesauce",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Buntes Gemüse mit Pilzsauce und Salzkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Waldbeerquark",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        },
-        {
-          "category": "1,65",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Latte Macchiatopudding",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "04.08.2026",
       "items": [
