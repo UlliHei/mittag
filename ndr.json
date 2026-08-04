@@ -6,7 +6,21 @@
       "date": "04.08.2026",
       "items": [
         {
-          "category": "Studio 2",
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Kalte Gurkensuppe mit Wasabi / Teller NDR 3,25 € / Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "",
+          "name": "\"Spitzkohl- Pasta\" Nudeln mit frischem Spitzkohl und einer veganen Bechamelsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
           "name": "Süßkartoffelpüree mit geschmortem Blumenkohl, Brokkoli, Cashewkerne und Zitronen-Dip",
           "price_ndr": "5,40",
@@ -15,9 +29,37 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "''Cevapcici'' (180g) Fünf Rindfleischröllchen mit Tzatziki, Krautsalat und Tomatenreis",
+          "name": "''Cevapcici'' (180g) Fünf Rindfleischröllchen mit Tzatziki (Knobi), Krautsalat und Tomatenreis",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "vegetarisch",
+          "name": "Wrap gefüllt mit Falafel, Rote Bete Creme, Humus, Mais und Eisbergsalat",
+          "price_ndr": "6,90",
+          "price_external": "8,90"
+        },
+        {
+          "category": "Leichte Unterhaltung",
+          "info": "vegetarisch",
+          "name": "Tomate-Mozzarella Tomate und Büffel-Mozzarella mit Pesto (Knobi), Balsamico Creme und Baguette",
+          "price_ndr": "7,35",
+          "price_external": "9,70"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Waldbeerquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        },
+        {
+          "category": "1,65",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Latte Macchiatopudding",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
