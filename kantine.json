@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Hähnchenfilet in Kräuterschmand mit frischen Pfifferlingen",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Linguine mit Spinat und einer Rindfleisch-Bolognese mit Grana Padano",
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Zitronenschnitzel von Truthahn mit Kapern, Rosmarin und Olivenöl",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
@@ -140,16 +140,16 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Italienischer Gemüse-Suppen-Topf im Tomatensud mit Pesto und Pasta",
-        "price": "7,50 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "Italienischer Gemüse-Suppen-Topf im Tomatensud mit Pesto und Pasta",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
