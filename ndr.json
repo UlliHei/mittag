@@ -34,20 +34,6 @@
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegetarisch",
-          "name": "Wrap gefüllt mit Falafel, Rote Bete Creme, Humus, Mais und Eisbergsalat",
-          "price_ndr": "6,90",
-          "price_external": "8,90"
-        },
-        {
-          "category": "Leichte Unterhaltung",
-          "info": "vegetarisch",
-          "name": "Tomate-Mozzarella mit Pesto (Knobi), Balsamico Creme und Baguette",
-          "price_ndr": "7,35",
-          "price_external": "9,70"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Waldbeerquark",
