@@ -2,60 +2,20 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "04.08.2026",
+    "Mittwoch": {
+      "date": "05.08.2026",
       "items": [
         {
           "category": "Vorspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Kalte Gurkensuppe mit Wasabi / Teller NDR 3,25 € / Gäste 3,80 €",
+          "name": "Süßkartoffel-Chili-Kokossuppe | Teller NDR 3,25€ | Gäste 3,80€",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
-          "info": "",
-          "name": "\"Spitzkohl- Pasta\" Nudeln mit frischem Spitzkohl und einer veganen Bechamelsauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Süßkartoffelpüree mit geschmortem Gemüse von Kohlrabi, Karotte und Brokkoli, dazu Cashewkerne und Zitronen-Dip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "''Cevapcici'' (180g) Fünf Rindfleischröllchen mit Tzatziki (Knobi), Krautsalat und Tomatenreis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Waldbeerquark",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        },
-        {
-          "category": "1,65",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Latte Macchiatopudding",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "05.08.2026",
-      "items": [
-        {
-          "category": "Studio 1",
           "info": "vegan",
-          "name": "Indisches Paprika-Kartoffelcurry in Kokos-Chilisauce",
+          "name": "Indisches Paprika-Kartoffelcurry in Kokos-Chilisauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -79,6 +39,27 @@
           "name": "Cheese Burger Sesambrötchen, Rinderpatty(125g), Cheddarcheese Burgersauce und Salat, dazu Pommes frites",
           "price_ndr": "9,65",
           "price_external": "12,10"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "",
+          "name": "Hausgemachter spanischer Mandelkuchen",
+          "price_ndr": "3,10",
+          "price_external": "3,10"
+        },
+        {
+          "category": "Sondersendung \"laktose- und glutenfrei\"",
+          "info": "",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Karamellpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
