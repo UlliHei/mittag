@@ -55,11 +55,11 @@
           "price_external": "7,50"
         },
         {
-          "category": "Abspann \"glutenfrei\"",
+          "category": "Abspann",
           "info": "vegetarisch",
           "name": "Karamellpudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
