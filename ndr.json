@@ -2,60 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "06.08.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Lauchcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Oliven, Kapern und Knoblauch",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "\"Horiatiki\" griechischer Bauernsalat mit Gurken, Oliven, Tomaten und Hirtenkäse, dazu Brot",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "\"Chicken à la king\" Hähnchenfleisch mit Paprika und Champignons in Sahnesauce mit Langkornreis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Scharfes Gemüsechili von Paprika, grünen Bohnen, und Tomaten (Knobi) mit Röstkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Karamellpudding",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Apfel-Crumble .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "07.08.2026",
       "items": [
