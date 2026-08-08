@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "03.08.2026",
-      "name": "Würzige Beef Ribs",
-      "description": "mit knusprigen Pommes frites und Coleslaw Garnitur",
+      "date": "10.08.2026",
+      "name": "Salsa al Peposo Toscano",
+      "description": "geschmortes Rindfleisch in toskanischer Pfeffersauce nach Peposo-Art, dazu Pasta Orecchiette",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "04.08.2026",
-      "name": "Hühnerfrikassee",
-      "description": "mit Spargel, Champignons und Erbsen in milder Sauce, dazu Langkorn-Wildreis",
+      "date": "11.08.2026",
+      "name": "Königsberger Klopse",
+      "description": "in Kapernsauce, mit Basmatireis und Roter Bete",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "05.08.2026",
+      "date": "12.08.2026",
       "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit Gemüsepfanne „Südamerikanische Art“ und Baked Potato mit Sour Cream",
+      "description": "mit Chilibohnen-Gemüse und Baked Potato mit Sour Cream",
       "price": "14,90 €"
     },
     {
       "category": "Donnerstag",
-      "date": "06.08.2026",
-      "name": "Spaghetti „Mediterran“",
-      "description": "mit milder Tomatensauce, würzigem Tomatenconfit und gewürfeltem Fetakäse",
+      "date": "13.08.2026",
+      "name": "Zarte Hähnchenstreifen",
+      "description": "in Curry-Ingwersoubise klassisch mit Zwiebeln angemacht, dazu Erbsenreis",
       "price": "13,90 €"
     },
     {
       "category": "Freitag",
-      "date": "07.08.2026",
-      "name": "Gebratenes Lachsfilet",
-      "description": "dazu knusprige Bratkartoffeln mit Beef-Baconwürfeln, Remouladen-Dip und Zitrone",
+      "date": "14.08.2026",
+      "name": "Goldbarschfilet",
+      "description": "mit Pommery-Senfsauce und Kartoffelpüree",
       "price": "13,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "03.08. bis 07.08.2026",
-      "name": "Großer Salat",
-      "description": "mit Putenmedaillons, American Dressing und BLOCK HOUSE Brot, vorweg eine Bruschetta",
+      "date": "10.08. bis 14.08.2026",
+      "name": "Block Burger",
+      "description": "mit feinwürzigem Blattspinat und Pommes frites",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "03.08. bis 07.08.2026",
-      "name": "Rindfleischstreifen",
-      "description": "kross gebraten, dazu Pfefferrahm-Sauce und Pommes frites",
+      "date": "10.08. bis 14.08.2026",
+      "name": "Vier kleine Rindersteaks",
+      "description": "saftig gegrillt, mit Pommes frites und frischem Saisongemüse",
       "price": "14,90 €"
     }
   ]
