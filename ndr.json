@@ -1,5 +1,136 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "10.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Blumenkohl- Pasta\" Pasta mit Blumenkohlröschen, Chili und frischer Petersilie in Olivenöl gebraten",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zwei Spinat-Kichererbsen Bratlinge(200g) mit Gurken-Tomatensalat und Guacamole",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Schweineschnitzel \"Wiener Art\" mit Pommes Frites und Salatbeilage",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "11.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Gebackene Kartoffeln mit Mojo Verde und gemischtem Salat",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Geschmorter Kürbis mit Haselnüssen, Karotten und Champignons, Würzreis und Apfel-Currysauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet im Backteig auf italienischem Nudelsalat mit getrockneten Tomaten und Rucola",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "12.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Penne mit Tomaten-Kräuter-Pesto",
+          "price_ndr": "3,31",
+          "price_external": "3,65"
+        },
+        {
+          "category": "5,90",
+          "info": "",
+          "name": "Studio 2 Asiatisch marinierter Spitzkohl mit Hoisin-Sauce und gebratenen Mienudeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Frische Paprikaschote mit Hackfleisch vom Susländer Schwein gefüllt, Tomaten-Oreganosauce und Langkornreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "13.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Kartoffel-Spinatauflauf mit Gouda überbacken",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Bunte Gemüsebowl mit Aprikosen, Zucchini, Auberginen, Karotte und Couscous, dazu Minz-Sojajoghurtdip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "vegetarisch",
+          "name": "Drei gebratene vegetarische Maultaschen auf schwäbischem Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "14.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Scharfe Makkaroni in grüner Paprikasauce mit geriebenem Cheddar",
+          "price_ndr": "1,26",
+          "price_external": "3,65"
+        },
+        {
+          "category": "5,90",
+          "info": "",
+          "name": "Studio 2 Geschmortes Brokkoli-Bohnen-Lauchgemüse mit scharfen Linsen in Chilisauce und Rosmarinkartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hamburger Pannfisch mit Senfsauce und Gurkensalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
