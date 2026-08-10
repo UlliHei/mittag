@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "name": "Flammkuchen Caprese",
-      "description": "knuspriger Flammkuchen, belegt mit saftigen Tomaten, cremigem Mozzarella, aromatischem Pesto und frischen Basikumblättern",
-      "price": "9,90"
+      "name": "Lachs Spinat Lasagne",
+      "description": "zarte Lachsstücken, würziger Spinat, Lasagneplatten in eine feine Béchamelsauce mit Käse überbacken.",
+      "price": "10,90"
     },
     {
-      "name": "Bandnudeln mit Lachs",
-      "description": "Bandndeln mit zartem lachs und frischem Blattspinat in einer cremigen Sahnesoße, verfeinert mit frischen Kräutern",
-      "price": "11,90"
+      "name": "Pasta Triangolo",
+      "description": "Pasta Triangolo mit Tomatensauce und Grünkohl",
+      "price": "10,90"
     },
     {
-      "name": "Salat mit Mozzarella",
-      "description": "frischer Salat mit cremigem Mozzarella, saftigen Tomaten, knackigemBlattsalat, Gurken und Dressing nach Wahl",
+      "name": "Gebackener Hirtenkäse",
+      "description": "aromatischer Hirtenkäse, mit Olivenöl, Kräuter, Tomaten, Oliven, Zwiebeln und dazu Ciabatta",
       "price": "9,90"
     }
   ]
