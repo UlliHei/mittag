@@ -2,46 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "10.08.2026",
-      "items": [
-        {
-          "category": "Vorspann\"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "\"Pasta-Blumenkohl\" Pasta mit Blumenkohlröschen, Chili, frischer Petersilie und Olivenöl, dazu eine vegane Béchamelsauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "Zwei Spinat-Kichererbsen Bratlinge(200g) mit Gurken-Tomatensalat und Guacamole(Knobi)",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Schweineschnitzel \"Wiener Art\" mit Pommes Frites und buntem Salat mit Dressing nach Wahl und Preiselbeeren",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Stracciatellacreme .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "11.08.2026",
       "items": [
