@@ -41,20 +41,6 @@
           "price_external": "3,10"
         },
         {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Gefüllte Süßkartoffel gefüllt mit Spinat, Pilzen, Avocado und überbacken mit Hirtenkäse, dazu ein bunter Salat und Zitronendip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Schweineschnitzel \"Wiener Art\" mit Mischgemüse und hausgemachtem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Panna Cotta mit Himbeersauce",
