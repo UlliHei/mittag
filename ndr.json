@@ -6,16 +6,23 @@
       "date": "13.08.2026",
       "items": [
         {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Klare Gemüsebrühe |Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegetarisch",
-          "name": "Kartoffel-Spinatauflauf mit Gouda überbacken",
+          "name": "Frankfurter Grüne Sauce mit zwei gekochten Eier und Salzkartoffeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Bunte Gemüsebowl mit Aprikosen, Zucchini, Auberginen, Karotte und Couscous, dazu Minz-Sojajoghurtdip",
+          "name": "Bunte Gemüsebowl von Karotten, Gurken, Champignons, Tempura Gemüse und Couscous mit veganem Kräuter-Dip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -25,6 +32,27 @@
           "name": "Drei gebratene vegetarische Maultaschen auf schwäbischem Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Spaghetti Bolognese von Rinderhackfleisch und Gemüse (Knobi), dazu geriebener Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln, dazu Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillejoghurt mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
