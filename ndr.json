@@ -13,14 +13,14 @@
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Frankfurter Grüne Sauce mit zwei gekochten Eier und Salzkartoffeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
           "name": "Bunte Gemüsebowl von Karotten, Gurken, Champignons, Tempura Gemüse und Couscous mit veganem Kräuter-Dip",
           "price_ndr": "5,40",
@@ -41,9 +41,9 @@
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung",
+          "category": "Sondersendung \"laktosefrei\"",
           "info": "",
-          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln, dazu Salzkartoffeln",
+          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln Knobi), dazu Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
