@@ -2,53 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "12.08.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktose- & glutenfrei\"",
-          "info": "vegan",
-          "name": "Curry-Gemüsecremesuppe | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktose- & glutenfrei\"",
-          "info": "vegan",
-          "name": "Letschogemüse von Zucchini und Paprika in Tomatensauce(Knobi) mit Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "Asiatisch marinierter Spitzkohl mit Hoisin-Sauce und gebratenen Mienudeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Spaghetti Bolognese von Rinderhackfleisch und Gemüse (Knobi), dazu geriebener Hartkäse",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Fruchtsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Apfel-Crumble mit Vanillesauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "13.08.2026",
       "items": [
