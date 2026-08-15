@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "10.08.2026 - 14.08.2026",
+  "week": "17.08.2026 - 21.08.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,19 +12,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Hausgemachte Kalbsfrikadelle mit frischen Pfifferlingen in Rahm",
+        "name": "Teriyaki-Hähnchen mit Pfannengemüse und Cashewkernen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Pasta mit Rucola, Basilikumpesto und Pinienkernen",
+        "name": "Curry-Reis-Pfanne mit Karotten, Erbsen und Sprossen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "\"Parmigiana di Melanzane\" Italienischer Auberginen-Auflauf",
+        "name": "Gemüse-Getreide-Taler mit Haferflocken auf Rotkohlsalat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gedämpfte Bohnen mit Zwiebeln",
+        "name": "Ofen-Brokkoli",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Cremige Lachs-Lasagne mit Spinat und Mozarella",
+        "name": "Rotbarschfilet mediterran mit Oliven, Tomaten und Zitronen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Grillgemüse-Reispfanne mit Rucola und Kräuterquark",
+        "name": "Grillkartoffeln mit Kräuterbutter, Salaten und Tzatziki",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gebackener Fetakäse mit Walnüssen und Honig dazu Krautsalat und Dip",
+        "name": "Pilzquiche auf Pfifferlingen, Champignons und Lauchzwiebeln",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Blattspinat mit Sauerrahm",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,15 +80,15 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Tafelspitz mit Meerrettich und Gartenkräutern",
+        "name": "Griechischer Kritharaki-Nudelauflauf mit Tomaten, Zimt und Paprika",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Hausgemachtes Kartoffelpüree mit Süßkartoffeln, Kräuterbutter und Zwiebeln",
+        "name": "Ravioli-Spinat-Pfanne in Gemüse-Tomatensauce",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tortelloni in Zitronensauce mit getrockneten Tomaten und Parmesan Splittern",
+        "name": "Gebackene Aubergine mit Fetakäse auf Hummus",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Gebackenes Hähnchenschnitzel mit Tomate, Käse und Preiselbeeren",
+        "name": "dpa-Currywurst mit Alibi Salat und Röstzwiebeln",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Veggie Hacksteak mit Pfifferlingen und Pasta",
+        "name": "Asia-Gemüse-Pfanne mit Mie-Nudeln, Erdnüssen und Süß-Sauer-Sauce",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -148,8 +148,8 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Rotbarschfilet in Kräuterhülle mit Kartoffel-Gurken-Salat und hausgemachter Remoulade",
-        "price": "8,50 €"
+        "name": "Italienischer Gemüse-Suppen-Topf mit Pesto auf Pasta",
+        "price": "6,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
