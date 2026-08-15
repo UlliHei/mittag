@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "14.08.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Pürrierte Kartoffelsuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Scharfe Makkaroni in Paprikasauce mit geriebenem Cheddar",
-          "price_ndr": "1,26",
-          "price_external": "3,65"
-        },
-        {
-          "category": "5,90",
-          "info": "Studio 2 \"glutenfrei\"",
-          "name": "Geschmortes Brokkoli-Bohnen-Lauchgemüse mit scharfen Linsen und Knoblauch in Chilisauce, dazu Rosmarinkartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hamburger Pannfisch mit Senfsauce und Gurkensalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Leichte Unterhaltung \"glutenfrei\"",
-          "info": "",
-          "name": "Bunter Salatteller mit Grillkäse und Dressing nach Wahl",
-          "price_ndr": "7,35",
-          "price_external": "9,70"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Veganer Schokopudding von glutenfreier Hafermilch! mit veganer Vanillesauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
