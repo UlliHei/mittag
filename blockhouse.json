@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "10.08.2026",
-      "name": "Salsa al Peposo Toscano",
-      "description": "geschmortes Rindfleisch in toskanischer Pfeffersauce nach Peposo-Art, dazu Pasta Orecchiette",
+      "date": "17.08.2026",
+      "name": "Paniertes Putenschnitzel",
+      "description": "dazu knusprige Pommes frites",
       "price": "13,90 €"
     },
     {
       "category": "Dienstag",
-      "date": "11.08.2026",
-      "name": "Königsberger Klopse",
-      "description": "in Kapernsauce, mit Basmatireis und Roter Bete",
+      "date": "18.08.2026",
+      "name": "Hackbällchen",
+      "description": "in mediterraner Tomatensauce, dazu Fusilloni",
       "price": "13,90 €"
     },
     {
       "category": "Mittwoch",
-      "date": "12.08.2026",
+      "date": "19.08.2026",
       "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit Chilibohnen-Gemüse und Baked Potato mit Sour Cream",
+      "description": "dazu feine Pilze in Kräuterrahm und Kartoffelgratin",
       "price": "14,90 €"
     },
     {
       "category": "Donnerstag",
-      "date": "13.08.2026",
-      "name": "Zarte Hähnchenstreifen",
-      "description": "in Curry-Ingwersoubise klassisch mit Zwiebeln angemacht, dazu Erbsenreis",
+      "date": "20.08.2026",
+      "name": "Großer gemischter Salat",
+      "description": "mit in Öl und Knoblauch gebratenen Garnelen, Dressing nach Wahl und BLOCK HOUSE Brot, vorweg eine Bruschetta",
       "price": "13,90 €"
     },
     {
       "category": "Freitag",
-      "date": "14.08.2026",
-      "name": "Goldbarschfilet",
-      "description": "mit Pommery-Senfsauce und Kartoffelpüree",
+      "date": "21.08.2026",
+      "name": "Backfisch",
+      "description": "dazu Kartoffelsalat und Remouladen-Dip",
       "price": "13,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "10.08. bis 14.08.2026",
-      "name": "Block Burger",
-      "description": "mit feinwürzigem Blattspinat und Pommes frites",
+      "date": "17.08. bis 21.08.2026",
+      "name": "Huftmedaillons",
+      "description": "saftig gegrillt, mit sahnigem Kartoffelgratin und feinwürzigem Blattspinat",
       "price": "14,90 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "10.08. bis 14.08.2026",
-      "name": "Vier kleine Rindersteaks",
-      "description": "saftig gegrillt, mit Pommes frites und frischem Saisongemüse",
+      "date": "17.08. bis 21.08.2026",
+      "name": "Putenmedaillons",
+      "description": "zart gegrillt, mit Pommes frites und BLOCK HOUSE Brot",
       "price": "14,90 €"
     }
   ]
