@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 10. — 14. August 2026",
+  "week": "KARTE VOM 17. — 21. August 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Betriebsferien - geschlossen",
-      "description": "Betriebsferien - geschlossen",
-      "price": ""
+      "name": "„Butterchicken“ – Hühnchencurry mit gebuttertem Basmatireis & Möhrensambal",
+      "description": "„Butterchicken“ – Hühnchencurry mit gebuttertem Basmatireis & Möhrensambal",
+      "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "Betriebsferien - geschlossen",
-      "description": "Betriebsferien - geschlossen",
-      "price": ""
+      "name": "„Bifteki“ – Rinderfrikadelle mit Fetafüllung, Röstkartoffeln, Melonensalat, Joghurtdip",
+      "description": "„Bifteki“ – Rinderfrikadelle mit Fetafüllung, Röstkartoffeln, Melonensalat, Joghurtdip",
+      "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Betriebsferien - geschlossen",
-      "description": "Betriebsferien - geschlossen",
-      "price": ""
+      "name": "Paniertes Kräuterschnitzel (Pute), Tomatensalat, Kartoffelgratin",
+      "description": "Paniertes Kräuterschnitzel (Pute), Tomatensalat, Kartoffelgratin",
+      "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Betriebsferien - geschlossen",
-      "description": "Betriebsferien - geschlossen",
-      "price": ""
+      "name": "Lauch, Senfsauce, gekochtes Ei, Salzkartoffeln",
+      "description": "Lauch, Senfsauce, gekochtes Ei, Salzkartoffeln",
+      "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Betriebsferien - geschlossen",
-      "description": "Betriebsferien - geschlossen",
-      "price": ""
+      "name": "Buchweizenblinis, Räucherlachs, Dillschmand, Rote Betesalat",
+      "description": "Buchweizenblinis, Räucherlachs, Dillschmand, Rote Betesalat",
+      "price": "15,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
