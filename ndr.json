@@ -6,6 +6,13 @@
       "date": "17.08.2026",
       "items": [
         {
+          "category": "Vorspann\"glutenfrei \"",
+          "info": "vegan",
+          "name": "Karottensuppe mit Ingwer | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegan",
           "name": "Gestovte Bohnen in veganer Bechamelsauce (Knobi) und Salzkartoffeln",
@@ -25,6 +32,27 @@
           "name": "Gyros von der Putenoberkeule mit Tzatziki (Knobi) Tomatenreis und Krautsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Scharfes Linsengericht mit Gemüse und Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Karamellpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        },
+        {
+          "category": "1,65",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Stracciatellapudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
