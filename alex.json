@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Lachs Spinat Lasagne",
-      "description": "zarte Lachsstücken, würziger Spinat, Lasagneplatten in eine feine Béchamelsauce mit Käse überbacken.",
+      "name": "Linguine Burrata",
+      "description": "Luiguine Burrata mit einer mediterranen Pasta aus Linguini, cremiger Burrata, aromatischem Walnusspesto und Rucola.",
       "price": "10,90"
     },
     {
-      "name": "Pasta Triangolo",
-      "description": "Pasta Triangolo mit Tomatensauce und Grünkohl",
-      "price": "10,90"
-    },
-    {
-      "name": "Gebackener Hirtenkäse",
-      "description": "aromatischer Hirtenkäse, mit Olivenöl, Kräuter, Tomaten, Oliven, Zwiebeln und dazu Ciabatta",
+      "name": "Flammkuchen mit Thunfisch",
+      "description": "Flammkuchen belegt mit Creme Fraîche, Thunfisch, roten Zwiebeln und Käse.",
       "price": "9,90"
+    },
+    {
+      "name": "Mediterraner Chicken Burger mit Pommes",
+      "description": "saftig gegrilltem Hähnchenfilet, mediterranem Gemüsemix, Mozzarella und Rucola im Burger Bun, dazu knusprige Pommes frites.",
+      "price": "11,90"
     }
   ]
 }
