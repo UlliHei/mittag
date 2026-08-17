@@ -8,21 +8,21 @@
         {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "Gestovte Bohnen in veganer Bechamelsauce und Salzkartoffeln",
+          "name": "Gestovte Bohnen in veganer Bechamelsauce (Knobi) und Salzkartoffeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
           "name": "Zucchini-Hirseauflauf mit Ricotta und Sonnenblumenkernen, überbacken mit Tomate und Mozzarella",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "Gyros von der Putenoberkeule (200g) mit Tzatziki, Tomatenreis und Krautsalat",
+          "name": "Gyros von der Putenoberkeule mit Tzatziki (Knobi) Tomatenreis und Krautsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
         }
