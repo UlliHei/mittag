@@ -1,5 +1,143 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "17.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Gestovte Bohnen in veganer Bechamelsauce und Salzkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Zucchini-Hirseauflauf mit Ricotta und Sonnenblumenkernen, überbacken mit Tomate und Mozzarella",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gyros von der Putenoberkeule (200g) mit Tzatziki, Tomatenreis und Krautsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "18.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Fusilli mit scharfer Paprika-Chilisauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frische Gemüsepfanne mit Räuchertofu, Brokkoli, Kohlrabi, Staudensellerie und Bulgur",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hähnchenbrust \"Teriyaki\" mit bunten asiatischem Gemüse, würziger Sauce und Curryreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "19.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Bratkartoffeln mit zwei Spiegeleiern und Gewürzgurke",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "\"Indische Koftas\" Gemüsebällchen aus roten Linsen, Karotten, Sellerie, Knoblauch und Nüssen mit Salat und Soja-Joghurt-Dip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hausgemachtes Rinderhacksteak mit Pfeffersauce,, Karotten und Kroketten",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "20.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Hausgemachte Gemüsebolognese auf Spaghetti",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Blumenkohl-Brokkoli-Tarte mit Käse überbacken und ein Salat mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Grillsteak vom Schwein (160g) mit gebackenen Kartoffeln, Sour Creme und Salat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Spare Rips mit BBQ-Sauce, gebacken Kartoffeln, Sour Creme und Cole Slaw",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "21.08.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Baked Potatoe mit Gorgonzola-Spinatfüllung und buntem Salat",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Grünes Gemüsecurry von Zuckerschoten, Lauchzwiebeln, Zucchini, Mangold und Knoblauch auf Langkornreis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet mit Sesam (160g) paniert auf Taboulé von Couscous mit frischer Minze, Petersilie und Limette mit Joghurtdip",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
