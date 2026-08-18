@@ -6,6 +6,13 @@
       "date": "18.08.2026",
       "items": [
         {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegan",
           "name": "Fusilli mit scharfer Paprika-Chilisauce (Knobi)",
@@ -15,7 +22,7 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Frische Gemüsepfanne mit Räuchertofu, Brokkoli, Kohlrabi, Staudensellerie und Bulgur",
+          "name": "Frische Gemüsepfanne von Räuchertofu, Brokkoli, Kohlrabi, Staudensellerie mit Gemüsesauce und Bulgur",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -25,6 +32,27 @@
           "name": "Hähnchenbrust \"Teriyaki\" mit bunten asiatischem Gemüse, würziger Sauce und Curryreis",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Gyros von der Putenoberkeule mit Tzatziki (Knobi) Tomatenreis und Krautsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Leichte Unterhaltung \"glutenfrei\"",
+          "info": "",
+          "name": "Bunter Salatteller von buntem Blattsalat, marinierten Tomaten, Mozzarella und Pfirsich, Dressing nach Wahl",
+          "price_ndr": "7,35",
+          "price_external": "9,70"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Grießpudding mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
