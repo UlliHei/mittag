@@ -13,28 +13,35 @@
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "Fusilli mit scharfer Paprika-Chilisauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktose- und glutenfrei\"",
           "info": "",
           "name": "Frische Gemüsepfanne von Räuchertofu, Brokkoli, Kohlrabi, Staudensellerie mit Gemüsesauce und Bulgur",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
-          "name": "Hähnchenbrust \"Teriyaki\" mit bunten asiatischem Gemüse, würziger Sauce und Curryreis",
+          "name": "Hähnchenbrust \"Teriyaki\" mit asiatischem Gemüse von Paprika, Sprossen, Weißkohl, Karotten, würziger Sauce (Knobi) und Curryreis",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Sondersendung",
+          "info": "",
+          "name": "Hausgemachter Käsekuchen",
+          "price_ndr": "3,10",
+          "price_external": "3,10"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
           "info": "",
           "name": "Gyros von der Putenoberkeule mit Tzatziki (Knobi) Tomatenreis und Krautsalat",
           "price_ndr": "6,80",
