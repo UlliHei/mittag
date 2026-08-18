@@ -41,20 +41,6 @@
           "price_external": "3,10"
         },
         {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "",
-          "name": "Gyros von der Putenoberkeule mit Tzatziki (Knobi) Tomatenreis und Krautsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Leichte Unterhaltung \"glutenfrei\"",
-          "info": "",
-          "name": "Bunter Salatteller von buntem Blattsalat, marinierten Tomaten, Mozzarella und Pfirsich, Dressing nach Wahl",
-          "price_ndr": "7,35",
-          "price_external": "9,70"
-        },
-        {
           "category": "Abspann",
           "info": "vegetarisch",
           "name": "Grießpudding mit Fruchtsauce",
