@@ -2,53 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "17.08.2026",
-      "items": [
-        {
-          "category": "Vorspann\"glutenfrei \"",
-          "info": "vegan",
-          "name": "Karottensuppe mit Ingwer | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Gestovte Bohnen in veganer Bechamelsauce (Knobi) und Salzkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Zucchini-Hirseauflauf mit Ricotta und Sonnenblumenkernen, überbacken mit Tomate und Mozzarella",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"glutenfrei\"",
-          "info": "",
-          "name": "Gyros von der Putenoberkeule mit Tzatziki (Knobi) Tomatenreis und Krautsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Scharfes Linsengericht mit Gemüse und Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Karamellpudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "18.08.2026",
       "items": [
