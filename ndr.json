@@ -2,60 +2,13 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "18.08.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Fusilli mit scharfer Paprika-Chilisauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "Frische Gemüsepfanne von Räuchertofu, Brokkoli, Kohlrabi, Staudensellerie mit Gemüsesauce und Bulgur",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Hähnchenbrust \"Teriyaki\" mit asiatischem Gemüse von Paprika, Sprossen, Weißkohl, Karotten, würziger Sauce (Knobi) und Curryreis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hausgemachter Käsekuchen",
-          "price_ndr": "3,10",
-          "price_external": "3,10"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Grießpudding mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "19.08.2026",
       "items": [
         {
           "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Bratkartoffeln mit zwei Spiegeleiern und Gewürzgurke",
+          "info": "vegan",
+          "name": "Kürbis-Süßkartoffelcurry mit Gemüse in Kokosauce mit Reis",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
