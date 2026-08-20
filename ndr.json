@@ -2,60 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "19.08.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Pürierte Kartoffelsuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Kürbis-Süßkartoffelcurry mit Gemüse in Kokosauce (Knobi) mit Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "\"Indische Koftas\" acht Falafel Bällchen (Knobi) mit Kartoffeln, Gemüsewürfel und roten Linsen in Tomatensauce auf Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hausgemachtes Rinderhacksteak(160g) mit Pfeffersauce, Karotten und Kroketten",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "\"Pasta al Pesto\" mit hausgemachtem Tomaten Pesto (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Kirschsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillequark mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "20.08.2026",
       "items": [
