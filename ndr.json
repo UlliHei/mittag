@@ -8,7 +8,7 @@
         {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "Hausgemachte Gemüsebolognese auf Spaghetti",
+          "name": "Hausgemachte Gemüsebolognese auf Spaghetti (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -22,16 +22,23 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Grillsteak vom Schwein (160g) mit gebackenen Kartoffeln, Sour Creme und Salat",
+          "name": "Spare Rips(180) mit BBQ-Sauce (Knobi), Wedges, Sour Creme und Cole Slaw",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Studio 3",
+          "category": "Sondersendung",
           "info": "",
-          "name": "Spare Rips mit BBQ-Sauce, gebacken Kartoffeln, Sour Creme und Cole Slaw",
+          "name": "Hausgemachtes Rinderhacksteak(160g) mit Pfeffersauce, Kohlrabi-Karottengemüse und hausgemachem Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Panna Cotta mit Kirschsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
