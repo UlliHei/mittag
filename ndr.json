@@ -6,7 +6,14 @@
       "date": "20.08.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Mexikanische scharfe Bohnensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "Hausgemachte Gemüsebolognese auf Spaghetti (Knobi)",
           "price_ndr": "3,65",
@@ -20,11 +27,18 @@
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
           "name": "Spare Rips(180) mit BBQ-Sauce (Knobi), Wedges, Sour Creme und Cole Slaw",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Geschmorter geräucherter Tofu in asiatischer würziger Sauce (Knobi) mit Pak Choi und Basmatireis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
           "category": "Sondersendung",
@@ -32,6 +46,13 @@
           "name": "Hausgemachtes Rinderhacksteak(160g) mit Pfeffersauce, Kohlrabi-Karottengemüse und hausgemachem Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Milchreis mit Kirschsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         },
         {
           "category": "Abspann \"glutenfrei\"",
