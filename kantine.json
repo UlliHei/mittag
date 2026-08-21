@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Teriyaki-Hähnchen mit Pfannengemüse und Cashewkernen",
@@ -39,14 +39,14 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Rotbarschfilet mediterran mit Oliven, Tomaten und Zitronen",
+        "name": "Rotbarschfilet - mediterran mit Oliven, Tomaten und Zitronen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Griechischer Kritharaki-Nudelauflauf mit Tomaten, Zimt und Paprika",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "dpa-Currywurst mit Alibi Salat und Röstzwiebeln",
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Italienischer Gemüse-Suppen-Topf mit Pesto auf Pasta",
