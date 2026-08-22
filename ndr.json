@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "21.08.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Baked Potatoe mit Gorgonzola-Spinatfüllung, Sour Cream und buntem Salat mit Dressing nach Wahl",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Grünes Gemüsecurry von Zuckerschoten, Lauchzwiebeln, Zucchini, Mangold und Knoblauch auf Langkornreis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Gebratenes Seelachsfilet(160g) mit dreierlei Kartoffelsalaten, Mayonnaise, Speck und Tomate-Gurke",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Blumenkohl-Brokkoli-Tarte mit Käse überbacken und ein Salat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Schweineschnitzel \"Wiener Art\" mit dreierlei Kartoffelsalaten, Mayonnaise, Speck und Tomate-Gurke",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Schokopudding mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
