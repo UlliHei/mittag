@@ -1,30 +1,30 @@
 {
   "source": "dpa Kantine",
-  "week": "17.08.2026 - 21.08.2026",
+  "week": "24.08.2026 - 28.08.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Teriyaki-Hähnchen mit Pfannengemüse und Cashewkernen",
+        "name": "Involtini vom Truthahn in Gorgonzolasauce mit Spinat",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Curry-Reis-Pfanne mit Karotten, Erbsen und Sprossen",
+        "name": "Orecciette Pasta mit mediterranem Gemüse und Kräuterdip",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gemüse-Getreide-Taler mit Haferflocken auf Rotkohlsalat",
+        "name": "Frische Pfifferlinge auf Semmelknödeln in Schnittlauch-Rahm",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Ofen-Brokkoli",
+        "name": "glacierte Karotten",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -39,26 +39,26 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Rotbarschfilet - mediterran mit Oliven, Tomaten und Zitronen",
+        "name": "Kokos-Hähnchen mit Pak-Choi und Berglinsen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Grillkartoffeln mit Kräuterbutter, Salaten und Tzatziki",
+        "name": "Gemüse-Couscous-Pfanne mit Möhren, Paprika und Curry",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Pilzquiche auf Pfifferlingen, Champignons und Lauchzwiebeln",
+        "name": "Zucchini-Frittata mit weißen Bohnen, getrockneten Tomaten und Parmesan",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Blattspinat mit Sauerrahm",
+        "name": "glacierte Prinzessbohnen",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -73,22 +73,22 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Griechischer Kritharaki-Nudelauflauf mit Tomaten, Zimt und Paprika",
+        "name": "Lachsfilet in Zitronenöl mit Kapern und Tomaten",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Ravioli-Spinat-Pfanne in Gemüse-Tomatensauce",
+        "name": "Kartoffel-Tomaten-Gratin mit Bergkäse und Salat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gebackene Aubergine mit Fetakäse auf Hummus",
+        "name": "Auberginen-Linsen-Ragout auf Parpadelle mit Grana Padano",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -107,14 +107,14 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi Salat und Röstzwiebeln",
+        "name": "Gyrospfanne mit Paprika, Kräuter-Feta und Quark-Dip",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Asia-Gemüse-Pfanne mit Mie-Nudeln, Erdnüssen und Süß-Sauer-Sauce",
+        "name": "Camembert gebacken mit Preiselbeer-Pfirsich-Salat und Baguette",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "Mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -141,15 +141,15 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Italienischer Gemüse-Suppen-Topf mit Pesto auf Pasta",
-        "price": "6,50 €"
+        "name": "Herzhafter Gulaschsuppentopf mit Kartoffeln und Sauerrahm",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Mediterranes Grillgemüse",
+        "name": "Mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
