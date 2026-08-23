@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 17. — 21. August 2026",
+  "week": "KARTE VOM 24. — 28. August 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Butterchicken“ – Hühnchencurry mit gebuttertem Basmatireis & Möhrensambal",
-      "description": "„Butterchicken“ – Hühnchencurry mit gebuttertem Basmatireis & Möhrensambal",
-      "price": "14,90"
-    },
-    {
-      "category": "Dienstag",
-      "name": "„Bifteki“ – Rinderfrikadelle mit Fetafüllung, Röstkartoffeln, Melonensalat, Joghurtdip",
-      "description": "„Bifteki“ – Rinderfrikadelle mit Fetafüllung, Röstkartoffeln, Melonensalat, Joghurtdip",
+      "name": "Rinderstreifen, Gorgonzolasauce, Spaghetti, Rotweinfeigen, Ruccola",
+      "description": "Rinderstreifen, Gorgonzolasauce, Spaghetti, Rotweinfeigen, Ruccola",
       "price": "15,90"
     },
     {
+      "category": "Dienstag",
+      "name": "„BBQ chicken“ – mariniertes Huhn aus dem Ofen, Kartoffelecken, cole slaw",
+      "description": "„BBQ chicken“ – mariniertes Huhn aus dem Ofen, Kartoffelecken, cole slaw",
+      "price": "14,90"
+    },
+    {
       "category": "Mittwoch",
-      "name": "Paniertes Kräuterschnitzel (Pute), Tomatensalat, Kartoffelgratin",
-      "description": "Paniertes Kräuterschnitzel (Pute), Tomatensalat, Kartoffelgratin",
+      "name": "Hamburger Birnen, Bohnen & Speck mit Salzkartoffeln",
+      "description": "Hamburger Birnen, Bohnen & Speck mit Salzkartoffeln",
       "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Lauch, Senfsauce, gekochtes Ei, Salzkartoffeln",
-      "description": "Lauch, Senfsauce, gekochtes Ei, Salzkartoffeln",
-      "price": "14,90"
+      "name": "Blumenkohlsteak mit Knusper-Nusspanade, Trüffel-Kartoffelpüree, Pfifferlinge",
+      "description": "Blumenkohlsteak mit Knusper-Nusspanade, Trüffel-Kartoffelpüree, Pfifferlinge",
+      "price": "15,90"
     },
     {
       "category": "Freitag",
-      "name": "Buchweizenblinis, Räucherlachs, Dillschmand, Rote Betesalat",
-      "description": "Buchweizenblinis, Räucherlachs, Dillschmand, Rote Betesalat",
+      "name": "Asiatische Kokoscrêpes, Rinderhack, Erdnußsauce, Rohkostsalat, Minze, Röstzwiebeln",
+      "description": "Asiatische Kokoscrêpes, Rinderhack, Erdnußsauce, Rohkostsalat, Minze, Röstzwiebeln",
       "price": "15,90"
     }
   ],
