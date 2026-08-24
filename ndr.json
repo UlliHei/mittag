@@ -6,7 +6,14 @@
       "date": "24.08.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Spinatcremesuppe mit Gorgonzola | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "\"Pasta Rucola\" mit veganer Gemüsesauce",
           "price_ndr": "1,28",
@@ -25,6 +32,20 @@
           "name": "Pikant Peffer-Hähnchenbrust(160g) mit Champignons, Apfel und Zwiebeln in Rahmsauce an hausgemachem Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Geschnetzeltes vom Schweinefilet mit Zwiebeln in Rahm auf Pasta",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Aprikosen-Mango-Joghurt",
+          "price_ndr": "10,26",
+          "price_external": "1,45"
         }
       ]
     },
