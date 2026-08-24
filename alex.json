@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Linguine Burrata",
-      "description": "Luiguine Burrata mit einer mediterranen Pasta aus Linguini, cremiger Burrata, aromatischem Walnusspesto und Rucola.",
-      "price": "10,90"
-    },
-    {
-      "name": "Flammkuchen mit Thunfisch",
-      "description": "Flammkuchen belegt mit Creme Fraîche, Thunfisch, roten Zwiebeln und Käse.",
+      "name": "Linguine mit Pesto & Tomaten",
+      "description": "Linguine mit cremigem Pesto, saftigen Kirschtomaten und würzigem Parmesan.",
       "price": "9,90"
     },
     {
-      "name": "Mediterraner Chicken Burger mit Pommes",
-      "description": "saftig gegrilltem Hähnchenfilet, mediterranem Gemüsemix, Mozzarella und Rucola im Burger Bun, dazu knusprige Pommes frites.",
+      "name": "Kabeljau mit Zitronen-Kräuter-Sauce und Bratkartoffeln",
+      "description": "Zart gebratenes Kabeljaufilet mit frischer Zitronen-Kräuter-Sauce und knusprigen Bratkartoffeln.",
       "price": "11,90"
+    },
+    {
+      "name": "Flammkuchen mit Lachs",
+      "description": "Knuspriger Flammkuchen mit zartem Räucherlachs, Crème Fraîche, ALEX Kräuteröl, marinierten Tomatenwürfeln und Babyspinat.",
+      "price": "9,90"
     }
   ]
 }
