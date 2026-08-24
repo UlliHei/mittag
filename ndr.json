@@ -9,13 +9,13 @@
           "category": "Studio 1",
           "info": "vegan",
           "name": "\"Pasta Rucola\" mit veganer Gemüsesauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
+          "price_ndr": "1,28",
+          "price_external": "3,65"
         },
         {
-          "category": "Studio 2",
-          "info": "vegan",
-          "name": "Buntes Ratatouillegemüse mit gebackenem Hirtenkäse und Fladenbrot",
+          "category": "5,90",
+          "info": "",
+          "name": "Studio 2 vegan Buntes Ratatouillegemüse mit gebackenem Hirtenkäse (Knobi) und Fladenbrot",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
