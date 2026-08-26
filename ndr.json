@@ -2,60 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "25.08.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Osmanische Rote Linsensuppe | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Allgäuer Käsespätzle mit Schnittlauchsauce und Röstzwiebeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Kerniges Kohlgemüse von Spitz-, Wirsing- und Weißkohl mit Sonnenblumenkernen, Kürbiskernen und Röstkartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Kohlroulade (250g) mit Kümmelsauce und Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "6,80"
-        },
-        {
-          "category": "8,75",
-          "info": "Sondersendung \"glutenfrei\"",
-          "name": "vegetarisch Hausgemachter Milchreis mit Fruchtsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Überbackene Tortilla-Torte gefüllt mit Kidneybohnen, Avocado-Tomatensalat(Knobi) und Emmentaler, dazu Sour Cream",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Schokopudding mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "26.08.2026",
       "items": [
