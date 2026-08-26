@@ -6,14 +6,14 @@
       "date": "26.08.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegan",
           "name": "\"Pasta Broccoli\" mit Brokkolisauce",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
           "name": "Acht Falafel mit Minz-Möhrengemüse-Couscous und Sesam-Dip",
           "price_ndr": "5,40",
@@ -29,9 +29,30 @@
         {
           "category": "Live Sendung",
           "info": "",
-          "name": "Lachsburger mit pulled Lachs, frischem Salat, Remouladensauce und Pommes frites",
+          "name": "Lachsburger mit pulled Lachs, frischem Blattsalat, Wakame Algen, Remouladensauce und Pommes frites",
           "price_ndr": "9,10",
           "price_external": "11,65"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hähnchengeschnetzeltes mit Pilzen in Rahmsauce auf Pasta",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Steckrübeneintopf mit Karotten, Kartoffeln und Kasseler Fleisch",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Apfel-Crumble .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
