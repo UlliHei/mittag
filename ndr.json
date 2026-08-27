@@ -2,83 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "26.08.2026",
+    "Donnerstag": {
+      "date": "27.08.2026",
       "items": [
         {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "\"Pasta Broccoli\" mit Brokkolisauce",
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Steckrübeneintopf mit Gemüse und Kasseler | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Zwei gekochte Eier mit Rahmspinat (Knobi) und Salzkartoffeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Acht Falafel mit Minz-Möhrengemüse-Couscous und Sesam-Dip",
+          "name": "Buntes Gemüse von Lauch, Blumenkohl und Karotten mit Petersiliensauce und Ofenkartoffeln",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "Königsberger Klopse - zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
+          "name": "Gebackene Hähnchenkeule (250 g) mit BBQ-Sauce (Knobi), Pommes frites und Cole Slaw",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Lachsburger mit pulled Lachs, frischem Blattsalat, Wakame Algen, Remouladensauce und Pommes frites",
-          "price_ndr": "9,10",
-          "price_external": "11,65"
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Protein-Bowl von Couscous-Salat, Körniger Frischkäse, Tomate, Gurke und Kichererbsen, dazu Sesam-Dip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Hausgemachter Milchreis mit Fruchtsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
         },
         {
           "category": "Sondersendung",
           "info": "",
-          "name": "Hähnchengeschnetzeltes mit Pilzen in Rahmsauce auf Pasta",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
+          "name": "Kohlroulade (250g) mit Kümmelsauce und Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "6,80"
         },
         {
-          "category": "Sondersendung \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Steckrübeneintopf mit Karotten, Kartoffeln und Kasseler Fleisch",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Apfel-Crumble .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Donnerstag": {
-      "date": "27.08.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Zwei gekochte Eier mit Rahmspinat und Salzkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Käuter- Polenta mit buntem Gemüse von Lauch, Blumenkohl und Karotten mit Petersiliensauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Gebackene Hähnchenkeule (250 g) mit BBQ-Sauce, Pommes frites und Cole Slaw",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
+          "category": "8,75",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Aprikosen-Mango-Joghurt",
+          "price_ndr": "10,26",
+          "price_external": "1,45"
         }
       ]
     },
