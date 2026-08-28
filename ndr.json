@@ -2,90 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "27.08.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Steckrübeneintopf mit Gemüse und Kasseler | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Zwei gekochte Eier mit Rahmspinat (Knobi) und Salzkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "Buntes Gemüse von Lauch, Blumenkohl und Karotten mit Petersiliensauce und Ofenkartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"glutenfrei\"",
-          "info": "",
-          "name": "Gebackene Hähnchenkeule (250 g) mit BBQ-Sauce (Knobi), Pommes frites und Cole Slaw",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Protein-Bowl von Couscous-Salat, Körniger Frischkäse, Tomate, Gurke und Kichererbsen, dazu Sesam-Dip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Fruchtsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Kohlroulade (250g) mit Kümmelsauce und Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "6,80"
-        },
-        {
-          "category": "8,75",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Aprikosen-Mango-Joghurt",
-          "price_ndr": "10,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Freitag": {
       "date": "28.08.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
           "info": "vegan",
-          "name": "Farfalle mit Auberginen-Tomatensauce",
+          "name": "Karotten-Ingwersuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Oliven, Kapern und Knoblauch",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
-          "info": "Gebratenes Sommergemüse von Zucchini, Broccoli, gelben Rüben und Zuckerschoten mit veganer Schnittlauchsauce",
-          "name": "und Bulgur",
+          "category": "Studio 2 PLUS \"laktose- und glutenfrei\"",
+          "info": "",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 2",
           "info": "",
-          "name": "Gebratenes Seelachsfilet (160g) mit Mayonnaisen-Kartoffelsalat",
+          "name": "Gebratener Spitzkohl mit Karotten, Blumenkohl und Porree mit Schnittlauchsauce und Salzkartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"laktosefrei\"",
+          "info": "",
+          "name": "In Eihülle gebratenes Seelachsfilet (160g) mit Kräuter- oder Mayonnaisen-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Apfel-Crumble .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Buttermilchdessert Rhabarber-Vanille",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     }
