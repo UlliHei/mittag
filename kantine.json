@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "24.08.2026 - 28.08.2026",
+  "week": "31.08.2026 - 04.09.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,23 +12,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Involtini vom Truthahn in Gorgonzolasauce mit Spinat",
-        "price": "7,50 €"
+        "name": "Kräuterbraten vom Schwein in Pflaumen-Zimt-Jus",
+        "price": "6,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Orecciette Pasta mit mediterranem Gemüse und Kräuterdip",
+        "name": "Makkaroni mit Rahmwirsing, Kirschtomaten und Parmesan",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Frische Pfifferlinge auf Semmelknödeln in Schnittlauch-Rahm",
+        "name": "Gegrillte Pellkartoffel-Pfanne mit Hokkaidokürbis und Quark",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "glacierte Karotten",
+        "name": "Buttererbsen",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Tagesangebot",
+        "name": "Kroketten",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Kokos-Hähnchen mit Pak-Choi und Berglinsen",
+        "name": "Pfifferlingspfanne mit Hähnchenfilet und Lauchzwiebeln",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Gemüse-Couscous-Pfanne mit Möhren, Paprika und Curry",
+        "name": "Pasta-Bohnen-Pfanne mit Spinat, Parmesan Splittern und Pinienkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Zucchini-Frittata mit weißen Bohnen, getrockneten Tomaten und Parmesan",
+        "name": "Zwiebel-Paprika-Pfanne mit Veggie-Bällchen in Tomate",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "glacierte Prinzessbohnen",
+        "name": "Spitzkohlpfanne mit Kümmel und Apfel",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lachsfilet in Zitronenöl mit Kapern und Tomaten",
+        "name": "Lasagne \"al forno\" in cremiger Sauce gebacken mit Rindfleisch und Gemüse",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kartoffel-Tomaten-Gratin mit Bergkäse und Salat",
+        "name": "Provenzalische Grillkartoffeln mit Olivenöl, Meersalz und Sour Cream",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Auberginen-Linsen-Ragout auf Parpadelle mit Grana Padano",
+        "name": "Gartengemüse-Frikassee in Petersiliensauce auf buntem Reis",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Zweierlei Bohnengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Gyrospfanne mit Paprika, Kräuter-Feta und Quark-Dip",
+        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,11 +122,11 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Camenbert gebacken mit Preiselbeer-Pfirsich-Salat und Baguette",
+        "name": "Omelette \"Caprese\" mit Mozarella, Tomaten, Spinat und Gurkensalat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Mediterranes Ofengemüse",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -148,7 +148,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhafter Gulaschsuppentopf mit Kartoffeln und Sauerrahm",
+        "name": "Herzhafter Kartoffelsuppentopf mit viel frischem Gemüse und Wiener Würstchen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Mediterranes Ofengemüse",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
