@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "name": "Linguine mit Pesto & Tomaten",
-      "description": "Linguine mit cremigem Pesto, saftigen Kirschtomaten und würzigem Parmesan.",
-      "price": "9,90"
+      "name": "Naan Chicken-Sandwich mit Pommes frites",
+      "description": "Gegrilltes Hähnchen im weichen Naan Brot dazu frischer Salat, Tomaten und Gurken mit einer cremigen Kräuter-Joghurt-Sauce, serviert mit knusprigen Pommes frites",
+      "price": "10,90"
     },
     {
-      "name": "Kabeljau mit Zitronen-Kräuter-Sauce und Bratkartoffeln",
-      "description": "Zart gebratenes Kabeljaufilet mit frischer Zitronen-Kräuter-Sauce und knusprigen Bratkartoffeln.",
-      "price": "11,90"
+      "name": "Pasta Triangolo",
+      "description": "Gefüllte Pasta in einer aromatischen Tomatensauce mit frischem Grünkohl, verfeinert mit Parmesan",
+      "price": "10,90"
     },
     {
-      "name": "Flammkuchen mit Lachs",
-      "description": "Knuspriger Flammkuchen mit zartem Räucherlachs, Crème Fraîche, ALEX Kräuteröl, marinierten Tomatenwürfeln und Babyspinat.",
+      "name": "Kartoffelgratin mit Beilagensalat in Balsamico Dressing",
+      "description": "Ein Klassiker!",
       "price": "9,90"
     }
   ]
