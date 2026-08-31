@@ -1,5 +1,171 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "31.08.2026",
+      "items": [
+        {
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Provencialische Kartoffelsuppe mit viel Gemüse (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Tomaten-Gemüse-Quiche mit Gouda überbacken und Salatbeilage mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"laktosefrei\"",
+          "info": "",
+          "name": "\"Bami Goreng\" indonesisches Nudelgericht mit Geflügelfleisch, Gemüse (Knobi) und würziger Sauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Königsberger Klopse - zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Kirschpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "01.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Spaghetti mit Basilikum-Gremolata",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gemüsebowl von Paprika, Gurke, Spinat und Mais mit Curry-Dip und Quinoa",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Moussaka\" griechischer Rinderhackauflauf mit Aubergine und Kartoffeln mit Hirtenkäse überbacken dazu Joghurtdip",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "\"FairMast\" Hähnchenfleisch (160g) mit orientalischer Currysauce, Linsen-Zucchini-Kichererbsengemüse und Couscous",
+          "price_ndr": "9,90",
+          "price_external": "12,40"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "02.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Gemüseeintopf mit Staudensellerie, Karotten, Weißkohl und Kartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frischer Blumenkohl mit Schnittlauchsauce und Schwenkkartoffeln",
+          "price_ndr": "1,26",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Studio 3 Kibbelinge vom Seelachsfilet (200g) mit Cocktailsauce und Mayonnaisen Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Scharfes Chiligulasch (200g) vom Susländer Schwein mit Paprika und Zwiebeln und Spätzle",
+          "price_ndr": "7,90",
+          "price_external": "9,90"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "03.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "\"Maccaroni formaggi\" Pasta mit würziger Käsesauce, Tomaten und Rucola",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Asiatische Gemüsepfanne in Teriyakisauce mit Chinakohl, Paprika, Sprossen und Vollkornreis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Frikadelle von gemischtem Hackfleisch(Rind&Schwein) mit Porree in Rahm und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Gekochtes Rindfleisch (200g) von der deutsche Färse mit Meerrettichsauce, Wurzelgemüse und Petersilienkartoffeln",
+          "price_ndr": "7,90",
+          "price_external": "10,50"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "04.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "",
+          "name": "Geschmorte grüne Bohnen mit roten Zwiebeln und Tomaten an hausgemachtem Kartoffelpüree",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gefüllte Paprikaschote mit buntem Gemüse von Zucchini, Kohlrabi und Porree an Kürbissauce und cremige Polenta",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Matjesfilet \"Hausfrauen Art\" mit Zwiebeln, Äpfeln und Gewürzgurke in Sahnesauce dazu Bohnen Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
