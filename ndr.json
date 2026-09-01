@@ -41,16 +41,9 @@
           "price_external": "12,40"
         },
         {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Wrap gefüllt mit Falafel, Frischkäsecreme, Gurke, Tomate und Blattsalat, dazu Chili-Dip",
-          "price_ndr": "6,90",
-          "price_external": "8,90"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Karamellpudding mit Vanillesauce",
+          "name": "Cappuccino Pudding",
           "price_ndr": "1,26",
           "price_external": "1,45"
         }
