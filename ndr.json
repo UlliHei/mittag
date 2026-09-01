@@ -2,76 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "31.08.2026",
-      "items": [
-        {
-          "category": "Studio 1 \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Provencialische Kartoffelsuppe mit viel Gemüse (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Tomaten-Gemüse-Quiche mit Gouda überbacken und Salatbeilage mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "\"Bami Goreng\" indonesisches Nudelgericht mit Geflügelfleisch, Gemüse (Knobi) und würziger Sauce",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Königsberger Klopse - zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Kirschpudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "01.09.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Spaghetti mit Basilikum-Gremolata",
+          "name": "Provencialische Kartoffelsuppe (Knobi)| Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Spaghetti mit Basilikum-Gremolata (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gemüsebowl von Paprika, Gurke, Spinat und Mais mit Curry-Dip und Quinoa",
+          "name": "Gemüsebowl von Paprika, Gurke, Spinat und Mais mit Kräuter-Frischkäse-Dip und Quinoa",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "\"Moussaka\" griechischer Rinderhackauflauf mit Aubergine und Kartoffeln mit Hirtenkäse überbacken dazu Joghurtdip",
+          "name": "\"Moussaka\" griechischer Rinderhackauflauf mit Aubergine und Kartoffeln (Knobi) mit Hirtenkäse überbacken dazu Joghurtdip",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"laktosefrei\"",
           "info": "",
-          "name": "\"FairMast\" Hähnchenfleisch (160g) mit orientalischer Currysauce, Linsen-Zucchini-Kichererbsengemüse und Couscous",
+          "name": "\"FairMast\" Hähnchenfleisch (160g) in orientalischer Currysauce (Knobi) mit Linsen-Zucchini-Kichererbsengemüse und Couscous",
           "price_ndr": "9,90",
           "price_external": "12,40"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Wrap gefüllt mit Falafel, Frischkäsecreme, Gurke, Tomate und Blattsalat, dazu Chili-Dip",
+          "price_ndr": "6,90",
+          "price_external": "8,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Karamellpudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
