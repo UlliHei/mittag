@@ -2,58 +2,11 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "01.09.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Provencialische Kartoffelsuppe (Knobi)| Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Spaghetti mit Basilikum-Gremolata (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gemüsebowl von Paprika, Gurke, Spinat und Mais mit Kräuter-Frischkäse-Dip und Quinoa",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"glutenfrei\"",
-          "info": "",
-          "name": "\"Moussaka\" griechischer Rinderhackauflauf mit Aubergine und Kartoffeln (Knobi) mit Hirtenkäse überbacken dazu Joghurtdip",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "",
-          "name": "\"FairMast\" Hähnchenfleisch (160g) in orientalischer Currysauce (Knobi) mit Linsen-Zucchini-Kichererbsengemüse und Couscous",
-          "price_ndr": "9,90",
-          "price_external": "12,40"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Cappuccino Pudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "02.09.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"laktose- und glutenfrei\"",
           "info": "vegan",
           "name": "Gemüseeintopf mit Staudensellerie, Karotten, Weißkohl und Kartoffeln",
           "price_ndr": "3,65",
@@ -62,23 +15,44 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Frischer Blumenkohl mit Schnittlauchsauce und Schwenkkartoffeln",
-          "price_ndr": "1,26",
-          "price_external": "5,40"
+          "name": "Frischer Blumenkohl mit Schnittlauchsauce und hausgemachter Kartoffelpüree",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
-          "category": "7,50",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
-          "name": "Studio 3 Kibbelinge vom Seelachsfilet (200g) mit Cocktailsauce und Mayonnaisen Kartoffelsalat",
+          "name": "Kibbelinge vom Seelachsfilet (200g) mit Cocktailsauce und Mayonnaisen Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"laktosefrei\"",
           "info": "",
-          "name": "Scharfes Chiligulasch (200g) vom Susländer Schwein mit Paprika und Zwiebeln und Spätzle",
+          "name": "Scharfes Chiligulasch (200g) vom Susländer Schwein mit Paprika und Zwiebeln (Knobi) und Spätzle",
           "price_ndr": "7,90",
           "price_external": "9,90"
+        },
+        {
+          "category": "Sondersendung \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Chili sin Carne mit Mais und roten Bohnen(Knobi) auf Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Leichte Unterhaltung \"laktose- und glutenfrei\"",
+          "info": "",
+          "name": "Bunter Salatteller \"Nizza\" mit Gurke, Tomate, Ei, roten Zwiebeln und Thunfisch, Dressing nach Wahl",
+          "price_ndr": "7,35",
+          "price_external": "9,70"
+        },
+        {
+          "category": "Abspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Veganer Apfelpudding mit Fruchttopping",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
