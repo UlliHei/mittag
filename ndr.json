@@ -60,6 +60,13 @@
       "date": "03.09.2026",
       "items": [
         {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Gemüseeintopf | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegetarisch",
           "name": "\"Maccaroni formaggi\" Pasta mit würziger Käsesauce, Tomaten und Rucola",
@@ -67,16 +74,16 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Asiatische Gemüsepfanne in Teriyakisauce mit Chinakohl, Paprika, Sprossen und Vollkornreis",
+          "name": "Asiatische Gemüsepfanne in Teriyakisauce mit Chinakohl, Paprika, Sprossen (Knobi) und Basmatireis",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Frikadelle von gemischtem Hackfleisch(Rind&Schwein) mit Porree in Rahm und Salzkartoffeln",
+          "name": "Frikadelle(160) von gemischtem Hackfleisch(Rind&Schwein) mit Porree in Rahm und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
@@ -86,6 +93,13 @@
           "name": "Gekochtes Rindfleisch (200g) von der deutsche Färse mit Meerrettichsauce, Wurzelgemüse und Petersilienkartoffeln",
           "price_ndr": "7,90",
           "price_external": "10,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Kirschpudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
