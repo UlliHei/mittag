@@ -2,60 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "02.09.2026",
-      "items": [
-        {
-          "category": "Studio 1 \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Gemüseeintopf mit Staudensellerie, Karotten, Weißkohl und Kartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frischer Blumenkohl mit Schnittlauchsauce und hausgemachter Kartoffelpüree",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Kibbelinge vom Seelachsfilet (200g) mit Cocktailsauce und Mayonnaisen Kartoffelsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "",
-          "name": "Scharfes Chiligulasch (200g) vom Susländer Schwein mit Paprika und Zwiebeln (Knobi) und Spätzle",
-          "price_ndr": "7,90",
-          "price_external": "9,90"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Gemüsecurry von Linsen, Zucchini, Kichererbsen in Currysauce (Knobi) auf Mie-Nudeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Leichte Unterhaltung \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "Bunter Salatteller \"Nizza\" mit Gurke, Tomate, Ei, roten Zwiebeln und Thunfisch, Dressing nach Wahl",
-          "price_ndr": "7,35",
-          "price_external": "9,70"
-        },
-        {
-          "category": "Abspann \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Veganer Apfelpudding mit Fruchttopping",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "03.09.2026",
       "items": [
