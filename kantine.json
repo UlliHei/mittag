@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "31.08.2026 - 04.09.2026",
+  "week": "07.09.2026 - 11.09.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,23 +12,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Kräuterbraten vom Schwein in Pflaumen-Zimt-Jus",
-        "price": "6,50 €"
+        "name": "Hähnchenfilet „Züricher Art\" mit Zwiebeln und Champignons in Sauerrahm",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Makkaroni mit Rahmwirsing, Kirschtomaten und Parmesan",
+        "name": "Knöpfle-Gemüse-Pfanne mit Blattsalat und Nüssen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gegrillte Pellkartoffel-Pfanne mit Hokkaidokürbis und Quark",
+        "name": "Zwiebelkuchen mit Kümmel, Kräutern und Blattsalaten",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Buttererbsen",
+        "name": "Gedämpftes Bohnengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Kroketten",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Pfifferlingspfanne mit Hähnchenfilet und Lauchzwiebeln",
+        "name": "Herzhafte Rinder-roulade mit Speck und Zwiebeln in kräftiger Sauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Pasta-Bohnen-Pfanne mit Spinat, Parmesan Splittern und Pinienkernen",
+        "name": "Kartoffel-Blumenkohl-Stampf mit Kräuterbutter und Lauchzwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Zwiebel-Paprika-Pfanne mit Veggie-Bällchen in Tomate",
+        "name": "Kichererbsen-Gemüse-Curry mit Kürbis und Ingwer",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Spitzkohlpfanne mit Kümmel und Apfel",
+        "name": "Der erste Rotkohl mit Birne und Zimt",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lasagne \"al forno\" in cremiger Sauce gebacken mit Rindfleisch und Gemüse",
+        "name": "Zitronen-Lachs mit Kapern und Tomaten",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Provenzalische Grillkartoffeln mit Olivenöl, Meersalz und Sour Cream",
+        "name": "Spaghetti Napoli in fruchtiger Tomatensauce mit Käse und Pinienkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gartengemüse-Frikassee in Petersiliensauce auf buntem Reis",
+        "name": "Wraps gefüllt mit einer Grillgemüse-Feta-Füllung und Kräuterquark",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Zweierlei Bohnengemüse",
+        "name": "Blattspinat",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
+        "name": "Putenfilet „Cordon bleu Art\" mit Preiselbeeren und Zitrone",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Omelette \"Caprese\" mit Mozarella, Tomaten, Spinat und Gurkensalat",
+        "name": "Pfifferlinge mit roten Zwiebeln auf Pappardelle Pasta mit Grana Padano",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -148,8 +148,8 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhafter Kartoffelsuppentopf mit viel frischem Gemüse und Wiener Würstchen",
-        "price": "7,50 €"
+        "name": "Gebackener Rotbarsch mit Remoulade und einem Tomaten-Kartoffel-Gratin",
+        "price": "7,70 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
