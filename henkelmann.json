@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 31. — 04. September 2026",
+  "week": "KARTE VOM 07. — 11. September 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Feine Bratwurst, Kartoffelpüree, Blumenkohl mit Butterbröseln",
-      "description": "Feine Bratwurst, Kartoffelpüree, Blumenkohl mit Butterbröseln",
-      "price": "14,90"
+      "name": "Putenrollbraten mit Kräuterfüllung, Bandnudeln, geschmorte Zucchini",
+      "description": "Putenrollbraten mit Kräuterfüllung, Bandnudeln, geschmorte Zucchini",
+      "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "\"Asiabolognese\" (Rinderhack) mit Reisnudeln & Kräutersalat",
-      "description": "\"Asiabolognese\" (Rinderhack) mit Reisnudeln & Kräutersalat",
+      "name": "Gratinierter Chicoree im Schinkenmantel, Reis, Rote Bete-Orangensalat",
+      "description": "Gratinierter Chicoree im Schinkenmantel, Reis, Rote Bete-Orangensalat",
       "price": "14,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Rindergulasch ungarischer Art mit grünen Bohnen & Spirellinudeln",
-      "description": "Rindergulasch ungarischer Art mit grünen Bohnen & Spirellinudeln",
-      "price": "15,90"
+      "name": "Zürcher Geschnetzeltes vom Kalb mit Rösti & Gurkensalat",
+      "description": "Zürcher Geschnetzeltes vom Kalb mit Rösti & Gurkensalat",
+      "price": "16,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Semmelknödel mit sahnigem Pfifferlingsragout & grünem Salat",
-      "description": "Semmelknödel mit sahnigem Pfifferlingsragout & grünem Salat",
+      "name": "Gebackener Spitzkohl, heiße Buttersauce, Schmand, Salzkartoffeln",
+      "description": "Gebackener Spitzkohl, heiße Buttersauce, Schmand, Salzkartoffeln",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Rindersteak, gebackene Süßkartoffel, Avocadodip",
-      "description": "Rindersteak, gebackene Süßkartoffel, Avocadodip",
-      "price": "15,90"
+      "name": "Currywurst mit hausgemachtem Ketchup & Kartoffelecken",
+      "description": "Currywurst mit hausgemachtem Ketchup & Kartoffelecken",
+      "price": "12,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
