@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Naan Chicken-Sandwich mit Pommes frites",
-      "description": "Gegrilltes Hähnchen im weichen Naan Brot dazu frischer Salat, Tomaten und Gurken mit einer cremigen Kräuter-Joghurt-Sauce, serviert mit knusprigen Pommes frites",
+      "name": "Cremige vegetarische Penne mit Gemüse",
+      "description": "Al dente gekochte Penne mit knackigem Gemüse wie Zucchini und Paprika, verfeinert mit einer cremigen Sahnesauce, Parmesan und Kräutern.",
       "price": "10,90"
     },
     {
-      "name": "Pasta Triangolo",
-      "description": "Gefüllte Pasta in einer aromatischen Tomatensauce mit frischem Grünkohl, verfeinert mit Parmesan",
-      "price": "10,90"
-    },
-    {
-      "name": "Kartoffelgratin mit Beilagensalat in Balsamico Dressing",
-      "description": "Ein Klassiker!",
+      "name": "Feta mit Oliven, Rosamarin & Ciabatta",
+      "description": "Würziger Feta mit Oliven und aromatischen Rosmarin, serviert mit knusprigen Ciabatta und Olivenöl",
       "price": "9,90"
+    },
+    {
+      "name": "Kabeljau mit Kartoffelgratin & Beilagensalat mit Balsamico - Dressing",
+      "description": "Zartes Kabeljaufilet, serviert mit cremigem Kartoffelgratin und einer feinen, goldbrauen Kruste, dazu ein frischer gemischter Beilagensalat mit feinem Dressing.",
+      "price": "12,90"
     }
   ]
 }
