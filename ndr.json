@@ -34,6 +34,13 @@
           "price_external": "12,10"
         },
         {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hausgemachter Matcha-Cheesecake mit Oreo-Boden (Gelantine)",
+          "price_ndr": "3,10",
+          "price_external": "3,10"
+        },
+        {
           "category": "Abspann \"laktosefrei\"",
           "info": "vegan",
           "name": "Veganer Apfelpudding mit veganer Vanillesauce",
