@@ -2,51 +2,11 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "07.09.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Gemüsecremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta mit pikantem Tomatensugo(Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Couscous-Bowl mit Kürbis, Spitzkohl, roten Linsen und Paprika-Orangendip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Kohlroulade (250g) mit Specksauce und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Buttermilchdessert Rhabarber-Vanille",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "08.09.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
           "info": "vegan",
           "name": "Holsteiner Kartoffeleintopf mit Wurzelgemüse",
           "price_ndr": "3,65",
@@ -55,23 +15,30 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Tomatisierte griechische Bauernpfanne von Zucchini, Paprika, Lauchzwiebeln, Hirtenkäse und Reisnudeln",
+          "name": "Griechische Bauernpfanne von Tomaten, Zucchini, Paprika, Lauchzwiebeln, Hirtenkäse und Reisnudeln (Knobi)",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Lasagne mit gemischtem Hackfleisch und Gemüse mit Käse überbacken",
-          "price_ndr": "1,26",
-          "price_external": "6,80"
+          "name": "Lasagne mit gemischtem Hackfleisch, (Rind & Schwein) Gemüse und Käse überbacken (Knobi)",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
         },
         {
-          "category": "8,75",
-          "info": "",
-          "name": "Live Sendung vegan Veggi Burger vegan Beyond-Patty im Briochebrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
+          "category": "Live Sendung \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Veggi Burger Veganer Beyond-Patty im Briochebrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
           "price_ndr": "9,65",
           "price_external": "12,10"
+        },
+        {
+          "category": "Abspann \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Veganer Apfelpudding mit veganer Vanillesauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
