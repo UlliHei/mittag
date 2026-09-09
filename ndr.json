@@ -53,32 +53,53 @@
       "date": "10.09.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Tomatensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Bratkartoffeln mit zwei Spiegeleiern und Gewürzgurke",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
           "name": "Frisches Herbstgemüse von Steckrübe, Rote Bete, gelben Rüben mit Kerbelsauce und Ebly",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
           "name": "Schinkenwurst (120g) mit Bratensauce, Sauerkraut und hausgemachtem Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "6,80"
+          "price_ndr": "6,80",
+          "price_external": "8,75"
         },
         {
-          "category": "8,75",
+          "category": "Live Sendung",
+          "info": "vegetarisch",
+          "name": "Burrito - gefüllter Wrap mit Humus, Rucola, Avocados, gegrillter Paprika, Zucchini, Balsamico-Tomaten, dazu Zitronendip",
+          "price_ndr": "7,80",
+          "price_external": "9,80"
+        },
+        {
+          "category": "Sondersendung",
           "info": "",
-          "name": "Live Sendung vegetarisch Burrito - gefüllter Wrap mit Humus, Rucola, Avocados, gegrillter Paprika, Zucchini, Balsamico-Tomaten, dazu Zitronendip",
-          "price_ndr": "9,99",
-          "price_external": "9,99"
+          "name": "Hausgemachte Frikadelle(160g) aus gemischtem Hackfleisch mit Bratensauce, Rotkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Mandarinenquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
