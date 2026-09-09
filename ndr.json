@@ -41,20 +41,6 @@
           "price_external": "7,50"
         },
         {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Pasta Bolognese mit gemischtem Hackfleisch (Rind&Schwein)(Knobi) und Hartkäse",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Veggi Burger Veganer Beyond-Patty im Briochebrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Waldbeerquark",
