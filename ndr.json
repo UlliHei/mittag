@@ -2,60 +2,27 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "08.09.2026",
-      "items": [
-        {
-          "category": "Studio 1 \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Holsteiner Kartoffeleintopf mit Wurzelgemüse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Griechische Bauernpfanne von Tomaten, Zucchini, Paprika, Lauchzwiebeln, Hirtenkäse und Reisnudeln (Knobi)",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Lasagne mit gemischtem Hackfleisch, (Rind & Schwein) Gemüse und Käse überbacken (Knobi)",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Veggi Burger Veganer Beyond-Patty im Briochebrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
-          "category": "Abspann \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Veganer Apfelpudding mit veganer Vanillesauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "09.09.2026",
       "items": [
         {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Penne mit hausgemachtem Petersilienpesto",
-          "price_ndr": "26,27",
-          "price_external": "3,65"
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Kartoffelsuppe mit Wurstscheiben / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
         },
         {
-          "category": "5,90",
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Penne mit hausgemachtem Petersilienpesto (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"gluten- und laktosefrei\"",
           "info": "",
-          "name": "Studio 2 Indisches Blumenkohlcurry mit Möhren und Koriander an Reis",
+          "name": "Indisches Blumenkohlcurry mit Möhren und Koriander(Knobi) an Reis",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -67,11 +34,32 @@
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
-          "info": "vegetarisch",
-          "name": "Bratnudeln mit Frühlingsrollen - gebratene Nudeln mit Gemüsestreifen und fünf vegetarischen Frühlingsrollen, dazu süße Chilisauce",
+          "category": "Live Sendung \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Bratnudeln mit Frühlingsrollen -Nudeln mit Gemüsestreifen und fünf veganen Frühlingsrollen, dazu süße Chilisauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Pasta Bolognese mit gemischtem Hackfleisch (Rind&Schwein)(Knobi) und Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Veggi Burger Veganer Beyond-Patty im Briochebrötchen mit Burgersauce, Salat und veganem Gouda, dazu Pommes",
+          "price_ndr": "9,65",
+          "price_external": "12,10"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Waldbeerquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
