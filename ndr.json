@@ -2,53 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "09.09.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Kartoffelsuppe mit Wurstscheiben / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Penne mit hausgemachtem Petersilienpesto (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Indisches Blumenkohlcurry mit Möhren und Koriander(Knobi) an Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Panierte Hähnchenbrust mit Rahmchampignons, Pommes Frites und einer Salatbeilage",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Bratnudeln mit Frühlingsrollen -Nudeln mit Gemüsestreifen und fünf veganen Frühlingsrollen, dazu süße Chilisauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Waldbeerquark",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "10.09.2026",
       "items": [
@@ -69,7 +22,7 @@
         {
           "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Frisches Herbstgemüse von Steckrübe, Rote Bete, gelben Rüben mit Kerbelsauce und Ebly",
+          "name": "Frische Gemüsepfanne von Steckrübe, Rote Bete, gelben Rüben mit Kerbelsauce und Ebly",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
