@@ -34,20 +34,6 @@
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
-          "info": "vegetarisch",
-          "name": "Burrito - gefüllter Wrap mit Humus, Rucola, Avocados, gegrillter Paprika, Zucchini, Balsamico-Tomaten, dazu Zitronendip",
-          "price_ndr": "7,80",
-          "price_external": "9,80"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hausgemachte Frikadelle(160g) aus gemischtem Hackfleisch mit Bratensauce, Rotkohl und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Mandarinenquark",
