@@ -1,30 +1,30 @@
 {
   "source": "dpa Kantine",
-  "week": "07.09.2026 - 11.09.2026",
+  "week": "14.09.2026 - 18.09.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Hähnchenfilet „Züricher Art“ mit Zwiebeln und Champignons in Sauerrahm",
+        "name": "Herzhaftes Rindergulasch mit roten Zwiebeln, Paprika und Schmand",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Knöpfle-Gemüse-Pfanne mit Blattsalat und Nüssen",
+        "name": "Makkaroni-Zucchini-Pfanne mit Kirschtomaten und Pinienkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Zwiebelkuchen mit Kümmel, Kräutern und Blattsalaten",
+        "name": "Kürbis-Lauch-Quiche mit Fetakäse, Blattsalat und rote Bete Dip",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gedämpftes Bohnengemüse",
+        "name": "Karotten in Kräuterbutter mit Zwiebeln",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -39,26 +39,26 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Herzhafte Rinderroulade mit Speck und Zwiebeln in kräftiger Sauce",
+        "name": "Linguine Pasta mit Bolognese aus Rindfleisch und Gemüse mit Grana Padano",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kartoffel-Blumenkohl-Stampf mit Kräuterbutter und Lauchzwiebeln",
+        "name": "Kürbis-Kartoffel-gratin mit Bergkäse und Blattsalaten",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Kichererbsen-Gemüse-Curry mit Kürbis und Ingwer",
+        "name": "Ricotta Tortelloni mit Veggie Bällchen in Tomatencreme",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Der erste Rotkohl mit Birne und Zimt",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -73,26 +73,26 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Zitronen-Lachs mit Kapern und Tomaten",
+        "name": "Kikok Hähnchenfilet im Schinkenmantel auf Kirschtomaten-Sauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Spaghetti Napoli in fruchtiger Tomatensauce mit Käse und Pinienkernen",
+        "name": "Belugalinsen-Reis-Pfanne mit Grillgemüse, Cashewkernen und Asia Dip",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Wraps gefüllt mit einer Grillgemüse-Feta-Füllung und Kräuterquark",
+        "name": "Gebackener Fetakäse in Haferflocken mit Tomate und Sour Cream",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Blattspinat",
+        "name": "Mandel-Brokkoli",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -107,14 +107,14 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Putenfilet „Cordon bleu Art“ mit Preiselbeeren und Zitrone",
+        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Pfifferlinge mit roten Zwiebeln auf Pappardelle Pasta mit Grana Padano",
+        "name": "\"Mac and Cheese\" Röhrchen Nudeln in Käsecreme mit Cheddar und Zwiebel-Lauch",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -141,15 +141,15 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
-        "name": "Gebackener Rotbarsch mit Remoulade und einem Tomaten-Kartoffel-Gratin",
-        "price": "7,70 €"
+        "name": "Fischfilet mit Wokgemüse auf Laksa-Chili-Sud mit Duftreis",
+        "price": "8,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
