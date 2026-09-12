@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "11.09.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Blumenkohl-Currysuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Veganes \"Nasi Goreng\" indonesische Reispfanne mit Asia Gemüse(Knobi) und süß-saurer Sauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gebackener Hirtenkäse mit Paprika, Lauchzwiebeln und Kirschtomaten(Knobi), dazu Fladenbrot und Tzatziki",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Gebratenes Seelachsfilet mit Meerrettichsauce, buntem Wurzelgemüse und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Gebratenes Seelachsfilet mit Meerrettichsauce, buntem Wurzelgemüse und hausgemachtem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Hausgemachtes Schokomousse .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
