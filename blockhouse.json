@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "07.09.2026",
-      "name": "Rindergeschnetzeltes „Stroganoff“",
-      "description": "in Rahmsauce mit Gurkenstreifen und Champignons, dazu Gemüsereis",
+      "date": "14.09.2026",
+      "name": "Würzige Beef Ribs",
+      "description": "mit knusprigen Pommes frites und Coleslaw Garnitur\b",
       "price": "14,00 €"
     },
     {
       "category": "Dienstag",
-      "date": "08.09.2026",
-      "name": "Würzige Barbecue Spareribs",
-      "description": "mit Kartoffeln in Schale und Barbecue-Steak-Sauce",
+      "date": "15.09.2026",
+      "name": "Hühnerfrikassee",
+      "description": "mit Spargel, Champignons und Erbsen in milder Sauce, dazu Langkorn-Wildreis\b",
       "price": "14,00 €"
     },
     {
       "category": "Mittwoch",
-      "date": "09.09.2026",
+      "date": "16.09.2026",
       "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit süß-pikantem Mais-Chiligemüse und knusprigen Pommes frites",
+      "description": "mit Chilibohnen-Gemüse und Baked Potato mit Sour Cream",
       "price": "15,00 €"
     },
     {
       "category": "Donnerstag",
-      "date": "10.09.2026",
-      "name": "Großer gemischter Salat",
-      "description": "mit Falafelbällchen, Dressing nach Wahl und BLOCK HOUSE Brot, vorweg eine Bruschetta",
+      "date": "17.09.2026",
+      "name": "Lammgulasch",
+      "description": "in kräftiger Rosmarin-Thymian-Sauce, dazu Kartoffelgratin\b",
       "price": "14,00 €"
     },
     {
       "category": "Freitag",
-      "date": "11.09.2026",
-      "name": "Goldbarschfilet",
-      "description": "in Beurre blanc, dazu Kartoffelpüree",
+      "date": "18.09.2026",
+      "name": "Gebratenes Lachsfilet",
+      "description": "dazu knusprige Bratkartoffeln mit Beef- Baconwürfeln, Remouladen-Dip und Zitrone\b",
       "price": "14,00 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "07.09. bis 11.09.2026",
-      "name": "Huftmedaillons",
-      "description": "saftig gegrillt, mit knackigem Pfannengemüse und BLOCK HOUSE Brot",
+      "date": "14.09. bis 18.09.2026",
+      "name": "Block Burger",
+      "description": "mit feinwürzigem Blattspinat und BLOCK HOUSE Brot",
       "price": "15,00 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "07.09. bis 11.09.2026",
-      "name": "Putenmedaillons",
-      "description": "zart gegrillt, mit feinwürzigem Blattspinat und BLOCK HOUSE Brot",
+      "date": "14.09. bis 18.09.2026",
+      "name": "Vier kleine Rindersteaks",
+      "description": "saftig gegrillt, mit Pommes frites und frischem Saisongemüse",
       "price": "15,00 €"
     }
   ]
