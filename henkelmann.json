@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 07. — 11. September 2026",
+  "week": "KARTE VOM 14. — 18. September 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Putenrollbraten mit Kräuterfüllung, Bandnudeln, geschmorte Zucchini",
-      "description": "Putenrollbraten mit Kräuterfüllung, Bandnudeln, geschmorte Zucchini",
+      "name": "Hühnerbein aus dem Ofen, Granatapfelsauce, Süßkartoffelpommes, Bratspinat",
+      "description": "Hühnerbein aus dem Ofen, Granatapfelsauce, Süßkartoffelpommes, Bratspinat",
       "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "Gratinierter Chicoree im Schinkenmantel, Reis, Rote Bete-Orangensalat",
-      "description": "Gratinierter Chicoree im Schinkenmantel, Reis, Rote Bete-Orangensalat",
-      "price": "14,90"
+      "name": "Mex. „Pulled Pork“, cremige Polenta, grüne Bohnen, Avocado, pickels",
+      "description": "Mex. „Pulled Pork“, cremige Polenta, grüne Bohnen, Avocado, pickels",
+      "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Zürcher Geschnetzeltes vom Kalb mit Rösti & Gurkensalat",
-      "description": "Zürcher Geschnetzeltes vom Kalb mit Rösti & Gurkensalat",
-      "price": "16,90"
+      "name": "Schmorgurken mit Rinderhack, Dillschmand, Salzkartoffeln",
+      "description": "Schmorgurken mit Rinderhack, Dillschmand, Salzkartoffeln",
+      "price": "14,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Gebackener Spitzkohl, heiße Buttersauce, Schmand, Salzkartoffeln",
-      "description": "Gebackener Spitzkohl, heiße Buttersauce, Schmand, Salzkartoffeln",
+      "name": "Kartoffelpuffer, Rote Beteragout, Fetacreme",
+      "description": "Kartoffelpuffer, Rote Beteragout, Fetacreme",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Currywurst mit hausgemachtem Ketchup & Kartoffelecken",
-      "description": "Currywurst mit hausgemachtem Ketchup & Kartoffelecken",
-      "price": "12,90"
+      "name": "Lasagne von Rinderhack mit Salatbeilage",
+      "description": "Lasagne von Rinderhack mit Salatbeilage",
+      "price": "14,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
