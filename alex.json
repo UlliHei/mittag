@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Cremige vegetarische Penne mit Gemüse",
-      "description": "Al dente gekochte Penne mit knackigem Gemüse wie Zucchini und Paprika, verfeinert mit einer cremigen Sahnesauce, Parmesan und Kräutern.",
-      "price": "10,90"
-    },
-    {
-      "name": "Feta mit Oliven, Rosamarin & Ciabatta",
-      "description": "Würziger Feta mit Oliven und aromatischen Rosmarin, serviert mit knusprigen Ciabatta und Olivenöl",
+      "name": "Flammekuchen mit Lachs",
+      "description": "knuspriger Flammkuchen mit Crème fraîche, feinem Räucherlachs, frischen Tomaten, Rucola und Kräutern",
       "price": "9,90"
     },
     {
-      "name": "Kabeljau mit Kartoffelgratin & Beilagensalat mit Balsamico - Dressing",
-      "description": "Zartes Kabeljaufilet, serviert mit cremigem Kartoffelgratin und einer feinen, goldbrauen Kruste, dazu ein frischer gemischter Beilagensalat mit feinem Dressing.",
-      "price": "12,90"
+      "name": "Spaghetti mit Zitronensoße",
+      "description": "Spaghetti mit cremiger Zitronensoße und frischem Grünkohl, verfeinert mit Kräutern",
+      "price": "10,90"
+    },
+    {
+      "name": "Kabeljau mit Zitronensoße und knusprigen Bratkartoffeln",
+      "description": "zart gebratenes Kabeljaufilet, serviert mit einer cremigen, fein abgestimmten Zitronensoße und goldbraun-knusprigen Bratkartoffeln, verfeinert mit frischen Kräutern",
+      "price": "11,90"
     }
   ]
 }
