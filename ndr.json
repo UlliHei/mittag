@@ -1,5 +1,192 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "14.09.2026",
+      "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Kartoffel-Brokkoliauflauf mit Hafercreme und Mandeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Pfannkuchen mit Gemüse von Kohlrabi, Sellerie und Mangold mit kräftiger Käsesauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Spaghetti Carbonara mit Ei, Schinkenstreifen und Rahmsauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "60 Jahre Studioküche",
+          "info": "",
+          "name": "Ragout fin vom Hähnchen - feines Hähnchenragout mit grünem Spargel, Champignons und Sahnesauce in Blätterteigpastete",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Veganes \"Nasi Goreng\" indonesische Reispfanne mit Asia Gemüse(Knobi) und süß-saurer Sauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Birne Helene mit Schokoladensauce und Sahne",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "15.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Peperonata mit Paprikasauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Spitzkohl-Champignonrisotto mit Lauchzwiebeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Cordon Bleu vom Hähnchen mit Rahmsauce, Brokkoli und Salzkartoffel",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "60 Jahre Studioküche",
+          "info": "",
+          "name": "\"Falscher Hase\" mit Eiern gefüllter Hackbraten (Rind/Schwein) an grünen Prinzessbohnen und Petersilienkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "16.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Scharfe Spätzlepfanne mit Kidneybohnen, Mais und Chilisauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Bowl mit Rot- Weiß- und Wirsingkohl, Zartweizen und Sojakräuterjoghurt",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Nürnberger Rostbratwurst an Jus mit Sauerkraut und hausgemachtem Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "6,80"
+        },
+        {
+          "category": "8,75",
+          "info": "",
+          "name": "60 Jahre Studioküche Geschmorte Hähnchenkeule \"Marengo\" mit Perlzwiebeln, Champignons, Knoblauch, dazu Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "17.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Spaghetti al Pesto di piselli mit Rucola",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gebratenes Kürbis-Wirsingkohlgemüse mit Walnüssen, Balsamicocreme und Majorankartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Putencurry \"Indisch\" mit Früchten in Currysauce auf Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "60 Jahre Studioküche",
+          "info": "",
+          "name": "Schweinerücken \"schwedisch\" mit Backpflaume gefüllt, Senfsauce Wirsing und Salzkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "18.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Linseneintopf mit buntem Wurzelgemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gegrillte Auberginen mit Tomatengemüse und Couscous",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebackenes Seelachsfilet mit Zitronensauce, Zucchinigemüse und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "60 Jahre Studioküche",
+          "info": "",
+          "name": "Carbonade - paniertes Kotelett mit Sauce, Erbsen-Möhrengemüse und Kroketten",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        }
+      ]
+    }
+  }
 }
