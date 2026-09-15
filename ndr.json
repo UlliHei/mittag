@@ -2,83 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "14.09.2026",
+    "Dienstag": {
+      "date": "15.09.2026",
       "items": [
         {
           "category": "Vorspann",
           "info": "vegetarisch",
-          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "name": "Spinatcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
-          "name": "Kartoffel-Brokkoliauflauf mit Hafercreme und Mandeln",
+          "name": "Pasta Peperonata mit Paprikasauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
+          "info": "",
+          "name": "Spitzkohl-Champignonrisotto mit Lauchzwiebeln und Béchamelsauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Cordon Bleu vom Hähnchen mit Rahmsauce, Brokkoli-Karottengemüse und Salzkartoffel",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "60 Jahre Studioküche",
+          "info": "",
+          "name": "\"Falscher Hase\" mit Eiern gefüllter Hackbraten (Rind/Schwein) an grünen Prinzessbohnen, Bratensauce und Petersilienkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Sondersendung",
           "info": "",
           "name": "Pfannkuchen mit Gemüse von Kohlrabi, Sellerie und Mangold mit kräftiger Käsesauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Spaghetti Carbonara mit Ei, Schinkenstreifen und Rahmsauce",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "60 Jahre Studioküche",
-          "info": "",
-          "name": "Ragout fin vom Hähnchen - feines Hähnchenragout mit grünem Spargel, Champignons und Sahnesauce in Blätterteigpastete",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Birne Helene mit Schokoladensauce und Sahne",
+          "info": "",
+          "name": "Wackelpudding Waldmeister / Kirsche (Rindergelatine) mit Sahne",
           "price_ndr": "1,45",
           "price_external": "1,65"
-        }
-      ]
-    },
-    "Dienstag": {
-      "date": "15.09.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Pasta Peperonata mit Paprikasauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Spitzkohl-Champignonrisotto mit Lauchzwiebeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Cordon Bleu vom Hähnchen mit Rahmsauce, Brokkoli und Salzkartoffel",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "60 Jahre Studioküche",
-          "info": "",
-          "name": "\"Falscher Hase\" mit Eiern gefüllter Hackbraten (Rind/Schwein) an grünen Prinzessbohnen und Petersilienkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
         }
       ]
     },
