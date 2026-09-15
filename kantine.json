@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Herzhaftes Rindergulasch mit roten Zwiebeln, Paprika und Schmand",
@@ -39,18 +39,18 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Linguine Pasta mit Bolognese aus Rindfleisch und Gemüse mit Grana Padano",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kürbis-Kartoffelgratin mit Bergkäse und Blattsalaten",
+        "name": "Kürbis-Kartoffel-gratin mit Bergkäse und Blattsalaten",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Kikok Hähnchenfilet im Schinkenmantel auf Kirschtomaten-Sauce",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Fischfilet mit Wokgemüse auf Laksa-Chili-Sud mit Duftreis",
