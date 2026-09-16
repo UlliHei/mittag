@@ -41,20 +41,6 @@
           "price_external": "5,90"
         },
         {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "\"Falscher Hase\" mit Eiern gefüllter Hackbraten (Rind/Schwein) an Rotkohl, Bratensauce und Petersilienkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Spitzkohl-Champignonrisotto mit Lauchzwiebeln und Béchamelsauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Reis Trauttmansdorff .",
