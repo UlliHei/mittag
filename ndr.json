@@ -2,90 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "15.09.2026",
+    "Mittwoch": {
+      "date": "16.09.2026",
       "items": [
         {
           "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Spinatcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "info": "vegan",
+          "name": "Klare Gemüsebrühe mit Backerbsen |Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta Peperonata mit Paprikasauce (Knobi)",
+          "info": "vegetarisch",
+          "name": "Scharfe Spätzlepfanne mit Kidneybohnen, Mais und Chilisauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Spitzkohl-Champignonrisotto mit Lauchzwiebeln und Béchamelsauce",
+          "name": "Bowl mit Rot- Weißkohl, Kaiserschoten, Blumenkohl, Kurkuma, Zartweizen und Hafer-Orangen-Dip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "Cordon Bleu vom Hähnchen mit Rahmsauce, Brokkoli-Karottengemüse und Salzkartoffel",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
+          "name": "Drei Nürnberger Rostbratwürstchen an Jus mit Sauerkraut und hausgemachtem Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "6,80"
         },
         {
-          "category": "60 Jahre Studioküche",
-          "info": "",
-          "name": "\"Falscher Hase\" mit Eiern gefüllter Hackbraten (Rind/Schwein) an grünen Prinzessbohnen, Bratensauce und Petersilienkartoffeln",
+          "category": "8,75",
+          "info": "60 Jahre Studioküche \"gluten- und laktosefrei\"",
+          "name": "Geschmorte Hähnchenkeule(250g) \"Marengo\" mit Perlzwiebeln, Champignons und Knoblauch, dazu Reis",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Sondersendung",
           "info": "",
-          "name": "Pfannkuchen mit Gemüse von Kohlrabi, Sellerie und Mangold mit kräftiger Käsesauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
+          "name": "\"Falscher Hase\" mit Eiern gefüllter Hackbraten (Rind/Schwein) an Rotkohl, Bratensauce und Petersilienkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Spitzkohl-Champignonrisotto mit Lauchzwiebeln und Béchamelsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
         },
         {
           "category": "Abspann \"glutenfrei\"",
-          "info": "",
-          "name": "Wackelpudding Waldmeister / Kirsche (Rindergelatine) mit Sahne",
+          "info": "vegetarisch",
+          "name": "Reis Trauttmansdorff .",
           "price_ndr": "1,45",
           "price_external": "1,65"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "16.09.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Scharfe Spätzlepfanne mit Kidneybohnen, Mais und Chilisauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Bowl mit Rot- Weiß- und Wirsingkohl, Zartweizen und Sojakräuterjoghurt",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Nürnberger Rostbratwurst an Jus mit Sauerkraut und hausgemachtem Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "6,80"
-        },
-        {
-          "category": "8,75",
-          "info": "",
-          "name": "60 Jahre Studioküche Geschmorte Hähnchenkeule \"Marengo\" mit Perlzwiebeln, Champignons, Knoblauch, dazu Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
         }
       ]
     },
