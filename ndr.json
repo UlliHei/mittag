@@ -2,74 +2,27 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "17.09.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Porreecremesuppe Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Spaghetti al Pesto mit Basilikum Pesto und Rucola(Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Gebratenes Kürbis-Kohlgemüse mit Walnüssen, Balsamicocreme und Majorankartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Putencurry \"Indisch\" mit Früchten in Currysauce (Knobi) auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "60 Jahre Studioküche \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Schweinerücken \"schwedisch\" mit Backpflaume gefüllt, Senfsauce, Wirsing und Salzkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegetarisch",
-          "name": "Scharfe Spätzlepfanne mit Kidneybohnen, Mais und Chilisauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "3,65"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Vanillepudding mit Pfirsich und Löffelbiskuit",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "18.09.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Karotten-Ingwersuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
           "info": "vegan",
           "name": "Linseneintopf mit buntem Wurzelgemüse",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Gegrillte Auberginen mit Tomatengemüse und Couscous",
+          "name": "Eine halbe Zucchini gefüllt mit Zwiebeln, Paprika, Mais und Reis mit Käse überbacken, dazu Ratatouille(Knobi) und Reis",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -81,11 +34,46 @@
           "price_external": "8,75"
         },
         {
+          "category": "Studio 3 \"laktosefrei\"",
+          "info": "",
+          "name": "Gebratenes Seelachsfilet mit Kräuter oder Mayonnaisen-Kartoffelsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
           "category": "60 Jahre Studioküche",
           "info": "",
           "name": "Carbonade - paniertes Kotelett mit Sauce, Erbsen-Möhrengemüse und Kroketten",
           "price_ndr": "3,65",
           "price_external": "5,90"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Putencurry \"Indisch\" mit Früchten in Currysauce (Knobi) auf Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "\"Pasta al Funghi'' mit Pilzen in Rahmsauce und italienischem Hartkäse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "",
+          "name": "Götterspeise Waldmeister (Rindergelatine) mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        },
+        {
+          "category": "1,65",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Hausgemachtes Schokomousse .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
