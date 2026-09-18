@@ -48,20 +48,6 @@
           "price_external": "5,90"
         },
         {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Putencurry \"Indisch\" mit Früchten in Currysauce (Knobi) auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "\"Pasta al Funghi'' mit Pilzen in Rahmsauce und italienischem Hartkäse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "",
           "name": "Götterspeise Waldmeister (Rindergelatine) mit Vanillesauce",
