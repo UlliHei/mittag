@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Flammekuchen mit Lachs",
-      "description": "knuspriger Flammkuchen mit Crème fraîche, feinem Räucherlachs, frischen Tomaten, Rucola und Kräutern",
-      "price": "9,90"
-    },
-    {
-      "name": "Spaghetti mit Zitronensoße",
-      "description": "Spaghetti mit cremiger Zitronensoße und frischem Grünkohl, verfeinert mit Kräutern",
+      "name": "Spaghetti mit Hähnchen in Champignon-Sahne-Soße",
+      "description": "cremige Spaghetti mit zart gebratenem Hähnchen und aromatischen Champignons in einer feinen Sahnesoße, abgerundet mit Parmesan",
       "price": "10,90"
     },
     {
-      "name": "Kabeljau mit Zitronensoße und knusprigen Bratkartoffeln",
-      "description": "zart gebratenes Kabeljaufilet, serviert mit einer cremigen, fein abgestimmten Zitronensoße und goldbraun-knusprigen Bratkartoffeln, verfeinert mit frischen Kräutern",
-      "price": "11,90"
+      "name": "Gemüse-Reis-Pfanne mit Feta",
+      "description": "herzhafter Reis mit knackiger Paprika, Zucchini, Karotten und Zwiebeln, würzig abgeschmeckt und mit cremig-würzigem Feta verfeinert",
+      "price": "9,90"
+    },
+    {
+      "name": "Kartoffel-Gemüse-Auflauf",
+      "description": "herzhafter Kartoffel-Gemüse-Auflauf mit zarten Kartoffeln, frischem Gemüse und würzigem Käse, goldbraun überbacken. Dazu ein knackiger Beilagensalat mit Balasamico-Dressing",
+      "price": "9,90"
     }
   ]
 }
