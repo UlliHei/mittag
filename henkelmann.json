@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 14. — 18. September 2026",
+  "week": "KARTE VOM 21. — 25. September 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Hühnerbein aus dem Ofen, Granatapfelsauce, Süßkartoffelpommes, Bratspinat",
-      "description": "Hühnerbein aus dem Ofen, Granatapfelsauce, Süßkartoffelpommes, Bratspinat",
-      "price": "15,90"
+      "name": "Paniertes Backhendl, warmer Kartoffelsalat, Kernöl",
+      "description": "Paniertes Backhendl, warmer Kartoffelsalat, Kernöl",
+      "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "Mex. „Pulled Pork“, cremige Polenta, grüne Bohnen, Avocado, pickels",
-      "description": "Mex. „Pulled Pork“, cremige Polenta, grüne Bohnen, Avocado, pickels",
+      "name": "„Bulgogi“ koreanisches Feuerfleisch, Duftreis, Gemüseplätzchen",
+      "description": "„Bulgogi“ koreanisches Feuerfleisch, Duftreis, Gemüseplätzchen",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Schmorgurken mit Rinderhack, Dillschmand, Salzkartoffeln",
-      "description": "Schmorgurken mit Rinderhack, Dillschmand, Salzkartoffeln",
-      "price": "14,90"
+      "name": "Hamburger Labskaus mit Rollmops nebenbei, Spieglei, Gewürzgurke",
+      "description": "Hamburger Labskaus mit Rollmops nebenbei, Spieglei, Gewürzgurke",
+      "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Kartoffelpuffer, Rote Beteragout, Fetacreme",
-      "description": "Kartoffelpuffer, Rote Beteragout, Fetacreme",
+      "name": "Glasierte Aubergine, warmer Reisnudelsalat, Teriyakisauce, viel Gemüse",
+      "description": "Glasierte Aubergine, warmer Reisnudelsalat, Teriyakisauce, viel Gemüse",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Lasagne von Rinderhack mit Salatbeilage",
-      "description": "Lasagne von Rinderhack mit Salatbeilage",
-      "price": "14,90"
+      "name": "Bratkartoffeln mit Zwiebeln, Speckmarmelade, Rinderfrikadelle, hausgem. Senf",
+      "description": "Bratkartoffeln mit Zwiebeln, Speckmarmelade, Rinderfrikadelle, hausgem. Senf",
+      "price": "15,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
