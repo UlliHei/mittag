@@ -1,5 +1,178 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "21.09.2026",
+      "items": [
+        {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Linsensuppeneintopf | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomaten-Basilikumsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
+          "name": "Geschmortes frisches Gemüse von Paprika, Sellerie und Steckrüben mit Kürbissauce und Kartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Königsberger Klopse\" Zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
+          "price_ndr": "4,50",
+          "price_external": "5,50"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Schokopudding mit Vanillesauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "22.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Chili sin Carne mit Mais und roten Bohnen an Reis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gemüsebowl von Blumenkohl,Karotte und Lauch mit Kressedip und Bulgur",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebackener Leberkäse mit Zwiebelsauce, Bayrischkraut und Kräuter-Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "6,80"
+        },
+        {
+          "category": "8,75",
+          "info": "",
+          "name": "Sondersendung im Bistro \"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
+          "price_ndr": "4,50",
+          "price_external": "5,50"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "23.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Farfalle mit Zucchinisauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Kohlrabisteak mit Paprika-Gemüsesauce und Rosmarinkartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 2 PLUS",
+          "info": "",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Wiener Backhändelbrust vom Fair Mast Hähnchen (180g) mit Schwammerlsauce und Röstkartoffeln",
+          "price_ndr": "9,90",
+          "price_external": "12,90"
+        },
+        {
+          "category": "Sondersendung im Bistro",
+          "info": "",
+          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
+          "price_ndr": "4,50",
+          "price_external": "5,50"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "24.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Erbseneintopf mit viel Gemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gratinierte Käsespätzle mit frischem Gemüse von Spitzkohl, Lauchzwiebeln und gelben Rüben mit Emmentaler überbacken",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Bauernfrühstück mit Ei und Speck, dazu Rahmsauce und Gewürzgurke",
+          "price_ndr": "9,29",
+          "price_external": "6,80"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "25.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Hausgemachte Gemüsebolognese auf Spaghetti",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Kürbis-Süßkartoffelcurry in Kokosauce mit Reis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Forellenfilet mit warmem Speck-Kartoffelsalat und Apfel-Meerrettich",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
