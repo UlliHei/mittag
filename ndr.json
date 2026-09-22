@@ -2,83 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "21.09.2026",
+    "Dienstag": {
+      "date": "22.09.2026",
       "items": [
         {
-          "category": "Vorspann \"glutenfrei\"",
+          "category": "Vorspann \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Linsensuppeneintopf | Teller NDR 3,25€ | Gäste 3,80€",
+          "name": "Tomatisierte Gemüsesuppe (Knobi) | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomaten-Basilikumsauce",
+          "name": "Chili sin Carne mit Mais und roten Bohnen(Knobi) auf Reis",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2 \"glutenfrei\"",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Geschmortes frisches Gemüse von Paprika, Sellerie und Steckrüben mit Kürbissauce und Kartoffeln",
+          "name": "Gemüsebowl von Blumenkohl,Karotte, Champignons, Rotkohl und Lauch mit Kressedip und Bulgur",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "\"Königsberger Klopse\" Zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
+          "name": "Gebackener Leberkäse mit Zwiebelsauce, Bayrisch Kraut und Kräuter-Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Sondersendung",
           "info": "",
+          "name": "Brotzeitteller mit Käse-Wurstsalat, Obatzter, Rettich, Kräuterfrischkäse und eine Laugenstange",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Apfelstrudel mit Vanillesauce",
+          "price_ndr": "2,80",
+          "price_external": "3,20"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
           "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
           "price_ndr": "4,50",
           "price_external": "5,50"
         },
         {
-          "category": "Abspann",
+          "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Schokopudding mit Vanillesauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Dienstag": {
-      "date": "22.09.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Chili sin Carne mit Mais und roten Bohnen an Reis",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gemüsebowl von Blumenkohl,Karotte und Lauch mit Kressedip und Bulgur",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Gebackener Leberkäse mit Zwiebelsauce, Bayrischkraut und Kräuter-Kartoffelpüree",
+          "name": "Rote Grütze mit Vanillesauce",
           "price_ndr": "1,26",
-          "price_external": "6,80"
-        },
-        {
-          "category": "8,75",
-          "info": "",
-          "name": "Sondersendung im Bistro \"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
-          "price_ndr": "4,50",
-          "price_external": "5,50"
+          "price_external": "1,45"
         }
       ]
     },
@@ -114,7 +95,7 @@
           "price_external": "12,90"
         },
         {
-          "category": "Sondersendung im Bistro",
+          "category": "Sondersendung",
           "info": "",
           "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
           "price_ndr": "4,50",
