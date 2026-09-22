@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Poularde in Kokos-Joghurtsauce mit Kürbis und Paprika",
@@ -39,11 +39,11 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Geschmorte Rinderschulter in Balsamico-jus mit Backpflaumen",
@@ -54,7 +54,7 @@
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Griechische Gemüsepanne mit Tomate, Fetakäse und Rosmarinbrot",
+        "name": "Griechische Gemüsepfanne mit Tomate, Fetakäse und Rosmarinbrot",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -73,11 +73,11 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Kalbsfrikadelle mit Kräuterseitlingen und Lauchzwiebeln",
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Hausgemachter Schaschlikspieß mit Paprika und Bacon",
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": ""
+        "price": "Preis nach Gewicht"
       },
       "Hauptgericht": {
         "name": "Bauerntopf mit Rinderhack, Karotten, Sellerie, Paprika und Kartoffeln im Tomatensud mit Baguette",
