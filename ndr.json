@@ -13,9 +13,9 @@
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1 \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Chili sin Carne mit Mais und roten Bohnen(Knobi) auf Reis",
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Pasta al Pesto mit Basilikum Pesto(Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -29,7 +29,7 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Gebackener Leberkäse mit Zwiebelsauce, Bayrisch Kraut und Kräuter-Kartoffelpüree",
+          "name": "Gebackener Leberkäse mit Zwiebelsauce, Sauerkraut und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
