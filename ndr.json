@@ -2,50 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "22.09.2026",
+    "Mittwoch": {
+      "date": "23.09.2026",
       "items": [
         {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Tomatisierte Gemüsesuppe (Knobi) | Teller NDR 3,25 € | Gäste 3,80 €",
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Lauchcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Pasta al Pesto mit Basilikum Pesto(Knobi)",
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Farfalle mit Kürbissauce",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2 \"laktosefrei\"",
+          "category": "Studio 2",
           "info": "",
-          "name": "Gemüsebowl von Blumenkohl,Karotte, Champignons, Rotkohl und Lauch mit Kressedip und Bulgur",
+          "name": "Zwei Kohlrabisteaks mit Paprika-Gemüsesauce und Rosmarinkartoffeln",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 2 PLUS \"gluten- und laktosefrei\"",
           "info": "",
-          "name": "Gebackener Leberkäse mit Zwiebelsauce, Sauerkraut und Salzkartoffeln",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Wiener Backhändelbrust vom Fair Mast Hähnchen (160g) mit Schwammerlsauce und Serviettenknödel",
+          "price_ndr": "9,90",
+          "price_external": "12,90"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
+          "name": "Backfisch vom Seelachsfilet(160g) mit buntem Mayonnaisen-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Brotzeitteller mit Käse-Wurstsalat, Obatzter, Rettich, Kräuterfrischkäse und eine Laugenstange",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Apfelstrudel mit Vanillesauce",
-          "price_ndr": "2,80",
-          "price_external": "3,20"
         },
         {
           "category": "Sondersendung \"laktosefrei\"",
@@ -57,49 +57,9 @@
         {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Rote Grütze mit Vanillesauce",
+          "name": "Cappuccino Pudding",
           "price_ndr": "1,26",
           "price_external": "1,45"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "23.09.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Farfalle mit Zucchinisauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Kohlrabisteak mit Paprika-Gemüsesauce und Rosmarinkartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 2 PLUS",
-          "info": "",
-          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Wiener Backhändelbrust vom Fair Mast Hähnchen (180g) mit Schwammerlsauce und Röstkartoffeln",
-          "price_ndr": "9,90",
-          "price_external": "12,90"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
-          "price_ndr": "4,50",
-          "price_external": "5,50"
         }
       ]
     },
