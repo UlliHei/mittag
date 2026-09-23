@@ -57,7 +57,14 @@
         {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Cappuccino Pudding",
+          "name": "Heidelbeerquark",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        },
+        {
+          "category": "1,65",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Schokopudding mit Vanillesauce",
           "price_ndr": "1,26",
           "price_external": "1,45"
         }
