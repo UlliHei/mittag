@@ -48,13 +48,6 @@
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "",
-          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
-          "price_ndr": "4,50",
-          "price_external": "5,50"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Heidelbeerquark",
@@ -64,7 +57,7 @@
         {
           "category": "1,65",
           "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Schokopudding mit Vanillesauce",
+          "name": "vegetarisch Vanillepudding mit Schokosauce",
           "price_ndr": "1,26",
           "price_external": "1,45"
         }
@@ -93,6 +86,13 @@
           "name": "Bauernfrühstück mit Ei und Speck, dazu Rahmsauce und Gewürzgurke",
           "price_ndr": "9,29",
           "price_external": "6,80"
+        },
+        {
+          "category": "8,75",
+          "info": "Sondersendung \"laktosefrei\"",
+          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
+          "price_ndr": "4,50",
+          "price_external": "5,50"
         }
       ]
     },
