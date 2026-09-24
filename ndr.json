@@ -2,72 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "23.09.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Lauchcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Farfalle mit Kürbissauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zwei Kohlrabisteaks mit Paprika-Gemüsesauce und Rosmarinkartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 2 PLUS \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Wiener Backhändelbrust vom Fair Mast Hähnchen (160g) mit Schwammerlsauce und Serviettenknödel",
-          "price_ndr": "9,90",
-          "price_external": "12,90"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "",
-          "name": "Backfisch vom Seelachsfilet(160g) mit buntem Mayonnaisen-Kartoffelsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Heidelbeerquark",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        },
-        {
-          "category": "1,65",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Vanillepudding mit Schokosauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "24.09.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Mediterrane Tomatensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktose- und glutenfrei\"",
           "info": "vegan",
           "name": "Erbseneintopf mit viel Gemüse",
           "price_ndr": "3,65",
@@ -76,7 +22,7 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gratinierte Käsespätzle mit frischem Gemüse von Spitzkohl, Lauchzwiebeln und gelben Rüben mit Emmentaler überbacken",
+          "name": "Gratinierte Käsespätzle mit Emmentaler überbacken und Lauchzwiebelsauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -89,10 +35,24 @@
         },
         {
           "category": "8,75",
-          "info": "Sondersendung \"laktosefrei\"",
-          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
-          "price_ndr": "4,50",
-          "price_external": "5,50"
+          "info": "Sondersendung \"glutenfrei\"",
+          "name": "Käsekrainer(100g) mit buntem Spitzkohlgemüse und hausgemachtem Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Apfelstrudel mit Vanillesauce",
+          "price_ndr": "2,80",
+          "price_external": "3,20"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillequark mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
