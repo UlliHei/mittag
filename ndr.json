@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "25.09.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Erbseneintopf mit Backerbsen |Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Hausgemachte Gemüsebolognese auf Spaghetti (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Kürbis-Süßkartoffelcurry in Kokosauce (Knobi) mit Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Gebratenes Forellenfilet(160g) mit warmem Speck-Kartoffelsalat und Apfel-Meerrettich",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "",
-          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
-          "price_ndr": "4,50",
-          "price_external": "5,50"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Aprikosen-Mango-Joghurt",
-          "price_ndr": "10,26",
-          "price_external": "1,45"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
