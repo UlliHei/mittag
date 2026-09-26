@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 21. — 25. September 2026",
+  "week": "KARTE VOM 28. — 02. Oktober 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Paniertes Backhendl, warmer Kartoffelsalat, Kernöl",
-      "description": "Paniertes Backhendl, warmer Kartoffelsalat, Kernöl",
+      "name": "Nürnberger Rostbratwürstchen, Sauerkraut, Kartoffelpüree",
+      "description": "Nürnberger Rostbratwürstchen, Sauerkraut, Kartoffelpüree",
       "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "„Bulgogi“ koreanisches Feuerfleisch, Duftreis, Gemüseplätzchen",
-      "description": "„Bulgogi“ koreanisches Feuerfleisch, Duftreis, Gemüseplätzchen",
+      "name": "Backkartoffel gefüllt mit Tafelspitz, Kräuterquark, Bouillongemüse",
+      "description": "Backkartoffel gefüllt mit Tafelspitz, Kräuterquark, Bouillongemüse",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Hamburger Labskaus mit Rollmops nebenbei, Spieglei, Gewürzgurke",
-      "description": "Hamburger Labskaus mit Rollmops nebenbei, Spieglei, Gewürzgurke",
-      "price": "15,90"
+      "name": "Wiener Schnitzel vom Kalb, Rahmgurkensalat, Butterkartoffeln",
+      "description": "Wiener Schnitzel vom Kalb, Rahmgurkensalat, Butterkartoffeln",
+      "price": "16,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Glasierte Aubergine, warmer Reisnudelsalat, Teriyakisauce, viel Gemüse",
-      "description": "Glasierte Aubergine, warmer Reisnudelsalat, Teriyakisauce, viel Gemüse",
+      "name": "Blaubeerrisotto, Parmesan, gebratene Pilze, Ofenkürbis",
+      "description": "Blaubeerrisotto, Parmesan, gebratene Pilze, Ofenkürbis",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Bratkartoffeln mit Zwiebeln, Speckmarmelade, Rinderfrikadelle, hausgem. Senf",
-      "description": "Bratkartoffeln mit Zwiebeln, Speckmarmelade, Rinderfrikadelle, hausgem. Senf",
+      "name": "Lachs in Sesampanade, Duftreis, Teriyakisauce, Brokkoli",
+      "description": "Lachs in Sesampanade, Duftreis, Teriyakisauce, Brokkoli",
       "price": "15,90"
     }
   ],
