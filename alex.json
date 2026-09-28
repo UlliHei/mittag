@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Spaghetti mit Hähnchen in Champignon-Sahne-Soße",
-      "description": "cremige Spaghetti mit zart gebratenem Hähnchen und aromatischen Champignons in einer feinen Sahnesoße, abgerundet mit Parmesan",
+      "name": "Triangolo mit Tomatensoße und frischem Grünkohl",
+      "description": "gefüllte Nudeltaschen mit frischem Grünkohl, serviert in einer fruchtigen Tomatensoße und verfeinert mit kleinen Mozzarellastücken",
       "price": "10,90"
     },
     {
-      "name": "Gemüse-Reis-Pfanne mit Feta",
-      "description": "herzhafter Reis mit knackiger Paprika, Zucchini, Karotten und Zwiebeln, würzig abgeschmeckt und mit cremig-würzigem Feta verfeinert",
+      "name": "Flammekuchen mit Thunfisch und Zwiebeln",
+      "description": "knuspriger Flammkuchen, belegt mit Crème fraîche, herzhaftem Thunfisch und fein geschnittenen Zwiebeln",
       "price": "9,90"
     },
     {
-      "name": "Kartoffel-Gemüse-Auflauf",
-      "description": "herzhafter Kartoffel-Gemüse-Auflauf mit zarten Kartoffeln, frischem Gemüse und würzigem Käse, goldbraun überbacken. Dazu ein knackiger Beilagensalat mit Balasamico-Dressing",
-      "price": "9,90"
+      "name": "Gegrillte Hähnchenbrust mit Sushireis, Teriyaki.Soße und frischem Salat",
+      "description": "zarte, saftig gegrillte Hähnchenbrust mit aromtischer Terriyaki-Soße, serviert mit Sushireis und einen frischen knackigen Beilagensalat",
+      "price": "10,90"
     }
   ]
 }
