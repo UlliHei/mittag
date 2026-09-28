@@ -1,5 +1,185 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "28.09.2026",
+      "items": [
+        {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Karotten-Kürbissuppe mit Ingwer und Kokos| Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Senfeier : zwei gekochte Eier mit Senfsauce, Kartoffelpüree und Rote Bete",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
+          "name": "Süßkartoffel-Bowl mit Äpfeln, grünen Bohnen und Mais, dazu Limonen-Joghurt",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Spaghetti Bolognese mit Rinderhackfleisch (Knobi) und geriebenem Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
+          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
+          "price_ndr": "4,50",
+          "price_external": "5,50"
+        },
+        {
+          "category": "Sondersendung \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Kürbis-Süßkartoffelcurry in Kokosauce (Knobi) mit Reis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Latte Macchiatopudding",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "29.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Paprikaletscho mit Penne",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Ofengemüse-Pasta mit Karotten, Pastinaken, frischer Petersilie und Hartkäse",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Thüringer Bratwurst (100g) mit Sauerkraut und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Hähnchen-Wrap gefüllt mit Mais, Frühlingszwiebeln, Gurke, Tomate und Eisbergsalat, dazu Sweet-Chili-Sauce",
+          "price_ndr": "6,50",
+          "price_external": "8,50"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "30.09.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "",
+          "name": "Blumenkohlcurry mit Kichererbsen, Kokosmilch und Quinoa",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegetarisch",
+          "name": "Spinat-Tomaten-Hirtenkäse-Quiche mit Schnittlauchdip und Blattsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hühnerfrikassee mit feinen Champignons, Erbsen und Spargel, dazu Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Cheeseburger Rindfleisch-Patty (125g), Gewürzgurke, Tomate, Zwiebel, Chaddar und Burgersauce, dazu Fritten",
+          "price_ndr": "9,65",
+          "price_external": "12,10"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "01.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Oliven, Kapern und Rucola",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Herbstliche Bowl mit Rotkohlsalat, Ofenkürbis, Kürbiskernen, marinierten Karotten, veganer Mayonnaise und Couscous",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Schweineschnitzel \"Wiener Art\" mit Pommes Frites und Salatbeilage",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Schweinegeschnetzeltes \"Züricher Art\" mit Champignons und Zwiebeln in Sahnesauce auf Spätzle",
+          "price_ndr": "7,90",
+          "price_external": "9,90"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "02.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Vier Kartoffelpuffer mit Apfelmus | Halbe Portion NDR 1,85€ | Gäste 2,95€",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "\"Japanische Ramen\" Erdnuss-Kokos-Suppe mit Asianudeln, Tofu, Frühlingszwiebeln und Champignons",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Seelachsfilet (160g) mit Schnittlauchsauce, gebratenem Herbstgemüse und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
