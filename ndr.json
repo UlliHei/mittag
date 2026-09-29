@@ -2,34 +2,55 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "28.09.2026",
+    "Dienstag": {
+      "date": "29.09.2026",
       "items": [
         {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Karotten-Kürbissuppe mit Ingwer und Kokos| Teller NDR 3,25€ | Gäste 3,80€",
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Brokkolicremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Senfeier : zwei gekochte Eier mit Senfsauce, Kartoffelpüree und Rote Bete",
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Paprikaletscho mit Pasta",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2 \"glutenfrei\"",
+          "category": "Studio 2 \"laktose- und glutenfrei\"",
           "info": "",
-          "name": "Süßkartoffel-Bowl mit Äpfeln, grünen Bohnen und Mais, dazu Limonen-Joghurt",
+          "name": "Buntes Ofengemüse mit Karotten, Pastinaken, frischer Petersilie (Knobi) und kleine Kartoffeln in Schale",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Spaghetti Bolognese mit Rinderhackfleisch (Knobi) und geriebenem Hartkäse",
+          "name": "Schinkenwurst (100g) mit Sauerkraut, Bratensauce und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Bratwurst (100g) mit Sauerkraut, Bratensauce und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Hähnchen-Wrap gefüllt mit Mais, Frühlingszwiebeln, Gurke, Tomate, Eisbergsalat und Frischkäse, dazu Sweet-Chili-Sauce",
+          "price_ndr": "6,50",
+          "price_external": "8,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "\"Hamburger Pannfisch\" Bratkartoffelpfanne mit Seelachs, Kräutern, Zwiebeln und Senfsauce",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
@@ -41,51 +62,11 @@
           "price_external": "5,50"
         },
         {
-          "category": "Sondersendung \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Kürbis-Süßkartoffelcurry in Kokosauce (Knobi) mit Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Latte Macchiatopudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Dienstag": {
-      "date": "29.09.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Paprikaletscho mit Penne",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Ofengemüse-Pasta mit Karotten, Pastinaken, frischer Petersilie und Hartkäse",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Thüringer Bratwurst (100g) mit Sauerkraut und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Hähnchen-Wrap gefüllt mit Mais, Frühlingszwiebeln, Gurke, Tomate und Eisbergsalat, dazu Sweet-Chili-Sauce",
-          "price_ndr": "6,50",
-          "price_external": "8,50"
+          "name": "Stracciatellacreme .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
