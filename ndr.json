@@ -2,74 +2,20 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "30.09.2026",
-      "items": [
-        {
-          "category": "Vorspann\"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "Blumenkohlcurry mit Kichererbsen, Kokosmilch und Quinoa (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "vegetarisch",
-          "name": "Spinat-Tomaten-Hirtenkäse-Quiche mit Schnittlauchdip (Knobi) und Blattsalat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hühnerfrikassee mit feinen Champignons, Erbsen und Spargel, dazu Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Cheeseburger Rindfleisch-Patty (125g), Gewürzgurke, Tomate, Zwiebel, Cheddar und Burgersauce, dazu Fritten",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "",
-          "name": "\"Original Münchner Weißwurst\" - Ein Paar mit süßem Senf und einer Laugenbrezel",
-          "price_ndr": "4,50",
-          "price_external": "5,50"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Paprikaletscho mit Pasta",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Grießpudding mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "01.10.2026",
       "items": [
         {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Tomatencremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce, Oliven, Kapern und Rucola",
+          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce(Knobi), Oliven und Kapern",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -83,16 +29,23 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Schweineschnitzel \"Wiener Art\" mit Pommes Frites und Salatbeilage",
+          "name": "Schweineschnitzel \"Wiener Art\" (160g) mit Pommes Frites und Salatbeilage mit Dressing nach Wahl",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Sondersendung",
           "info": "",
-          "name": "Schweinegeschnetzeltes \"Züricher Art\" mit Champignons und Zwiebeln in Sahnesauce auf Spätzle",
-          "price_ndr": "7,90",
-          "price_external": "9,90"
+          "name": "Schinkenwurst (100g) mit Sauerkraut, Bratensauce und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillepudding .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
