@@ -2,67 +2,27 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "01.10.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Tomatencremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "\"Pasta al arrabiata\" Pasta mit fruchtig-pikanter Tomatensauce(Knobi), Oliven und Kapern",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Herbstliche Bowl mit Rotkohlsalat, Ofenkürbis, Kürbiskernen, marinierten Karotten, veganer Mayonnaise und Couscous",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Schweineschnitzel \"Wiener Art\" (160g) mit Pommes Frites und Salatbeilage mit Dressing nach Wahl",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Schinkenwurst (100g) mit Sauerkraut, Bratensauce und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillepudding .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "02.10.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Blumenkohlcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegetarisch",
           "name": "Vier Kartoffelpuffer mit Apfelmus | Halbe Portion NDR 1,85€ | Gäste 2,95€",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "\"Japanische Ramen\" Erdnuss-Kokos-Suppe mit Asianudeln, Tofu, Frühlingszwiebeln und Champignons",
+          "name": "\"Japanische-Erdnuss-Kokos-Suppe\" mit Reisnudeln, Tofu, Frühlingszwiebeln und Champignons (Knobi)",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -72,6 +32,13 @@
           "name": "Gebratenes Seelachsfilet (160g) mit Schnittlauchsauce, gebratenem Herbstgemüse und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Aprikosen-Mango-Joghurt",
+          "price_ndr": "10,26",
+          "price_external": "1,45"
         }
       ]
     }
