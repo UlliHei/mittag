@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 28. — 02. Oktober 2026",
+  "week": "KARTE VOM 05. — 09. Oktober 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "Nürnberger Rostbratwürstchen, Sauerkraut, Kartoffelpüree",
-      "description": "Nürnberger Rostbratwürstchen, Sauerkraut, Kartoffelpüree",
-      "price": "14,90"
-    },
-    {
-      "category": "Dienstag",
-      "name": "Backkartoffel gefüllt mit Tafelspitz, Kräuterquark, Bouillongemüse",
-      "description": "Backkartoffel gefüllt mit Tafelspitz, Kräuterquark, Bouillongemüse",
+      "name": "„Hühnchen Kiew“ – Brustfilet mit Kräuterbutterfüllung, Reis, Salat in Rahm",
+      "description": "„Hühnchen Kiew“ – Brustfilet mit Kräuterbutterfüllung, Reis, Salat in Rahm",
       "price": "15,90"
     },
     {
-      "category": "Mittwoch",
-      "name": "Wiener Schnitzel vom Kalb, Rahmgurkensalat, Butterkartoffeln",
-      "description": "Wiener Schnitzel vom Kalb, Rahmgurkensalat, Butterkartoffeln",
+      "category": "Dienstag",
+      "name": "Geschmortes Kalbsragout, Pilze, Bandnudeln, „Gremolata“ (Petersiliensauce)",
+      "description": "Geschmortes Kalbsragout, Pilze, Bandnudeln, „Gremolata“ (Petersiliensauce)",
       "price": "16,90"
     },
     {
+      "category": "Mittwoch",
+      "name": "Wildschweinfrikadellen, geschmorter Spitzkohl mit Kirschen & Speck, Salzkartoffeln",
+      "description": "Wildschweinfrikadellen, geschmorter Spitzkohl mit Kirschen & Speck, Salzkartoffeln",
+      "price": "15,90"
+    },
+    {
       "category": "Donnerstag",
-      "name": "Blaubeerrisotto, Parmesan, gebratene Pilze, Ofenkürbis",
-      "description": "Blaubeerrisotto, Parmesan, gebratene Pilze, Ofenkürbis",
+      "name": "„Bibimbap“ – koreanisches Reisgericht mit 5 Gemüsen & Spiegelei",
+      "description": "„Bibimbap“ – koreanisches Reisgericht mit 5 Gemüsen & Spiegelei",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Lachs in Sesampanade, Duftreis, Teriyakisauce, Brokkoli",
-      "description": "Lachs in Sesampanade, Duftreis, Teriyakisauce, Brokkoli",
-      "price": "15,90"
+      "name": "Chili con carne (Rind) mit Baguette, creme fraiche & Koriander",
+      "description": "Chili con carne (Rind) mit Baguette, creme fraiche & Koriander",
+      "price": "14,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
