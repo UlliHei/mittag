@@ -5,11 +5,11 @@
     "Montag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Poularde in Joghurt-Kokos-Sauce mit Tomate und Kichererbsen",
@@ -39,14 +39,14 @@
     "Dienstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhaft gefüllte Canneloni in cremiger Tomaten-Ricotta-Sauce gebacken",
+        "name": "Herzhaft gefüllte Cannelloni in cremiger Tomaten-Ricotta-Sauce gebacken",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -73,18 +73,18 @@
     "Mittwoch": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Geschmorte Rinderschulter als Sauerbraten in kräftiger Sauce mit Pflaumen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kartoffel-Kürbis-Püree mit Kräuterbutter und Zwiebeln",
+        "name": "Kartoffel-Kürbis-Pürree mit Kräuterbutter und Zwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
@@ -107,11 +107,11 @@
     "Donnerstag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Camenbert-Schnitzel mit Preiselbeeren",
@@ -119,7 +119,7 @@
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Vegetarisches Hauptgericht": {
         "name": "Spinat-Ricotta-Knödel auf Ratatouille-Tomaten-Sauce",
@@ -141,11 +141,11 @@
     "Freitag": {
       "Tagessuppe": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Hauptgericht": {
         "name": "Steckrübeneintopf \"Hamburger national\" mit Kartoffeln, Kasseler und Kochwurst",
@@ -153,11 +153,11 @@
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Vegetarisches Hauptgericht": {
         "name": "Tagesangebot",
-        "price": "Preis nach Gewicht"
+        "price": ""
       },
       "Gemüse": {
         "name": "Mediterranes Grillgemüse",
