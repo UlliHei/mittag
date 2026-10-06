@@ -2,67 +2,20 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "05.10.2026",
+    "Dienstag": {
+      "date": "06.10.2026",
       "items": [
         {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Kartoffelsuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "category": "Vorspann",
+          "info": "vegan",
+          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
-          "name": "Kleine Rosmarinkartoffeln mit Hafer-Kräuter-Dip und buntem Salat",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Gebratene Gnocchi mit Karotte, Blumenkohl, Kohlrabi und mit Käse überbacken, dazu Tomatensauce (Knobi)",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Kohlroulade (250g) mit Specksauce und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"Indische Woche\" \"glutenfrei\"",
-          "info": "",
-          "name": "Butter Chicken Hähnchenkeulenfleisch mit Paprika, Zwiebeln, Tomaten, indischen Gewürzen (Knobi) und Kurkuma-Erbsen-Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Latte Macchiatopudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        },
-        {
-          "category": "1,65",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Stracciatellacreme .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Dienstag": {
-      "date": "06.10.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "'Pasta aglio e olio' Spaghetti mit Rucola und Tomatenwürfeln",
+          "name": "'Pasta aglio e olio' Spaghetti mit Olivenöl, Rucola und Tomatenwürfeln (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -74,18 +27,39 @@
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "Gebackener Leberkäse (150g) mit Bayrischkraut und Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "6,80"
-        },
-        {
-          "category": "8,75",
-          "info": "",
-          "name": "Live Sendung \"Indische Woche\" Fischfilet Garam Masala mit Zwiebeln, Möhren, Erbsen, Ananas, Ingwer und Knoblauch, Curry-Kokos und Reis",
+          "name": "Gebackener Leberkäse (150g) mit Bayrischkraut und hausgemachem Kartoffelpüree",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung \"Indische Woche\" \"laktosefrei\"",
+          "info": "",
+          "name": "Fischfilet Garam Masala Seehechtfilet mit Zwiebeln, Möhren, Erbsen, Ananas, Ingwer und Knoblauch in Curry-Kokosmilch auf Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "",
+          "name": "Butter Chicken Hähnchenkeulenfleisch mit Paprika, Zwiebeln, Tomaten, indischen Gewürzen (Knobi) und Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Kohlroulade (250g) mit Specksauce und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Mango-Grieß-Pudding",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
