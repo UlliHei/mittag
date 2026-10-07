@@ -2,97 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "06.10.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegan",
-          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "'Pasta aglio e olio' Spaghetti mit Olivenöl, Rucola und Tomatenwürfeln (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Zwei Rote Bete-Knödel mit frischem Wirsing in Rahm",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"glutenfrei\"",
-          "info": "",
-          "name": "Gebackener Leberkäse (150g) mit Bayrischkraut und hausgemachem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"Indische Woche\" \"laktosefrei\"",
-          "info": "",
-          "name": "Fischfilet Garam Masala Seehechtfilet mit Zwiebeln, Möhren, Erbsen, Ananas, Ingwer und Knoblauch in Curry-Kokosmilch auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "",
-          "name": "Butter Chicken Hähnchenkeulenfleisch mit Paprika, Zwiebeln, Tomaten, indischen Gewürzen (Knobi) und Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Kohlroulade (250g) mit Specksauce und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Mango-Grieß-Pudding",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "07.10.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Provenzalischer Gemüseeintopf mit Auberginen, Zucchini und Kartoffeln",
+          "name": "Provenzalischer Gemüseeintopf mit Auberginen, Zucchini und Kartoffeln (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Hirse Bowl mit marinierten Möhren, Rosenkohl, Apfel, Rosinen, Petersilie, Hirse und Harrisa-Sojajoghurt",
+          "name": "Hirse Bowl mit marinierten Möhren, Rosenkohl, Apfel, Rosinen, Petersilie, Bulgur und Harrisa-Haferjoghurt",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
-          "name": "Frische Paprikaschote gefüllt mit Rinderhack, dazu fruchtige Tomatensauce und Reis",
+          "name": "Frische Paprikaschote gefüllt mit Rinderhack, dazu fruchtige Tomatensauce(Knobi) und Reis",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Live Sendung \"Indische Woche\"",
           "info": "",
-          "name": "Tandoori Pute in Joghurt mariniert, dazu Gemüse und Naan Brot",
+          "name": "Tandoori Pute in Joghurt mariniert, dazu Gemüse von Chinakohl, Sprossen, Paprika und Pilzen mit Naan Brot",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Zwei Gemüse-Reisbratlinge mit Karotte, Sellerie und Oliven, Kräuter-Dip und Salat mit Dressing nach Wahl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Schoko-Mango-Creme",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
