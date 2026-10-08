@@ -2,56 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "07.10.2026",
-      "items": [
-        {
-          "category": "Studio 1 \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Provenzalischer Gemüseeintopf mit Auberginen, Zucchini und Kartoffeln (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "Hirse Bowl mit marinierten Möhren, Rosenkohl, Apfel, Rosinen, Petersilie, Bulgur und Harrisa-Haferjoghurt",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Frische Paprikaschote gefüllt mit Rinderhack, dazu fruchtige Tomatensauce(Knobi) und Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"Indische Woche\"",
-          "info": "",
-          "name": "Tandoori Pute in Joghurt mariniert, dazu Gemüse von Chinakohl, Sprossen, Paprika und Pilzen mit Naan Brot",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Zwei Gemüse-Reisbratlinge mit Karotte, Sellerie und Oliven, Kräuter-Dip und Salat mit Dressing nach Wahl",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Schoko-Mango-Creme",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "08.10.2026",
       "items": [
+        {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Kartoffelsuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
         {
           "category": "Studio 1",
           "info": "vegan",
@@ -69,16 +29,30 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Cordon Bleu vom Hähnchen mit Rosmarinsauce,, grünen Bohnen und Kartoffelgratin",
+          "name": "Cordon Bleu vom Hähnchen mit Rosmarinsauce, grünen Bohnen und Kartoffelgratin",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung \"Indische Woche\"",
+          "category": "\"Indische Woche\"",
           "info": "vegetarisch",
           "name": "\"Palak Paneer\" Spinatcurry mit indischem Käse, Zwiebeln, Tomaten, Knoblauch und Ingwer, dazu Basmatireis",
           "price_ndr": "5,90",
           "price_external": "7,90"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "",
+          "name": "Drei Nürnberger Rostbratwürstchen mit Bayrischkraut und hausgemachem Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillejoghurt mit Früchten",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
