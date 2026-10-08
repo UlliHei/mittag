@@ -41,13 +41,6 @@
           "price_external": "7,90"
         },
         {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "",
-          "name": "Drei Nürnberger Rostbratwürstchen mit Bayrischkraut und hausgemachem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Vanillejoghurt mit Früchten",
@@ -65,13 +58,6 @@
           "name": "Baked Potatoe mit Sour Cream, Kürbiskernen und herbstlichem Salat",
           "price_ndr": "3,65",
           "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "Asia-Noodle-Soup Zitronengras-Kokossuppe mit Lauchzwiebeln, Wirsing, Paprika, Champignons und Mie Nudeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
         },
         {
           "category": "Studio 3",
