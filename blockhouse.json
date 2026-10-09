@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "05.10.2026",
-      "name": "„Cordon bleu“ vom Schwein",
-      "description": "dazu knusprige Pommes frites",
+      "date": "12.10.2026",
+      "name": "Schnitzel „Wiener Art“",
+      "description": "mit Champignons in Rahmsauce und knusprigen Pommes frites",
       "price": "14,00 €"
     },
     {
       "category": "Dienstag",
-      "date": "06.10.2026",
-      "name": "Chili con Carne",
-      "description": "mexikanischer Bohneneintopf mit Rindfleisch, Chili und etwas Knoblauch, dazu Sour Cream und BLOCK HOUSE Brot",
+      "date": "13.10.2026",
+      "name": "Holsteiner Grünkohl",
+      "description": "mit Kohlwurst und Kartoffelrösti",
       "price": "14,00 €"
     },
     {
       "category": "Mittwoch",
-      "date": "07.10.2026",
+      "date": "14.10.2026",
       "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit Gemüsepfanne „Südamerikanische Art“ und Baked Potato mit Sour Cream",
+      "description": "mit Chilibohnen-Gemüse und Baked Potato mit Sour Cream",
       "price": "15,00 €"
     },
     {
       "category": "Donnerstag",
-      "date": "08.10.2026",
-      "name": "Schweinemedaillons",
-      "description": "in Orangensauce mit rosa Pfeffer, dazu Süßkartoffelpüree",
+      "date": "15.10.2026",
+      "name": "Piccata Milanese",
+      "description": "Hähnchenbrust in Käse-Eihülle gebraten, mit Spaghetti und fruchtiger Tomatensauce",
       "price": "14,00 €"
     },
     {
       "category": "Freitag",
-      "date": "09.10.2026",
-      "name": "Lachsfilet",
-      "description": "in Dill-Weißwein-Sauce, dazu Langkorn-Wildreis",
+      "date": "16.10.2026",
+      "name": "Gebratenes Seelachsfilet",
+      "description": "mit feinem Linsengemüse und Kartoffelpüree",
       "price": "14,00 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "05.10. bis 09.10.2026",
-      "name": "Huftmedaillons",
-      "description": "saftig gegrillt, mit sahnigem Kartoffelgratin und BLOCK HOUSE Brot",
+      "date": "12.10. bis 16.10.2026",
+      "name": "Block Burger",
+      "description": "mit herzhaftem Käse überbacken, Pommes frites und Coleslaw Garnitur",
       "price": "15,00 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "05.10. bis 09.10.2026",
-      "name": "Vier kleine Rindersteaks",
-      "description": "mit feinwürzigem Blattspinat und BLOCK HOUSE Brot",
+      "date": "12.10. bis 16.10.2026",
+      "name": "Beef Potato",
+      "description": "zarte Rindfleischstreifen gebraten, dazu Baked Potato mit Sour Cream und BLOCK HOUSE Brot",
       "price": "15,00 €"
     }
   ]
