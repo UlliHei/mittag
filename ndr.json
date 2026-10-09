@@ -2,76 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "08.10.2026",
+    "Freitag": {
+      "date": "09.10.2026",
       "items": [
         {
           "category": "Vorspann \"glutenfrei\"",
           "info": "vegan",
-          "name": "Kartoffelsuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "name": "Orangen-Paprikasuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "\"Spaghetti al Limone\" mit veganer Zitronen-Brokkolisauce",
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Baked Potatoe mit Sour Cream (Knobi), Kürbiskernen und herbstlichem Salat",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
-          "info": "",
-          "name": "\"Veggie-Döner\" Ofengemüse im Fladenbrot mit Hirtenkäse und Knoblauchjoghurt",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Studio 3",
           "info": "",
-          "name": "Cordon Bleu vom Hähnchen mit Rosmarinsauce, grünen Bohnen und Kartoffelgratin",
+          "name": "Gebratenes Seelachsfilet (160g) mit Basilikumsauce, Zucchinigemüse und Reis",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "\"Indische Woche\"",
-          "info": "vegetarisch",
-          "name": "\"Palak Paneer\" Spinatcurry mit indischem Käse, Zwiebeln, Tomaten, Knoblauch und Ingwer, dazu Basmatireis",
-          "price_ndr": "5,90",
-          "price_external": "7,90"
+          "info": "vegan",
+          "name": "\"Aloo Gobi\" (scharf) Blumenkohl-Kartoffelcurry mit Zwiebeln, Knoblauch und Ingwer",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillejoghurt mit Früchten",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
-    "Freitag": {
-      "date": "09.10.2026",
-      "items": [
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Baked Potatoe mit Sour Cream, Kürbiskernen und herbstlichem Salat",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 3",
+          "category": "Sondersendung",
           "info": "",
-          "name": "Gebratenes Fischfilet (160g) mit Basilikumsauce, Zucchinigemüse und Penne",
+          "name": "Piccata Milanese Putenschnitzel in Käse-Eihülle gebraten mit Tomatensauce und Spaghetti",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung \"Indische Woche\"",
-          "info": "vegan",
-          "name": "\"Aloo Gobi\" Blumenkohl-Kartoffelcurry mit Zwiebeln und Ingwer",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Vier Kartoffelpuffer mit Apfelmus | Halbe Portion NDR 1,85€ | Gäste 2,95€",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanille-Milchpudding mit Schokosauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Mango-Pudding mit Frucht-Topping",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
