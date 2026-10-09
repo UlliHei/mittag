@@ -140,16 +140,16 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Steckrübeneintopf \"Hamburger national\" mit Kartoffeln, Kasseler und Kochwurst",
+        "price": "7,50 €"
       },
       "Salate": {
         "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Steckrübeneintopf \"Hamburger national\" mit Kartoffeln, Kasseler und Kochwurst",
-        "price": "7,50 €"
+        "name": "",
+        "price": ""
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
