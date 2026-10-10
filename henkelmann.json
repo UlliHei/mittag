@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 05. — 09. Oktober 2026",
+  "week": "KARTE VOM 12. — 16. Oktober 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Hühnchen Kiew“ – Brustfilet mit Kräuterbutterfüllung, Reis, Salat in Rahm",
-      "description": "„Hühnchen Kiew“ – Brustfilet mit Kräuterbutterfüllung, Reis, Salat in Rahm",
+      "name": "„Dolma“ – gefülltes Gemüse mit Rinderhack, Reis, Tomatensauce, Joghurt",
+      "description": "„Dolma“ – gefülltes Gemüse mit Rinderhack, Reis, Tomatensauce, Joghurt",
       "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "Geschmortes Kalbsragout, Pilze, Bandnudeln, „Gremolata“ (Petersiliensauce)",
-      "description": "Geschmortes Kalbsragout, Pilze, Bandnudeln, „Gremolata“ (Petersiliensauce)",
-      "price": "16,90"
+      "name": "Hühnchen aus dem Ofen, Ratatouillegemüse, Kräuterkartoffelpüree",
+      "description": "Hühnchen aus dem Ofen, Ratatouillegemüse, Kräuterkartoffelpüree",
+      "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Wildschweinfrikadellen, geschmorter Spitzkohl mit Kirschen & Speck, Salzkartoffeln",
-      "description": "Wildschweinfrikadellen, geschmorter Spitzkohl mit Kirschen & Speck, Salzkartoffeln",
+      "name": "Rindfleischstreifen, Spaghetti mit Trüffelsauce, Tomaten, Ruccola, Parmesan",
+      "description": "Rindfleischstreifen, Spaghetti mit Trüffelsauce, Tomaten, Ruccola, Parmesan",
       "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "„Bibimbap“ – koreanisches Reisgericht mit 5 Gemüsen & Spiegelei",
-      "description": "„Bibimbap“ – koreanisches Reisgericht mit 5 Gemüsen & Spiegelei",
-      "price": "14,90"
+      "name": "geschlossen",
+      "description": "geschlossen",
+      "price": ""
     },
     {
       "category": "Freitag",
-      "name": "Chili con carne (Rind) mit Baguette, creme fraiche & Koriander",
-      "description": "Chili con carne (Rind) mit Baguette, creme fraiche & Koriander",
-      "price": "14,90"
+      "name": "geschlossen",
+      "description": "geschlossen",
+      "price": ""
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
