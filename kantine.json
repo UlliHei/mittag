@@ -84,7 +84,7 @@
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kartoffel-Kürbis-Püree mit Kräuterbutter und Zwiebeln",
+        "name": "Kartoffel-Kürbis-Pürree mit Kräuterbutter und Zwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
@@ -140,16 +140,16 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Steckrübeneintopf \"Hamburger national\" mit Kartoffeln, Kasseler und Kochwurst",
-        "price": "7,50 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "Steckrübeneintopf \"Hamburger national\" mit Kartoffeln, Kasseler und Kochwurst",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
