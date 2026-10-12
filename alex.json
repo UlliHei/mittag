@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "name": "Kabeljau mit Reis und Zitronensoße",
-      "description": "zarter Kabeljau mit lockerem Reis, serviert mit einer cremig-frischen Zitronensoße",
-      "price": "11,90"
+      "name": "Lachs-Spinat-Lasagne",
+      "description": "Zartes Lachsstücke mit würzigem Blattspinat und einer cremigen Sahnesoße, überbacken mit Käse",
+      "price": "10,90"
     },
     {
-      "name": "Linguine mit Hähnchen und Zitronen-Knoblauch-Soße",
-      "description": "Linguine mit zartem Hähnchen, frischem Knoblauch und aromatischer Zitronensoße",
-      "price": "11,90"
+      "name": "Bandnudeln mit Champignon-Sauce",
+      "description": "Feine Bandnudeln mit einer cremigen Champignon-Sauce mit herzhaftem Parmesan und frischem Rucola, ein aromatisches vegetarisches Pastagericht",
+      "price": "9,90"
     },
     {
-      "name": "Falafel-Teller",
-      "description": "knusprige Falafal mit lockerem Reis, frischem Salat und cremiger Joghurtsoße",
+      "name": "Überbackener Hirtenkäse mit Oliven & Zwiebeln",
+      "description": "Herzhafter überbackener Hirtenkäse mit aromatischen Oliven und Zwiebeln, dazu knuspriges Ciabatta - mediterraner Genuss!",
       "price": "9,90"
     }
   ]
