@@ -1,5 +1,164 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "12.10.2026",
+      "items": [
+        {
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Kürbiscremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Pasta Ratatouille mit Auberginen, Zucchini und Paprika (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"gluten- und laktosefrei\"",
+          "info": "Vegetarisches Bauernfrühstück",
+          "name": "mit Kartoffeln, Karotten, Zwiebeln und Ei, dazu Gewürzgurke",
+          "price_ndr": "9,29",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Studio 3 Schweinesteak (160g) mit Honig-Balsamicosauce Brokkoli und Kroketten",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hühnerfrikassee mit feinen Champignons, Erbsen und Spargel, dazu Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Schokopudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "13.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Hausgemachter Apfelschmarrn mit Rosinen und Vanillesauce | Kleine Portion NDR 2,05 € | Gäste 2,60 €",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hähnchenschnitzel im Knuspermantel mit Currysauce, feinen Erbsen und Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Zwiebelkuchen mit Speckwürfeln, dazu Crème fraîche und Beilagensalat",
+          "price_ndr": "6,30",
+          "price_external": "7,90"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "14.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Penne mit Frischkäse-Lauchsauce und geriebenem Hartkäse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Wirsing-Linsencurry mit Koriander in Kokosmilch, dazu Duftreis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 2 Plus",
+          "info": "",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "15.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Holsteiner Kartoffelsuppe mit Wurzelgemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Kürbis-Spinat-Lasagne mit Käse überbacken",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Putengeschnetzeltes in Champignonrahmsauce auf Spätzle",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Rinderroulade \"Hausfrauen Art\" mit Zwiebeln, Gurke und Speck, Bratensauce, Rotkohl und Salzkartoffeln",
+          "price_ndr": "10,90",
+          "price_external": "12,90"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "16.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Peperonata mit Paprikasauce, Chili und Petersilie",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Überbackene Auberginen mit Hirtenkäse und Paprika-Salsa an hausgemachten Selleriepüree",
+          "price_ndr": "26,28",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Studio 3 Seelachs in der Eihülle gebraten(160g) mit buntem Essig-Öl-Kartoffelsalat und Zitrone",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
