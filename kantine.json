@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "05.10.2026 - 09.10.2026",
+  "week": "12.10.2026 - 16.10.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,19 +12,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Poularde in Joghurt-Kokos-Sauce mit Tomate und Kichererbsen",
+        "name": "Geschnetzeltes vom Rind mit Pfifferlingen in Senf-Creme-Sauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Linsen-Reis-Pfanne mit Pak-Choi, Paprika und Erdnussdip",
+        "name": "Linguine mit Basilikum Pesto, Käsesplitter und Pinienkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Herbstlicher Zwiebelkuchen in Schmand mit Kümmel",
+        "name": "Kürbis-Kartoffel-Taler mit Leinsamen auf Salat mit Quarkcreme",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Rosenkohl mit Schmorzwiebeln",
+        "name": "Glacierte Kräuterkarotten",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -46,15 +46,15 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhaft gefüllte Canneloni in cremiger Tomaten-Ricotta-Sauce gebacken",
+        "name": "Herzhafte Kohlroulade mit Speck in Sauerrahmsauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Spirelli-Pasta mit Kirschtomaten, Basilikum und Bergkäse",
+        "name": "Rosenkohl-Kartoffel-Stampf mit Kräuterbutter und Schmorzwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Ragout aus Kräuterseitlingen und Champignons mit Lauchzwiebeln und Cornichons",
+        "name": "Brokkoli-Nuss-Ecke auf Caesar Salad mit Sauce béarnaise",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Geschmorte Rinderschulter als Sauerbraten in kräftiger Sauce mit Pflaumen",
+        "name": "Ofen Lachsfilet auf Apfelsinensauce mit Kürbisstiften",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Kartoffel-Kürbis-Püree mit Kräuterbutter und Zwiebeln",
+        "name": "Herbstliche Reispfanne mit Korinthen, Karotten und Zwiebel-Lauch",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Omelette mit einer Mozzarella-Tomaten-Haube mit Nüssen und Salaten",
+        "name": "Tagliatelle mit einem Ragout aus Waldpilzen und Kürbis",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Rotkohl mit Birne und Zimt",
+        "name": "Gebratener Rosenkohl mit Zwiebeln",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Camenbert-Schnitzel mit Preiselbeeren",
+        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Spinat-Ricotta-Knödel auf Ratatouille-Tomaten-Sauce",
+        "name": "Rosenkohl-Tomaten-Kuchen mit Fetakäse und Gurkensalat",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -148,7 +148,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Steckrübeneintopf \"Hamburger national\" mit Kartoffeln, Kasseler und Kochwurst",
+        "name": "Herzhaftes Chili con Carne mit roten Bohnen, Paprika, Baguette und Schmand",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
