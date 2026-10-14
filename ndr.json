@@ -2,70 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "13.10.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Kartoffelsuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Apfelschmarrn mit Rosinen und Vanillesauce | Kleine Portion NDR 2,05 € | Gäste 2,60 €",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "\"Protein-Bowl\" Marinierter Rotkohl, dicke Bohnen, Linsen und Kichererbsen, dazu vegane Kräutercreme",
-          "price_ndr": "1,29",
-          "price_external": "5,40"
-        },
-        {
-          "category": "7,50",
-          "info": "Studio 3 \"laktosefrei\"",
-          "name": "Hähnchenschnitzel im Knuspermantel mit Currysauce(Knobi), Gemüse von Kohlrabi, Blumenkohl, Karotten und Erbsen an Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Zwiebelkuchen mit Speckwürfeln, dazu Crème fraîche und Beilagensalat",
-          "price_ndr": "6,30",
-          "price_external": "7,90"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Frische Pilze in Rahm mit Serviettenknödel",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta Ratatouille mit Auberginen, Zucchini und Paprika (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillepudding mit Schokosauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "14.10.2026",
       "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Tomatencremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
         {
           "category": "Studio 1",
           "info": "vegetarisch",
@@ -74,18 +20,32 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
-          "name": "Wirsing-Linsencurry mit Koriander in Kokosmilch, dazu Duftreis",
+          "name": "Wirsing-Linsencurry mit Koriander in Kokosmilch (Knobi), dazu Duftreis",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 2 Plus",
+          "category": "Studio 2 Plus \"gluten- und laktosefrei\"",
           "info": "",
           "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
           "price_ndr": "5,40",
           "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Acht Rinderhackbällchen(160g) mit Rosenkohl und Reisnudeln in Rahmsauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Grießpudding mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
