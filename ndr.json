@@ -2,76 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "14.10.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Tomatencremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Penne mit Frischkäse-Lauchsauce und geriebenem Hartkäse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Wirsing-Linsencurry mit Koriander in Kokosmilch (Knobi), dazu Duftreis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 2 Plus \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Grießpudding mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "15.10.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Holsteiner Kartoffelsuppe mit Wurzelgemüse",
+          "name": "Linseneintopf mit Gemüse",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Kürbis-Spinat-Lasagne mit Käse überbacken",
+          "name": "Kürbis-Spinat-Lasagne mit Käse überbacken (Knobi)",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Putengeschnetzeltes in Champignonrahmsauce auf Spätzle",
+          "name": "Putengeschnetzeltes in Champignonrahmsauce auf Pasta",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Live Sendung",
           "info": "",
-          "name": "Rinderroulade \"Hausfrauen Art\" mit Zwiebeln, Gurke und Speck, Bratensauce, Rotkohl und Salzkartoffeln",
+          "name": "Rinderroulade (160g \"Hausfrauen Art\" mit Zwiebeln, Gurke und Speck, Bratensauce, Rotkohl und hausgemachtem Kartoffelpüree",
           "price_ndr": "10,90",
           "price_external": "12,90"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "",
+          "name": "Wirsing-Linsencurry mit Koriander in Kokosmilch (Knobi), dazu Duftreis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Mango-Pudding mit Frucht-Topping",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillejoghurt mit Früchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
