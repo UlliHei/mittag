@@ -29,7 +29,7 @@
         {
           "category": "7,50",
           "info": "Studio 3 \"laktosefrei\"",
-          "name": "In Eihülle gebratenes Seelachsfilet (160g) mit Essig-Öl Kartoffelsalat",
+          "name": "Gebratenes Seehechtsfilet (160g) mit Essig-Öl Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
@@ -41,9 +41,9 @@
           "price_external": "8,75"
         },
         {
-          "category": "Abspann",
+          "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Grießpudding mit Fruchtsauce",
+          "name": "Vanillepudding mit Fruchttopping",
           "price_ndr": "1,45",
           "price_external": "1,65"
         }
