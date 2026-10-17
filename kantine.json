@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "12.10.2026 - 16.10.2026",
+  "week": "19.10.2026 - 23.10.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,19 +12,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Geschnetzeltes vom Rind mit Pfifferlingen in Senf-Creme-Sauce",
+        "name": "Poularde im Kürbis-Kokos-Sud mit Edamame und Spitzpaprika",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Linguine mit Basilikum Pesto, Käsesplitter und Pinienkernen",
+        "name": "Gemüse-Mie-Nudel-Pfanne mit Sesam und pikantem Dip",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Kürbis-Kartoffel-Taler mit Leinsamen auf Salat mit Quarkcreme",
+        "name": "Linsen-Veggie-Hack Bolognese mit Tomaten auf Rigatoni Pasta",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Glacierte Kräuterkarotten",
+        "name": "Gebratener Brokkoli",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhafte Kohlroulade mit Speck in Sauerrahmsauce",
+        "name": "Herzhaftes Hirschragout mit Waldpilzen in Sauerrahm und Preiselbeeren",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Rosenkohl-Kartoffel-Stampf mit Kräuterbutter und Schmorzwiebeln",
+        "name": "Schupfnudel-Spinat-Pfanne mit Sonnenblumenkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Brokkoli-Nuss-Ecke auf Caesar Salad mit Sauce béarnaise",
+        "name": "Tomaten-Kürbis-Schnitten mit Mozarella auf Blätterteig mit Salat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Rotkohl mit Kümmel, Zimt und Apfel",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Ofen Lachsfilet auf Apfelsinensauce mit Kürbisstiften",
+        "name": "Lasagne al forno mit Rindfleisch und Gemüse in cremiger Sauce gebacken",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Herbstliche Reispfanne mit Korinthen, Karotten und Zwiebel-Lauch",
+        "name": "Sellerie-Knusper-Schnitte auf Gurkensalat in Creme",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tagliatelle mit einem Ragout aus Waldpilzen und Kürbis",
+        "name": "Ragout von Pfifferlingen und Champignons auf Semmelknödel",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gebratener Rosenkohl mit Zwiebeln",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit Alibi Salat, Röstzwiebeln und Pommes frites",
+        "name": "Geschmorter Schaschlikspieß mit Bacon und Paprika",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Rosenkohl-Tomaten-Kuchen mit Fetakäse und Gurkensalat",
+        "name": "Herbstliches Kartoffelgulasch mit Paprika, Tomaten, Zwiebeln, Äpfeln und Frischkäse",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -148,8 +148,8 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhaftes Chili con Carne mit roten Bohnen, Paprika, Baguette und Schmand",
-        "price": "7,50 €"
+        "name": "Seelachsfilet mit Remoulade und Grillkartoffeln",
+        "price": "8,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
