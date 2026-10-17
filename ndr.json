@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "16.10.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "",
-          "name": "Kartoffelsuppe mit Steinpilzen und Speck / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Pasta Peperonata mit Paprikasauce, Chili und Petersilie (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Eine halbe Aubergine überbacken mit Hirtenkäse, dazu Paprika-Salsa (Knobi) an hausgemachten Kartoffel-Selleriepüree",
-          "price_ndr": "26,28",
-          "price_external": "5,40"
-        },
-        {
-          "category": "7,50",
-          "info": "Studio 3 \"laktosefrei\"",
-          "name": "Gebratenes Seehechtsfilet (160g) mit Essig-Öl Kartoffelsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Putengeschnetzeltes in Champignonrahmsauce auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillepudding mit Fruchttopping",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
