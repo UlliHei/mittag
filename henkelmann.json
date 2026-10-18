@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 12. — 16. Oktober 2026",
+  "week": "KARTE VOM 19. — 23. Oktober 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Dolma“ – gefülltes Gemüse mit Rinderhack, Reis, Tomatensauce, Joghurt",
-      "description": "„Dolma“ – gefülltes Gemüse mit Rinderhack, Reis, Tomatensauce, Joghurt",
+      "name": "„Coq au vin blanc“ - Huhn in Weißwein geschmort mit Pilzen, Trauben, Polenta",
+      "description": "„Coq au vin blanc“ - Huhn in Weißwein geschmort mit Pilzen, Trauben, Polenta",
       "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "Hühnchen aus dem Ofen, Ratatouillegemüse, Kräuterkartoffelpüree",
-      "description": "Hühnchen aus dem Ofen, Ratatouillegemüse, Kräuterkartoffelpüree",
-      "price": "15,90"
+      "name": "„Scotch eggs“ – Eier im Fleischmantel, Kartoffelpüree, Picalillysauce",
+      "description": "„Scotch eggs“ – Eier im Fleischmantel, Kartoffelpüree, Picalillysauce",
+      "price": "14,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Rindfleischstreifen, Spaghetti mit Trüffelsauce, Tomaten, Ruccola, Parmesan",
-      "description": "Rindfleischstreifen, Spaghetti mit Trüffelsauce, Tomaten, Ruccola, Parmesan",
+      "name": "Rinderschmorbraten mit Kartoffelkloß & gebuttertem Rosenkohl",
+      "description": "Rinderschmorbraten mit Kartoffelkloß & gebuttertem Rosenkohl",
       "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "geschlossen",
-      "description": "geschlossen",
+      "name": "Hausgemachte Pastinakengnocchi, cremiges Birnen-Radicchioragout, Parmesan",
+      "description": "Hausgemachte Pastinakengnocchi, cremiges Birnen-Radicchioragout, Parmesan",
       "price": ""
     },
     {
       "category": "Freitag",
-      "name": "geschlossen",
-      "description": "geschlossen",
+      "name": "„Empanadas“ – Teigtaschen mit Rinderhackfüllung, Bohensalat, sour cream",
+      "description": "„Empanadas“ – Teigtaschen mit Rinderhackfüllung, Bohensalat, sour cream",
       "price": ""
     }
   ],
