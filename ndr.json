@@ -1,5 +1,171 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "19.10.2026",
+      "items": [
+        {
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Erbseneintopf mit buntem Wurzelgemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
+          "name": "Rosenkohl-Kürbispfanne mit Zitronen-Thymian, Risolee-Kartoffeln und Kräuterschmand",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"laktosefrei\"",
+          "info": "",
+          "name": "Asiatischer Paprika-Gemüsereis mit Rinderhackfleisch, Lauchzwiebeln (Knobi) und Sojasauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Zum Eintopf: \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Wiener Wurst (50g)",
+          "price_ndr": "1,25",
+          "price_external": "1,60"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Pasta Bolognese mit gemischtem Hackfleisch (Rind&Schwein)(Knobi) und Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Panna Cotta mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "20.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomaten- Basilikumsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "\"Ramen-Suppe\" japanische Erdnuss-Kokos-Suppe mit Asianudeln, Tofu, Frühlingszwiebeln und Champignons (Knobi)",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Geflügelbratwurst (100g) mit Majoransauce, Karotten und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Camembert Burger Rinderhacksteak (125g), Honig-Senfsauce, Camembert Tomate, Gewürzgurke und Preiselbeeren, dazu Fritten",
+          "price_ndr": "9,65",
+          "price_external": "12,10"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "21.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Rahm-Porree mit Kräuter-Kartoffelpüree und Sonnenblumenkernen",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Acht Falafelbällchen mit Rotkohlsalat, Couscous und Minz-Sojadip",
+          "price_ndr": "25,30",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Studio 3 Putengeschnetzeltes in Champignonrahmsauce auf Pasta",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "vegan",
+          "name": "Aus dem Wok: gebratenes Gemüse von Spitzkohl, Karotten, Pak Choi und Sprossen mit Teriyakisauce auf Basmatireis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "22.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Penne mit pfeffriger Erbsen-Sahnesauce und geriebenem Hartkäse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Low Carb Bowl: in Olivenöl gebratener Blumenkohl, Kichererbsen, Tomaten, Würzreis, Cashewkerne, Gemüsesticks in Tempurateig und Sojadip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Schwedische Köttbullar acht Rindfleischbällchen mit Pilzsauce, Fritten und Preiselbeeren",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "23.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Große Ofenkartoffel mit Paprikaquark und buntem Salat mit Dressing nach Wahl",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gratinierter Tortellini-Auflauf mit Brokkoli, Tomaten und Käse überbacken, dazu Sonnenblumenkernen",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Hamburger Pannfisch\" Bratkartoffelpfanne mit Seelachs, Kräutern, Ei, Zwiebeln, Senfsauce und Gurkensalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
