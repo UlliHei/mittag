@@ -2,63 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "20.10.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Erbsensuppe mit Wurstscheiben / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomaten- Basilikumsauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "\"Ramen-Suppe\" japanische Erdnuss-Kokos-Suppe mit Asianudeln, Tofu, Frühlingszwiebeln und Champignons (Knobi)",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Geflügelbratwurst (100g) mit Majoransauce, Karotten und hausgemachtem Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Camembert Burger Rinderhacksteak (125g),, Burgersauce, Camembert, Tomate, Gewürzgurke und Preiselbeeren, dazu Fritten",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hausgemachter Käsekuchen",
-          "price_ndr": "3,10",
-          "price_external": "3,10"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Stracciatellacreme .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "21.10.2026",
       "items": [
+        {
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Karotten-Ingwersuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
         {
           "category": "Studio 1",
           "info": "vegetarisch",
@@ -67,25 +20,46 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktosefrei\"",
           "info": "",
-          "name": "Acht Falafelbällchen mit Rotkohlsalat, Couscous und Minz-Sojadip",
-          "price_ndr": "25,30",
-          "price_external": "5,40"
+          "name": "Acht Falafelbällchen mit Rotkohlsalat, Couscous und Kräuter-Haferdip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
-          "category": "7,50",
+          "category": "Studio 3",
           "info": "",
-          "name": "Studio 3 Putengeschnetzeltes in Champignonrahmsauce auf Pasta",
+          "name": "Hühnerfrikassee mit feinen Champignons, Erbsen und Spargel auf Reis",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Live Sendung",
           "info": "vegan",
-          "name": "Aus dem Wok: gebratenes Gemüse von Spitzkohl, Karotten, Pak Choi und Sprossen mit Teriyakisauce auf Basmatireis",
+          "name": "Gebratenes Gemüse von Spitzkohl, Karotten, Pak Choi und Sprossen mit Teriyakisauce (Knobi) auf Basmatireis",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Geschmorter Rinderbraten in eigener Sauce mit Rotkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomaten- Basilikumsauce (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "",
+          "name": "Götterspeise Waldmeister / Kirsche (Rindergelatine) mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
