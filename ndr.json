@@ -41,20 +41,6 @@
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Geschmorter Rinderbraten in eigener Sauce mit Rotkohl und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomaten- Basilikumsauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "",
           "name": "Götterspeise Waldmeister / Kirsche (Rindergelatine) mit Vanillesauce",
