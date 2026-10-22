@@ -2,53 +2,6 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "21.10.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Karotten-Ingwersuppe | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Rahm-Porree mit Kräuter-Kartoffelpüree und Sonnenblumenkernen",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktosefrei\"",
-          "info": "",
-          "name": "Acht Falafelbällchen mit Rotkohlsalat, Bulgur und Kräuter-Haferdip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hühnerfrikassee mit feinen Champignons, Erbsen und Spargel auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "vegan",
-          "name": "Gebratenes Gemüse von Spitzkohl, Karotten, Pak Choi und Sprossen mit Teriyakisauce (Knobi) auf Basmatireis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "",
-          "name": "Götterspeise Waldmeister / Kirsche (Rindergelatine) mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "22.10.2026",
       "items": [
@@ -62,16 +15,37 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Low Carb Bowl: in Olivenöl gebratener Blumenkohl, Kichererbsen, Tomaten, Würzreis, Cashewkerne, Gemüsesticks in Tempurateig und Sojadip",
+          "name": "Gemüse Bowl: in Olivenöl gebratener Blumenkohl, Kichererbsen, Tomaten, Bulgur, Cashewkerne, Gemüsesticks in Tempurateig und Haferdip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Schwedische Köttbullar acht Rindfleischbällchen mit Pilzsauce, Fritten und Preiselbeeren",
+          "name": "Schwedische Köttbullar acht Rindfleischbällchen mit Pilzsauce Fritten und Preiselbeeren",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegan",
+          "name": "Asiatisches Gemüse von Spitzkohl, Karotten, Pak Choi und Sprossen in süß saurer Sauce (Knobi) auf Basmatireis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Steckrübeneintopf mit Karotten, Kartoffeln und Kasseler Fleisch",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanille-Schoko-Mango-Pudding mit Schokostreusel",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
