@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 19. — 23. Oktober 2026",
+  "week": "KARTE VOM 26. — 30. Oktober 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Coq au vin blanc“ - Huhn in Weißwein geschmort mit Pilzen, Trauben, Polenta",
-      "description": "„Coq au vin blanc“ - Huhn in Weißwein geschmort mit Pilzen, Trauben, Polenta",
+      "name": "„Szegediner“ – Sauerkraut-Rindfleischgulasch mit Paprika, Salzkartoffeln, saure Sahne",
+      "description": "„Szegediner“ – Sauerkraut-Rindfleischgulasch mit Paprika, Salzkartoffeln, saure Sahne",
       "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "„Scotch eggs“ – Eier im Fleischmantel, Kartoffelpüree, Picalillysauce",
-      "description": "„Scotch eggs“ – Eier im Fleischmantel, Kartoffelpüree, Picalillysauce",
-      "price": "14,90"
+      "name": "„Shepherd´s pie“ – Rinderhack unter Kartoffelhaube gebacken mit Salat",
+      "description": "„Shepherd´s pie“ – Rinderhack unter Kartoffelhaube gebacken mit Salat",
+      "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Rinderschmorbraten mit Kartoffelkloß & gebuttertem Rosenkohl",
-      "description": "Rinderschmorbraten mit Kartoffelkloß & gebuttertem Rosenkohl",
+      "name": "„Piccata alla milanese“ – Schnitzel in Parmesanhülle, Spaghetti & Tomatensauce",
+      "description": "„Piccata alla milanese“ – Schnitzel in Parmesanhülle, Spaghetti & Tomatensauce",
       "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Hausgemachte Pastinakengnocchi, cremiges Birnen-Radicchioragout, Parmesan",
-      "description": "Hausgemachte Pastinakengnocchi, cremiges Birnen-Radicchioragout, Parmesan",
-      "price": ""
+      "name": "Eier in Senfsauce, Kartoffelpüree, Erbsen, Rote Bete",
+      "description": "Eier in Senfsauce, Kartoffelpüree, Erbsen, Rote Bete",
+      "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "„Empanadas“ – Teigtaschen mit Rinderhackfüllung, Bohensalat, sour cream",
-      "description": "„Empanadas“ – Teigtaschen mit Rinderhackfüllung, Bohensalat, sour cream",
-      "price": ""
+      "name": "Weißes Hühnchencurry mit Pilzen, Kokosmilch, Duftreis, Koriander",
+      "description": "Weißes Hühnchencurry mit Pilzen, Kokosmilch, Duftreis, Koriander",
+      "price": "14,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
