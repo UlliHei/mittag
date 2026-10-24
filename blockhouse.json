@@ -2,51 +2,51 @@
   "items": [
     {
       "category": "Montag",
-      "date": "19.10.2026",
-      "name": "Rindergeschnetzeltes „Stroganoff“",
-      "description": "in Rahmsauce mit Gurkenstreifen und Champignons, dazu Gemüsereis",
+      "date": "26.10.2026",
+      "name": "Würzige Beef Ribs",
+      "description": "mit knusprigen Pommes frites und Coleslaw Garnitur",
       "price": "14,00 €"
     },
     {
       "category": "Dienstag",
-      "date": "20.10.2026",
-      "name": "Würzige Barbecue Spareribs",
-      "description": "mit Kartoffeln in Schale und Barbecue-Steak-Sauce",
+      "date": "27.10.2026",
+      "name": "Ochsenbackenragout",
+      "description": "zart und aromatisch, dazu Süßkartoffelpüree",
       "price": "14,00 €"
     },
     {
       "category": "Mittwoch",
-      "date": "21.10.2026",
+      "date": "28.10.2026",
       "name": "Saftig gegrilltes Huftsteak",
-      "description": "mit süß-pikantem Mais-Chiligemüse und knusprigen Pommes frites",
+      "description": "mit feinwürzigem Blattspinat und Kartoffelgratin",
       "price": "15,00 €"
     },
     {
       "category": "Donnerstag",
-      "date": "22.10.2026",
-      "name": "Spaghetti „Mediterran“",
-      "description": "mit milder Tomatensauce, würzigem Tomatenconfit und gewürfeltem Fetakäse",
+      "date": "29.10.2026",
+      "name": "Königsberger Klopse",
+      "description": "in Kapernsauce, mit Basmatireis und Roter Bete",
       "price": "14,00 €"
     },
     {
       "category": "Freitag",
-      "date": "23.10.2026",
-      "name": "Goldbarschfilet",
-      "description": "in Beurre blanc, dazu Kartoffelpüree",
+      "date": "30.10.2026",
+      "name": "Backfisch",
+      "description": "dazu Kartoffelsalat und Remouladen-Dip",
       "price": "14,00 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "19.10. bis 23.10.2026",
-      "name": "Großer Salat",
-      "description": "mit frisch gebratenen Rindfleischstreifen, American Dressing und BLOCK HOUSE Brot, vorweg eine Bruschetta",
+      "date": "26.10. bis 30.10.2026",
+      "name": "Huftmedaillons",
+      "description": "saftig gegrillt, dazu Baked Potato mit Sour Cream und BLOCK HOUSE Brot",
       "price": "15,00 €"
     },
     {
       "category": "Wochen-Highlight",
-      "date": "19.10. bis 23.10.2026",
-      "name": "Putenmedaillons",
-      "description": "zart gegrillt, mit feinwürzigem Blattspinat und Baked Potato mit Sour Cream",
+      "date": "26.10. bis 30.10.2026",
+      "name": "Vier kleine Rindersteaks",
+      "description": "saftig gegrillt, mit knackigem Pfannengemüse und Baked Potato mit Sour Cream",
       "price": "15,00 €"
     }
   ]
