@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Hähnchen-Curry mit Reis",
-      "description": "Hähnchen-Curry mit zartem Hähnchenfleisch in einer cremigen würzigen Currysoße, dazu Basmatireis",
+      "name": "Penne mit Champignon-Sahne-Soße und Grana Padano",
+      "description": "cremige Penne mit goldbraun gebratenen Champignons in aromatischer Sahnesoße, verfeinert mit frisch geriebenem Grana Padano",
+      "price": "9,90"
+    },
+    {
+      "name": "Fammkuchen mit Pulled Lachs",
+      "description": "knusprig gebackener Flammkuchen mit zartem Pulled Lachs, cremiger Crème fraîche und frischem Grünkohl",
       "price": "10,90"
     },
     {
-      "name": "Kabeljau mit Kartoffelgratin",
-      "description": "Zartes Kabeljaufilet, schonend gegart und serviert mit goldbraun überbackenem Kartoffelgratin aus Kartoffelscheiben und einer cremigen Sahnesoße",
+      "name": "Hähnchenschnitzel überbacken mit Tomate-Mozzarella",
+      "description": "knusprig paniertes Hähnchenschnitzel, überbacken mit zart schmelzendem Mozzarella und frischen Tomaten. Dazu knusprige Pommes frites",
       "price": "11,90"
-    },
-    {
-      "name": "Flammkuchen mit Schafskäse",
-      "description": "Knusprig dünner Flammkuchen mit Crème fraîche, Schafskäse und roten Zwiebeln, im Ofen goldbraun gebacken und mt frischem Rucola verfeinert",
-      "price": "9,90"
     }
   ]
 }
