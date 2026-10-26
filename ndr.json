@@ -1,5 +1,164 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "26.10.2026",
+      "items": [
+        {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1\"laktosefrei\"",
+          "info": "vegan",
+          "name": "\"Pasta al Pesto\" mit Basilikum und Petersilie",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Gebackener Hirtenkäse mit Ratatouille, Fladenbrot",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"glutenfrei\"",
+          "info": "",
+          "name": "Zwei Souvlaki-Spieße von der Pute(160g) mit Tzatziki, Tomaten-Reisnudeln und Krautsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
+          "name": "Acht Rinderhackbällchen in BBQ-Sauce, Wedges Potatoes Salatbeilage mit Dressing nach Wahl",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Karamellpudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "27.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Buntes Gemüse von Karotte, Kohlrabi, und Blumenkohl mit Petersiliensauce und Salzkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frische Paprikaschote gefüllt mit roten Linsen, Lauchzwiebeln und Mozzarella, dazu Chilisauce und Basmatireis",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Seelachsfilet Livornese\" überbacken mit Tomaten, Oliven, Paprika, frischen Kräutern und Knoblauch auf Penne mit Paprikasauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "28.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Tagliatelle mit Kichererbsen, Aubergine und Rucola",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Rote Bete-Couscousbratling mit Joghurt-Limettendip Gemüsereis und Karotten-Apfelrohkost",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Rübenschmaus\" von Steckrübe, Karotte und Kartoffel mit einer Kohlwurst (100g) und Speckstippe",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Aus dem Wok: Hähnchenbruststreifen mit Gemüse von Weißkohl, Chinakohl und Paprika in Limonen-Sojasauce auf Reis",
+          "price_ndr": "8,90",
+          "price_external": "11,40"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "29.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Rosenkohl in Semmelbutter gebacken mit hausgemachtem Kartoffelpüree",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Frisches Backofengemüse von Zucchini, Paprika, Möhren und kleinen Kartoffeln, dazu ein Schnittlauf-Dip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Frikadelle von gemischtem Hackfleisch (Rind & Schwein) mit Pfeffersauce Blumenkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "30.10.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "\"Pasta al arrabiata\" mit fruchtig-pikanter Tomatensauce, Oliven, Kapern und Knoblauch",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Linsen-Bratling mit Kresse-Sauce auf warmem Bulgur-Tomatensalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet Bordelaise mit zerlassener Butter, feinen Erbsen und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
