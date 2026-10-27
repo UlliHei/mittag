@@ -2,69 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "26.10.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1\"laktosefrei\"",
-          "info": "vegan",
-          "name": "\"Pasta al Pesto\" mit Basilikum und Petersilie (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gebackener Hirtenkäse mit Ratatouille, Fladenbrot",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Putengeschnetzeltes in Champignonrahmsauce auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Karamellpudding mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "27.10.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Karotten-Ingwersuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "Buntes Gemüse von Karotte, Kohlrabi, und Blumenkohl mit Petersiliensauce und Salzkartoffeln",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
-          "name": "Frische Paprikaschote gefüllt mit roten Linsen, Lauchzwiebeln und Mozzarella, dazu Chilisauce und Basmatireis",
+          "name": "Frische Paprikaschote gefüllt mit roten Linsen, Lauchzwiebeln und Mozzarella, dazu Chilisauce(Knobi) und Basmatireis",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 2",
           "info": "",
-          "name": "\"Seelachsfilet Livornese\" überbacken mit Tomaten, Oliven, Paprika, frischen Kräutern und Knoblauch auf Penne mit Paprikasauce",
+          "name": "Frische Paprikaschote gefüllt mit roten Linsen, Lauchzwiebeln und Mozzarella, dazu Chilisauce(Knobi) und Reisnudeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"laktosefrei\"",
+          "info": "",
+          "name": "\"Seelachsfilet Livornese\" (160g) überbacken mit Tomaten, Oliven, Paprika, frischen Kräutern (Knobi) auf Penne mit Paprikasauce (Knobi)",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Putengeschnetzeltes in Champignonrahmsauce auf Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Kartoffel-Kürbisgratin mit Gouda überbacken",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "",
+          "name": "Götterspeise Waldmeister (Rindergelatine) mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
