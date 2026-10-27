@@ -27,32 +27,11 @@
           "price_external": "7,50"
         },
         {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Frische Paprikaschote gefüllt mit roten Linsen, Lauchzwiebeln und Mozzarella, dazu Chilisauce(Knobi) und Reisnudeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Studio 3 \"laktosefrei\"",
           "info": "",
           "name": "\"Seelachsfilet Livornese\" (160g) überbacken mit Tomaten, Oliven, Paprika, frischen Kräutern (Knobi) auf Penne mit Paprikasauce (Knobi)",
           "price_ndr": "6,80",
           "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Putengeschnetzeltes in Champignonrahmsauce auf Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Kartoffel-Kürbisgratin mit Gouda überbacken",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
         },
         {
           "category": "Abspann \"glutenfrei\"",
