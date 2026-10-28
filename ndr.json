@@ -22,7 +22,7 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Rote Bete-Couscousbratling zwei Stück (200g), (Knobi) mit Joghurt-Limettendip, Gemüsereis und Karotten-Apfelrohkost",
+          "name": "Linsen-Couscousbratlinge zwei Stück (200g), (Knobi) mit Joghurt-Limettendip, Gemüsereis und Karotten-Apfelrohkost",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
@@ -41,16 +41,9 @@
           "price_external": "11,40"
         },
         {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Lasagne mit gemischtem Hackfleisch (Rind & Schwein), Spinat und Käse überbacken",
-          "price_ndr": "1,26",
-          "price_external": "6,80"
-        },
-        {
-          "category": "8,75",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Buttermilchdessert Birne-Vanille",
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Buttermilchdessert Birne-Vanille",
           "price_ndr": "1,45",
           "price_external": "1,65"
         },
