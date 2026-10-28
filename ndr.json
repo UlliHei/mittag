@@ -2,51 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "27.10.2026",
+    "Mittwoch": {
+      "date": "28.10.2026",
       "items": [
         {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "category": "Vorspann \"laktose- und glutenfrei\"",
           "info": "vegan",
-          "name": "Karotten-Ingwersuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "name": "Gemüsecremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
         {
           "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Buntes Gemüse von Karotte, Kohlrabi, und Blumenkohl mit Petersiliensauce und Salzkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Frische Paprikaschote gefüllt mit roten Linsen, Lauchzwiebeln und Mozzarella, dazu Chilisauce(Knobi) und Basmatireis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "\"Seelachsfilet Livornese\" (160g) überbacken mit Tomaten, Oliven, Paprika, frischen Kräutern (Knobi) auf Penne mit Paprikasauce (Knobi)",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "",
-          "name": "Götterspeise Waldmeister (Rindergelatine) mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Mittwoch": {
-      "date": "28.10.2026",
-      "items": [
-        {
-          "category": "Studio 1",
           "info": "vegan",
           "name": "Tagliatelle mit Kichererbsen, Aubergine und Rucola",
           "price_ndr": "3,65",
@@ -55,23 +22,44 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Rote Bete-Couscousbratling mit Joghurt-Limettendip Gemüsereis und Karotten-Apfelrohkost",
+          "name": "Rote Bete-Couscousbratling zwei Stück (200g), (Knobi) mit Joghurt-Limettendip, Gemüsereis und Karotten-Apfelrohkost",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktose- und glutenfrei\"",
           "info": "",
-          "name": "\"Rübenschmaus\" von Steckrübe, Karotte und Kartoffel mit einer Kohlwurst (100g) und Speckstippe",
+          "name": "\"Rübenschmaus\" von Steckrübe, Karotte und Kartoffel, dazu eine Kohlwurst (100g) und Speckstippe",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"laktose- und glutenfrei\"",
           "info": "",
-          "name": "Aus dem Wok: Hähnchenbruststreifen mit Gemüse von Weißkohl, Chinakohl und Paprika in Limonen-Sojasauce auf Reis",
+          "name": "Asiatische Wokpfanne Hähnchenbruststreifen mit Gemüse von Weißkohl, Chinakohl und Paprika mit Sojasauce (Knobi) auf Reisnudeln",
           "price_ndr": "8,90",
           "price_external": "11,40"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Lasagne mit gemischtem Hackfleisch (Rind & Schwein), Spinat und Käse überbacken",
+          "price_ndr": "1,26",
+          "price_external": "6,80"
+        },
+        {
+          "category": "8,75",
+          "info": "Abspann \"glutenfrei\"",
+          "name": "vegetarisch Buttermilchdessert Birne-Vanille",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Schokopudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
