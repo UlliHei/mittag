@@ -2,72 +2,25 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "28.10.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Gemüsecremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Tagliatelle mit Kichererbsen, Aubergine und Rucola",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Linsen-Couscousbratlinge zwei Stück (200g), (Knobi) mit Joghurt-Limettendip, Gemüsereis und Karotten-Apfelrohkost",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "\"Rübenschmaus\" von Steckrübe, Karotte und Kartoffel, dazu eine Kohlwurst (100g) und Speckstippe",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "Asiatische Wokpfanne Hähnchenbruststreifen mit Gemüse von Weißkohl, Chinakohl und Paprika mit Sojasauce (Knobi) auf Reisnudeln",
-          "price_ndr": "8,90",
-          "price_external": "11,40"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Buttermilchdessert Birne-Vanille",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Schokopudding mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "29.10.2026",
       "items": [
         {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Klare Gemüsebrühe |Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegetarisch",
-          "name": "Rosenkohl in Semmelbutter gebacken mit hausgemachtem Kartoffelpüree",
+          "name": "Rosenkohl in Semmelbrösel gebacken mit hausgemachtem Kartoffelpüree",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
           "name": "Frisches Backofengemüse von Zucchini, Paprika, Möhren und kleinen Kartoffeln, dazu ein Schnittlauf-Dip",
           "price_ndr": "5,40",
@@ -76,9 +29,30 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Frikadelle von gemischtem Hackfleisch (Rind & Schwein) mit Pfeffersauce Blumenkohl und Salzkartoffeln",
+          "name": "Frikadelle(160g) von gemischtem Hackfleisch (Rind & Schwein) mit Pfeffersauce Blumenkohl und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Pasta Bolognese mit gemischtem Hackfleisch (Rind&Schwein)(Knobi) und Hartkäse",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Gratinierter Tortellini-Auflauf mit Blumenkohl, Tomaten und Käse überbacken,(Knobi) dazu Sonnenblumenkernen",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Panna Cotta mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
