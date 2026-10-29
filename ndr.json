@@ -34,20 +34,6 @@
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Pasta Bolognese mit gemischtem Hackfleisch (Rind&Schwein)(Knobi) und Hartkäse",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Gratinierter Tortellini-Auflauf mit Blumenkohl, Tomaten und Käse überbacken,(Knobi) dazu Sonnenblumenkernen",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Panna Cotta mit Fruchtsauce",
