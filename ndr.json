@@ -2,49 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "29.10.2026",
-      "items": [
-        {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
-          "info": "vegan",
-          "name": "Klare Gemüsebrühe |Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Rosenkohl in Semmelbrösel gebacken mit hausgemachtem Kartoffelpüree",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Frisches Backofengemüse von Zucchini, Paprika, Möhren und kleinen Kartoffeln, dazu ein Schnittlauf-Dip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Frikadelle(160g) von gemischtem Hackfleisch (Rind & Schwein) mit Pfeffersauce Blumenkohl und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Panna Cotta mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "30.10.2026",
       "items": [
+        {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Blumenkohlcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
         {
           "category": "Studio 1",
           "info": "vegan",
@@ -55,16 +22,30 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Linsen-Bratling mit Kresse-Sauce auf warmem Bulgur-Tomatensalat",
+          "name": "Zwei Linsen-Bratlinge mit Kresse-Hafer-Dip auf warmem Bulgur-Tomatensalat",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Seelachsfilet Bordelaise mit zerlassener Butter, feinen Erbsen und Salzkartoffeln",
+          "name": "Seelachsfilet Bordelaise mit feinen Buttererbsen und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Kohlroulade (250g) mit Bratensauce und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Buttermilchdessert Birne-Vanille",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
