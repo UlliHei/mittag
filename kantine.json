@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "26.10.2026 - 30.10.2026",
+  "week": "02.11.2026 - 06.11.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,23 +12,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Feiner Kräuterbraten vom Schwein in Bratenjus mit frischer Petersilie",
+        "name": "Hähnchenfilet in einem französischen Gemüseragout mit Kräutern der Provence",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Spätzlepfanne mit Pilzen, Bohnen und pflanzlichem Kräuterrahm",
+        "name": "Würzige Bratkartoffel-Pfanne mit Rosenkohl und Sour Cream",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Gegrillter Kürbis, Blumenkohl und Kartoffelwürfel mit Salatbouquet und Sour Cream",
+        "name": "Herbstliche Fitness-Pfanne aus Weizen-Soja-Bällchen, Blumenkohl, Kartoffeln und veganer Remoulade",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Erbsen",
+        "name": "Gemüse-Mix",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Maccheroni",
+        "name": "Makkaroni Nudeln",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -46,23 +46,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Hähnchen-Oberkeulenfilet auf der Haut gebraten mit Zitrone und Kirschtomaten",
+        "name": "Herzhaftes Rindergulasch mit Paprika, Zwiebeln und Schmand",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Bratreispfanne mit Mangold, Mini-Maiskölbchen und Yakisoba-Sauce",
+        "name": "Makkaroni Pfanne mit Lauchzwiebeln und Tomaten",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tortellini Ricotta & Spinaci mit Spinatcremesauce und Parmesan",
+        "name": "Lasagne mit Gemüse und Veggie-Hack in cremiger Sauce gebacken",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Kaisergemüse",
+        "name": "Glacierte Prinzessböhnchen",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Kartoffel-Wedges",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -80,23 +80,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Rinderhacksteak auf heller Hokkaido-Bratensauce",
+        "name": "Lachsfilet aus dem Ofen mit Gemüse auf Petersiliensauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Hausgemachter Kartoffelstampf mit Spitzkohl und Paprika",
+        "name": "Stampf aus Süßkartoffeln und Kartoffeln mit Schmorzwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Vegane Köttbular-Weißkohl-Pfanne mit Kartoffelwürfeln und einer veganen Kräuterremoulade",
+        "name": "Kürbis-Fetakäse-Quiche mit Spinat auf Blattsalaten",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Prinzessbohnen",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Kartoffelpüree",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -114,23 +114,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "dpa-Currywurst mit fruchtiger Currysauce und Röstzwiebeln, Alibi-Salat und Pommes frites",
+        "name": "Brauhaus Schnitzel mit Sauce béarnaise und Rotkohlsalat",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Rigatoni-Pasta mit Kirschtomaten, Parmesan und hausgemachtem Rauke-Pesto",
-        "price": "4,90 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Süßkartoffel-Schupfnudeln mit Ratatouille-Gemüse und Kräuterquark",
+        "name": "Knackiges Gemüse-Curry in Kokosmilch mit Joghurt und Nüssen",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Grill-Champignons",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Crunch-Pommes",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -148,8 +148,8 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Tomate-Kasseler-Eintopf mit Suppengrün und Kartoffelwürfeln",
-        "price": "7,50 €"
+        "name": "Seelachsschnitte in Kräuterhülle mit Remoulade und Grillkartoffeln",
+        "price": "8,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Mediterranes Grillgemüse",
         "price": "1,20 €"
       },
       "Beilage": {
