@@ -1,5 +1,192 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "02.11.2026",
+      "items": [
+        {
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Holsteiner Kartoffeleintopf mit Wurzelgemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Spitzkohlpfanne mit Karotten und Sellerie, dazu Schnittlauchsauce und Kartoffelpüree",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Kasseler(160g) mit Kümmelsauce, Sauerkraut und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Studio 3 \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Krakauer Schinkenbratwurst (120g) mit Kümmelsauce, Sauerkraut und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Zum Eintopf: \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Wiener Wurst (50g)",
+          "price_ndr": "1,25",
+          "price_external": "1,60"
+        },
+        {
+          "category": "Sondersendung \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Vegane Bratwurst (80g) mit Kümmelsauce, Sauerkraut und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "",
+          "name": "Cheesecake-Dessert (mit Gelatine)",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "03.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Linguine mit frischem Kürbis und Ingwer-Orangensauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegetarisch",
+          "name": "Vegetarischer Gemüsestrudel : buntes Gemüse von Lauch, Paprika, Champignons und Wirsingkohl in Blätterteig gebacken mit Frischkäsedip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gebratenes Seehechtfilet mit Porree in Rahm und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Aus dem Wok: Rindfleischstreifen von der dt. Färse mit Gemüse von Lauchzwiebeln, Chinakohl, Sprossen und Spitzkohl in Sojasauce mit Basmatireis",
+          "price_ndr": "7,90",
+          "price_external": "9,90"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "04.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Rosenkohl hausgemachtem Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "3,65"
+        },
+        {
+          "category": "5,90",
+          "info": "",
+          "name": "Studio 2 Gefüllte Süßkartoffel \"vegetarisch\" - gefüllt mit Spinat, Avocado und Tomaten, mit Hirtenkäse überbacken, dazu Sauerrahmdip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Putenschnitzel in Mandelpanade mit roter Kokos-Chillisauce und würzigem Gemüsereis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Labskaus mit Rindfleisch, Roter Bete, Gewürzgurke, Kartoffeln, Gabelrollmops und einem Spiegelei",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Rosenkohl hausgemachtem Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "3,65"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "05.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Hausgemachte Gemüsebolognese auf Spaghetti",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "\"Gemüse-Jambalaya\" pikante kreolische Reispfanne mit Zwiebeln, Aubergine, Paprika, Mais und Brokkoli",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Gulasch vom Schwein mit Zwiebeln, Champignos und Spätzle",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Chicken-Burger \"Fair Mast\" mit BBQ-Sauce, Coleslaw und Fritten",
+          "price_ndr": "9,90",
+          "price_external": "12,40"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "06.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "",
+          "name": "Polenta mit Härtkäse gratiniert, Zucchinigemüse und Tomaten-Petersiliensauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Bunte Gemüsepuffer aus Kohlrabi, Selleri, Kartoffeln, frischen Kräutern und Zwiebeln dazu Lauchpesto und gebratener Rotkohl",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "\"Hamburger Pannfisch\" Röstkartoffelpfanne mit Fischfilet, Senfsauce und Gurkensalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
