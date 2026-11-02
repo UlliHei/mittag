@@ -15,21 +15,14 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Spitzkohlpfanne mit Karotten und Sellerie, dazu Schnittlauchsauce und Kartoffelpüree",
+          "name": "Zwei Linsen-Bratlinge(200g) mit Blumenkohl und Kressesauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3 \"gluten- und laktosefrei\"",
           "info": "",
-          "name": "Kasseler(160g) mit Kümmelsauce, Sauerkraut und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Studio 3 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Krakauer Schinkenbratwurst (120g) mit Kümmelsauce, Sauerkraut und Salzkartoffeln",
+          "name": "Krakauer Schinkenbratwurst (120g) mit Kümmelsauce, buntes Spitzkohlgemüse und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
@@ -43,7 +36,7 @@
         {
           "category": "Sondersendung \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Vegane Bratwurst (80g) mit Kümmelsauce, Sauerkraut und Salzkartoffeln",
+          "name": "Vegane Bratwurst (80g) mit Kümmelsauce, buntes Spitzkohlgemüse und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
