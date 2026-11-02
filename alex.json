@@ -1,19 +1,19 @@
 {
   "items": [
     {
-      "name": "Penne mit Champignon-Sahne-Soße und Grana Padano",
-      "description": "cremige Penne mit goldbraun gebratenen Champignons in aromatischer Sahnesoße, verfeinert mit frisch geriebenem Grana Padano",
-      "price": "9,90"
-    },
-    {
-      "name": "Fammkuchen mit Pulled Lachs",
-      "description": "knusprig gebackener Flammkuchen mit zartem Pulled Lachs, cremiger Crème fraîche und frischem Grünkohl",
+      "name": "Pasta Triangolo",
+      "description": "dreieckige Pasta mit saftigen Tomaten, roten Zwiebeln, Chili, zartem Babyspinat und Mozzarella. Verfeinert mit Kräuteröl und garniert mit Kürbiskernen",
       "price": "10,90"
     },
     {
-      "name": "Hähnchenschnitzel überbacken mit Tomate-Mozzarella",
-      "description": "knusprig paniertes Hähnchenschnitzel, überbacken mit zart schmelzendem Mozzarella und frischen Tomaten. Dazu knusprige Pommes frites",
+      "name": "Hähnchenkeule mit Pommes frites und Salat",
+      "description": "knusprig gebratene Hähnchenkeule, serviert mit Pommes frites und einem frischen Beilagensalat",
       "price": "11,90"
+    },
+    {
+      "name": "Ciabatta-Sandwich mit Hähnchenstreifen und Pommes frites",
+      "description": "knuspriges Ciabatta mit saftigen Hähnchenstreifen, frischem Salat, Tomaten und Gurken. Dazu goldbraune Pommes frites und ein Dip nach Wahl",
+      "price": "10,90"
     }
   ]
 }
