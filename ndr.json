@@ -53,9 +53,16 @@
       "date": "05.11.2026",
       "items": [
         {
+          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "info": "vegan",
+          "name": "Kürbis-Kokossuppe Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "Hausgemachte Gemüsebolognese auf Spaghetti",
+          "name": "Hausgemachte Gemüsebolognese auf Spaghetti (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -69,7 +76,7 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Gulasch vom Schwein mit Zwiebeln, Champignos und Spätzle",
+          "name": "Gulasch vom Schwein mit Zwiebeln, Champignos und Spätzle (Knobi)",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
