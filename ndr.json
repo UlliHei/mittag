@@ -2,97 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "03.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Tomatencremesuppe (Knobi)| Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Linguine mit Kürbis-Ingwersauce",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "vegetarisch",
-          "name": "Gemüsestrudel vegetarisch gefüllt mit Lauch, Paprika und Champignons in Blätterteig auf Wirsing in Frischkäsesauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Gebratenes Seehechtfilet mit buntem Gemüse, Béchamelsauce und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "",
-          "name": "Rindfleischstreifen von der dt. Färse, mit Gemüse von Lauchzwiebeln, Chinakohl, Sprossen und Spitzkohl in Sojasauce (Knobi) auf Basmatireis",
-          "price_ndr": "7,90",
-          "price_external": "9,90"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Apfelmus oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Fruchtquark",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "04.11.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Rosenkohl hausgemachtem Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "3,65"
+          "price_ndr": "3,65",
+          "price_external": "5,90"
         },
         {
-          "category": "5,90",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "",
-          "name": "Studio 2 Gefüllte Süßkartoffel \"vegetarisch\" - gefüllt mit Spinat, Avocado und Tomaten, mit Hirtenkäse überbacken, dazu Sauerrahmdip",
+          "name": "Gefüllte Süßkartoffel gefüllt mit Spinat, Avocado und Tomaten mit Hirtenkäse überbacken, dazu Sauerrahmdip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
-          "name": "Putenschnitzel in Mandelpanade mit roter Kokos-Chillisauce und würzigem Gemüsereis",
+          "name": "Putenschnitzel in Mandelpanade mit roter Kokos-Chillisauce(Knobi) und würzigem Gemüsereis",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"gluten- und laktosefrei\"",
           "info": "",
           "name": "Labskaus mit Rindfleisch, Roter Bete, Gewürzgurke, Kartoffeln, Gabelrollmops und einem Spiegelei",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Sondersendung",
+          "category": "Sondersendung \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Erbseneintopf mit viel Gemüse und Wurstscheiben",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
           "info": "vegetarisch",
-          "name": "Rosenkohl hausgemachtem Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "3,65"
+          "name": "Vanillejoghurt mit Früchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
