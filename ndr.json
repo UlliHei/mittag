@@ -60,32 +60,53 @@
           "price_external": "2,22"
         },
         {
-          "category": "Studio 1",
+          "category": "Studio 1 \"laktosefrei\"",
           "info": "vegan",
           "name": "Hausgemachte Gemüsebolognese auf Spaghetti (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"laktose- und glutenfrei\"",
           "info": "",
           "name": "\"Gemüse-Jambalaya\" pikante kreolische Reispfanne mit Zwiebeln, Aubergine, Paprika, Mais und Brokkoli",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
           "name": "Gulasch vom Schwein mit Zwiebeln, Champignos und Spätzle (Knobi)",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"laktosefrei\"",
           "info": "",
-          "name": "Chicken-Burger \"Fair Mast\" mit BBQ-Sauce, Coleslaw und Fritten",
+          "name": "Chicken-Burger \"Fair Mast\" mit BBQ-Sauce, (Knobi) Coleslaw und Fritten",
           "price_ndr": "9,90",
           "price_external": "12,40"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Kirsch Michel mit Vanillesauce | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Rahmwirsing mit Rote Bete Knödel",
+          "price_ndr": "22,26",
+          "price_external": "5,40"
+        },
+        {
+          "category": "7,50",
+          "info": "",
+          "name": "Abspann vegetarisch Grießpudding mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
