@@ -2,58 +2,11 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "04.11.2026",
-      "items": [
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Rosenkohl hausgemachtem Kartoffelpüree",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Gefüllte Süßkartoffel gefüllt mit Spinat, Avocado und Tomaten mit Hirtenkäse überbacken, dazu Sauerrahmdip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Putenschnitzel in Mandelpanade mit roter Kokos-Chillisauce(Knobi) und würzigem Gemüsereis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Labskaus mit Rindfleisch, Roter Bete, Gewürzgurke, Kartoffeln, Gabelrollmops und einem Spiegelei",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Erbseneintopf mit viel Gemüse und Wurstscheiben",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillejoghurt mit Früchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "05.11.2026",
       "items": [
         {
-          "category": "Vorspann \"laktose- und glutenfrei\"",
+          "category": "Vorspann \"glutenfrei\"",
           "info": "vegan",
           "name": "Kürbis-Kokossuppe Teller NDR 3,25€ | Gäste 3,80€",
           "price_ndr": "1,60",
@@ -88,23 +41,23 @@
           "price_external": "12,40"
         },
         {
-          "category": "Sondersendung \"glutenfrei\"",
+          "category": "Sondersendung",
           "info": "vegetarisch",
-          "name": "Kirsch Michel mit Vanillesauce | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "name": "Kirschenmichel mit Vanillesauce | Große Portion NDR 3,50 € | Gäste 4,80 €",
           "price_ndr": "1,80",
           "price_external": "2,45"
         },
         {
           "category": "Sondersendung",
-          "info": "",
-          "name": "Rahmwirsing mit Rote Bete Knödel",
-          "price_ndr": "22,26",
-          "price_external": "5,40"
+          "info": "vegetarisch",
+          "name": "Zwei Rote Bete Knödel mit Rahmwirsing",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
         },
         {
-          "category": "7,50",
-          "info": "",
-          "name": "Abspann vegetarisch Grießpudding mit Fruchtsauce",
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Milchgrieß mit Fruchtsauce",
           "price_ndr": "1,45",
           "price_external": "1,65"
         }
