@@ -2,90 +2,50 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "05.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Kürbis-Kokossuppe Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Hausgemachte Gemüsebolognese auf Spaghetti (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"laktose- und glutenfrei\"",
-          "info": "",
-          "name": "\"Gemüse-Jambalaya\" pikante kreolische Reispfanne mit Zwiebeln, Aubergine, Paprika, Mais und Brokkoli",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Gulasch vom Schwein mit Zwiebeln, Champignos und Spätzle (Knobi)",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "",
-          "name": "Chicken-Burger \"Fair Mast\" mit BBQ-Sauce, (Knobi) Coleslaw und Fritten",
-          "price_ndr": "9,90",
-          "price_external": "12,40"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Kirschenmichel mit Vanillesauce | Große Portion NDR 3,50 € | Gäste 4,80 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Zwei Rote Bete Knödel mit Rahmwirsing",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Milchgrieß mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "06.11.2026",
       "items": [
         {
-          "category": "Studio 1",
-          "info": "",
-          "name": "Polenta mit Härtkäse gratiniert, Zucchinigemüse und Tomaten-Petersiliensauce",
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Asia-Curry-Kokossuppe Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Polenta-Püree mit Zucchinigemüse und Tomaten-Petersiliensauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Bunte Gemüsepuffer aus Kohlrabi, Selleri, Kartoffeln, frischen Kräutern und Zwiebeln dazu Lauchpesto und gebratener Rotkohl",
+          "name": "Zwei bunte Gemüsepuffer aus Kohlrabi, Sellerie, Bulgur, frischen Kräutern und Zwiebeln dazu Lauchpesto und gebratener Rotkohl",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "\"Hamburger Pannfisch\" Röstkartoffelpfanne mit Fischfilet, Senfsauce und Gurkensalat",
+          "name": "\"Hamburger Pannfisch\" Röstkartoffelpfanne mit Fischfilet und Senfsauce dazu Gurkensalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
+          "name": "Gulasch vom Schwein mit Zwiebeln und feinen Champignons, dazu Nudeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Schokopudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     }
