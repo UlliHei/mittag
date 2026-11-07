@@ -1,36 +1,36 @@
 {
-  "week": "KARTE VOM 02. — 06. November 2026",
+  "week": "KARTE VOM 09. — 13. November 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Boeuf Stroganow“ - Rindfleisch in Schmand-Gurken-Pilzsauce mit Reis",
-      "description": "„Boeuf Stroganow“ - Rindfleisch in Schmand-Gurken-Pilzsauce mit Reis",
-      "price": "15,90"
+      "name": "„Lübecker National“ – Steckrübengemüse, Kochwurst, Kartoffeln",
+      "description": "„Lübecker National“ – Steckrübengemüse, Kochwurst, Kartoffeln",
+      "price": "14,90"
     },
     {
       "category": "Dienstag",
-      "name": "Indonesisches Huhn, Erdnußsauce, gelber Pilawreis, Mangosalat",
-      "description": "Indonesisches Huhn, Erdnußsauce, gelber Pilawreis, Mangosalat",
+      "name": "Marokkanische Lammtajine mit Kichererbsen, Aprikosen, Möhren, Oliven, Couscous",
+      "description": "Marokkanische Lammtajine mit Kichererbsen, Aprikosen, Möhren, Oliven, Couscous",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Hausgemachte Kohlroulade mit Rinderhackfüllung, Specksauce, Salzkartoffeln",
-      "description": "Hausgemachte Kohlroulade mit Rinderhackfüllung, Specksauce, Salzkartoffeln",
+      "name": "Königsberger Klopse vom Kalb mit Butterreis & Rote Bete",
+      "description": "Königsberger Klopse vom Kalb mit Butterreis & Rote Bete",
       "price": "16,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Kürbislasagne mit Gorgonzola, Walnüssen, geschmorten Trauben & Salat",
-      "description": "Kürbislasagne mit Gorgonzola, Walnüssen, geschmorten Trauben & Salat",
+      "name": "Gebackener Kürbis mit Dinkel-Käsefüllung, Kartoffelpüree, Feldsalat, Preiselbeerdressing",
+      "description": "Gebackener Kürbis mit Dinkel-Käsefüllung, Kartoffelpüree, Feldsalat, Preiselbeerdressing",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Schwäbische Küche: Spätzle, Linsen, Wiener Würschtle",
-      "description": "Schwäbische Küche: Spätzle, Linsen, Wiener Würschtle",
-      "price": "14,90"
+      "name": "Hausgemachte Fischstäbchen, Remoulade, Buttergemüse, Salzkartoffeln",
+      "description": "Hausgemachte Fischstäbchen, Remoulade, Buttergemüse, Salzkartoffeln",
+      "price": "15,90"
     }
   ],
   "url": "https://harbecks-henkelmann.de/speiseplan/"
