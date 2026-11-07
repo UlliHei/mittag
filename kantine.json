@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "02.11.2026 - 06.11.2026",
+  "week": "09.11.2026 - 13.11.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,23 +12,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Hähnchenfilet in einem französischen Gemüse-ragout mit Kräutern der Provence",
+        "name": "Ragout von Salsiccia mit Tomaten und Gemüse auf Spaghetti",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Würzige Bratkartoffel-Pfanne mit Rosenkohl und Sour Cream",
+        "name": "Couscous-Gemüse-Curry-Pfanne mit Cashewkernen",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Herbstliche Fitness-Pfanne aus Weizen-Soja-Bällchen, Blumenkohl, Kartoffeln und veganer Remoulade",
+        "name": "Rösti von Kartoffel, Zucchini und Karotte mit Gurkenquark und Lauchzwiebeln",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Gemüse-Mix",
+        "name": "Geschmorter Spitzkohl mit Kümmel",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Makkaroni Nudeln",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -46,19 +46,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Herzhaftes Rindergulasch mit Paprika, Zwiebeln und Schmand",
+        "name": "Rotbarsch auf Gemüse mit Kirschtomaten in Dillsauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Makkaroni Pfanne mit Lauchzwiebeln und Tomaten",
+        "name": "Gegrillte Kräuter-Kartoffeln mit Krautsalat und Guacamole",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Lasagne mit Gemüse und Veggie-Hack in cremiger Sauce gebacken",
+        "name": "Rosenkohl Quiche mit Birne, Gorgonzola und Salat",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Glacierte Prinzessböhnchen",
+        "name": "Tagesangebot",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -80,23 +80,23 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lachsfilet aus dem Ofen mit Gemüse auf Petersiliensauce",
-        "price": "7,50 €"
+        "name": "Geschmorte französische Entenkeule in Apfeljus",
+        "price": "8,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Stampf aus Süßkartoffeln und Kartoffeln mit Schmorzwiebeln",
+        "name": "Kartoffelgratin mit Emmentaler Käse und Salat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Kürbis-Fetakäse-Quiche mit Spinat auf Blattsalaten",
+        "name": "Ofen-Aubergine mit Ratatouille Gemüse gefüllt und mit Mozarella überbacken",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Preiselbeeren-Rotkohl",
         "price": "1,20 €"
       },
       "Beilage": {
-        "name": "Tagesangebot",
+        "name": "Kartoffelknödel",
         "price": "1,20 €"
       },
       "Dessert": {
@@ -114,7 +114,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Brauhaus Schnitzel mit Sauce béarnaise und Rotkohlsalat",
+        "name": "dpa-Currywurst mit Salat, Röstzwiebeln und Pommes frites",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Knackiges Gemüse-Curry in Kokosmilch mit Joghurt und Nüssen",
+        "name": "Pappardelle mit einem cremigen Gemüse-frikassee und Walnüssen",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -148,8 +148,8 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Seelachsschnitte in Kräuterhülle mit Remoulade und Grillkartoffeln",
-        "price": "8,50 €"
+        "name": "Holsteiner Erbsen-Eintopf mit viel frischem Gemüse, Kasseler Kamm und Kochwurst",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
