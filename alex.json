@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "name": "Pasta Triangolo",
-      "description": "dreieckige Pasta mit saftigen Tomaten, roten Zwiebeln, Chili, zartem Babyspinat und Mozzarella. Verfeinert mit Kräuteröl und garniert mit Kürbiskernen",
-      "price": "10,90"
+      "name": "Cremige Kürbissuppe mit Kokosmilch",
+      "description": "fein-cremige Kürbissuppe mit Kokosmilch und ausgewählten Gewürzen, dazu\nknuspriges Ciabatta",
+      "price": "6,90"
     },
     {
-      "name": "Hähnchenkeule mit Pommes frites und Salat",
-      "description": "knusprig gebratene Hähnchenkeule, serviert mit Pommes frites und einem frischen Beilagensalat",
+      "name": "Gemüsepfanne mit Hähnchenstreifen und Basmatireis",
+      "description": "knackige Gemüsepfanne mit zarten Hähnchenstreifen, dazu locker-leichter Basmatireis",
       "price": "11,90"
     },
     {
-      "name": "Ciabatta-Sandwich mit Hähnchenstreifen und Pommes frites",
-      "description": "knuspriges Ciabatta mit saftigen Hähnchenstreifen, frischem Salat, Tomaten und Gurken. Dazu goldbraune Pommes frites und ein Dip nach Wahl",
+      "name": "Penne al Funghi",
+      "description": "Penne mit aromatischer Pilz-Mischung in einer cremigen Soße, verfeinert mit frischen Kräutern",
       "price": "10,90"
     }
   ]
