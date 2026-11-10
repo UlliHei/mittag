@@ -2,58 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "09.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Pürierte grüne Erbsensuppe / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Pasta Brokkoli mit Frischkäsesauce und Mandeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Rosenkohlcurry mit Zwiebeln, Steckrübe, Knoblauch und Möhren in Apfel-Currysauce, dazu Reis",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 2 PLUS \"glutenfrei\"",
-          "info": "",
-          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Kirsch-Zimtsauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillepudding mit Schokosauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "10.11.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Kartoffelsuppe mit Schnippelwurst / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegan",
           "name": "Kleine Backkartoffeln \"Toscana\" mit frischen Kräutern und Knoblauch gebacken, buntem Salat und Tomatensalsa",
           "price_ndr": "3,65",
@@ -62,23 +22,30 @@
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Gemüse-Pilzlasagne mit Austernpilze, Champignons und Lauch in Rahmsauce mit Gouda überbacken",
+          "name": "Gemüse-Pilzlasagne mit Austernpilze, Champignons, Lauch und Gouda",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Kibbelinge vom Seelachs im Backteig mit Mayonnaisen-Kartoffelsalat",
+          "name": "Kibbelinge vom Seelachs mit Mayonnaisen-Kartoffelsalat",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Live Sendung",
           "info": "",
-          "name": "Hühnerfrikassee om Fair Mast Huhn mit Spargel, Erbsen und Langkornreis",
+          "name": "Hühnerfrikassee vom \"Fair Mast\" Huhn mit Spargel, feinen Erbsen und Langkornreis",
           "price_ndr": "9,50",
           "price_external": "12,40"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Milchreis mit Kirschsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
