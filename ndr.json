@@ -20,16 +20,9 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Griechische Bauernpfanne mit Zucchini, Paprika, Lauchzwiebeln, Hirtenkäse und Reisnudeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
           "category": "Studio 3",
           "info": "",
-          "name": "''Cevapcici'' (180g) Fünf Rindfleischröllchen mit Zaziki, (Knobi) Krautsalat und Tomatenreis",
+          "name": "Hühnerfrikassee vom \"Fair Mast\" Huhn mit Spargel, feinen Erbsen und Langkornreis",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
@@ -39,13 +32,6 @@
           "name": "Hausgemachter Käsekuchen",
           "price_ndr": "3,50",
           "price_external": "3,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hühnerfrikassee vom \"Fair Mast\" Huhn mit Spargel, feinen Erbsen und Langkornreis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
         },
         {
           "category": "Abspann \"gluten\"",
@@ -86,13 +72,6 @@
           "name": "Gebackener Leberkäse (150g) mit Bayrisch Kraut und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "vegan",
-          "name": "Aus dem Wok: gebratenes Gemüse von Chinakohl, Karotten, Champignons und Weißkohl mit Basmatireis und Sojasauce",
-          "price_ndr": "6,90",
-          "price_external": "8,90"
         }
       ]
     },
