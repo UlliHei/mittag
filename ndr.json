@@ -2,76 +2,64 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "10.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Kartoffelsuppe mit Schnippelwurst / Teller NDR 3,25€ / Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Kleine Backkartoffeln \"Toscana\" mit frischen Kräutern und Knoblauch gebacken, buntem Salat und Tomatensalsa",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Gemüse-Pilzlasagne mit Austernpilze, Champignons, Lauch und Gouda",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Kibbelinge vom Seelachs mit Mayonnaisen-Kartoffelsalat",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Hühnerfrikassee vom \"Fair Mast\" Huhn mit Spargel, feinen Erbsen und Langkornreis",
-          "price_ndr": "9,50",
-          "price_external": "12,40"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Milchreis mit Kirschsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "11.11.2026",
       "items": [
         {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Fruchtige Curry-Mangosuppe mit feinen Erbsen | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
           "info": "vegan",
-          "name": "\"Pasta Spinaci\" mit veganer Bechamelsauce",
+          "name": "\"Pasta Spinaci\" mit veganer Béchamelsauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Tomatisierte griechische Bauernpfanne von Zucchini, Paprika, Lauchzwiebeln, Hirtenkäse und Reisnudeln",
+          "name": "Griechische Bauernpfanne mit Zucchini, Paprika, Lauchzwiebeln, Hirtenkäse und Reisnudeln",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "''Cevapcici'' (180g) - fünf Rindfleischröllchen mit Tzatziki, Krautsalat und Tomatenreis",
+          "name": "''Cevapcici'' (180g) Fünf Rindfleischröllchen mit Zaziki, (Knobi) Krautsalat und Tomatenreis",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "Hausgemachter Käsekuchen",
+          "price_ndr": "3,50",
+          "price_external": "3,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hühnerfrikassee vom \"Fair Mast\" Huhn mit Spargel, feinen Erbsen und Langkornreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"gluten\"",
+          "info": "vegetarisch",
+          "name": "Kirschquark",
+          "price_ndr": "1,26",
+          "price_external": "1,35"
+        },
+        {
+          "category": "1,50",
+          "info": "",
+          "name": "Abspann Cheesecake-Dessert (mit Gelatine)",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
