@@ -2,76 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "11.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Fruchtige Curry-Mangosuppe mit feinen Erbsen | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "\"Pasta Spinaci\" mit veganer Béchamelsauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hühnerfrikassee vom \"Fair Mast\" Huhn mit Spargel, feinen Erbsen und Langkornreis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Käsekuchen",
-          "price_ndr": "3,50",
-          "price_external": "3,50"
-        },
-        {
-          "category": "Abspann \"gluten\"",
-          "info": "vegetarisch",
-          "name": "Kirschquark",
-          "price_ndr": "1,26",
-          "price_external": "1,35"
-        },
-        {
-          "category": "1,50",
-          "info": "",
-          "name": "Abspann Cheesecake-Dessert (mit Gelatine)",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "12.11.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Spinatcremesuppe (Knobi) | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegan",
-          "name": "Hausgemachter Erbseneintopf mit Wurzelgemüse und Kartoffeln",
+          "name": "Hausgemachter Linseneintopf mit viel Gemüse",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Frisches Kohlrabi-Karottengemüse mit einem Grünkernbratling und veganer Kressesauce",
+          "name": "Grünkernbratling mit Schnittlauchsauce und frischem Kohlrabi-Karottengemüse",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
           "name": "Gebackener Leberkäse (150g) mit Bayrisch Kraut und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "vegetarisch",
+          "name": "\"Pasta Crema di zucca\" mit Kürbis, Babyspinat und Kürbiskernöl, dazu geriebener Hartkäse",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hausgemachte Frikadelle(160g) aus gemischtem Hackfleisch (Rind & Schwein) mit Sauce, Rotkohl und Kartoffelpüree",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Panna Cotta mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
