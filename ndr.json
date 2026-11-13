@@ -2,67 +2,20 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "12.11.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Spinatcremesuppe (Knobi) | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Hausgemachter Linseneintopf mit viel Gemüse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Grünkernbratling mit Schnittlauchsauce und frischem Kohlrabi-Karottengemüse",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"glutenfrei\"",
-          "info": "",
-          "name": "Gebackener Leberkäse (150g) mit Bayrisch Kraut und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "vegetarisch",
-          "name": "\"Pasta Crema di zucca\" mit Kürbis, Babyspinat und Kürbiskernöl, dazu geriebener Hartkäse",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hausgemachte Frikadelle(160g) aus gemischtem Hackfleisch (Rind & Schwein) mit Sauce, Rotkohl und Kartoffelpüree",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Panna Cotta mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "13.11.2026",
       "items": [
         {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Kartoffelsuppe / Teller NDR 3,25€ / Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
           "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Chilli-Pasta mit Tomaten, Knoblauch, frischer Petersilie",
+          "info": "vegan",
+          "name": "Chilli-Pasta mit Tomaten, Knoblauch und Petersilie",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -76,9 +29,23 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "\"Seelachsfilet Strindberg\" mit Zwiebel-Senfkruste, Ofengemüse von Karotte, Paprika, Porree und Röstkartoffeln",
+          "name": "\"Seelachsfilet Strindberg\" mit Zwiebel-Senfkruste, Senfsauce Ofengemüse und Röstkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "\"Königsberger Klopse\" Zwei Stück, aus gemischtem Hackfleisch (Rind & Schwein) mit Kapernsauce, Reis und Roter Bete",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Milchreis mit Kirschsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
