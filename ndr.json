@@ -15,28 +15,28 @@
         {
           "category": "Studio 1",
           "info": "vegetarisch",
-          "name": "Rahmgemüse von Rosen- und Spitzkohl mit hausgemachtem Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "3,65"
+          "name": "Rahmgemüse von Rosen- und Spitzkohl mit Salzkartoffeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
         },
         {
-          "category": "5,90",
-          "info": "Studio 2 \"glutenfrei\"",
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
           "name": "Gnocchipfanne mit Knoblauch, Spinat, Karotten, Pilzen und Basilikumsauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Hähnchenbrust im Knuspermantel (160g) mit Currysauce, Erbsen-Maisgemüse und Reis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
           "category": "Live Sendung \"Tolle Knolle\"",
           "info": "vegetarisch",
           "name": "Kartoffelpizza „glutenfrei“ Gebackene Pizza aus Kartoffeln mit Tomatensauce, feinen Pilzen und Kürbis mit Mozzarella überbacken, dazu Salatbeilage",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Gebackener Leberkäse mit Kartoffelsalat,",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
