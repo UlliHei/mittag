@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 09. — 13. November 2026",
+  "week": "KARTE VOM 16. — 20. November 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Lübecker National“ – Steckrübengemüse, Kochwurst, Kartoffeln",
-      "description": "„Lübecker National“ – Steckrübengemüse, Kochwurst, Kartoffeln",
-      "price": "14,90"
+      "name": "„Bobotie“ – südafrikanischer Rinderhackauflauf, gelber Reis, Kürbis, grüne Bohnen",
+      "description": "„Bobotie“ – südafrikanischer Rinderhackauflauf, gelber Reis, Kürbis, grüne Bohnen",
+      "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "Marokkanische Lammtajine mit Kichererbsen, Aprikosen, Möhren, Oliven, Couscous",
-      "description": "Marokkanische Lammtajine mit Kichererbsen, Aprikosen, Möhren, Oliven, Couscous",
+      "name": "Buttermilchhuhn, Röstgemüse mit Kartoffeln, weiße Bohnen",
+      "description": "Buttermilchhuhn, Röstgemüse mit Kartoffeln, weiße Bohnen",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Königsberger Klopse vom Kalb mit Butterreis & Rote Bete",
-      "description": "Königsberger Klopse vom Kalb mit Butterreis & Rote Bete",
+      "name": "Grünkohl klassisch, Kasseler, Kochwurst, glasierte Kartöffelchen",
+      "description": "Grünkohl klassisch, Kasseler, Kochwurst, glasierte Kartöffelchen",
       "price": "16,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Gebackener Kürbis mit Dinkel-Käsefüllung, Kartoffelpüree, Feldsalat, Preiselbeerdressing",
-      "description": "Gebackener Kürbis mit Dinkel-Käsefüllung, Kartoffelpüree, Feldsalat, Preiselbeerdressing",
+      "name": "Rote Bete-Semmelknödel mit Ziegenkäsefüllung, Buttersauce, Salat mit Kernen",
+      "description": "Rote Bete-Semmelknödel mit Ziegenkäsefüllung, Buttersauce, Salat mit Kernen",
       "price": "14,90"
     },
     {
       "category": "Freitag",
-      "name": "Hausgemachte Fischstäbchen, Remoulade, Buttergemüse, Salzkartoffeln",
-      "description": "Hausgemachte Fischstäbchen, Remoulade, Buttergemüse, Salzkartoffeln",
+      "name": "„Okonomiyaki“ – japanische Kohlpuffer, Räucherlachs, Wasabimayo, Sesam",
+      "description": "„Okonomiyaki“ – japanische Kohlpuffer, Räucherlachs, Wasabimayo, Sesam",
       "price": "15,90"
     }
   ],
