@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "name": "Cremige Kürbissuppe mit Kokosmilch",
-      "description": "fein-cremige Kürbissuppe mit Kokosmilch und ausgewählten Gewürzen, dazu\nknuspriges Ciabatta",
-      "price": "6,90"
+      "name": "Flammkuchen Caprese",
+      "description": "Flammkuchen mit saftigen Tomaten, frischem Mozzarella und aromatischen Basilikum, verfeinert mit Pesto und einem Hauch Olivenöl",
+      "price": "8,90"
     },
     {
-      "name": "Gemüsepfanne mit Hähnchenstreifen und Basmatireis",
-      "description": "knackige Gemüsepfanne mit zarten Hähnchenstreifen, dazu locker-leichter Basmatireis",
+      "name": "Gebratenes Lachsfilet",
+      "description": "Gebratenes Lachsfilet auf einer feinen Zitronen-Dill-Soße, dazu frische Petersilie und aromatische Thymian- Kartoffeln",
       "price": "11,90"
     },
     {
-      "name": "Penne al Funghi",
-      "description": "Penne mit aromatischer Pilz-Mischung in einer cremigen Soße, verfeinert mit frischen Kräutern",
+      "name": "Spaghetti Bolognese",
+      "description": "Klassische Spaghetti mit einer herzhaften, hausgemachten Bolognese aus saftigem Rinderhackfleisch, aromatischen Tomaten und italienischen Kräutern",
       "price": "10,90"
     }
   ]
