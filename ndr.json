@@ -1,5 +1,171 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "16.11.2026",
+      "items": [
+        {
+          "category": "Vorspann",
+          "info": "vegetarisch",
+          "name": "Lauchcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Rahmgemüse von Rosen- und Spitzkohl mit hausgemachtem Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "3,65"
+        },
+        {
+          "category": "5,90",
+          "info": "Studio 2 \"glutenfrei\"",
+          "name": "Gnocchipfanne mit Knoblauch, Spinat, Karotten, Pilzen und Basilikumsauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"laktosefrei\"",
+          "info": "",
+          "name": "Hähnchenbrust im Knuspermantel (160g) mit Currysauce, Erbsen-Maisgemüse und Reis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung \"Tolle Knolle\"",
+          "info": "vegetarisch",
+          "name": "Kartoffelpizza „glutenfrei“ Gebackene Pizza aus Kartoffeln mit Tomatensauce, feinen Pilzen und Kürbis mit Mozzarella überbacken, dazu Salatbeilage",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Vanillepudding mit Schokosauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "17.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Pasta Napoli mit fruchtiger Tomaten- Basilikumsauce (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegan",
+          "name": "Bunte Kohlpfanne mit Spitz-, Grün- und Weißkohl, gebackenen Kartoffeln und roter Paprikasauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Rinderhacksteak von der deutschen Färse mit Pfeffersauce, Blumenkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung \"Tolle Knolle\"",
+          "info": "",
+          "name": "\"Lachsfilet unter der Kartoffelkruste\" gebackener Lachs mit einer Kräuter-Kartoffelkruste, geschmortem Fenchelgemüse und Rote Bete-Risotto",
+          "price_ndr": "9,50",
+          "price_external": "11,50"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "18.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegan",
+          "name": "Linsenchili mit weißen und schwarzen Bohnen auf buntem Gemüsereis",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Acht Ofen-Falafel auf Taboulé von Bulgur mit frischer Petersilie, Minze, Tomaten und Joghurt-Auberginendip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Grünkohl nach Art des Hauses mit einer Kohlwurst, Kassler und Röstkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung \"Tolle Knolle\"",
+          "info": "vegetarisch",
+          "name": "Gefüllte Süßkartoffel \"vegetarisch\" - gefüllt mit Spinat, Avocado und Tomaten, mit Hirtenkäse überbacken, dazu Sauerrahmdip",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "19.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Allgäuer Käsespätzle mit Schnittlauchsauce und Röstzwiebeln",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Paniertes Schnitzel \"Wiener Art\" mit Champignonsauce und Pommes frites",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "20.11.2026",
+      "items": [
+        {
+          "category": "Studio 1 \"laktose- und glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Gemüse Pytti Panna mit einem Spiegelei und Gewürzgurke",
+          "price_ndr": "9,29",
+          "price_external": "3,65"
+        },
+        {
+          "category": "5,90",
+          "info": "",
+          "name": "Studio 2 vegan \"Aloo Gobi\" (scharf) Blumenkohl-Kartoffelcurry mit Zwiebeln, Knoblauch und Ingwer",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Seelachsfilet in Käse-Eihülle gebraten (160g) mit mit Tomatensauce und Pasta",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung \"Tolle Knolle\"",
+          "info": "",
+          "name": "Cottage Pie - herzhafter Kartoffel-Rinderhackfleisch-Auflauf mit Gemüse, mit Kartoffelpüree und Cheddar überbacken",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
