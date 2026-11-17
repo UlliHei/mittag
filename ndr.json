@@ -2,56 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "16.11.2026",
-      "items": [
-        {
-          "category": "Vorspann",
-          "info": "vegetarisch",
-          "name": "Lauchcremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Rahmgemüse von Rosen- und Spitzkohl mit Salzkartoffeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Gnocchipfanne mit Knoblauch, Spinat, Karotten, Pilzen und Basilikumsauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Live Sendung \"Tolle Knolle\"",
-          "info": "vegetarisch",
-          "name": "Kartoffelpizza „glutenfrei“ Gebackene Pizza aus Kartoffeln mit Tomatensauce, feinen Pilzen und Kürbis mit Mozzarella überbacken, dazu Salatbeilage",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Gebackener Leberkäse mit Kartoffelsalat,",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Vanillepudding mit Schokosauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "17.11.2026",
       "items": [
+        {
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Linseneintopf | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
         {
           "category": "Studio 1",
           "info": "vegan",
@@ -60,25 +20,46 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"glutenfrei\"",
           "info": "vegan",
-          "name": "Bunte Kohlpfanne mit Spitz-, Grün- und Weißkohl, gebackenen Kartoffeln und roter Paprikasauce",
+          "name": "Bunte Kohlpfanne mit Spitz-, Grün- und Weißkohl, gebackenen Kartoffeln und Gemüsesauce",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Rinderhacksteak von der deutschen Färse mit Pfeffersauce, Blumenkohl und Salzkartoffeln",
+          "name": "Hausgemachtes Rinderhacksteak (160g) mit Pfeffersauce, Blumenkohl und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
           "category": "Live Sendung \"Tolle Knolle\"",
           "info": "",
-          "name": "\"Lachsfilet unter der Kartoffelkruste\" gebackener Lachs mit einer Kräuter-Kartoffelkruste, geschmortem Fenchelgemüse und Rote Bete-Risotto",
-          "price_ndr": "9,50",
-          "price_external": "11,50"
+          "name": "\"Lachsfilet unter der Kartoffelkruste\" mit geschmortem Fenchelgemüse und Rote Bete-Risotto",
+          "price_ndr": "9,23",
+          "price_external": "9,50"
+        },
+        {
+          "category": "11,50",
+          "info": "Sondersendung \"glutenfrei\"",
+          "name": "vegan Hausgemachter Linseneintopf mit viel Gemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Leichte Unterhaltung",
+          "info": "",
+          "name": "Bunter Salatteller mit zwei gebratenen Maultaschen (gefüllt mit Rind & Schwein) und Dressing nach Wahl",
+          "price_ndr": "7,35",
+          "price_external": "9,70"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Milchgrieß mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
