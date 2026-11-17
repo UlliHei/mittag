@@ -42,15 +42,8 @@
         },
         {
           "category": "11,50",
-          "info": "Sondersendung \"glutenfrei\"",
-          "name": "vegan Hausgemachter Linseneintopf mit viel Gemüse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Leichte Unterhaltung",
           "info": "",
-          "name": "Bunter Salatteller mit zwei gebratenen Maultaschen (gefüllt mit Rind & Schwein) und Dressing nach Wahl",
+          "name": "Leichte Unterhaltung Bunter Salatteller mit zwei gebratenen Maultaschen (gefüllt mit Rind & Schwein) und Dressing nach Wahl",
           "price_ndr": "7,35",
           "price_external": "9,70"
         },
