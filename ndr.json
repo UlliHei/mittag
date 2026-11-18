@@ -2,90 +2,57 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "17.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Linseneintopf | Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegan",
-          "name": "Pasta Napoli mit fruchtiger Tomaten- Basilikumsauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Bunte Kohlpfanne mit Spitz-, Grün- und Weißkohl, gebackenen Kartoffeln und Gemüsesauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hausgemachtes Rinderhacksteak (160g) mit Pfeffersauce, Blumenkohl und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"Tolle Knolle\"",
-          "info": "",
-          "name": "\"Lachsfilet unter der Kartoffelkruste\" mit geschmortem Fenchelgemüse und Rote Bete-Risotto",
-          "price_ndr": "9,23",
-          "price_external": "9,50"
-        },
-        {
-          "category": "11,50",
-          "info": "",
-          "name": "Leichte Unterhaltung Bunter Salatteller mit zwei gebratenen Maultaschen (gefüllt mit Rind & Schwein) und Dressing nach Wahl",
-          "price_ndr": "7,35",
-          "price_external": "9,70"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Milchgrieß mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "18.11.2026",
       "items": [
         {
-          "category": "Studio 1",
+          "category": "Vorspann \"glutenfrei\"",
           "info": "vegan",
-          "name": "Linsenchili mit weißen und schwarzen Bohnen auf buntem Gemüsereis",
+          "name": "Kürbis-Kokossuppe Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Linsenchili mit weißen und schwarzen Bohnen auf buntem Gemüsereis (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
         {
           "category": "Studio 2",
           "info": "",
-          "name": "Acht Ofen-Falafel auf Taboulé von Bulgur mit frischer Petersilie, Minze, Tomaten und Joghurt-Auberginendip",
+          "name": "Acht Ofen-Falafel auf Taboulé von Bulgur (Knobi) mit frischer Petersilie, Minze, Tomaten und Joghurt-Auberginendip",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"glutenfrei\"",
           "info": "",
-          "name": "Grünkohl nach Art des Hauses mit einer Kohlwurst, Kassler und Röstkartoffeln",
+          "name": "Holsteiner Grünkohl mit einer Kohlwurst (50g), Kassler und Röstkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung \"Tolle Knolle\"",
+          "category": "Live Sendung \"Tolle Knolle\" glutenfrei",
           "info": "vegetarisch",
-          "name": "Gefüllte Süßkartoffel \"vegetarisch\" - gefüllt mit Spinat, Avocado und Tomaten, mit Hirtenkäse überbacken, dazu Sauerrahmdip",
+          "name": "Gefüllte Süßkartoffel mit Spinat, Avocado und Tomaten, Hirtenkäse überbacken, dazu Sauerrahmdip",
           "price_ndr": "5,40",
           "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "",
+          "name": "Holsteiner Grünkohl mit Röstkartoffeln",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Schokopudding mit Vanillesauce",
+          "price_ndr": "1,26",
+          "price_external": "1,45"
         }
       ]
     },
