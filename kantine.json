@@ -122,7 +122,7 @@
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Herzhafte Käsespätzle mit Schmorzwiebeln und Gurkensalat",
+        "name": "Herzhafte Käse-spätzle mit Schmorzwiebeln und Gurkensalat",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -148,7 +148,7 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Spaghetti 'Salmone' mit Spinat, Tomaten und Pinienkernen",
+        "name": "Spaghetti \"Salmone\" mit Spinat, Tomaten und Pinienkernen",
         "price": "8,50 €"
       },
       "2. Hauptgericht": {
