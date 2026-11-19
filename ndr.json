@@ -2,70 +2,16 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "18.11.2026",
+    "Donnerstag": {
+      "date": "19.11.2026",
       "items": [
         {
           "category": "Vorspann \"glutenfrei\"",
           "info": "vegan",
-          "name": "Kürbis-Kokossuppe Teller NDR 3,25€ | Gäste 3,80€",
+          "name": "Mexikanische Bohnensuppe mit Knoblauch | Teller NDR 3,25 € | Gäste 3,80 €",
           "price_ndr": "1,60",
           "price_external": "2,22"
         },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Linsenchili mit weißen und schwarzen Bohnen auf buntem Gemüsereis (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Acht Ofen-Falafel auf Taboulé von Bulgur (Knobi) mit frischer Petersilie, Minze, Tomaten und Joghurt-Auberginendip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hausgemachtes Rinderhacksteak (160g) mit Pfeffersauce, Blumenkohl und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"Tolle Knolle\" glutenfrei",
-          "info": "vegetarisch",
-          "name": "Gefüllte Süßkartoffel mit Spinat, Avocado und Tomaten, Hirtenkäse überbacken, dazu Sauerrahmdip",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "",
-          "name": "Holsteiner Grünkohl mit Röstkartoffeln",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Cappuccino Pudding",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        },
-        {
-          "category": "1,65",
-          "info": "Abspann \"glutenfrei\"",
-          "name": "vegetarisch Schokopudding mit Vanillesauce",
-          "price_ndr": "1,26",
-          "price_external": "1,45"
-        }
-      ]
-    },
-    "Donnerstag": {
-      "date": "19.11.2026",
-      "items": [
         {
           "category": "Studio 1",
           "info": "vegetarisch",
@@ -76,9 +22,30 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Paniertes Schnitzel \"Wiener Art\" mit Champignonsauce und Pommes frites",
+          "name": "Schweineschnitzel \"Wiener Art\" mit Champignonsauce und Pommes frites",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung \"Tolle Knolle\" glutenfrei",
+          "info": "",
+          "name": "Knollen-Rösti von Sellerie, Karotten, gelben Rüben und Kartoffeln, dazu Kräuter-Dip und Salat von bunter Bete mit Kartoffeldressing",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Gebratene Hähnchenbrust(160g) mit Sauce Spitzkohlgemüse und Ofenkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Birne Helene mit Schokoladensauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
