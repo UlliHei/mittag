@@ -2,58 +2,18 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "19.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Mexikanische Bohnensuppe mit Knoblauch | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Allgäuer Käsespätzle mit Schnittlauchsauce und Röstzwiebeln",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Schweineschnitzel \"Wiener Art\" mit Champignonsauce und Pommes frites",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"Tolle Knolle\" glutenfrei",
-          "info": "",
-          "name": "Knollen-Rösti von Sellerie, Karotten, gelben Rüben und Kartoffeln, dazu Kräuter-Dip und Salat von bunter Bete mit Kartoffeldressing",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Gebratene Hähnchenbrust(160g) mit Sauce Spitzkohlgemüse und Ofenkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Birne Helene mit Schokoladensauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Freitag": {
       "date": "20.11.2026",
       "items": [
         {
-          "category": "Studio 1 \"laktose- und glutenfrei\"",
+          "category": "Vorspann \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Tomatencremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"glutenfrei\"",
           "info": "vegetarisch",
           "name": "Gemüse Pytti Panna mit einem Spiegelei und Gewürzgurke",
           "price_ndr": "9,29",
@@ -69,16 +29,23 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Seelachsfilet in Käse-Eihülle gebraten (160g) mit mit Tomatensauce und Pasta",
+          "name": "Seelachsfilet in Käse-Eihülle gebraten (160g) mit fruchtiger Tomatensauce und Pasta",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung \"Tolle Knolle\"",
+          "category": "Live Sendung \"Tolle Knolle\" glutenfrei",
           "info": "",
-          "name": "Cottage Pie - herzhafter Kartoffel-Rinderhackfleisch-Auflauf mit Gemüse, mit Kartoffelpüree und Cheddar überbacken",
+          "name": "Cottage Pie Herzhafter Kartoffel-Rinderhackfleisch-Auflauf mit Gemüse, mit Kartoffelpüree und Cheddar überbacken",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Stracciatellacreme .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
