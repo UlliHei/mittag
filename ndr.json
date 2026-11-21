@@ -1,53 +1,5 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {
-    "Freitag": {
-      "date": "20.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"glutenfrei\"",
-          "info": "vegan",
-          "name": "Tomatencremesuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Gemüse Pytti Panna mit einem Spiegelei und Gewürzgurke",
-          "price_ndr": "9,29",
-          "price_external": "3,65"
-        },
-        {
-          "category": "5,90",
-          "info": "",
-          "name": "Studio 2 vegan \"Aloo Gobi\" (scharf) Blumenkohl-Kartoffelcurry mit Zwiebeln, Knoblauch und Ingwer",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Seelachsfilet in Käse-Eihülle gebraten (160g) mit fruchtiger Tomatensauce und Pasta",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"Tolle Knolle\" glutenfrei",
-          "info": "",
-          "name": "Cottage Pie Herzhafter Kartoffel-Rinderhackfleisch-Auflauf mit Gemüse, mit Kartoffelpüree und Cheddar überbacken",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Stracciatellacreme .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    }
-  }
+  "days": {}
 }
