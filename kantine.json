@@ -106,7 +106,7 @@
     },
     "Donnerstag": {
       "Tagessuppe": {
-        "name": "Weihnachts-Menü: Halbe Ofenente mit Granatapfel und Balsamico-Jus oder Schnitte vom Lachsfilet auf Orangen-Zimt-Sauce mit Gemüsestroh oder Filet vom Susslandschwein im Speckmantel mit Walnüssen auf Pommery-Senfsauce dazu: Mandel Brokkoli - Gewürzrotkohl mit Pflaume - Kartoffelgratin - Gebackener Kartoffelzapfen Dessert: Vanille-Lebkuchen-Flan mit Sauerkirschen",
+        "name": "**Weihnachts-Menü:** Halbe Ofenente mit Granatapfel und Balsamico-Jus oder Schnitte vom Lachsfilet auf Orangen-Zimt-Sauce mit Gemüsestroh oder Filet vom Susslandschwein im Speckmantel mit Walnüssen auf Pommery-Senfsauce dazu: Mandel Brokkoli - Gewürzrotkohl mit Pflaume - Kartoffelgratin - Gebackener Kartoffelzapfen Dessert: Vanille-Lebkuchen-Flan mit Sauerkirschen",
         "price": "12,50 €"
       },
       "Salate": {
@@ -140,16 +140,16 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Lauch-Hackfleisch-Cremesuppe mit Kartoffeln in Käsecreme dazu Baguette Brot",
+        "price": "7,50 €"
       },
       "Salate": {
         "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Lauch-Hackfleisch-Cremesuppe mit Kartoffeln in Käsecreme dazu Baguette Brot",
-        "price": "7,50 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
