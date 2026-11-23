@@ -1,5 +1,185 @@
 {
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
-  "days": {}
+  "days": {
+    "Montag": {
+      "date": "23.11.2026",
+      "items": [
+        {
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Bohnensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "Pasta mit roten Linsen, Tomaten und Chilisauce (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
+          "name": "Knackiges Saisongemüse von Blumenkohl, Brokkoli und Kohlrabi mit hausgemachtem Kartoffelpüree",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3 \"glutenrei\"",
+          "info": "",
+          "name": "Putenschnitzel \"Griechische Art\" mit Tzatziki (Knobi), Krautsalat und Tomatenreis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung",
+          "info": "",
+          "name": "Hähnchengeschnetzeltes mit Pilzen in Rahmsauce (Knobi) und einem Tellerrösti",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "vegan",
+          "name": "\"Aloo Gobi\" (scharf) Blumenkohl-Kartoffelcurry mit Zwiebeln, Knoblauch und Ingwer",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Panna Cotta mit Fruchtsauce",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
+        }
+      ]
+    },
+    "Dienstag": {
+      "date": "24.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Blattspinat in Rahm mit zwei Spiegeleiern und Kartoffelpüree",
+          "price_ndr": "1,26",
+          "price_external": "3,65"
+        },
+        {
+          "category": "5,90",
+          "info": "",
+          "name": "Studio 2 Kürbis-Bowl mit gelben Rüben, Feldsalat, Erbsen, Hirtenkäse und Zartweizen",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Schichtkohl mit gemischtem Hackfleisch, Weißkohl und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Cheeseburger Rindfleisch-Patty (125g), Gewürzgurke, Tomate, Zwiebel, Cheddar und Burgersauce, dazu Fritten",
+          "price_ndr": "9,65",
+          "price_external": "12,10"
+        }
+      ]
+    },
+    "Mittwoch": {
+      "date": "25.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Pasta al Pesto mit Knoblauch und geriebenem Hartkäse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "",
+          "name": "Hausgemachter Kartoffel-Grünkohlbratling mit körniger Senfsauce und Karottengemüse",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Thüringer Bratwurst mit Thymiansauce, grünen Bohnen und Salzkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Live Sendung",
+          "info": "",
+          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln, dazu Spätzle",
+          "price_ndr": "8,90",
+          "price_external": "10,90"
+        }
+      ]
+    },
+    "Donnerstag": {
+      "date": "26.11.2026",
+      "items": [
+        {
+          "category": "Studio 1 \"glutenfrei\"",
+          "info": "vegan",
+          "name": "Holsteiner Kartoffelsuppe mit Wurzelgemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
+          "info": "vegetarisch",
+          "name": "\"Mac and Cheese\" Pasta in cremiger Käsesauce",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Hähnchenkeule \"Western Style\"(250g) mit BBQ-Sauce Erbsen-Mais-Bohnengemüse und Wedges",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Zum Eintopf: \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Wiener Wurst (50g)",
+          "price_ndr": "1,25",
+          "price_external": "1,60"
+        }
+      ]
+    },
+    "Freitag": {
+      "date": "27.11.2026",
+      "items": [
+        {
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "\"Pasta al Funghi'' mit frischen Pilzen in Rahmsauce",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2 \"glutenfrei\"",
+          "info": "",
+          "name": "Currywurst (120g) / Vegane Currywurst (80g) mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "5,40",
+          "price_external": "7,50"
+        },
+        {
+          "category": "Studio 3",
+          "info": "",
+          "name": "Im Ofen gebackenes Seelachsfilet (160g) mit Kressesauce, Wurzelgemüse und Petersilienkartoffeln",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        }
+      ]
+    }
+  }
 }
