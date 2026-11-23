@@ -1,35 +1,35 @@
 {
-  "week": "KARTE VOM 16. — 20. November 2026",
+  "week": "KARTE VOM 23. — 27. November 2026",
   "specials": "Täglich wechselnd: Suppe…10,90 Euro / Salat…10,90 Euro / Aufläufe...ab 10,90 Euro",
   "items": [
     {
       "category": "Montag",
-      "name": "„Bobotie“ – südafrikanischer Rinderhackauflauf, gelber Reis, Kürbis, grüne Bohnen",
-      "description": "„Bobotie“ – südafrikanischer Rinderhackauflauf, gelber Reis, Kürbis, grüne Bohnen",
+      "name": "„Massamancurry“ - Rindfleisch in Kokosmilch, Erdnuß, Süßkartoffeln, Duftreis",
+      "description": "„Massamancurry“ - Rindfleisch in Kokosmilch, Erdnuß, Süßkartoffeln, Duftreis",
       "price": "15,90"
     },
     {
       "category": "Dienstag",
-      "name": "Buttermilchhuhn, Röstgemüse mit Kartoffeln, weiße Bohnen",
-      "description": "Buttermilchhuhn, Röstgemüse mit Kartoffeln, weiße Bohnen",
+      "name": "„Polpette“ - Ital. Rinderhackbällchen in Tomatensugo, Parmesan, Spaghetti",
+      "description": "„Polpette“ - Ital. Rinderhackbällchen in Tomatensugo, Parmesan, Spaghetti",
       "price": "15,90"
     },
     {
       "category": "Mittwoch",
-      "name": "Grünkohl klassisch, Kasseler, Kochwurst, glasierte Kartöffelchen",
-      "description": "Grünkohl klassisch, Kasseler, Kochwurst, glasierte Kartöffelchen",
-      "price": "16,90"
+      "name": "Gefüllter Putenrollbraten, hausgemachter Rotkohl, feines Sößchen, Salzkartoffeln",
+      "description": "Gefüllter Putenrollbraten, hausgemachter Rotkohl, feines Sößchen, Salzkartoffeln",
+      "price": "15,90"
     },
     {
       "category": "Donnerstag",
-      "name": "Rote Bete-Semmelknödel mit Ziegenkäsefüllung, Buttersauce, Salat mit Kernen",
-      "description": "Rote Bete-Semmelknödel mit Ziegenkäsefüllung, Buttersauce, Salat mit Kernen",
-      "price": "14,90"
+      "name": "Kohlrouladen mit Linsenfüllung, Möhrensauce, Pastinakengratin",
+      "description": "Kohlrouladen mit Linsenfüllung, Möhrensauce, Pastinakengratin",
+      "price": "15,90"
     },
     {
       "category": "Freitag",
-      "name": "„Okonomiyaki“ – japanische Kohlpuffer, Räucherlachs, Wasabimayo, Sesam",
-      "description": "„Okonomiyaki“ – japanische Kohlpuffer, Räucherlachs, Wasabimayo, Sesam",
+      "name": "Trüffelrisotto, Rindersteak, Schmortomate, Salat",
+      "description": "Trüffelrisotto, Rindersteak, Schmortomate, Salat",
       "price": "15,90"
     }
   ],
