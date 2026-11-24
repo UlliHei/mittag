@@ -2,81 +2,34 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Montag": {
-      "date": "23.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Bohnensuppe | Teller NDR 3,25 € | Gäste 3,80 €",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Studio 1 \"laktosefrei\"",
-          "info": "vegan",
-          "name": "Pasta mit roten Linsen, Tomaten und Chilisauce (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"glutenfrei\"",
-          "info": "",
-          "name": "Knackiges Saisongemüse von Blumenkohl, Brokkoli und Kohlrabi mit hausgemachtem Kartoffelpüree",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"glutenrei\"",
-          "info": "",
-          "name": "Putenschnitzel \"Griechische Art\" mit Tzatziki (Knobi), Krautsalat und Tomatenreis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung",
-          "info": "",
-          "name": "Hähnchengeschnetzeltes mit Pilzen in Rahmsauce (Knobi) und einem Tellerrösti",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "vegan",
-          "name": "\"Aloo Gobi\" (scharf) Blumenkohl-Kartoffelcurry mit Zwiebeln, Knoblauch und Ingwer",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Panna Cotta mit Fruchtsauce",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Dienstag": {
       "date": "24.11.2026",
       "items": [
         {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Blattspinat in Rahm mit zwei Spiegeleiern und Kartoffelpüree",
-          "price_ndr": "1,26",
-          "price_external": "3,65"
+          "category": "Lieblingssuppe \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Ungarische Gulaschsuppe mit Rindfleisch(Knobi) / Teller NDR 5,80€ / Gäste 7,25€",
+          "price_ndr": "3,00",
+          "price_external": "3,80"
         },
         {
-          "category": "5,90",
+          "category": "Studio 1",
+          "info": "vegetarisch",
+          "name": "Blattspinat in Rahm mit zwei Spiegeleiern und hausgemachter Kartoffelpüree (Knobi)",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Studio 2",
           "info": "",
-          "name": "Studio 2 Kürbis-Bowl mit gelben Rüben, Feldsalat, Erbsen, Hirtenkäse und Zartweizen",
+          "name": "Kürbis-Bowl mit gelben Rüben, Feldsalat, Erbsen, Hirtenkäse und Zartweizen, dazu Kartoffeldressing",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"laktosefrei\"",
           "info": "",
-          "name": "Schichtkohl mit gemischtem Hackfleisch, Weißkohl und Salzkartoffeln",
+          "name": "Schichtkohl mit gemischtem Hackfleisch (Knobi), Weißkohl und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
@@ -86,6 +39,20 @@
           "name": "Cheeseburger Rindfleisch-Patty (125g), Gewürzgurke, Tomate, Zwiebel, Cheddar und Burgersauce, dazu Fritten",
           "price_ndr": "9,65",
           "price_external": "12,10"
+        },
+        {
+          "category": "Sondersendung \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Hausgemachter Linseneintopf mit viel Gemüse",
+          "price_ndr": "3,65",
+          "price_external": "5,90"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Aprikosen-Mango-Joghurt",
+          "price_ndr": "26,10",
+          "price_external": "1,45"
         }
       ]
     },
