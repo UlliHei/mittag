@@ -2,63 +2,23 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Dienstag": {
-      "date": "24.11.2026",
-      "items": [
-        {
-          "category": "Lieblingssuppe \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Ungarische Gulaschsuppe mit Rindfleisch(Knobi) / Teller NDR 5,80€ / Gäste 7,25€",
-          "price_ndr": "3,00",
-          "price_external": "3,80"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Blattspinat in Rahm mit zwei Spiegeleiern und hausgemachter Kartoffelpüree (Knobi)",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "",
-          "name": "Kürbis-Bowl mit gelben Rüben, Feldsalat, Erbsen, Hirtenkäse und Zartweizen, dazu Kartoffeldressing",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"laktosefrei\"",
-          "info": "",
-          "name": "Schichtkohl mit gemischtem Hackfleisch (Knobi), Weißkohl und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung",
-          "info": "",
-          "name": "Cheeseburger Rindfleisch-Patty (125g), Gewürzgurke, Tomate, Zwiebel, Cheddar und Burgersauce, dazu Fritten",
-          "price_ndr": "9,65",
-          "price_external": "12,10"
-        },
-        {
-          "category": "Sondersendung \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Hausgemachter Linseneintopf mit viel Gemüse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Aprikosen-Mango-Joghurt",
-          "price_ndr": "26,10",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Mittwoch": {
       "date": "25.11.2026",
       "items": [
+        {
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Rote Linsen-Kokossuppe (Knobi)| Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Lieblingssuppe \"gluten- und laktosefrei\"",
+          "info": "",
+          "name": "Frische Hühnersuppe mit Einlage / Teller NDR 5,80€ / Gäste 7,25€",
+          "price_ndr": "3,00",
+          "price_external": "3,80"
+        },
         {
           "category": "Studio 1",
           "info": "vegetarisch",
@@ -67,25 +27,39 @@
           "price_external": "5,90"
         },
         {
-          "category": "Studio 2",
+          "category": "Studio 2 \"gluten- und laktosefrei\"",
           "info": "",
-          "name": "Hausgemachter Kartoffel-Grünkohlbratling mit körniger Senfsauce und Karottengemüse",
+          "name": "Zwei hausgemachte Kartoffel-Grünkohlbratlinge(200g) (Knobi) mit körniger Senfsauce und Karottengemüse",
           "price_ndr": "5,40",
           "price_external": "7,50"
         },
         {
-          "category": "Studio 3",
+          "category": "Studio 3 \"gluten- und laktosefrei\"",
           "info": "",
           "name": "Thüringer Bratwurst mit Thymiansauce, grünen Bohnen und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Live Sendung",
+          "category": "Live Sendung \"laktosefrei\"",
           "info": "",
-          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln, dazu Spätzle",
+          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln (Knobi), dazu Spätzle",
           "price_ndr": "8,90",
           "price_external": "10,90"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
+          "name": "Sojageschnetzeltes mit Asiagemüse von Paprika, Karotte und Porree in Sojasauce (Knobi) auf Sushireis",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "vegetarisch",
+          "name": "Spekulatiuscreme .",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     },
