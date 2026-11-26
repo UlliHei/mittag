@@ -2,74 +2,13 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Mittwoch": {
-      "date": "25.11.2026",
-      "items": [
-        {
-          "category": "Vorspann \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Rote Linsen-Kokossuppe (Knobi)| Teller NDR 3,25€ | Gäste 3,80€",
-          "price_ndr": "1,60",
-          "price_external": "2,22"
-        },
-        {
-          "category": "Lieblingssuppe \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Frische Hühnersuppe mit Einlage / Teller NDR 5,80€ / Gäste 7,25€",
-          "price_ndr": "3,00",
-          "price_external": "3,80"
-        },
-        {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "Pasta al Pesto mit Knoblauch und geriebenem Hartkäse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Zwei hausgemachte Kartoffel-Grünkohlbratlinge(200g) (Knobi) mit körniger Senfsauce und Karottengemüse",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
-        },
-        {
-          "category": "Studio 3 \"gluten- und laktosefrei\"",
-          "info": "",
-          "name": "Thüringer Bratwurst mit Thymiansauce, grünen Bohnen und Salzkartoffeln",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Live Sendung \"laktosefrei\"",
-          "info": "",
-          "name": "Ungarisches Rindergulasch mit Paprika und Zwiebeln (Knobi), dazu Spätzle",
-          "price_ndr": "8,90",
-          "price_external": "10,90"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "",
-          "name": "Sojageschnetzeltes mit Asiagemüse von Paprika, Karotte und Porree in Sojasauce (Knobi) auf Sushireis",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann",
-          "info": "vegetarisch",
-          "name": "Spekulatiuscreme .",
-          "price_ndr": "1,45",
-          "price_external": "1,65"
-        }
-      ]
-    },
     "Donnerstag": {
       "date": "26.11.2026",
       "items": [
         {
-          "category": "Studio 1 \"glutenfrei\"",
+          "category": "Studio 1 \"gluten- und laktosefrei\"",
           "info": "vegan",
-          "name": "Holsteiner Kartoffelsuppe mit Wurzelgemüse",
+          "name": "Linseneintopf mit viel Gemüse",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -77,22 +16,36 @@
           "category": "Studio 2",
           "info": "vegetarisch",
           "name": "\"Mac and Cheese\" Pasta in cremiger Käsesauce",
-          "price_ndr": "5,40",
-          "price_external": "7,50"
+          "price_ndr": "1,26",
+          "price_external": "5,40"
         },
         {
-          "category": "Studio 3",
-          "info": "",
-          "name": "Hähnchenkeule \"Western Style\"(250g) mit BBQ-Sauce Erbsen-Mais-Bohnengemüse und Wedges",
+          "category": "7,50",
+          "info": "Studio 3 \"gluten- und laktosefrei\"",
+          "name": "Hähnchenkeule \"Western Style\"(250g) mit BBQ-Sauce (Knobi), Erbsen-Mais-Bohnengemüse und Wedges",
           "price_ndr": "6,80",
           "price_external": "8,75"
         },
         {
-          "category": "Zum Eintopf: \"gluten- und laktosefrei\"",
+          "category": "Sondersendung \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Hausgemachter Milchreis mit Pflaumensauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
+          "price_ndr": "1,80",
+          "price_external": "2,45"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
           "info": "",
-          "name": "Wiener Wurst (50g)",
-          "price_ndr": "1,25",
-          "price_external": "1,60"
+          "name": "Schichtkohl mit gemischtem Hackfleisch (Knobi), Weißkohl und Salzkartoffeln, dazu Bratensauce",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann \"glutenfrei\"",
+          "info": "vegetarisch",
+          "name": "Aprikosen-Mango-Joghurt",
+          "price_ndr": "26,10",
+          "price_external": "1,45"
         }
       ]
     },
