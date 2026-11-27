@@ -2,60 +2,20 @@
   "source": "NDR Kasino Hamburg-Rothenbaum",
   "url": "https://www.ndr.de/speiseplan",
   "days": {
-    "Donnerstag": {
-      "date": "26.11.2026",
-      "items": [
-        {
-          "category": "Studio 1 \"gluten- und laktosefrei\"",
-          "info": "vegan",
-          "name": "Linseneintopf mit viel Gemüse",
-          "price_ndr": "3,65",
-          "price_external": "5,90"
-        },
-        {
-          "category": "Studio 2",
-          "info": "vegetarisch",
-          "name": "\"Mac and Cheese\" Pasta in cremiger Käsesauce",
-          "price_ndr": "1,26",
-          "price_external": "5,40"
-        },
-        {
-          "category": "7,50",
-          "info": "Studio 3 \"gluten- und laktosefrei\"",
-          "name": "Hähnchenkeule \"Western Style\"(250g) mit BBQ-Sauce (Knobi), Erbsen-Mais-Bohnengemüse und Wedges",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Sondersendung \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Hausgemachter Milchreis mit Pflaumensauce oder Zimt-Zucker | Große Portion NDR 5,40 € | Gäste 7,50 €",
-          "price_ndr": "1,80",
-          "price_external": "2,45"
-        },
-        {
-          "category": "Sondersendung \"laktosefrei\"",
-          "info": "",
-          "name": "Schichtkohl mit gemischtem Hackfleisch (Knobi), Weißkohl und Salzkartoffeln, dazu Bratensauce",
-          "price_ndr": "6,80",
-          "price_external": "8,75"
-        },
-        {
-          "category": "Abspann \"glutenfrei\"",
-          "info": "vegetarisch",
-          "name": "Aprikosen-Mango-Joghurt",
-          "price_ndr": "26,10",
-          "price_external": "1,45"
-        }
-      ]
-    },
     "Freitag": {
       "date": "27.11.2026",
       "items": [
         {
-          "category": "Studio 1",
-          "info": "vegetarisch",
-          "name": "\"Pasta al Funghi'' mit frischen Pilzen in Rahmsauce",
+          "category": "Vorspann \"gluten- und laktosefrei\"",
+          "info": "vegan",
+          "name": "Kürbissuppe | Teller NDR 3,25€ | Gäste 3,80€",
+          "price_ndr": "1,60",
+          "price_external": "2,22"
+        },
+        {
+          "category": "Studio 1 \"laktosefrei\"",
+          "info": "vegan",
+          "name": "\"Pasta al Funghi'' mit frischen Pilzen in Rahmsauce (Knobi)",
           "price_ndr": "3,65",
           "price_external": "5,90"
         },
@@ -69,9 +29,23 @@
         {
           "category": "Studio 3",
           "info": "",
-          "name": "Im Ofen gebackenes Seelachsfilet (160g) mit Kressesauce, Wurzelgemüse und Petersilienkartoffeln",
+          "name": "In Käse-Eihülle gebackenes Seelachsfilet (160g) mit Dillsauce, Wurzelgemüse und Salzkartoffeln",
           "price_ndr": "6,80",
           "price_external": "8,75"
+        },
+        {
+          "category": "Sondersendung \"laktosefrei\"",
+          "info": "",
+          "name": "Schweineschnitzel \"Wiener Art\" mit pikanter Tomaten-Currysauce, Pommes frites und Krautsalat",
+          "price_ndr": "6,80",
+          "price_external": "8,75"
+        },
+        {
+          "category": "Abspann",
+          "info": "",
+          "name": "Tiramisu (Gelatine) (Gelatine)",
+          "price_ndr": "1,45",
+          "price_external": "1,65"
         }
       ]
     }
