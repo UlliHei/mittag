@@ -1,6 +1,6 @@
 {
   "source": "dpa Kantine",
-  "week": "23.11.2026 - 27.11.2026",
+  "week": "30.11.2026 - 04.12.2026",
   "days": {
     "Montag": {
       "Tagessuppe": {
@@ -12,19 +12,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Hausgemachte Kalbsfrikadelle in Zwiebel-Jus mit Cornichons",
+        "name": "Rindfleischwürfel in Teriyaki-Sojasauce mit Bambus und Bohnen",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Pasta-Rosenkohl-Pfanne mit Spinat auf Mascarpone-Tomatensauce",
+        "name": "Reisnudel-Gemüse-Pfanne mit Erdnüssen, Salat und Cesars Dressing",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Winterlicher Kürbis-Spitzkohl-Kuchen mit Guacamole und Salat",
+        "name": "Ragout aus Linsen, Gemüse, Veggie-Hack und Tomate auf Parpadelle-Pasta",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Ofen Brokkoli",
+        "name": "glacierte Karotten mit Zwiebeln",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -46,15 +46,15 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Zartes Hähnchenfilet mit Kräuterseitlingen in Kräuterrahm",
+        "name": "Truthahn-Involtini mit Spinat gefüllt in Ricotta-Tomaten-Sauce",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Maultaschen Pfanne mit viel Gemüse und Kräutern dazu Joghurt Dip",
+        "name": "Stampf aus Kartoffeln und Süßkartoffeln mit Kräuterbutter und Zwiebeln",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Parmigiana di Melanzane Auberginen-Auflauf in Tomate mit Käse",
+        "name": "Zwei Senfeier auf Kartoffelpüree mit roter Bete",
         "price": "5,50 €"
       },
       "Gemüse": {
@@ -80,19 +80,19 @@
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Curry vom Steinbeißerfilet in Kokosmilch mit Paprika",
+        "name": "Holsteiner Grünkohl mit Kasselernacken und Kochwurst",
         "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "Asia Reispfanne mit Champignons, Karotten, Pak Choi und Erdnüssen",
+        "name": "Bratkartoffeln mit Zwiebeln, Sour cream und Salat",
         "price": "4,90 €"
       },
       "Vegetarisches Hauptgericht": {
-        "name": "Tortelloni mit Apfel und Brokkoli in Parmesan Sauce",
+        "name": "Mit Spinat und Fetakäse gefüllter Wrap mit Frühlingsquark",
         "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Buntes Grillgemüse",
+        "name": "Gegrillter Blumenkohl",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -106,27 +106,27 @@
     },
     "Donnerstag": {
       "Tagessuppe": {
-        "name": "Weihnachts-Menü:\nHalbe Ofenente mit Granatapfel und Balsamico-Jus\noder\nSchnitte vom Lachsfilet auf Orangen-Zimt-Sauce mit Gemüsestroh\noder\nFilet vom Susslandschwein im Speckmantel mit Walnüssen auf Pommery-Senfsauce\ndazu:\nMandel Brokkoli - Gewürzrotkohl mit Pflaume - Kartoffelgratin - Gebackener Kartoffelzapfen\nDessert: Vanille-Lebkuchen-Flan mit Sauerkirschen",
-        "price": "12,50 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "dpa-Currywurst mit Alibi-Salat, Röstzwiebeln und Pommes frites",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
-        "name": "",
+        "name": "Tagesangebot",
         "price": ""
       },
       "Vegetarisches Hauptgericht": {
-        "name": "",
-        "price": ""
+        "name": "Rote-Bete-Knödel auf cremigen Waldpilzen mit Kräutern",
+        "price": "5,50 €"
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
@@ -140,16 +140,16 @@
     },
     "Freitag": {
       "Tagessuppe": {
-        "name": "Lauch-Hackfleisch-Cremesuppe mit Kartoffeln in Käsecreme dazu Baguette Brot",
-        "price": "7,50 €"
+        "name": "Tagesangebot",
+        "price": ""
       },
       "Salate": {
         "name": "Tagesangebot",
         "price": ""
       },
       "Hauptgericht": {
-        "name": "Tagesangebot",
-        "price": ""
+        "name": "Lauch-Hackfleisch-Suppe mit Kartoffeln in Käsecreme mit Baguette",
+        "price": "7,50 €"
       },
       "2. Hauptgericht": {
         "name": "Tagesangebot",
@@ -160,7 +160,7 @@
         "price": ""
       },
       "Gemüse": {
-        "name": "Tagesangebot",
+        "name": "Mediterranes Ofengemüse",
         "price": "1,20 €"
       },
       "Beilage": {
